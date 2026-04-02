@@ -21,11 +21,11 @@
 #### Relación de integrantes 
 | Integrante                  | Código         |
 |---------------------------------|----------------|
-| Diego Antonio Ramos Hinostroza          | U202224130     |
-|                                         | U202224130     |
-|                                         | U202224130     |
-|                                         | U202224130     |
-|                                         | U202224130     |
+| Francia Torres Jhony Manuel             | u202417329     |
+| Montoya Nina Paula Fernanda             | u20241d934     |
+| Palacios Tinoco Adrian                  | (codigo)       |
+| Ramos Hinostroza Diego Antonio          | U202224130     |
+| Ramos Mera Neo Daniel                   | u20241e418     |
 
 </div>
 
