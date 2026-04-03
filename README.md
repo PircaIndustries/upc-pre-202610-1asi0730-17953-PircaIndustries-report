@@ -41,7 +41,9 @@
 |**Versión**|**Fecha**|**Autor**|**Descripción de modificación**|
 | - | - | - | - |
 |1\.0|02/04/2026|Diego Antonio Ramos Hinostroza| Se agregó la estructura inicial del proyecto.|
-
+|1\.1|03/04/2026|Neo Daniel Ramos Mera| Se agregó el capítulo 1 con la introducción y el startup profile|
+|1\.1\.1|03/04/2026|Neo Daniel Ramos Mera| Se agregó la descripción de la startup.|
+|1\.1\.2|03/04/2026|Neo Daniel Ramos Mera| Se agregó contenido relacionado a los perfiles de los integrantes del equipo.|
 
 
 </div><br><br>
