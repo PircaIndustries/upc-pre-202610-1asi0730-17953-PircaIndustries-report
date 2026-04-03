@@ -40,7 +40,7 @@
 
 |**Versión**|**Fecha**|**Autor**|**Descripción de modificación**|
 | - | - | - | - |
-|1\.0|02/04/2026|Diego Antonio Ramoss Hinostroza| Se agregó la estructura inicial del proyecto.|
+|1\.0|02/04/2026|Diego Antonio Ramos Hinostroza| Se agregó la estructura inicial del proyecto.|
 
 
 
@@ -51,7 +51,7 @@
 
 # Project Report Collaboration Insights
 
-URL de Organización de GITHUB del equipo TechZo:
+URL de Organización de GITHUB del equipo PircaIndustries:
 https://github.com/PircaIndustries
 
 URL de Repositorio del Project Report:
