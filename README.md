@@ -23,7 +23,7 @@
 |---------------------------------|----------------|
 | Francia Torres Jhony Manuel             | u202417329     |
 | Montoya Nina Paula Fernanda             | u20241d934     |
-| Palacios Tinoco Adrian                  | (codigo)       |
+| Palacios Tinoco Adrian                  | u202410817)    |
 | Ramos Hinostroza Diego Antonio          | U202224130     |
 | Ramos Mera Neo Daniel                   | u20241e418     |
 
