@@ -40,12 +40,9 @@
 
 |**Versión**|**Fecha**|**Autor**|**Descripción de modificación**|
 | - | - | - | - |
-|1\.0|02/04/2026|Diego Antonio Ramos Hinostroza| Se agregó la estructura inicial del proyecto.|
-|1\.1|03/04/2026|Neo Daniel Ramos Mera| Se agregó el capítulo 1 con la introducción y el startup profile|
-|1\.1\.1|03/04/2026|Neo Daniel Ramos Mera| Se agregó la descripción de la startup.|
-|1\.1\.2|03/04/2026|Neo Daniel Ramos Mera| Se agregó contenido relacionado a los perfiles de los integrantes del equipo.|
-|1\.1\.3|03/04/2026|Diego Antonio Ramos Hinostroza| Se reorganiza el orden de las secciones, se agregó el indice contenidos y la tabla de Student Outcome 5.|
-
+|1\.0|02/04/2026|Diego Antonio Ramos Hinostroza y Paula Fernanda Montoya Nina| Se agregó la estructura inicial del proyecto: Índice, Student Outcome, los capitulos I, II, III, IV, y V, Conclusiones, Bibliografía y Anexos.|
+|1\.1|03/04/2026|Neo Daniel Ramos Mera| Se inició con el capítulo I: Introducción y el Startup Profile.|
+|1\.1\.1|03/04/2026|Neo Daniel Ramos Mera, Paula Fernanda Montoya Nina| Se agregó contenido relacionado a los perfiles de los integrantes del equipo.|
 
 </div><br><br>
 
