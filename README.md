@@ -73,6 +73,15 @@
     
     * **Calidad y Excelencia:** Enfocamos nuestros esfuerzos en ofrecer una interfaz robusta y funcional que soporte la carga administrativa y técnica de proyectos de alta complejidad.
 
+### 1.1.2 Perfiles de integrantes del equipo
+
+| **Integrante** | **Perfil** | **Imagen** |
+| :--- | :--- | :---: |
+| **Ramos Mera Neo Daniel - u20241e418** | Mi nombre es Neo Daniel Ramos Mera, tengo 20 años, mi código es u20241e418 y soy de la carrera de Ing. Software, donde vemos el diseño, el manejo, mantenimiento y el desarrollo de aplicaciones web, de escritorio y móvil. Tengo habilidades de programación en C++, Javascript y SQL, Mis intereses están dirigidos al desarrollo web con el backend, manejo de bases de datos y pentesting. Me considero una persona responsable y determinada a cumplir sus metas, además de que siento curiosidad por todo el mundo de la informática, y tengo una inclinación especial por la ciberseguridad. | <img src="https://via.placeholder.com/150" alt="Foto de Ramos Mera Neo Daniel" width="150"/> |
+| **Nombre Apellido - Código** | Estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Interesado en el desarrollo de soluciones para la gestión arquitectónica. Aporta experiencia en [Habilidad Técnica] y busca fortalecer el trabajo colaborativo en **PircaIndustries**. | <img src="https://via.placeholder.com/150" alt="Foto de Integrante" width="150"/> |
+| **Nombre Apellido - Código** | Estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Especializado en [Área de Interés]. Su enfoque en el proyecto se centra en garantizar la calidad y eficiencia de los módulos de gestión de documentos y tareas. | <img src="https://via.placeholder.com/150" alt="Foto de Integrante" width="150"/> |
+| **Nombre Apellido - Código** | Estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Con gran capacidad de aprendizaje y adaptación a nuevas tecnologías. Responsable de contribuir al desarrollo del backend y frontend de la plataforma virtual **Kipu**. | <img src="https://via.placeholder.com/150" alt="Foto de Integrante" width="150"/> |
+| **Nombre Apellido - Código** | Estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Enfocado en la optimización de procesos y el diseño de interfaces intuitivas para los usuarios de **PircaIndustries**. Comprometido con la excelencia técnica. | <img src="https://via.placeholder.com/150" alt="Foto de Integrante" width="150"/> |
  
 ---
 <div align="justify">
