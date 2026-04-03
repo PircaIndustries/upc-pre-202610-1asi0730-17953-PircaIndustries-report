@@ -205,43 +205,38 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 <tr>
 <td colspan="3">Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
 <td colspan="3" align="justify">
-<h3> </h3>
- 
-<h3></h3>
- 
-<h3></h3>
- 
-<h3>Ian </h3>
- 
-<h3></h3>
- 
+<h3>Francia Torres Jhony Manuel</h3>
+ <b>TB1</b><p>  </p>
+<h3>Montoya Nina Paula Fernanda</h3>
+ <b>TB1</b><p>  </p>
+<h3>Palacios Tinoco Adrian</h3>
+ <b>TB1</b><p>  </p>
+<h3>Ramos Hinostroza Diego Antonio</h3>
+ <b>TB1</b><p>  </p>
+<h3>Ramos Mera Neo Daniel</h3>
+ <b>TB1</b><p>  </p>
 </td>
 <td colspan="3">
 <b>TB1</b><p>  </p>
-<b>TP1</b><p>  </p>
-<b>TB2</b><p>  </p>
-<b>TF1</b><p>  </p>
+
 </td>
 </tr>
 <tr>
 <td colspan="3">Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. </td>
 <td colspan="3" align="justify">
-<h3> </h3>
- 
-<h3></h3>
- 
-<h3></h3>
- 
-<h3>Ian </h3>
- 
-<h3></h3>
- 
+<h3>Francia Torres Jhony Manuel</h3>
+ <b>TB1</b><p>  </p>
+<h3>Montoya Nina Paula Fernanda</h3>
+ <b>TB1</b><p>  </p>
+<h3>Palacios Tinoco Adrian</h3>
+ <b>TB1</b><p>  </p>
+<h3>Ramos Hinostroza Diego Antonio</h3>
+ <b>TB1</b><p>  </p>
+<h3>Ramos Mera Neo Daniel</h3>
+ <b>TB1</b><p>  </p>
 </td>
 <td colspan="3">
 <b>TB1</b><p>  </p>
-<b>TP1</b><p>  </p>
-<b>TB2</b><p>  </p>
-<b>TF1</b><p>  </p>
 </td>
 </tr>
 </tbody>
