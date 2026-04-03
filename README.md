@@ -17,7 +17,7 @@
 ## Informe de Trabajo Final
 ### PircaIndustries
 
-### ArchTrack
+### Kipu
 #### Relación de integrantes 
 | Integrante                  | Código         |
 |---------------------------------|----------------|
