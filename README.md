@@ -267,7 +267,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
     * **Colaboración Eficiente:** Priorizamos la comunicación fluida entre todas las partes (arquitectos, clientes y revisores), centralizando revisiones y firmas para agilizar la toma de decisiones.
     
-    * **Calidad y Excelencia:** Enfocamos nuestros esfuerzos en ofrecer una interfaz robusta y funcional que soporte la carga administrativa y técnica de proyectos de alta complejidad.
+    * **Calidad y Excelencia:** Enfocamos nuestros esfuerzos en ofrecer una interfaz que soporte la carga administrativa y técnica de proyectos de alta complejidad.
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
