@@ -43,7 +43,7 @@
 |1\.0|02/04/2026|Diego Antonio Ramos Hinostroza y Paula Fernanda Montoya Nina| Se agregó la estructura inicial del proyecto: Índice, Student Outcome, los capitulos I, II, III, IV, y V, Conclusiones, Bibliografía y Anexos.|
 |1\.1|03/04/2026|Neo Daniel Ramos Mera| Se inició con el capítulo I: Introducción y el Startup Profile.|
 |1\.1\.1|03/04/2026|Neo Daniel Ramos Mera, Paula Fernanda Montoya Nina| Se agregó contenido relacionado a los perfiles de los integrantes del equipo.|
-
+|1\.2\.2|03/04/2026|Neo Daniel Ramos Mera| Se agregó contenido del Lean UX Process.|
 </div><br><br>
 
 ---
@@ -294,99 +294,104 @@ La falta de inversión en controles de calidad, que Aquise et. al. (2023) estima
 #### 1.2.2.1 Lean UX Problem Statement
 **Problem Statement 1:**
 <br>
+El sector de las PYMES constructoras en proyectos privados experimenta sobrecostos de hasta el 12% del costo directo total debido a la falta de controles de calidad y seguimiento de indicadores (PPC). Esta deficiencia absorbe casi la totalidad del margen de utilidad (10-15%), transformando proyectos potencialmente rentables en pérdidas económicas reales.
+<br>
 
 **Problem Statement 2:**
+<br>
+Los ingenieros residentes y gestores de obra carecen de una plataforma segura y centralizada para la gestión de documentación crítica (planos, contratos y firmas). Al realizar cierres de proyecto sin un historial de procesos trazable, asumen responsabilidades legales peligrosas y comprometen la seguridad estructural de las edificaciones y de sus futuros habitantes.
+<br>
 
 #### 1.2.2.2 Lean UX Assumptions
 
  + **User Assumptions:** 
 
-    + **¿Quién es el usuario?** <br> <br><br>
+    + **¿Quién es el usuario?** <br>Ingenieros civiles, arquitectos residentes, gestores de proyectos en PYMES y dueños de empresas constructoras que buscan proteger su rentabilidad. <br><br>
 
-    + **¿Dónde encaja nuestro producto en su trabajo o en su vida?** <br> <br><br>
+    + **¿Dónde encaja nuestro producto en su trabajo o en su vida?** <br>Es el ecosistema digital central donde convergen la administración de la oficina y la ejecución técnica en el campo, actuando como el "libro de obra" inteligente. <br><br>
 
-    + **¿Cuándo y cómo se utiliza nuestro producto?** <br> <br><br>
+    + **¿Cuándo y cómo se utiliza nuestro producto?** <br>Se utiliza diariamente para registrar el avance diario, consultar planos actualizados, autorizar cambios mediante firmas digitales y monitorear el inventario en tiempo real. <br><br>
 
-    + **¿Qué problemas resuelve nuestro producto?** <br> <br><br>
+    + **¿Qué problemas resuelve nuestro producto?** <br>La fuga de presupuesto por mal control de materiales, la falta de estándares (ISO/PMBOK), el riesgo legal por firmas "a ciegas" y el impacto negativo en el ROI. <br><br>
 
-    + **¿Qué características son importantes?** <br> <br><br>
+    + **¿Qué características son importantes?** <br>Gestión de planos y cronogramas, control de inventarios, dashboard de KPIs (PPC), sistema de firmas digitales seguras y alertas de Resultados no Conformes (RNC). <br><br>
 
-    + **¿Cómo debe verse y comportarse nuestro producto?** <br> <br><br>
+    + **¿Cómo debe verse y comportarse nuestro producto?** <br>Debe ser una interfaz de alta precisión técnica, segura (cifrado de datos), rápida en la carga de documentos pesados (planos) y con una navegación lógica que soporte la carga administrativa compleja. <br><br>
 
  + **Business Outcomes:** 
 
-    1. **Creo que nuestros usuarios necesitan**
+    1. **Creo que nuestros usuarios necesitan** recuperar su margen de utilidad mediante la eliminación de sobrecostos por errores técnicos y falta de supervisión.
+ 
+    2. **Estas necesidades se pueden resolver con** una plataforma web integral (Kipu) que automatice el seguimiento de estándares de calidad y centralice la documentación técnica.
 
-    2. **Estas necesidades se pueden resolver con**
+    3. **Nuestros usuarios iniciales son** residentes de obra de PYMES constructoras que gestionan proyectos residenciales privados.
 
-    3. **Nuestros usuarios iniciales son**
+    4. **El valor #1 que un cliente quiere de nuestro servicio es que** la garantía de que su obra se ejecuta bajo estándares técnicos precisos, evitando multas y retrabajos costosos.
 
-    4. **El valor #1 que un cliente quiere de nuestro servicio es que**
+    5. **El usuario también puede obtener beneficios adicionales como** mayor transparencia ante los stakeholders, protección de la propiedad intelectual y una gestión de tiempos más fluida.
 
-    5. **El usuario también puede obtener beneficios adicionales como**
+    6. **Vamos a adquirir la mayoría de nuestros clientes a través de** alianzas estratégicas con facultades de ingeniería, marketing B2B enfocado en rentabilidad constructiva y redes profesionales.
 
-    6. **Vamos a adquirir la mayoría de nuestros clientes a través de**
+    7. **Haremos dinero a través de** un modelo de suscripción SaaS (Software as a Service) con diferentes niveles según la complejidad y número de proyectos.
 
-    7. **Haremos dinero a través de**
+    8. **Nuestras competencias principales son** el dominio de procesos de ingeniería de software, conocimiento de normativas de construcción y enfoque en ciberseguridad documental.
 
-    8. **Nuestras competencias principales son**
+    9. **Los venceremos debido a** nuestro enfoque específico en el ROI de las PYMES y la integración de seguridad avanzada para documentos críticos.
 
-    9. **Los venceremos debido a**
+    11. **Nuestro mayor riesgo es** que los usuarios consideren que la carga de datos inicial es más lenta que el proceso manual tradicional.
 
-    11. **Nuestro mayor riesgo es**
-
-    12. **Resolveremos esto a través de**
+    12. **Resolveremos esto a través de** una experiencia de usuario (UX) optimizada para la eficiencia operativa y la automatización de reportes finales.
 
 #### 1.2.2.3 Lean UX Hypothesis Statements
-**Creemos que**  **para**  
-**Sabremos que es cierto**  
+**Creemos que** automatizar el cálculo de los Indicadores Operativos Básicos (PPC) para los residentes de obra, **sabremos que es cierto** cuando logremos reducir el margen de sobrecostos del 12% al 5% en los proyectos que utilicen la plataforma.
 
-**Creemos que**  **para**  
-**Sabremos que lo habremos logrado**  
+**Creemos que** implementar un sistema de firmas digitales y cifrado de documentos técnicos para los ingenieros y arquitectos, **sabremos que lo habremos logrado** cuando el 90% de los cierres de obra cuenten con un historial de trazabilidad completo sin observaciones legales.
 
-**Creemos que**  **para**  
-**Sabremos que esto es cierto**  
+**Creemos que** centralizar la gestión de planos y cronogramas en tiempo real para los equipos de trabajo, **sabremos que esto es cierto** cuando el índice de Resultados no Conformes (RNC) disminuya en un 30% en la etapa de instalaciones.
 
 
 #### 1.2.2.4 Lean UX Canvas
-La aplicación ...
 
 <table>
     <tr>
         <td valign="top" >
             <div align="center"> <br><b>Problema de negocios</b> </div><br>
-            <p></p><br>
+            <p>Las PYMES pierden hasta el 12% de su inversión por falta de controles de calidad (ISO/PMBOK), resultando en multas y baja rentabilidad.</p><br>
         </td>
         <td rowspan="2" valign="top">
             <div align="center"><br><b>Ideas de las soluciones</b> </div><br>
-            <p>
+            <p>Ecosistema digital para gestión de planos, inventarios y KPIs; firmas digitales seguras; trazabilidad histórica y dashboards de ROI.
             </p><br>
         </td>
             <td valign="top">
             <div align="center"> <br><b>Resultados Comerciales</b> </div><br>
-            <p></p><br>
+            <p>1. Reducción de sobrecostos operativos.
+	<br>2. Adopción de la plataforma como estándar técnico.
+	<br>3. Cero incidentes de pérdida de datos críticos.</p><br>
             </td>
         </tr>
     <tr>
         <td valign="top">
             <div align="center"><br><b>Usuarios y Clientes</b></div><br>
-            <p></p><br>
+            <p>Dueños de PYMES constructoras, Ingenieros Residentes, Arquitectos y Gestores de Proyectos.</p><br>
         </td>
         <td valign="top">
             <div align="center"><br><b>Beneficios del usuario</b></div><br>
-            <p></p><br>
+            <p>1. Protección del margen de utilidad.
+	<br>2. Seguridad legal en firmas de cierre.
+	<br>3. Comunicación fluida y centralizada.</p><br>
         </td>
     </tr>
     <tr>
         <td valign="top">
             <div align="center"> <br><b>Hipótesis</b> </div><br>
-            <p></p> <br>
+            <p>Creemos que al brindar herramientas de precisión operativa y seguridad documental, las PYMES incrementarán su éxito en la entrega de obras sin sacrificar su utilidad.</p> <br>
         </td>
         <td valign="top">
-            <div align="center"> <br><b>¿Qué es lo más importante que necesitamos aprender primero? </b> </div><br><p></p> <br>
+            <div align="center"> <br><b>¿Qué es lo más importante que necesitamos aprender primero? </b> </div><br><p>¿Qué módulo (Inventarios, Planos o KPIs) genera el mayor ahorro de dinero inmediato para que el usuario decida pagar la suscripción?</p> <br>
         </td>
         <td valign="top">
-            <div align="center">  <br><b>¿Cuál es la menor cantidad de trabajo que necesitamos hacer para resolver las dudas y para hacer lo siguiente más importante?</b> </div><br><p></p> <br>
+            <div align="center">  <br><b>¿Cuál es la menor cantidad de trabajo que necesitamos hacer para resolver las dudas y para hacer lo siguiente más importante?</b> </div><br><p>Desarrollar un módulo core que permita subir planos, registrar el PPC diario y emitir una alerta de sobrecosto basada en el uso de materiales.</p> <br>
         </td>
     </tr>
 </table>
