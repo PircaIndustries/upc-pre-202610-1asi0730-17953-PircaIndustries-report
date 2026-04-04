@@ -43,8 +43,9 @@
 |1\.0|02/04/2026|Diego Antonio Ramos Hinostroza y Paula Fernanda Montoya Nina| Se agregó la estructura inicial del proyecto: Índice, Student Outcome, los capitulos I, II, III, IV, y V, Conclusiones, Bibliografía y Anexos.|
 |1\.1|03/04/2026|Neo Daniel Ramos Mera| Se inició con el capítulo I: Introducción y el Startup Profile.|
 |1\.1\.1|03/04/2026|Neo Daniel Ramos Mera, Paula Fernanda Montoya Nina| Se agregó contenido relacionado a los perfiles de los integrantes del equipo.|
-|1\.2\.2|03/04/2026|Neo Daniel Ramos Mera| Se agregó contenido del Lean UX Process.|
 |1\.2\.1|03/04/2026|Jhony Manuel Francia Torres| Se agregó contenido de Antecedentes y Problemática (5Ws y 2Hs).|
+|1\.2\.2|03/04/2026|Neo Daniel Ramos Mera| Se agregó contenido del Lean UX Process.|
+|1\.3|03/04/2026|Diego Antonio Ramos Hinostroza| Se agregó contenido relacionado con los Segmentos Objetivos.|
 </div><br><br>
 
 ---
@@ -399,32 +400,19 @@ Los ingenieros residentes y gestores de obra carecen de una plataforma segura y 
 
 
 ## 1.3 Segmentos Objetivo
-Esta sección incluye la descripción de los segmentos asociados al dominio del problema, incluyendo características geográficas y demográficas. Por lo tanto, con el fin de desarrollar un producto que satisfaga las necesidades de nuestros clientes, PircaIndustries se enfocará en los siguientes segmentos de la población:
-+ **Personas ...**<br>
-Las personas ...
-    + **Características demográficas:** ...
-    <br>
-    ...
-    <br><br>
-    <div align="center">	
-
-    <br><br>
-	...
-	<br><br>
-    </div>
-    <div align="center">	
-    
-    <br><br>
-    </div>
-
-    + **Características geográficas:** Personas que residen en Perú.<br><br>
+Esta sección incluye la descripción de los segmentos asociados al dominio del problema, incluyendo características geográficas y demográficas. Por lo tanto, con el fin de desarrollar un producto que satisfaga las necesidades operativas de nuestros usuarios, PircaIndustries se enfocará en los siguientes segmentos de la población:
++ **Gestores Operativos de Obra (Arquitectos e Ingenieros):**<br>
+Son aquellos profesionales encargados de la planificación, diseño y supervisión de proyectos de construcción y arquitectura en pequeñas y medianas empresas (PYMES). Pueden utilizar kipu para centralizar documentación técnica y automatizar el seguimiento de proyectos de edificación.
+    + **Características demográficas:** Profesionales entre 28 y 55 años de edad que se desempeñan como ingenieros civiles, arquitectos, gerentes de proyecto y residentes de obra.<br>
+    + **Características geográficas:** Personas pertenecientes a zonas urbanas, operando principalmente en obras de Lima Metropolitana.<br><br>
 
 
-+ **Personas ...**<br>
-“Kipu” es fundamental como herramienta para...
-    + **Características demográficas:** 
-    + **Características geográficas:** Personas que residen en Perú.<br><br>
 
+
++ **Equipos de Logística y Administración:**<br>
+Son los colaboradores encargados del flujo de abastecimiento, control de presupuestos y gestión de inventarios desde la oficina central de la constructora o consultora. Utilizarían Kipu para recibir y gestionar los requerimientos de materiales en tiempo real, controlar los presupuestos operativos y agilizar la cadena de suministro interna para evitar paralizaciones.
+    + **Características demográficas:** Personas entre 25 y 60 años de edad que trabajan como jefes de logística, asistentes administrativos, contadores o encargados de compras dentro del rubro de construcción.
+    + **Características geográficas:** Personas que residen y laboran en oficinas de Lima Metropolitana, Perú.<br><br>
 
 ---
 
