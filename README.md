@@ -259,37 +259,39 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 **5W's y 2H's**
 
+<br>
+
 * **What?**
 <br>
-Las PYMES constructoras poseen un índice crítico de Resultados no Conformes (RNC). Estas empresas no realizan una inspección rigurosa de los Indicadores Operativos Básicos (como el PPC - Porcentaje de Plan Completado). Estos controles sirven para hacer un seguimiento del inventario ya utilizado en la construcción, por lo que un mal seguimiento de estros procesos genera fugas de presupuesto en la compra de materiales y errores estructurales y de acabados que posteriormente pueden derivar en multas elevadas para la empresa.
+Las PYMES constructoras poseen un índice crítico de Resultados no Conformes (RNC). Estas empresas no realizan una inspección rigurosa de los Indicadores Operativos Básicos (como el PPC - Porcentaje de Plan Completado). Estos controles sirven para hacer un seguimiento del inventario ya utilizado en la construcción, por lo que un mal seguimiento de estros procesos genera fugas de presupuesto en la compra de materiales y errores estructurales y de acabados que posteriormente pueden derivar en multas elevadas para la empresa.<br><br>
+
 
 * **Why?**
 <br>
-Las PYMES constructoras poseen una deficiente gestión administrativa que ignora los estándares internacionales como el PMBOK o la ISO 9001 (Guías y Normas para la gestión de proyectos). De esta manera, se realiza un nulo seguimiento de KPIs (Key Performance Indicators) lo que deriva en el alza del índice de RNC. Esto reduce el tiempo de construcción de la obra y permite ahorrar gastos en sueldos de constructores, pero también puede causar multas elevadas y pérdida del prestigio de la empresa por no realizar un seguimiento eficiente y adecuado del proyecto. 
+Las PYMES constructoras poseen una deficiente gestión administrativa que ignora los estándares internacionales como el PMBOK o la ISO 9001 (Guías y Normas para la gestión de proyectos). De esta manera, se realiza un nulo seguimiento de KPIs (Key Performance Indicators) lo que deriva en el alza del índice de RNC. Esto reduce el tiempo de construcción de la obra y permite ahorrar gastos en sueldos de constructores, pero también puede causar multas elevadas y pérdida del prestigio de la empresa por no realizar un seguimiento eficiente y adecuado del proyecto. <br><br>
 
 * **Who?**
 <br>
-Las Pequeñas y Grandes Empresas (PYMES) constructoras con deficiente gestión administrativa y seguimiento de sus proyectos.
+Las Pequeñas y Grandes Empresas (PYMES) constructoras con deficiente gestión administrativa y seguimiento de sus proyectos.<br><br>
 
 * **When?**
 <br>
 La problemática ocurre en 3 etapas:
--Al iniciar la obra, ya que una mala inspección a los procesos de construcción de la estructura de la edificación podría causar accidentes de gran escala (Derrumbe de la edificación) y multas que supondrían una pérdida importante de dinero y prestigio en las PYMES.
--En la etapa de instalaciones y acabados, ya que un mal registro de los "extras" (Sistema eléctrico, tuberías, Gas) supondría una constante fuga de dinero en el mantenimiento de estos sistemas instalados deficientemente".
--Al cierre del proyecto, ya que, al no contar con un historial de cada proceso de la construcción, el ingeniero firma "a ciegas" un proyecto que podría significar una responsabilidad legal peligrosa para la empresa y para quienes habitarán la edificación.
+Al iniciar la obra, ya que una mala inspección a los procesos de construcción de la estructura de la edificación podría causar accidentes de gran escala (Derrumbe de la edificación) y multas que supondrían una pérdida importante de dinero y prestigio en las PYMES.
+En la etapa de instalaciones y acabados, ya que un mal registro de los "extras" (Sistema eléctrico, tuberías, Gas) supondría una constante fuga de dinero en el mantenimiento de estos sistemas instalados deficientemente".
+Al cierre del proyecto, ya que, al no contar con un historial de cada proceso de la construcción, el ingeniero firma "a ciegas" un proyecto que podría significar una responsabilidad legal peligrosa para la empresa y para quienes habitarán la edificación.<br><br>
 
 * **Where?**
 <br>
-Sucede en las obras de construcción de edificaciones privadas. En estos entornos, los controles son menos rigurosos, lo que permite la filtración de errores técnicos que afectan directamente en la calidad de las viviendas.
+Sucede en las obras de construcción de edificaciones privadas. En estos entornos, los controles son menos rigurosos, lo que permite la filtración de errores técnicos que afectan directamente en la calidad de las viviendas.<br><br>
 
-* **How?**  
-Esta falta de supervisión rigurosa se manifiesta en problemas técnicos y estructurales que deben ser resueltos en la brevedad con mantenimiento o al reconstruir secciones enteras de la obra, lo que supone un fuerte golpe en el Retorno de Inversión (ROI) y en el Resultado Operativo Bruto.<br>
+* **How?**
+<br>
+Esta falta de supervisión rigurosa se manifiesta en problemas técnicos y estructurales que deben ser resueltos en la brevedad con mantenimiento o al reconstruir secciones enteras de la obra, lo que supone un fuerte golpe en el Retorno de Inversión (ROI) y en el Resultado Operativo Bruto.<br><br>
 
 * **How much?**
-La falta de inversión en controles de calidad, que Aquise et. al. (2023) estima que debería ser el 2% del costo total de la obra, genera sobrecostos de hasta el 12% del costo directo total de la obra. De esta manera, el margen de utilidad de la PYME (que suele rondar entre 10-15% del costo de la obra) es absorvido casi en su totalidad por errores que podrían ser evitados con un control de calidad adecuado, lo que deriva en pérdidas económicas reales en la empresa.<br>
-
-
-
+<br>
+La falta de inversión en controles de calidad, que Aquise et. al. (2023) estima que debería ser el 2% del costo total de la obra, genera sobrecostos de hasta el 12% del costo directo total de la obra. De esta manera, el margen de utilidad de la PYME (que suele rondar entre 10-15% del costo de la obra) es absorvido casi en su totalidad por errores que podrían ser evitados con un control de calidad adecuado, lo que deriva en pérdidas económicas reales en la empresa.
 
 
 ### 1.2.2 Lean UX Process
