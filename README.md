@@ -44,6 +44,7 @@
 |1\.1|03/04/2026|Neo Daniel Ramos Mera| Se inició con el capítulo I: Introducción y el Startup Profile.|
 |1\.1\.1|03/04/2026|Neo Daniel Ramos Mera, Paula Fernanda Montoya Nina| Se agregó contenido relacionado a los perfiles de los integrantes del equipo.|
 |1\.2\.2|03/04/2026|Neo Daniel Ramos Mera| Se agregó contenido del Lean UX Process.|
+|1\.2\.1|03/04/2026|Jhony Manuel Francia Torres| Se agregó contenido de Antecedentes y Problemática (5Ws y 2Hs).|
 </div><br><br>
 
 ---
