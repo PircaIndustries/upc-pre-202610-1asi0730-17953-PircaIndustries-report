@@ -428,13 +428,11 @@ En esta sección se identificarán los mejores referentes para posteriormente re
 
 Según la investigación, se descubrieron apps webs y/o aplicaciones similares. Sin embargo, estamos considerando tres competidores directos o indirectos que se parezcan más a nuestra startup.
 
-* **Competidor 1**<br>
+* **Competidor 1: ObraLink** Es una startup de tecnología de construcción que automatiza el control de avance de obra mediante dispositivos IoT y visión artificial. Su plataforma permite monitorear en tiempo real el progreso de las partidas y el consumo de materiales, integrándose con modelos BIM. Es un competidor directo tecnológico que busca la eficiencia operativa y la transparencia en la ejecución.
 
+* **Competidor 2: Construapp** Plataforma robusta con presencia en Latinoamérica que centraliza la administración de obras, presupuestos e inventarios. Su solución está diseñada para conectar la oficina con la faena, permitiendo una trazabilidad completa del ciclo de vida de la construcción. Representa un referente regional de escalabilidad para soluciones de gestión integral.
 
-* **Competidor 2**<br>
-
-
-* **Competidor 3**<br>
+* **Competidor 3: PlanRadar** Software internacional líder en documentación y comunicación para proyectos de construcción e inmobiliarios. Permite la gestión de tickets de defectos sobre planos digitales, firmas electrónicas y reportes de seguridad. Aunque es un competidor indirecto por su alcance global, compite directamente en la funcionalidad de centralización documental y precisión operativa.
 
 
 ### 2.1.1 Análisis Competitivo
