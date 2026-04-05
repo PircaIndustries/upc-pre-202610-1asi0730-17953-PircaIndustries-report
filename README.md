@@ -46,6 +46,7 @@
 |1\.1\.2|03/04/2026|Jhony Manuel Francia Torres| Se agregó contenido de Antecedentes y Problemática (5Ws y 2Hs).|
 |1\.1\.3|03/04/2026|Neo Daniel Ramos Mera| Se agregó contenido del Lean UX Process.|
 |1\.1\.4|03/04/2026|Diego Antonio Ramos Hinostroza| Se agregó contenido relacionado con los Segmentos Objetivos.|
+|1\.2\.1|05/04/2026|Diego Antonio Ramos Hinostroza| Se agregó contenido relacionado con el diseño de entrevistas.|
 </div><br><br>
 
 ---
@@ -569,7 +570,108 @@ En esta sección se realizará el análisis competitivo de los competidores iden
 
 ## 2.2 Entrevistas
 
+
+En esta sección se abordará la investigación en base a la información que se obtendrá de los segmentos entrevistados con el objetivo de conocer mejor a nuestros segmentos objetivos y aprender de ellos y sus procesos.
+
+
+
+
 ### 2.2.1 Diseño de entrevistas
+
+
+**Segmento objetivo 1:** Gestores Operativos de Obra (Arquitectos e Ingenieros)
+
+
+**Introducción:**
+
+
+Buenos días/tardes/noches, mi nombre es [Nombre del entrevistador], y en esta ocasión tengo el agrado de poder entrevistar a [Nombre del entrevistado].
+Desde ya quiero agradecerle por su presencia y tiempo que me está brindando.
+
+
+**Perfilamiento y Demografía:**
+
+
+1. ¿Podría indicarme su nombre completo, edad, distrito de residencia y estado civil?
+2. ¿Cuál es su profesión exacta y qué cargo ocupa actualmente en la empresa?
+3. ¿Cómo describiría un día típico en su trabajo?
+
+
+**Comportamiento Digital, Marcas y Canales:**
+
+
+4. ¿Qué dispositivos utiliza más en su día a día (laptop, smartphone, tablet) tanto en la oficina como en la obra?
+5. ¿Cuáles son las aplicaciones o canales digitales que más usa para interactuar con su equipo de trabajo y con sus clientes?
+
+
+**Exploración del Problema (Metas y Frustraciones):**
+
+
+6. ¿Cómo es su proceso actual para gestionar las distintas versiones de los planos y asegurarse de que el equipo en obra use la versión final?
+7. ¿Qué es lo más frustrante de coordinar el avance de un proyecto con sus clientes?
+8.  ¿Qué herramientas tecnológicas utilizan actualmente para gestionar los proyectos y cuánto invierten en licencias? ¿Estarían dispuestos a implementar una plataforma centralizada si eso automatiza sus procesos?
+
+
+**Preferencias Visuales e Interfaz:**
+
+
+9. ¿Qué características visuales necesitarías en la pantalla para no equivocarte al usarla directamente en la obra (con luz del sol, apuro o equipo de seguridad)? ¿Letras más grandes, colores muy fuertes o botones amplios?
+10.  Si una plataforma tuviera que transmitir "orden, precisión y profesionalismo", ¿qué colores corporativos se le vienen a la mente y por qué?
+11.  ¿Preferiría una pantalla que le muestre muchísima información y datos técnicos al mismo tiempo, o un diseño más limpio y minimalista que oculte opciones hasta que las necesites?
+
+
+**Cierre:**
+
+
+Bueno esto ha sido todo por esta ocasión, una vez más quisiera agradecerle por su tiempo, muchas gracias y hasta luego.<br><br>
+
+
+**Segmento objetivo 2:** Equipos de Logística y Administración
+
+
+**Introducción:**
+
+
+Buenos días/tardes/noches, mi nombre es [Nombre del entrevistador], y en esta ocasión tengo el agrado de poder entrevistar a [Nombre del entrevistado].
+Desde ya quiero agradecerle por su presencia y tiempo que me está brindando.
+
+
+**Perfilamiento y Demografía:**
+
+
+1. ¿Podrías indicarme tu nombre, edad, distrito de residencia y estado civil?
+2. ¿A qué se dedica exactamente y qué cargo ocupa dentro de la empresa?
+3. ¿Podría describirme brevemente cómo es un día típico de trabajo gestionando presupuestos, compras o materiales para los proyectos de la empresa?
+
+
+**Comportamiento Digital, Marcas y Canales:**
+
+
+4. Durante su jornada laboral, ¿a través de qué dispositivos suele realizar la mayor parte de sus tareas administrativas o de control de inventario?
+5. ¿Qué herramientas de software o plataformas digitales utiliza actualmente para llevar el control logístico, contable o de compras?
+
+
+**Exploración del Problema (Metas y Frustraciones):**
+
+
+6. Durante el desarrollo de una obra, ¿de qué manera se comunica con los ingenieros o residentes en campo para coordinar los requerimientos de materiales o herramientas?
+7. ¿Cuál es su mayor frustración respecto al control de inventarios, el seguimiento de presupuestos o la cadena de suministro interna?
+8. ¿Alguna vez ha tenido problemas de coordinación, como compras duplicadas o materiales que no llegaron a tiempo, debido a que la información se manejaba en hojas de cálculo aisladas o mensajes de texto?
+
+
+**Preferencias Visuales e Interfaz:**
+
+
+9.  Cuando usted usa plataformas de gestión administrativa o software contable, ¿qué colores o estilos visuales le generan mayor sensación de orden, claridad y eficiencia?
+10.  Para llevar el control de stock y de presupuestos, ¿preferiría visualizar tablas detalladas con todos los registros o preferiría contar con un panel principal que sea mucho más gráfico?
+11.  Si tuviera que describir cómo debería verse la "aplicación perfecta" para gestionar la logística de sus proyectos usando tres adjetivos (ej. intuitiva, estructurada, moderna), ¿cuáles serían?
+
+
+**Cierre:**
+
+
+Bueno esto ha sido todo por esta ocasión, una vez más quisiera agradecerle por su tiempo, muchas gracias y hasta luego.<br><br>
+
 
 ### 2.2.2 Registro de entrevistas
 
