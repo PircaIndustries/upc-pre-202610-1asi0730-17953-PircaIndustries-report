@@ -448,114 +448,114 @@ En esta sección se realizará el análisis competitivo de los competidores iden
 <tbody>
   <tr>
     <td colspan="2">¿Por qué llevar a cabo este análisis?</td>
-    <td colspan="4"></td>
+    <td colspan="4">Determinar el posicionamiento estratégico de Kipu frente a soluciones tecnológicas (IoT, Gestión regional y Software Global) para identificar brechas de mercado en la centralización documental y firmas digitales en el sector construcción peruano.</td>
   </tr>
   <tr>
     <td colspan="2">
         <div align="center">Nombre</div>
     </td>
     <td>
-        <div align="center">Kipu<br></div>
+        <div align="center"><b>Kipu (PircaIndustries)</b></div>
     </td>
     <td>
-        <div align="center">Competidor 1</div>
+        <div align="center"><b>ObraLink</b></div>
     </td>
     <td>
-        <div align="center">Competidor 2</div>
+        <div align="center"><b>Construapp</b></div>
     </td>
     <td>
-        <div align="center">Competidor 3</div>
+        <div align="center"><b>PlanRadar</b></div>
     </td>
   </tr>
   <tr>
     <td colspan="2">
         <div align="center">Logo</div>
     </td>
-    <td><div align="center"></div></td>
-    <td><div align="center"></div></td>
-    <td><div align="center"></div></td>
-    <td><div align="center"></div></td>
+    <td><div align="center"><img src="Resources/styleGuidelines/logo.png" alt="Logo Kipu"></div></td>
+    <td><div align="center"><img src="Resources/Competitors/Obralink.PNG" alt="Logo ObraLink"></div></td>
+    <td><div align="center"><img src="Resources/Competitors/Construapp.PNG" alt="Logo Construapp"></div></td>
+    <td><div align="center"><img src="Resources/Competitors/PlanRadar.PNG" alt="Logo PlanRadar"></div></td>
   </tr>
   <tr>
     <td rowspan="2">Perfil</td>
     <td>Overview</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Startup peruana que centraliza gestión de proyectos, planos y presupuestos en un solo ecosistema digital.</td>
+    <td>Startup ConTech que utiliza IoT y visión artificial para automatizar el control de avance físico en obra.</td>
+    <td>Plataforma integral para la administración de obras, control de inventarios y presupuestos en Latam.</td>
+    <td>Software global especializado en documentación, gestión de defectos y tareas sobre planos digitales.</td>
   </tr>
   <tr>
     <td>Ventaja Competitiva <br>¿Qué valor ofrece a los clientes?</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Centralización absoluta de documentos legales y técnicos; reducción de errores operativos por dispersión de datos.</td>
+    <td>Monitoreo automático y objetivo del progreso real mediante sensores, eliminando el reporte manual.</td>
+    <td>Trazabilidad completa del ciclo de vida financiero y logístico de la construcción.</td>
+    <td>Estandarización internacional, alta eficiencia en reportes y compatibilidad avanzada con modelos BIM.</td>
   </tr>
   <tr>
     <td rowspan="2">Perfiles de Marketing<br></td>
     <td>Mercado Objetivo<br></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Arquitectos, ingenieros y gestores de proyectos en el mercado peruano.</td>
+    <td>Empresas constructoras medianas y grandes que buscan automatizar la supervisión.</td>
+    <td>Constructoras e industrias que requieren control administrativo y logístico en Latam.</td>
+    <td>Grandes constructoras corporativas y estudios de arquitectura de alta complejidad.</td>
   </tr>
   <tr>
     <td>Estrategias de marketing</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Networking académico (UPC), contenido técnico educativo y alianzas con gremios locales.</td>
+    <td>Demostraciones de tecnología IoT y alianzas estratégicas con proveedores de concreto.</td>
+    <td>Marketing B2B directo y posicionamiento en hubs de innovación regional.</td>
+    <td>Inbound marketing masivo, SEO global y presencia en eventos internacionales de construcción.</td>
   </tr>
   <tr>
     <td rowspan="3">Perfil de Producto<br></td>
     <td>Productos &amp; Servicios</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Plataforma virtual integral (Planos, cronogramas, presupuestos y firmas digitales).</td>
+    <td>Dispositivos de monitoreo (Hardware) y plataforma de analítica de avance.</td>
+    <td>Módulos de digitalización de faenas, inventarios y estados de pago.</td>
+    <td>Gestión de tickets, planos interactivos, informes de seguridad y módulos BIM.</td>
   </tr>
   <tr>
     <td>Precios y Costos</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Suscripción SaaS (Mensual/Anual) escalable por proyecto.</td>
+    <td>Costo por servicio de monitoreo y alquiler/venta de dispositivos IoT.</td>
+    <td>Planes corporativos personalizados según módulos activos.</td>
+    <td>Licenciamiento por usuario (Desde aprox. $49 USD/mes en planes básicos).</td>
   </tr>
   <tr>
     <td>Canales de Distribución (Web y/o Móvil)</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Plataforma Web y App Móvil sincronizada.</td>
+    <td>Dashboard Web y sensores físicos en obra.</td>
+    <td>Acceso Multiplataforma (Cloud/App).</td>
+    <td>Web, iOS, Android y Windows.</td>
   </tr>
   <tr>
     <td rowspan="4">Análisis SWOT</td>
     <td>Fortalezas</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Enfoque en procesos administrativos locales; respaldo de la UPC; centralización documental.</td>
+    <td>Tecnología propietaria avanzada (Hardware + Software); precisión de datos.</td>
+    <td>Experiencia en múltiples mercados de Latam; robustez en control financiero.</td>
+    <td>Reconocimiento de marca global; soporte técnico 24/7; tecnología BIM.</td>
   </tr>
   <tr>
     <td>Debilidades</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Marca nueva en fase de introducción; recursos limitados frente a corporativos.</td>
+    <td>Dependencia de hardware físico que requiere instalación y mantenimiento.</td>
+    <td>Interfaz que puede percibirse como compleja para usuarios pequeños.</td>
+    <td>Costos elevados para el mercado local; falta de adaptación a trámites legales peruanos.</td>
   </tr>
   <tr>
     <td>Oportunidades</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Baja digitalización en PYMEs de construcción en Perú; necesidad de teletrabajo en gestión.</td>
+    <td>Creciente demanda por automatización y reducción de costos de supervisión.</td>
+    <td>Expansión a nuevos sectores industriales más allá de la construcción civil.</td>
+    <td>Integración total con estándares de construcción inteligente en ciudades modernas.</td>
   </tr>
   <tr>
     <td>Amenazas</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Competidores locales con soluciones más simples o económicas (tipo apps de reportes).</td>
+    <td>Nuevas tecnologías de visión artificial que no requieran sensores físicos (drones).</td>
+    <td>Inestabilidad económica regional que afecte la inversión en nuevos softwares.</td>
+    <td>Saturación del mercado de software de gestión con opciones gratuitas limitadas.</td>
   </tr>
 </tbody>
 </table>
