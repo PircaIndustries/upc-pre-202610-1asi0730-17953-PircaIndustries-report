@@ -523,7 +523,7 @@ En esta sección se realizará el análisis competitivo de los competidores iden
   </tr>
   <tr>
     <td>Canales de Distribución (Web y/o Móvil)</td>
-    <td>Plataforma Web.</td>
+    <td>Plataforma Web y App Móvil sincronizada.</td>
     <td>Dashboard Web y sensores físicos en obra.</td>
     <td>Acceso Multiplataforma (Cloud/App).</td>
     <td>Web, iOS, Android y Windows.</td>
