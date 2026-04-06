@@ -473,7 +473,7 @@ En esta sección se realizará el análisis competitivo de los competidores iden
     </td>
     <td><div align="center"><img src="Resources/styleGuidelines/logo.png" alt="Logo Kipu"></div></td>
     <td><div align="center"><img src="Resources/Competitors/Obralink.PNG" alt="Logo ObraLink"></div></td>
-    <td><div align="center"><img src="Resources/Competitors/Construapp.PNG" alt="Logo Construapp"></div></td>
+    <td><div align="center"><img src="Resources/Competitors/ConstruApp.PNG" alt="Logo Construapp"></div></td>
     <td><div align="center"><img src="Resources/Competitors/PlanRadar.PNG" alt="Logo PlanRadar"></div></td>
   </tr>
   <tr>
