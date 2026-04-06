@@ -471,10 +471,10 @@ En esta sección se realizará el análisis competitivo de los competidores iden
     <td colspan="2">
         <div align="center">Logo</div>
     </td>
-    <td><div align="center"><img src="Resources/styleGuidelines/logo.png" alt="Logo Kipu"></div></td>
-    <td><div align="center"><img src="Resources/Competitors/Obralink.PNG" alt="Logo ObraLink"></div></td>
-    <td><div align="center"><img src="Resources/Competitors/ConstruApp.PNG" alt="Logo Construapp"></div></td>
-    <td><div align="center"><img src="Resources/Competitors/PlanRadar.PNG" alt="Logo PlanRadar"></div></td>
+    <td><div align="center"><img src="Resources/styleGuidelines/logo.png" alt="Logo Kipu" width="100"></div></td>
+    <td><div align="center"><img src="Resources/Competitors/Obralink.PNG" alt="Logo ObraLink" width="100"></div></td>
+    <td><div align="center"><img src="Resources/Competitors/ConstruApp.PNG" alt="Logo Construapp" width="100"></div></td>
+    <td><div align="center"><img src="Resources/Competitors/PlanRadar.PNG" alt="Logo PlanRadar" width="100"></div></td>
   </tr>
   <tr>
     <td rowspan="2">Perfil</td>
@@ -516,14 +516,14 @@ En esta sección se realizará el análisis competitivo de los competidores iden
   </tr>
   <tr>
     <td>Precios y Costos</td>
-    <td>Suscripción SaaS (Mensual/Anual) escalable por proyecto.</td>
-    <td>Costo por servicio de monitoreo y alquiler/venta de dispositivos IoT.</td>
-    <td>Planes corporativos personalizados según módulos activos.</td>
-    <td>Licenciamiento por usuario (Desde aprox. $49 USD/mes en planes básicos).</td>
+    <td><b>SaaS Estratégico:</b><br>• Plan Starter: $29 USD/mes.<br>• Plan Business: $99 USD/mes (hasta 5 proyectos simultáneos).</td>
+    <td><b>Modelo Industrial:</b><br>• Fee por proyecto: ~$400 - $700 USD/mes.<br>• Incluye monitoreo IoT de concreto y hardware en sitio.</td>
+    <td><b>B2B Regional:</b><br>• Promedio: $50 USD/mes por usuario.<br>• Planes anuales corporativos desde $599 USD.</td>
+    <td><b>SaaS Global:</b><br>• Basic: $35 USD/mes.<br>• Starter: $119 USD/mes.<br>• Pro: $179 USD/mes.</td>
   </tr>
   <tr>
     <td>Canales de Distribución (Web y/o Móvil)</td>
-    <td>Plataforma Web y App Móvil sincronizada.</td>
+    <td>Plataforma Web.</td>
     <td>Dashboard Web y sensores físicos en obra.</td>
     <td>Acceso Multiplataforma (Cloud/App).</td>
     <td>Web, iOS, Android y Windows.</td>
