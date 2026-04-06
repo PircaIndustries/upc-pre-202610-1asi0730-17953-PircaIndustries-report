@@ -563,8 +563,15 @@ En esta sección se realizará el análisis competitivo de los competidores iden
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
 **Estrategia de Diferenciación:**
+Kipu se posicionará como la solución líder en **localización normativa y administrativa** para el sector construcción en Perú. A diferencia de competidores globales como PlanRadar u ObraLink, nuestra plataforma integrará flujos de trabajo diseñados específicamente para los procesos de revisión municipal y formatos legales del Colegio de Arquitectos del Perú (CAP). Buscamos neutralizar la complejidad técnica de las herramientas extranjeras ofreciendo una interfaz intuitiva que centraliza firmas digitales y gestión documental sin requerir hardware adicional, permitiendo una implementación inmediata y de bajo costo.
+
 **Estrategia de Marketing:**
+Nuestra estrategia se centrará en el **liderazgo de pensamiento y confianza académica**. Aprovecharemos el respaldo de la Universidad Peruana de Ciencias Aplicadas (UPC) para lanzar el programa "Kipu Academy", que ofrecerá certificaciones gratuitas en gestión digital de proyectos para estudiantes y recién egresados. Esta táctica permitirá capturar al usuario desde su formación profesional, creando una barrera de salida frente a competidores regionales como Construapp al convertir a Kipu en el estándar educativo y profesional del mercado peruano.
+
 **Tácticas:**
+* **Táctica de Penetración de Precios:** Lanzar un Plan Starter de **$29 USD/mes**, posicionándonos como la opción más accesible frente a los altos costos de licenciamiento de software global.
+* **Táctica de Soporte Local:** Ofrecer asistencia técnica personalizada y en tiempo real en español, enfocada en resolver dudas sobre la normativa de construcción local, superando la debilidad de soporte remoto de los competidores extranjeros.
+* **Táctica de Demostración Ágil:** Implementar un periodo de prueba de 14 días sin necesidad de tarjetas de crédito ni instalación de hardware, atacando directamente la debilidad de otro tipo de software como ObraLink (que requiere sensores físicos) y facilitando la digitalización de PYMEs constructoras.
 
 ## 2.2 Entrevistas
 
