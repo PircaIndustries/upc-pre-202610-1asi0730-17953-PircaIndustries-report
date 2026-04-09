@@ -47,6 +47,8 @@
 |1\.1\.3|03/04/2026|Neo Daniel Ramos Mera| Se agregó contenido del Lean UX Process.|
 |1\.1\.4|03/04/2026|Diego Antonio Ramos Hinostroza| Se agregó contenido relacionado con los Segmentos Objetivos.|
 |1\.2\.1|05/04/2026|Diego Antonio Ramos Hinostroza| Se agregó contenido relacionado con el diseño de entrevistas.|
+|1\.4\.0|09/04/2026|Paula Fernanda Montoya NIna| Se inició el Capítulo IV: Style Guidelines.|
+
 </div><br><br>
 
 ---
@@ -471,7 +473,7 @@ En esta sección se realizará el análisis competitivo de los competidores iden
     <td colspan="2">
         <div align="center">Logo</div>
     </td>
-    <td><div align="center"><img src="Resources/styleGuidelines/logo.png" alt="Logo Kipu" width="100"></div></td>
+    <td><div align="center"><img src="Resources/styleGuidelines/logoWithBackground.svg" alt="Logo Kipu" width="100"></div></td>
     <td><div align="center"><img src="Resources/Competitors/Obralink.PNG" alt="Logo ObraLink" width="100"></div></td>
     <td><div align="center"><img src="Resources/Competitors/ConstruApp.PNG" alt="Logo Construapp" width="100"></div></td>
     <td><div align="center"><img src="Resources/Competitors/PlanRadar.PNG" alt="Logo PlanRadar" width="100"></div></td>
@@ -711,8 +713,76 @@ Bueno esto ha sido todo por esta ocasión, una vez más quisiera agradecerle por
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines.
+Este apartado define las reglas visuales obligatorias para diseñar los mockups. El propósito es crear un estándar gráfico uniforme aplicable tanto a la landing page como a la aplicación web, logrando una interfaz predecible y de fácil uso para los segmentos objetivos.
+
 ### 4.1.1. General Style Guidelines.
+
+Se describen las directrices que aseguran la uniformidad estética del proyecto.<br>
+
+* **Colors:**
+
+La paleta del proyecto Kipu surge de las entrevistas a usuarios, quienes prefieren colores neutros y azulados para sus herramientas de trabajo diario. Con esto en mente, los tonos elegidos buscan reducir el cansancio visual durante el uso continuo. El color #212529 se asigna a la tipografía principal para dar peso a la lectura sin recurrir al negro puro, previniendo el agotamiento ocular. El azul #2C3E50 actúa como tono primario, brindando la formalidad que requiere el software de gestión técnica. Por su parte, el #F8F9FA y el #B0BEC5 operan como fondos y separadores, manteniendo el orden de los elementos. Por último, el #3498DB sirve como color de acento para botones y llamados a la acción, orientando al usuario sin restar profesionalismo.<br>
+
+<img src="https://github.com/PircaIndustries-OpenSource/upc-pre-202610-1asi0729-17952-PircaIndustries-report/blob/main/Resources/Style%20Guidelines/color_palette.png?raw=true" alt="Imagen de la paleta de colores"/>
+
+<br>
+
+* **Branding**
+
+El logotipo de Kipu fusiona el nombre del producto con los instrumentos típicos del rubro. La base es la letra 'K', adaptada para incluir la forma de una regla, la herramienta de medición estándar en arquitectura. Acompañando al isotipo, se eligió una fuente tipográfica de bordes redondeados y aspecto actual, buscando una identidad visual propia y con enfoque tecnológico.
+
+<br>
+
+<img src="https://github.com/PircaIndustries-OpenSource/upc-pre-202610-1asi0729-17952-PircaIndustries-report/blob/main/Resources/Style%20Guidelines/logoWithBackground.svg?raw=true" alt="Imagen del logo"/>
+
+<br>
+
+
+* **Typography**
+
+Se escogió la familia tipográfica Inter para asegurar una lectura óptima en pantallas cargadas de información. Al tratarse de una fuente sans-serif optimizada para entornos digitales, facilita el escaneo rápido de textos y evita el cansancio ocular derivado de los remates decorativos. Para construir los niveles de importancia en los textos del sistema, se utilizan sus pesos Regular, Medium, Semi-Bold y Bold.
+
+**Inter - Google fonts**
+
+
+<img src="https://github.com/PircaIndustries-OpenSource/upc-pre-202610-1asi0729-17952-PircaIndustries-report/blob/main/Resources/Style%20Guidelines/typography.png?raw=true" alt="Imagen del logo"/>
+
+Referencia: [Inter - Google fonts](https://fonts.google.com/specimen/Inter?query=Inter&lang=es_Latn&categoryFilters=Sans+Serif:%2FSans%2F*&preview.lang=en_Latn)<br>
+<br>
+* **Spacing**
+
+La distribución de los componentes se rige por una cuadrícula base de 8px, manteniendo la proporción en todas las vistas. Se requiere el uso exclusivo de unidades relativas `rem` para favorecer el diseño responsivo del software.
+
+| Categoría   | Medida (rem / px) | Aplicación Técnica Obligatoria                                       |
+| :------------| :------------------| :---------------------------------------------------------------------|
+| **X-Small** | 0.25 rem / 4 px   | Alineación de iconos y micro-ajustes de posición.                    |
+| **Small** | 0.5 rem / 8 px    | Separación de elementos con dependencia semántica directa.           |
+| **Medium** | 1.0 rem / 16 px   | Relleno interno (*padding*) de componentes interactivos primarios.   |
+| **Large** | 1.5 rem / 24 px   | Margen entre componentes pertenecientes a un mismo bloque funcional. |
+| **X-Large** | 2.0 rem / 32 px   | Distancia entre contenedores de información independientes.          |
+| **Section** | 4.0 rem / 64 px   | Delimitación de secciones estructurales macro en la interfaz.        |
+<br>
+Unidad de Medida: El código debe implementar los márgenes y rellenos únicamente en `rem`. Queda descartado el uso de píxeles estáticos para estas propiedades.
+<br><br>
+Consistencia de Grilla: No se admiten medidas arbitrarias que rompan la escala de múltiplos de 8px detallada en la tabla superior.
+<br>
+<br>
+
+* **Dimensions**
+
+El estilo de comunicación de Kipu es directo y formal, priorizando la transmisión de datos sin interpretaciones dobles. Para los supervisores en obra, se emplea vocabulario técnico que acelera la lectura en el terreno, donde el tiempo es limitado. Se omiten los textos largos en favor de conceptos propios de la ingeniería y arquitectura, lo que agiliza las decisiones durante la ejecución de los proyectos.
+
+En el área administrativa, se conserva la formalidad requerida para el manejo financiero y de almacén. Al eliminar términos imprecisos, se asegura que las áreas contables interpreten correctamente los presupuestos y materiales requeridos. La plataforma se comporta como un medio de registro estricto, libre de narrativa irrelevante, garantizando que la documentación cumpla con las exigencias operativas del negocio.
+
 ### 4.1.2. Web Style Guidelines.
+Este apartado fija los criterios gráficos para crear una herramienta de nivel profesional. Su meta es unificar cómo se muestran los datos, para que los usuarios los analicen sin errores. Estas reglas exigen que todo elemento en pantalla tenga un propósito operativo, descartando cualquier adorno innecesario.
+
+La interfaz está diseñada bajo principios responsivos, adaptándose a pantallas móviles y monitores de escritorio. Así, la estructura de los componentes no se rompe y los trabajadores pueden consultar el sistema desde cualquier dispositivo en campo.
+
+El uso de patrones visuales repetitivos a lo largo del software disminuye el esfuerzo mental necesario para operarlo, haciendo que la navegación sea predecible.
+
+Finalmente, se emplea una jerarquía basada en contrastes y grosores de letra para ordenar la información densa. Esto hace que las notificaciones clave o los estados de los proyectos capten la atención de inmediato, dejando en segundo plano los detalles menores. Los tamaños y colores están pensados para dirigir la vista hacia las tareas urgentes.
+
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
 ### 4.2.2. Labeling Systems.
