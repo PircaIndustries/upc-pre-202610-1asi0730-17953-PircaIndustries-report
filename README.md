@@ -48,7 +48,7 @@
 |1\.1\.4|03/04/2026|Diego Antonio Ramos Hinostroza| Se agregó contenido relacionado con los Segmentos Objetivos.|
 |1\.2\.1|05/04/2026|Diego Antonio Ramos Hinostroza| Se implementó contenido relacionado con el diseño de entrevistas.|
 |1\.2\.2|10/04/2026|Diego Antonio Ramos Hinostroza| Se añadió contenido relacionado con el registro de las entrevistas.|
-|1\.2\.3|10/04/2026|Diego Antonio Ramos Hinostroza| Se realizó el análisis de cada una de las entrevistas.|
+|1\.2\.3|10/04/2026|Diego Antonio Ramos Hinostroza| Se agregó contenido relacionado con el Ubiquitous Language.|
 |1\.4\.0|09/04/2026|Paula Fernanda Montoya Nina| Se inició el Capítulo IV: Style Guidelines.|
 |1\.3\.0|10/04/2026|Neo Daniel Ramos Mera| Se agregaron épicas y user stories|
 </div><br><br>
@@ -1143,7 +1143,31 @@ Finalmente, al consultar sobre las características fundamentales que debería t
 ### 2.3.5. As-is Scenario Mapping.
 
 ## 2.4. Big Picture Event Storming.
-## 2.5. Ubiquitous Language
+## 2.4 Ubiquitous Language
+
+En esta sección se define el glosario de términos y conceptos fundamentales del dominio del negocio de construcción y arquitectura que manejamos dentro de la startup. Este lenguaje ubicuo asegura una comunicación efectiva y libre de ambigüedades entre los expertos del dominio, los usuarios (arquitectos, ingenieros y logísticos) y el equipo de desarrollo, evitando así la terminología técnica de software.
+
+* **Blue Print (Plano):** A highly detailed technical drawing or architectural design used as a guide for constructing, remodeling, or sanitizing a building. Within the platform, a blueprint represents a dynamic entity that undergoes multiple revisions (versions). It is the primary reference document that the field team uses to execute the physical work, making strict version control essential to prevent critical construction errors.
+
+* **Worksite (Obra):** The physical location or temporary endeavor where the construction, architecture, or sanitation project is actively being executed. The worksite is the core entity around which all logistical, budgetary, and personnel activities revolve. It acts as the central hub where material requests originate and where the progress of the execution is continuously tracked against the initial planning.
+
+* **Technical Dossier (Expediente Técnico):** A comprehensive set of technical documents, blueprints, descriptive memories, and specifications required by municipal authorities to approve and legalize a construction or sanitation project. Managing the lifecycle and deadlines of the dossier is a critical administrative task, as failing to submit amendments or updates on time can result in project paralysis.
+
+* **Site Manager (Residente de Obra / Supervisor):** The technical professional (typically an engineer or architect) who is physically present at the worksite and is directly responsible for overseeing the physical execution of the project. Their main responsibilities include tracking daily progress, ensuring compliance with the final version of the blueprints, and formally requesting necessary materials and tools from the central office to avoid workflow interruptions.
+
+* **Logistics Officer (Encargado de Logística):** The administrative staff member working from the central office (back-office) responsible for the supply chain, inventory management, and budget control. They receive material requests from the worksite, coordinate with suppliers, and ensure that the right materials arrive at the worksite at the exact required time, avoiding duplication of purchases or out-of-stock scenarios.
+
+* **Material Request (Requerimiento de Materiales):** A formal petition issued by the Site Manager from the worksite to the Logistics Officer, detailing the exact supplies, tools, or raw materials (e.g., cement, steel rods) needed to continue the construction execution. This request must be accurately tracked in real-time to prevent the common issue of informal or incorrect orders.
+
+* **Budget (Presupuesto):** The detailed and anticipated calculation of the financial costs required to execute a worksite project. Throughout the construction lifecycle, the platform continuously contrasts the estimated budget against the real executed expenses, providing the administrative team with visibility over financial deviations or cost overruns.
+
+* **Inventory (Inventario):** The real-time, centralized record of the quantity and location of construction materials, tools, and equipment owned by the company. It tracks items stored in the main warehouse as well as those distributed across multiple active worksites, enabling the logistics team to make informed purchasing decisions based on actual stock levels.
+
+* **Purchase Order (Orden de Compra):** A formal, legally binding document issued by the Logistics Officer and sent to a Supplier, authorizing the acquisition of specific materials or equipment required to replenish the inventory or supply a worksite directly. It ensures transparency and traceability in the company's external expenditures.
+
+* **Supplier (Proveedor):** An external third-party company or individual that provides the raw materials, specialized equipment, or tools required by the construction firm. Interactions with suppliers are managed by the logistics team through formal purchase orders to ensure timely delivery and exact material specifications.
+
+* **Dashboard (Panel de control):** A highly visual, centralized interface used primarily by the administrative and logistics teams to obtain an immediate overview of the company's status. It utilizes graphical elements (such as charts, indicators, and alerts) to summarize complex data related to budgets, stock levels, and worksite progress, enabling rapid decision-making without the need to manually review extensive data tables.
 
 ---
 # Capítulo III: Requirements Specification
