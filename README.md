@@ -411,7 +411,7 @@ Esta sección incluye la descripción de los segmentos asociados al dominio del 
 + **Gestores Operativos de Obra (Arquitectos e Ingenieros):**<br>
 Son aquellos profesionales encargados de la planificación, diseño y supervisión de proyectos de construcción y arquitectura en pequeñas y medianas empresas (PYMES). Pueden utilizar kipu para centralizar documentación técnica y automatizar el seguimiento de proyectos de edificación.
     + **Características demográficas:** Profesionales entre 28 y 55 años de edad que se desempeñan como ingenieros civiles, arquitectos, gerentes de proyecto y residentes de obra.<br>
-    + **Características geográficas:** Personas pertenecientes a zonas urbanas, operando principalmente en obras de Lima Metropolitana.<br><br>
+    + **Características geográficas:** Personas que residen y laboran en zonas urbanas a nivel nacional dentro del territorio peruano.<br><br>
 
 
 
@@ -419,7 +419,7 @@ Son aquellos profesionales encargados de la planificación, diseño y supervisi�
 + **Equipos de Logística y Administración:**<br>
 Son los colaboradores encargados del flujo de abastecimiento, control de presupuestos y gestión de inventarios desde la oficina central de la constructora o consultora. Utilizarían Kipu para recibir y gestionar los requerimientos de materiales en tiempo real, controlar los presupuestos operativos y agilizar la cadena de suministro interna para evitar paralizaciones.
     + **Características demográficas:** Personas entre 25 y 60 años de edad que trabajan como jefes de logística, asistentes administrativos, contadores o encargados de compras dentro del rubro de construcción.
-    + **Características geográficas:** Personas que residen y laboran en oficinas de Lima Metropolitana, Perú.<br><br>
+    + **Características geográficas:** Personas que residen y laboran en zonas urbanas a nivel nacional dentro del territorio peruano.<br><br>
 
 ---
 
