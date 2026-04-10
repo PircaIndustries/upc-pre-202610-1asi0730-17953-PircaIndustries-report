@@ -1138,11 +1138,15 @@ Finalmente, al consultar sobre las características fundamentales que debería t
 
 ### 2.3.1. User Personas.
 <br>
+
 **Segmento objetivo 1:** Gestores y Supervisores de Obra (Arquitectos e Ingenieros).
+
 <br>
  <img src="Resources/Artefactos/USER PERSONA - JULIAN CARBONERO.JPG" alt="Foto de User persona segmento 1"/>
 <br>
+
 **Segmento objetivo 2:** Equipos de Logística y Administración.
+
 <br>
 <img src="Resources/Artefactos/USER PERSONA - OLIVIA DA SILVA.JPG" alt="Foto de User persona segmento 1"/>
 
