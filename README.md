@@ -49,8 +49,8 @@
 |1\.2\.1|05/04/2026|Diego Antonio Ramos Hinostroza| Se implementó contenido relacionado con el diseño de entrevistas.|
 |1\.2\.2|10/04/2026|Diego Antonio Ramos Hinostroza| Se añadió contenido relacionado con el registro de las entrevistas.|
 |1\.2\.3|10/04/2026|Diego Antonio Ramos Hinostroza| Se realizó el análisis de cada una de las entrevistas.|
-|1\.4\.0|09/04/2026|Paula Fernanda Montoya NIna| Se inició el Capítulo IV: Style Guidelines.|
-
+|1\.4\.0|09/04/2026|Paula Fernanda Montoya Nina| Se inició el Capítulo IV: Style Guidelines.|
+|1\.3\.0|10/04/2026|Neo Daniel Ramos Mera| Se agregaron épicas y user stories|
 </div><br><br>
 
 ---
@@ -1150,10 +1150,33 @@ Finalmente, al consultar sobre las características fundamentales que debería t
 
 ## 3.1. User Stories.
 
+**EPICS**
+
+| Epic ID | Título | Descripción | Criterio de Aceptación |
+| :--- | :--- | :--- | :--- |
+| **EP01** | Gestión de Calidad y Trazabilidad (RNC) | Como Gestor Operativo, quiero registrar y verificar cada proceso de la obra para reducir los Resultados No Conformes (RNC). | **Escenario 1:** Registro de RNC <br>Dado que el usuario detecta una falla técnica, <br>Cuando completa el formulario de incidencia con fotos, <br>Entonces el sistema genera un ticket de trazabilidad. <br><br>**Escenario 2:** Cálculo de PPC <br>Dado que el usuario cierra las tareas del día, <br>Cuando accede al módulo de indicadores, <br>Entonces el sistema calcula automáticamente el Porcentaje de Plan Completado. |
+| **EP02** | Control de Suministros y Presupuesto Meta | Como Equipo de Logística, quiero centralizar las solicitudes de materiales para evitar sobrecostos y quiebres de stock. | **Escenario 1:** Validación de Presupuesto <br>Dado que el usuario intenta registrar una compra, <br>Cuando el monto excede el presupuesto asignado, <br>Entonces el sistema bloquea la transacción y muestra una alerta. <br><br>**Escenario 2:** Alerta de Stock <br>Dado que el usuario registra una salida de almacén, <br>Cuando el inventario llega al mínimo crítico, <br>Entonces el sistema envía una notificación automática de reposición. |
+| **EP03** | Visualización Técnica y Colaboración en Campo | Como Residente de Obra, quiero acceder a planos actualizados y cronogramas para evitar errores de construcción. | **Escenario 1:** Uso de Modo Obra <br>Dado que el usuario está bajo luz solar intensa, <br>Cuando activa el interruptor de alto contraste, <br>Entonces la interfaz cambia a colores oscuros y fuentes grandes. <br><br>**Escenario 2:** Control de Versiones <br>Dado que el usuario consulta un plano, <br>Cuando accede al historial del archivo, <br>Entonces el sistema muestra todas las versiones previas y sus responsables. |
+| **EP04** | Administración de Cuenta y Roles | Como usuario de PircaIndustries, quiero gestionar mi acceso y perfil según mi jerarquía en el proyecto. | **Escenario 1:** Registro de Usuario <br>Dado que el usuario accede por primera vez, <br>Cuando completa el formulario con sus datos y rol técnico, <br>Entonces el sistema crea la cuenta y otorga los permisos correspondientes. <br><br>**Escenario 2:** Edición de Perfil <br>Dado que el usuario desea actualizar su contacto, <br>Cuando modifica su información en la configuración, <br>Entonces los cambios se guardan y se reflejan en el directorio del proyecto. |
+
+<br><br>
+
+**USER STORIES**
+
 | Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
 | :--- | :--- | :--- | :--- | :--- |
-| **US-XX** | | | **Escenario 1:** <br>Dado que <br>Cuando <br>Entonces | **EP-XX** |
-| | | | | |
+| **US-01** | Registro de cuenta nueva | Como nuevo miembro del equipo, quiero registrarme en la plataforma para acceder a los datos del proyecto asignado. | **Escenario 1:** <br>Dado que el usuario accede por primera vez a la aplicación, <br>Cuando completa el formulario de registro con sus datos, <br>Entonces el sistema crea la cuenta y lo redirige al Dashboard. | **EP04** |
+| **US-02** | Visualización en "Modo Obra" | Como residente, quiero activar el tema de alto contraste para visualizar datos bajo luz solar intensa sin fatiga. | **Escenario 1:** <br>Dado que el usuario se encuentra en una inspección de campo, <br>Cuando activa el interruptor de "Modo Obra" en los ajustes, <br>Entonces la interfaz cambia a colores oscuros con fuentes de alta visibilidad. | **EP03** |
+| **US-03** | Registro de incidencia RNC | Como supervisor, quiero registrar un Resultado No Conforme con fotos para que el error sea subsanado de inmediato. | **Escenario 1:** <br>Dado que el usuario detecta una falla técnica en la estructura, <br>Cuando sube la descripción y la evidencia fotográfica al módulo RNC, <br>Entonces el sistema genera un ticket de alerta para el equipo de diseño. | **EP01** |
+| **US-04** | Solicitud formal de materiales | Como residente, quiero enviar pedidos de insumos desde la app para evitar errores de comunicación por canales informales. | **Escenario 1:** <br>Dado que el usuario requiere materiales para una partida específica, <br>Cuando completa el formulario de requerimiento técnico, <br>Entonces el ticket se envía al área de logística con un código de seguimiento. | **EP02** |
+| **US-05** | Alerta automática de stock crítico | Como encargado de almacén, quiero recibir avisos cuando el inventario sea bajo para evitar paralizar la construcción. | **Escenario 1:** <br>Dado que el usuario registra la salida de un material que llega a su límite mínimo, <br>Cuando el sistema procesa el despacho, <br>Entonces el indicador visual cambia a rojo y se emite una notificación de reposición. | **EP02** |
+| **US-06** | Firma digital de actas (Token) | Como ingeniero residente, quiero firmar actas de conformidad con un token para asegurar la validez legal del cierre de etapa. | **Escenario 1:** <br>Dado que el usuario verifica que la partida cumple los estándares, <br>Cuando ingresa el código de verificación enviado a su celular, <br>Entonces el documento PDF se sella digitalmente como aprobado. | **EP01** |
+| **US-07** | Validación de compra vs Presupuesto | Como jefe de compras, quiero que el sistema bloquee pedidos que excedan el presupuesto meta para evitar pérdidas de utilidad. | **Escenario 1:** <br>Dado que el usuario intenta procesar un pedido que excede el monto asignado, <br>Cuando presiona el botón de registrar compra, <br>Entonces el sistema muestra un mensaje de error y bloquea la transacción. | **EP02** |
+| **US-08** | Filtro de planos por especialidad | Como técnico, quiero filtrar los planos por tipo (Sanitarias, Eléctricas, etc.) para localizar el diseño vigente rápidamente. | **Escenario 1:** <br>Dado que el usuario visualiza la lista de documentos técnicos, <br>Cuando selecciona el filtro de la especialidad requerida, <br>Entonces la aplicación muestra únicamente los planos correspondientes a esa categoría. | **EP03** |
+| **US-09** | Cálculo automático de KPI (PPC) | Como gerente, quiero visualizar el Porcentaje de Plan Completado semanal para medir la productividad real de la obra. | **Escenario 1:** <br>Dado que el usuario ha marcado las tareas del día como finalizadas, <br>Cuando accede al reporte de desempeño semanal, <br>Entonces el sistema muestra gráficamente el porcentaje de avance logrado frente al planeado. | **EP01** |
+| **US-10** | Historial de cambios en planos | Como arquitecto, quiero ver el registro de versiones de un plano para asegurar que el equipo no use diseños obsoletos. | **Escenario 1:** <br>Dado que el usuario consulta los detalles de un plano específico, <br>Cuando abre la sección de historial de archivos, <br>Entonces el sistema lista todas las versiones previas con su respectiva fecha y responsable. | **EP03** |
+
+<br><br>
 
 ## 3.2. Impact Mapping
 
