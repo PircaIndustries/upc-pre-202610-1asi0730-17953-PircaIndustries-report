@@ -1137,6 +1137,15 @@ Finalmente, al consultar sobre las características fundamentales que debería t
 ## 2.3 Needfinding
 
 ### 2.3.1. User Personas.
+<br>
+**Segmento objetivo 1:** Gestores y Supervisores de Obra (Arquitectos e Ingenieros).
+<br>
+ <img src="Resources/Artefactos/USER PERSONA - JULIAN CARBONERO.jpg" alt="Foto de User persona segmento 1"/>
+<br>
+**Segmento objetivo 2:** Equipos de Logística y Administración.
+<br>
+<img src="Resources/Artefactos/USER PERSONA - OLIVIA DA SILVA.jpg" alt="Foto de User persona segmento 1"/>
+
 ### 2.3.2. User Task Matrix.
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
