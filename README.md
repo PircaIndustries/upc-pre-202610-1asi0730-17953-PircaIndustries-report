@@ -46,8 +46,9 @@
 |1\.1\.2|03/04/2026|Jhony Manuel Francia Torres| Se agregó contenido de Antecedentes y Problemática (5Ws y 2Hs).|
 |1\.1\.3|03/04/2026|Neo Daniel Ramos Mera| Se agregó contenido del Lean UX Process.|
 |1\.1\.4|03/04/2026|Diego Antonio Ramos Hinostroza| Se agregó contenido relacionado con los Segmentos Objetivos.|
-|1\.2\.1|05/04/2026|Diego Antonio Ramos Hinostroza| Se agregó contenido relacionado con el diseño de entrevistas.|
-|1\.2\.2|10/04/2026|Diego Antonio Ramos Hinostroza| Se realizó el análisis de cada una de las entrevistas.|
+|1\.2\.1|05/04/2026|Diego Antonio Ramos Hinostroza| Se implementó contenido relacionado con el diseño de entrevistas.|
+|1\.2\.2|10/04/2026|Diego Antonio Ramos Hinostroza| Se añadió contenido relacionado con el registro de las entrevistas.|
+|1\.2\.3|10/04/2026|Diego Antonio Ramos Hinostroza| Se realizó el análisis de cada una de las entrevistas.|
 |1\.4\.0|09/04/2026|Paula Fernanda Montoya NIna| Se inició el Capítulo IV: Style Guidelines.|
 
 </div><br><br>
@@ -1086,6 +1087,52 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 </table>
 
 ### 2.2.3 Análisis de entrevistas
+
+En esta sección presentaremos el análisis consolidado de las entrevistas realizadas a nuestros dos segmentos objetivos. Esta síntesis nos permite extraer información cualitativa y cuantitativa crucial para definir las funcionalidades, la arquitectura de la información y la línea visual (UI/UX) de nuestra aplicación.
+
+**Segmento objetivo 1:** Gestores y Supervisores de Obra (Arquitectos e Ingenieros).<br>
+
+A partir de las entrevistas realizadas a este primer segmento (conformado por profesionales en campo y oficina técnica), hemos podido notar que su flujo de trabajo depende en gran medida de software especializado (AutoCAD, ETABS, metodologías BIM), pero su comunicación y gestión diaria se sostiene en canales informales como WhatsApp y correos electrónicos. Su experiencia actual coordinando proyectos es frustrante debido a los cuellos de botella logísticos, la burocracia y la falta de comunicación asertiva y oportuna con los clientes o inversores. Los tres profesionales coinciden en que la asimetría de información genera retrasos y retrabajos. Consideran que una plataforma centralizada automatizaría sus procesos y ahorraría tiempo valioso. Además, sugirieron enfáticamente que la interfaz debe ser minimalista, personalizable y utilizar colores corporativos sobrios (azules, grises, neutros), incluyendo un modo oscuro o de alto contraste para facilitar la lectura de planos y datos cuando se encuentran directamente en la obra bajo la luz del sol.
+
+**Análisis por medio de herramientas estadísticas:**
+
+<div align="center">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Stadistics/segmento-objetivo-1-grafica-1.png?raw=true" alt="Canales de Comunicación">
+</div>
+<br>
+
+Las respuestas de nuestros entrevistados evidencian una dependencia absoluta de herramientas no especializadas para la gestión operativa. El 100% de los arquitectos e ingenieros entrevistados utilizan WhatsApp como medio principal para coordinar avances, lo cual centraliza el problema de la pérdida de trazabilidad en las obras.
+
+<div align="center">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Stadistics/segmento-objetivo-1-grafica-2.png?raw=true" alt="Principales Frustraciones"><br><br>
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Stadistics/segmento-objetivo-1-grafica-3.png?raw=true" alt="Disposición de Uso"><br><br>
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Stadistics/segmento-objetivo-1-grafica-4.png?raw=true" alt="Preferencias Visuales UI">
+</div>
+<br>
+
+Como se puede apreciar en los gráficos, las frustraciones están divididas equitativamente entre problemas de comunicación, coordinación logística y demoras en respuestas de clientes. Sin embargo, existe una unanimidad total (100%) en la disposición de implementar una plataforma centralizada que resuelva estos problemas. A nivel de diseño, la preferencia se inclina drásticamente hacia interfaces minimalistas y limpias que no sobrecarguen la vista del usuario en campo.<br><br>
+
+**Segmento objetivo 2:** Equipos de Logística y Administración.<br>
+
+Al finalizar las entrevistas a nuestro segundo segmento objetivo, logramos identificar un patrón crítico en el back-office de las constructoras y consultoras: el manejo de inventarios, presupuestos y compras se realiza de forma casi exclusiva mediante Microsoft Excel y coordinaciones telefónicas o por WhatsApp. Han atravesado por situaciones de alto riesgo, como compras duplicadas, envíos de materiales con especificaciones incorrectas (ej. distintos grosores de fierro) y quiebres de stock que paralizan la obra. Su mayor frustración es la falta de control en tiempo real y los desfases entre lo presupuestado y lo ejecutado. Por ello, consideran que una aplicación estructurada solucionaría estos vacíos. Sugirieron que la herramienta debe ser rápida, intuitiva y centralizada. En cuanto a la visualización de datos, prefieren un panel principal (Dashboard) muy gráfico y visual para resúmenes rápidos, respaldado por tablas detalladas para la auditoría de registros, todo envuelto en una paleta de colores suaves (pasteles, celestes y grises) que transmita orden y no fatigue la vista durante largas jornadas administrativas.
+
+**Análisis por medio de herramientas estadísticas:**
+
+<div align="center">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Stadistics/segmento-objetivo-2-grafica-1.png?raw=true" alt="Herramientas de Gestión Actual"><br><br>
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Stadistics/segmento-objetivo-2-grafica-2.png?raw=true" alt="Frecuencia de Errores Logísticos"><br><br>
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Stadistics/segmento-objetivo-2-grafica-3.png?raw=true" alt="Preferencias de Visualización de Datos">
+</div>
+<br>
+
+Según los datos recopilados, existe una correlación directa entre el uso exclusivo de Excel/WhatsApp y la alta incidencia de problemas en la cadena de suministro interna. La mayoría de los administrativos ha lidiado con retrasos o errores de material a causa de esta informalidad en la comunicación. Además, se destaca una fuerte preferencia por el uso de Dashboards interactivos por encima de las tablas estáticas tradicionales.
+
+<div align="center">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Stadistics/segmento-objetivo-2-grafica-4.png?raw=true" alt="Adjetivos Clave para la Aplicación">
+</div>
+<br>
+
+Finalmente, al consultar sobre las características fundamentales que debería tener la solución de software perfecta para su gestión diaria, los conceptos de "centralización", "rapidez" e "intuición" fueron los más repetidos, confirmando que la propuesta de valor de nuestra aplicación está directamente alineada con la eliminación de los dolores operativos de este sector.
 
 ## 2.3 Needfinding
 
