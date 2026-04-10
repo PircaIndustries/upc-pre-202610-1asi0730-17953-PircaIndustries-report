@@ -736,7 +736,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/PircaIndustries-OpenSource/upc-pre-202610-1asi0729-17952-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Harry-Rodas.png" alt="Entrevista Harry Rodas"></div></td>
+    <td><div align="center"><img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Harry-Rodas.png" alt="Entrevista Harry Rodas"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -802,7 +802,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/PircaIndustries-OpenSource/upc-pre-202610-1asi0729-17952-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Juan-Macedo.png" alt="Entrevista Juan Macedo"></div></td>
+    <td><div align="center"><img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Juan-Macedo.png" alt="Entrevista Juan Macedo"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -868,7 +868,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/PircaIndustries-OpenSource/upc-pre-202610-1asi0729-17952-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Vilma-Hinostroza.png" alt="Entrevista Vilma Hinostroza"></div></td>
+    <td><div align="center"><img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Vilma-Hinostroza.png" alt="Entrevista Vilma Hinostroza"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -936,7 +936,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/PircaIndustries-OpenSource/upc-pre-202610-1asi0729-17952-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Eliud-Lopez.png" alt="Entrevista Eliud Lopez"></div></td>
+    <td><div align="center"><img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Eliud-Lopez.png" alt="Entrevista Eliud Lopez"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -1002,7 +1002,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/PircaIndustries-OpenSource/upc-pre-202610-1asi0729-17952-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Nayeli-Huaman.png" alt="Entrevista Nayeli Huaman"></div></td>
+    <td><div align="center"><img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Nayeli-Huaman.png" alt="Entrevista Nayeli Huaman"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -1068,7 +1068,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/PircaIndustries-OpenSource/upc-pre-202610-1asi0729-17952-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Jacqueline-Herrera.png" alt="Entrevista Jeanela Herrera"></div></td>
+    <td><div align="center"><img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Jacqueline-Herrera.png" alt="Entrevista Jeanela Herrera"></div></td>
   </tr>
   <tr>
     <td>Link</td>
