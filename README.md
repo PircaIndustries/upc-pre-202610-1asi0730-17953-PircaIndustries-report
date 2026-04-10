@@ -91,9 +91,9 @@ https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries
   - [2.1. Competidores](#21-competidores)
     - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
     - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
-  - [2.2 Entrevistas](#22-entrevistas)
-    - [2.2.1 Diseño de entrevistas](#221-diseño-de-entrevistas)
-    - [2.2.2 Registro de Entrevistas](#222-registro-de-entrevistas)
+  - [2.2. Entrevistas](#22-entrevistas)
+    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+    - [2.2.2. Registro de Entrevistas](#222-registro-de-entrevistas)
     - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
   - [2.3. Needfinding](#23-needfinding)
     - [2.3.1. User Personas](#231-user-personas)
@@ -406,7 +406,7 @@ Los ingenieros residentes y gestores de obra carecen de una plataforma segura y 
 </table>
 
 
-## 1.3 Segmentos Objetivo
+## 1.3. Segmentos Objetivo
 Esta sección incluye la descripción de los segmentos asociados al dominio del problema, incluyendo características geográficas y demográficas. Por lo tanto, con el fin de desarrollar un producto que satisfaga las necesidades operativas de nuestros usuarios, PircaIndustries se enfocará en los siguientes segmentos de la población:
 + **Gestores Operativos de Obra (Arquitectos e Ingenieros):**<br>
 Son aquellos profesionales encargados de la planificación, diseño y supervisión de proyectos de construcción y arquitectura en pequeñas y medianas empresas (PYMES). Pueden utilizar kipu para centralizar documentación técnica y automatizar el seguimiento de proyectos de edificación.
@@ -577,7 +577,7 @@ Nuestra estrategia se centrará en el **liderazgo de pensamiento y confianza aca
 * **Táctica de Soporte Local:** Ofrecer asistencia técnica personalizada y en tiempo real en español, enfocada en resolver dudas sobre la normativa de construcción local, superando la debilidad de soporte remoto de los competidores extranjeros.
 * **Táctica de Demostración Ágil:** Implementar un periodo de prueba de 14 días sin necesidad de tarjetas de crédito ni instalación de hardware, atacando directamente la debilidad de otro tipo de software como ObraLink (que requiere sensores físicos) y facilitando la digitalización de PYMEs constructoras.
 
-## 2.2 Entrevistas
+## 2.2. Entrevistas
 
 
 En esta sección se abordará la investigación en base a la información que se obtendrá de los segmentos entrevistados con el objetivo de conocer mejor a nuestros segmentos objetivos y aprender de ellos y sus procesos.
@@ -585,7 +585,7 @@ En esta sección se abordará la investigación en base a la información que se
 
 
 
-### 2.2.1 Diseño de entrevistas
+### 2.2.1. Diseño de entrevistas
 
 
 **Segmento objetivo 1:** Gestores Operativos de Obra (Arquitectos e Ingenieros)
@@ -682,7 +682,7 @@ Desde ya quiero agradecerle por su presencia y tiempo que me está brindando.
 Bueno esto ha sido todo por esta ocasión, una vez más quisiera agradecerle por su tiempo, muchas gracias y hasta luego.<br><br>
 
 
-### 2.2.2 Registro de entrevistas
+### 2.2.2. Registro de entrevistas
 
 
 En esta sección presentamos los registros de las entrevistas que hicimos para cada segmento objetivo de nuestra aplicación.
@@ -1086,7 +1086,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 </tbody>
 </table>
 
-### 2.2.3 Análisis de entrevistas
+### 2.2.3. Análisis de entrevistas
 
 En esta sección presentaremos el análisis consolidado de las entrevistas realizadas a nuestros dos segmentos objetivos. Esta síntesis nos permite extraer información cualitativa y cuantitativa crucial para definir las funcionalidades, la arquitectura de la información y la línea visual (UI/UX) de nuestra aplicación.
 
@@ -1143,7 +1143,7 @@ Finalmente, al consultar sobre las características fundamentales que debería t
 ### 2.3.5. As-is Scenario Mapping.
 
 ## 2.4. Big Picture Event Storming.
-## 2.4 Ubiquitous Language
+## 2.5. Ubiquitous Language
 
 En esta sección se define el glosario de términos y conceptos fundamentales del dominio del negocio de construcción y arquitectura que manejamos dentro de la startup. Este lenguaje ubicuo asegura una comunicación efectiva y libre de ambigüedades entre los expertos del dominio, los usuarios (arquitectos, ingenieros y logísticos) y el equipo de desarrollo, evitando así la terminología técnica de software.
 
