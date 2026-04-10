@@ -47,6 +47,7 @@
 |1\.1\.3|03/04/2026|Neo Daniel Ramos Mera| Se agregó contenido del Lean UX Process.|
 |1\.1\.4|03/04/2026|Diego Antonio Ramos Hinostroza| Se agregó contenido relacionado con los Segmentos Objetivos.|
 |1\.2\.1|05/04/2026|Diego Antonio Ramos Hinostroza| Se agregó contenido relacionado con el diseño de entrevistas.|
+|1\.2\.2|10/04/2026|Diego Antonio Ramos Hinostroza| Se realizó el análisis de cada una de las entrevistas.|
 |1\.4\.0|09/04/2026|Paula Fernanda Montoya NIna| Se inició el Capítulo IV: Style Guidelines.|
 
 </div><br><br>
@@ -681,6 +682,408 @@ Bueno esto ha sido todo por esta ocasión, una vez más quisiera agradecerle por
 
 
 ### 2.2.2 Registro de entrevistas
+
+
+En esta sección presentamos los registros de las entrevistas que hicimos para cada segmento objetivo de nuestra aplicación.
+
+
+**Segmento Objetivo 1: Gestores y Supervisores de Obra**<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Harry Josué</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Rodas Oliveros</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>23 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Comas</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones y Canales Utilizados</td>
+    <td>Google Meet, WhatsApp, Facebook, Instagram, AutoCAD, software BIM</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Automatizar procesos colaborativos en proyectos de gran escala y brindar las mejores soluciones técnicas orientando al cliente de manera eficaz.</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>La falta de comunicación asertiva; existe una gran brecha de entendimiento entre lo que el cliente "quiere" y lo que realmente "necesita".</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Laptop, Smartphone</td>
+  </tr>
+  <tr>
+    <td>Preferencias Visuales</td>
+    <td>Letras mayúsculas y cursivas para lectura rápida de títulos. Colores neutros (blanco, grises, negro, marrones) y tonos azules por familiaridad con programas de diseño. Interfaz altamente personalizable (estilo Photoshop) para ver todas las opciones posibles.</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/PircaIndustries-OpenSource/upc-pre-202610-1asi0729-17952-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Harry-Rodas.png" alt="Entrevista Harry Rodas"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224130_upc_edu_pe/IQD0ILyKaMoNQpmNfCo1snWaAcy9g1v0gUypY4lI6AXDFz4?e=PUUEew&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Mi41Mn19" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>00:02 min - 06:32 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Arquitecto y diseñador joven orientado al trabajo colaborativo en proyectos de gran escala (BIM). Su mayor dolor es la brecha de comunicación para aterrizar las ideas del cliente. Valora interfaces altamente personalizables con colores corporativos sobrios que le permitan tener todo el control de sus herramientas en pantalla.</td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Juan</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Macedo Gutiérrez</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>55 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Mariscal Nieto (Moquegua)</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones y Canales Utilizados</td>
+    <td>AutoCAD, ETAPS, WhatsApp, correos electrónicos</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Elaborar proyectos que cumplan estrictamente con el Reglamento Nacional de Edificaciones, automatizando los procesos para no perder tiempo.</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Los cuellos de botella logísticos y la carga burocrática que acortan los plazos y terminan atrasando la ejecución de las obras.</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Computadora, laptop</td>
+  </tr>
+  <tr>
+    <td>Preferencias Visuales</td>
+    <td>Interfaz en modo oscuro (colores opacos/escalas de grises) para evitar la resolana del sol al salir a obra. Diseño extremadamente minimalista y limpio para lectura rápida ("mientras menos tenga la pantalla, lo leo más rápido").</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/PircaIndustries-OpenSource/upc-pre-202610-1asi0729-17952-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Juan-Macedo.png" alt="Entrevista Juan Macedo"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224130_upc_edu_pe/IQD0ILyKaMoNQpmNfCo1snWaAcy9g1v0gUypY4lI6AXDFz4?e=cxMScj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzkyLjk4fX0%3D" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>06:32 min - 16:10 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Arquitecto veterano con experiencia en el sector público y privado. Sufre constantemente por los retrasos logísticos y burocráticos que paralizan sus obras. Requiere una plataforma minimalista, sin sobrecarga de datos, y con un modo oscuro nativo que le permita visualizar información desde su laptop bajo el sol directo de la obra.</td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Vilma Consuelo</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Hinostroza Palpa</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>47 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>San Martín de Porres</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones y Canales Utilizados</td>
+    <td>WhatsApp, correo, Google Meet, AutoCAD, ETABS</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Implementar una plataforma centralizada que comunique al equipo técnico y envíe alertas automáticas al cliente para que vea el progreso gradual de su inversión.</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>La asincronía y lentitud en la comunicación. Los clientes no verifican la información de manera oportuna y demoran en responder sobre los avances.</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Laptop, Smartphone</td>
+  </tr>
+  <tr>
+    <td>Preferencias Visuales</td>
+    <td>Íconos grandes y diferenciación clara por colores para uso rápido en obra. Colores corporativos: azul (desarrollo), negro (orden), blanco (limpieza) y gris. Prefiere un diseño limpio y minimalista.</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/PircaIndustries-OpenSource/upc-pre-202610-1asi0729-17952-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Vilma-Hinostroza.png" alt="Entrevista Vilma Hinostroza"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224130_upc_edu_pe/IQD0ILyKaMoNQpmNfCo1snWaAcy9g1v0gUypY4lI6AXDFz4?e=30ZDJP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6OTcwLjYyfX0%3D" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>16:10 min - 23:34 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Gerente General enfocada en la gestión comercial y coordinación operativa. Busca desesperadamente automatizar el flujo de información hacia sus clientes mediante alertas en tiempo real. Necesita una interfaz limpia, con íconos grandes e intuitivos que soporten el ritmo acelerado de las inspecciones en obra.</td>
+  </tr>
+</tbody>
+</table>
+
+<br><br>
+
+**Segmento Objetivo 2: Equipos de Logística y Administración**<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #4<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Eliud</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>López Torres</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>26 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Los Olivos</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones y Canales Utilizados</td>
+    <td>Excel, Word, AutoCAD, Revit, SketchUp, WhatsApp, correos electrónicos</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Lograr un trabajo de equipo centralizado, ordenado y eficiente, eliminando los desfases de información.</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>La falta de control de inventarios en tiempo real. Los desfases constantes entre lo presupuestado y lo ejecutado, así como los retrasos de materiales por tener la información dispersa en Excel.</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>PC de escritorio</td>
+  </tr>
+  <tr>
+    <td>Preferencias Visuales</td>
+    <td>Colores neutros y profesionales (gris y azul). Prefiere visualización en formato Dashboard (paneles principales con gráficos e indicadores de resumen) en lugar de tablas estáticas. La app debe ser "intuitiva, rápida y centralizada".</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/PircaIndustries-OpenSource/upc-pre-202610-1asi0729-17952-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Eliud-Lopez.png" alt="Entrevista Eliud Lopez"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224130_upc_edu_pe/IQD0ILyKaMoNQpmNfCo1snWaAcy9g1v0gUypY4lI6AXDFz4?e=oqWIZB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTQxNi42Mn19" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>23:36 min - 29:41 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Jefe de Proyectos que asume carga administrativa y logística. Lidia diariamente con quiebres de stock y desfases presupuestales causados por la desconexión de manejar todo en Excel y WhatsApp. Su solución ideal es un dashboard altamente visual e intuitivo que centralice el estado real del suministro.</td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #5<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Nayeli Sabrina</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Guaman Romero</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>24 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>San Martín de Porres</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones y Canales Utilizados</td>
+    <td>AutoCAD, Google Earth, plataformas municipales, WhatsApp, llamadas, correos</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Mejorar la organización para entregar expedientes adecuadamente y a tiempo, evitando subsanaciones tardías.</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>La falta de control sobre los tiempos límite de entrega o subsanación de expedientes, lo que provoca que se venzan los plazos debido a la carga de pendientes y mala coordinación inicial.</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Computadoras, móviles</td>
+  </tr>
+  <tr>
+    <td>Preferencias Visuales</td>
+    <td>Colores claros y neutros (blancos, grises, celestes). A nivel funcional, prefiere tablas de datos muy detalladas para su uso personal/administrativo, pero gráficos visuales cuando se trata de exponer al cliente.</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/PircaIndustries-OpenSource/upc-pre-202610-1asi0729-17952-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Nayeli-Huaman.png" alt="Entrevista Nayeli Huaman"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224130_upc_edu_pe/IQD0ILyKaMoNQpmNfCo1snWaAcy9g1v0gUypY4lI6AXDFz4?e=SEKWRk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTc4MS40Nn19" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>29:41 min - 35:59 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Asistente de arquitectura enfocada en trámites y elaboración de expedientes técnicos. Su mayor dolor es la desorganización de los tiempos y fechas de vencimiento. Requiere una plataforma rápida y centralizada con tablas de registros minuciosos y un diseño limpio en tonos claros (celestes/grises).</td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #6<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Jacqueline Jeanela</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Herrera Huerta</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>30 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Pumabamba, Ancash</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones y Canales Utilizados</td>
+    <td>Excel, Correos, WhatsApp, llamadas</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Garantizar que los insumos requeridos lleguen en el tiempo exacto y con las unidades correctas para no frenar la construcción.</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Compras "informales" mal gestionadas. Los materiales no llegan a tiempo, llegan incompletos o con especificaciones técnicas equivocadas (ej. varillas de metal de otra medida) por coordinar presupuestos únicamente vía WhatsApp.</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Computadora de escritorio</td>
+  </tr>
+  <tr>
+    <td>Preferencias Visuales</td>
+    <td>Escala de grises, azules y colores pasteles suaves (sin mucho contraste para no alterar la vista). Prefiere un panel principal (dashboard) gráfico que permita seleccionar la información requerida en el momento.</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/PircaIndustries-OpenSource/upc-pre-202610-1asi0729-17952-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Jacqueline-Herrera.png" alt="Entrevista Jeanela Herrera"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224130_upc_edu_pe/IQD0ILyKaMoNQpmNfCo1snWaAcy9g1v0gUypY4lI6AXDFz4?e=8XDWkg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjE1OS44Nn19" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>35:59 min - 42:26 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Arquitecta encargada de oficina responsable del flujo logístico y saneamiento. Ha experimentado paralizaciones críticas en obra debido a errores humanos al solicitar materiales por canales informales. Necesita urgentemente un sistema gráfico (Dashboard) con colores suaves que garantice el control inmutable de cantidades y tiempos de entrega.</td>
+  </tr>
+</tbody>
+</table>
 
 ### 2.2.3 Análisis de entrevistas
 
