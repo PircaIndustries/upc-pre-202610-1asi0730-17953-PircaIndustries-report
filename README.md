@@ -648,7 +648,7 @@ Desde ya quiero agradecerle por su presencia y tiempo que me está brindando.
 **Perfilamiento y Demografía:**
 
 
-1. ¿Podrías indicarme tu nombre, edad, distrito de residencia y estado civil?
+1. ¿Podría indicarme su nombre, edad, distrito de residencia y estado civil?
 2. ¿A qué se dedica exactamente y qué cargo ocupa dentro de la empresa?
 3. ¿Podría describirme brevemente cómo es un día típico de trabajo gestionando presupuestos, compras o materiales para los proyectos de la empresa?
 
