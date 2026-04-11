@@ -1143,7 +1143,7 @@ Finalmente, al consultar sobre las características fundamentales que debería t
 
 <br>
 
- <img src="Resources/Artefactos/USER PERSONA - JULIAN CARBONERO.JPG" alt="Foto de User persona segmento 1"/>
+ <img src="Resources/Artefactos/User Persona - Julian Carbonero.png" alt="Foto de User persona segmento 1"/>
  
 <br>
 
@@ -1151,7 +1151,7 @@ Finalmente, al consultar sobre las características fundamentales que debería t
 
 <br>
 
-<img src="Resources/Artefactos/USER PERSONA - OLIVIA DA SILVA.JPG" alt="Foto de User persona segmento 1"/>
+<img src="Resources/Artefactos/User Persona - Olivia Da Silva.png" alt="Foto de User persona segmento 2"/>
 
 ### 2.3.2. User Task Matrix.
 ### 2.3.3. User Journey Mapping.
