@@ -1159,6 +1159,11 @@ Finalmente, al consultar sobre las características fundamentales que debería t
 <img src="Resources/Artefactos/User Persona - Olivia Da Silva.png" alt="Foto de User persona segmento 2"/>
 
 ### 2.3.2. User Task Matrix.
+<br>
+Para comprender las acciones realizadas por nuestros usuarios en su día a día, se elaboró una matriz de tareas que identifica las actividades más comunes relacionadas a la gestión de proyectos de construcción. Esta herramienta nos permitió reconocer los problemas que sufren en el desarrollo de sus proyectos, las actividades en las que podrían requerir de apoyo y Kipu podría aportar mayor valor como solución. En particular, se analizaron las rutinas tanto de gestores y supervisores de obra, que requieren planificación constante con herramientas de apoyo, como de equipos de logística y administración, que enfrentan necesidades de registro de inventario y auditoria.
+<br>
+
+
 ### 2.3.3. User Journey Mapping.
 
 <br>
