@@ -50,6 +50,7 @@
 |1\.2\.1|05/04/2026|Diego Antonio Ramos Hinostroza| Se implementó contenido relacionado con el diseño de entrevistas.|
 |1\.2\.2|10/04/2026|Diego Antonio Ramos Hinostroza| Se añadió contenido relacionado con el registro de las entrevistas.|
 |1\.2\.3|10/04/2026|Diego Antonio Ramos Hinostroza| Se agregó contenido relacionado con el Ubiquitous Language.|
+|1\.2\.4|10/04/2026|Jhony Manuel Francia Torres| Se agregó el contenido de los artefactos en el Needfinding (User Persona, User Task Matrix, Empathy Mapping, User Journey Mapping)|
 |1\.4\.0|09/04/2026|Paula Fernanda Montoya Nina| Se inició el Capítulo IV: Style Guidelines.|
 |1\.3\.0|10/04/2026|Neo Daniel Ramos Mera| Se agregaron épicas y user stories|
 |1\.3\.1|10/04/2026|Adrian Fernando Palacios Tinoco| Se agregó contenido sobre el event storming|
