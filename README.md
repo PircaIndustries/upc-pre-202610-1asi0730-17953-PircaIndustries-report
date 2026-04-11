@@ -51,6 +51,7 @@
 |1\.2\.3|10/04/2026|Diego Antonio Ramos Hinostroza| Se agregó contenido relacionado con el Ubiquitous Language.|
 |1\.4\.0|09/04/2026|Paula Fernanda Montoya Nina| Se inició el Capítulo IV: Style Guidelines.|
 |1\.3\.0|10/04/2026|Neo Daniel Ramos Mera, Diego Antonio Ramos Hinostroza| Se agregaron épicas y user stories|
+|1\3.\.1|10/04/2026|Neo Daniel Ramos Mera| Se agregó contenido del Impact Mapping|
 </div><br><br>
 
 ---
@@ -1233,6 +1234,16 @@ En esta sección se define el glosario de términos y conceptos fundamentales de
 | **US-26** | Registro de material dañado y sobrante por jornada | Como almacenero de obra, quiero registrar por jornada la cantidad de material dañado o sobrante (con foto opcional), para que el sistema acumule esos datos y ayude a ajustar futuras compras reduciendo desperdicios. | **Escenario 1 (Material dañado):** <br>Dado que el usuario identifica material dañado durante la jornada, <br>Cuando completa el formulario de desperdicios con cantidad, tipo de material y foto opcional, <br>Entonces el sistema registra la pérdida y la descuenta automáticamente del inventario. <br><br>**Escenario 2 (Material sobrante):** <br>Dado que el usuario tiene material sobrante que será devuelto al proveedor, <br>Cuando ingresa los datos en el módulo de devoluciones, <br>Entonces el sistema genera una nota de crédito sugerida y ajusta el stock disponible. | **EP02** |
 
 ## 3.2. Impact Mapping
+
+**Segmento objetivo 1:** Gestores y Supervisores de Obra (Arquitectos e Ingenieros).
+
+<img src="Resources/ImpactMapping/Gestor y supervisor impact map.png">
+
+**Segmento objetivo 2:** Equipos de Logística y Administración.
+
+<img src="Resources/ImpactMapping/Logística y administración impact map.png">
+
+
 
 ## 3.3. Product Backlog
 
