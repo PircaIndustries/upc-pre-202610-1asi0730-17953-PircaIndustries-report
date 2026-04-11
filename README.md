@@ -1166,15 +1166,6 @@ Para comprender las acciones realizadas por nuestros usuarios en su día a día,
 |**N°**|**Task Matrix**|**Julian Carbonero (Supervisor de Obra)**|**Olivia Da Silva (Ayudante de Logística)**|
 | - | - | - | - |
 | 1 | Consultar la versión vigente de los planos técnicos | F: Siempre, I: Alta | F: Ocasionalmente, I: Media |	
-| Montoya Nina Paula Fernanda             | U20241d934     | a | s |
-| Palacios Tinoco Adrian Fernando         | U202410817     | a | s |
-| Ramos Hinostroza Diego Antonio          | U202224130     | a | s |
-| Ramos Mera Neo Daniel                   | U20241e418     | a | s |
-
-|**N°**|**Task Matrix**|**Julian Carbonero (Supervisor de Obra)**|**Olivia Da Silva (Ayudante de Logística)**|<br>
-|------|---------------|-----------------------------------------|-------------------------------------------|
-|\.|\.|Frecuencia e Importancia|Frecuencia e Importancia|
-| 1 | Consultar la versión vigente de los planos técnicos | F: Siempre, I: Alta | F: Ocasionalmente, I: Media |
 | 2 | Registrar el porcentaje de avances completados | F: Siempre, I: Alta | F: Pocas veces, I: Baja |
 | 3 | Solicitar materiales o  herramientas adicionales | F: A veces, I: Alta | F: Regularmente, I: Alta |
 | 4 | Reportar resultados inconformes e incidentes | F: A veces, I: Alta | F: A veces, I: Media |
