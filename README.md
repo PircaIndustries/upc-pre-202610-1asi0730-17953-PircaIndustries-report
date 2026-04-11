@@ -1157,6 +1157,22 @@ Finalmente, al consultar sobre las características fundamentales que debería t
 ### 2.3.2. User Task Matrix.
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
+<br>
+
+**Segmento objetivo 1:** Gestores y Supervisores de Obra (Arquitectos e Ingenieros).
+
+<br>
+
+ <img src="Resources/Artefactos/Empathy Mapping - Julian Carbonero.png" alt="Foto de Empathy Mapping segmento 1"/>
+ 
+<br>
+
+**Segmento objetivo 2:** Equipos de Logística y Administración.
+
+<br>
+
+<img src="Resources/Artefactos/Empathy Mapping - Olivia Da Silva.png" alt="Foto de Empathy Mapping segmento 2"/>
+
 ### 2.3.5. As-is Scenario Mapping.
 
 ## 2.4. Big Picture Event Storming.
