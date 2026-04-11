@@ -1163,11 +1163,8 @@ Finalmente, al consultar sobre las características fundamentales que debería t
 Para comprender las acciones realizadas por nuestros usuarios en su día a día, se elaboró una matriz de tareas que identifica las actividades más comunes relacionadas a la gestión de proyectos de construcción. Esta herramienta nos permitió reconocer los problemas que sufren en el desarrollo de sus proyectos, las actividades en las que podrían requerir de apoyo y Kipu podría aportar mayor valor como solución. En particular, se analizaron las rutinas tanto de gestores y supervisores de obra, que requieren planificación constante con herramientas de apoyo, como de equipos de logística y administración, que enfrentan necesidades de registro de inventario y auditoria.
 <br>
 |**N°**|**Task Matrix**|**Julian Carbonero (Supervisor de Obra)**|**Olivia Da Silva (Ayudante de Logística)**|
-|:---:|:---|:---:|:---:|:---:|:---:|
-| | | **Frecuencia** | **Importancia** | **Frecuencia** | **Importancia** |
-| **1** | Planificar rutas accesibles antes de salir de casa | Casi Siempre | Alta | Frecuentemente | Alta |
-| **2** | Consultar a familiares o conocidos sobre accesibilidad de lugares | Frecuentemente | Alta | Ocasionalmente | Media |
-| **3** | Usar redes sociales para prever trayectos | Ocasionalmente | Media | Casi siempre | Alta |
+|-|-|-|-|
+
 
 ### 2.3.3. User Journey Mapping.
 
