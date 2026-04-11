@@ -1162,21 +1162,9 @@ Finalmente, al consultar sobre las características fundamentales que debería t
 <br>
 Para comprender las acciones realizadas por nuestros usuarios en su día a día, se elaboró una matriz de tareas que identifica las actividades más comunes relacionadas a la gestión de proyectos de construcción. Esta herramienta nos permitió reconocer los problemas que sufren en el desarrollo de sus proyectos, las actividades en las que podrían requerir de apoyo y Kipu podría aportar mayor valor como solución. En particular, se analizaron las rutinas tanto de gestores y supervisores de obra, que requieren planificación constante con herramientas de apoyo, como de equipos de logística y administración, que enfrentan necesidades de registro de inventario y auditoria.
 <br>
-| **N°** | **Task Matrix**                                                    | **Julian Carbonero (Supervisor de Obra)** | **Olivia Da Silva (Ayudante de Logística)** |
-| - | - | - | - |
-|\.|\.|\.|\.|
-|1|Consultar la versión vigente de los planos técnicos|F: Siempre, I: Alta|F: Ocasionalmente, I: Media|
-
-| 2      | Registrar el porcentaje de avances completados                     | F: Siempre, I: Alta                       | F: Pocas veces, I: Baja                     |
-| 3      | Solicitar materiales o  herramientas adicionales                   | F: A veces, I: Alta                       | F: Regularmente, I: Alta                    |
-| 4      | Reportar resultados inconformes e incidentes                       | F: A veces, I: Alta                       | F: A veces, I: Media                        |
-| 5      | Monitorear inventario y alertar stock insuficiente                 | F: Ocasionalmente, I: Media               | F: Siempre, I: Alta                         |
-| 6      | Firmar digitalmente actas de conformidad o cierre de etapa         | F: Ocasionalmente, I: Media               | F: Siempre, I: Alta                         |
-| 7      | Consultar el cronograma de fechas límite de expedientes            | F: Pocas veces, I: Media                  | F: Regularmente, I: Alta                    |
-| 8      | Generar reportes visuales para los inversores                      | F: Ocasionalmente, I: Alta                | F: Pocas veces, I: Baja                     |
-| 9      | Formalizar pedidos de compra para evitar coordinaciones informales | F: Regularmente, I: Alta                  | F: A veces, I: Alta                         |
-| 10     | Monitorear el impacto de gastos en el Retorno de Inversión         | F: Regularmente, I: Alta                  | F: A veces, I: Alta                         |
-
+|**N°**|**Task Matrix**|**Julian Carbonero (Supervisor de Obra)**|**Olivia Da Silva (Ayudante de Logística)**|
+|------|---------------|-----------------------------------------|-------------------------------------------|
+|\.|\.|Frecuencia e Importancia|Frecuencia e Importancia|
 
 ### 2.3.3. User Journey Mapping.
 
