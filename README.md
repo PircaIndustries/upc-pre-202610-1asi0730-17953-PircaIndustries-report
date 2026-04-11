@@ -56,6 +56,7 @@
 |1\.3\.1|10/04/2026|Adrian Fernando Palacios Tinoco| Se agregó contenido sobre el event storming|
 |1\.3\.0|10/04/2026|Neo Daniel Ramos Mera, Diego Antonio Ramos Hinostroza, Paula Fernanda Montoya Nina| Se agregaron épicas y user stories|
 |1\3.\.1|10/04/2026|Neo Daniel Ramos Mera| Se agregó contenido del Impact Mapping|
+|1\.3\.2|10/04/2026|Jhony Manuel Francia Torres| Se agregó épicas y user stories|
 
 </div><br><br>
 
