@@ -1218,6 +1218,54 @@ Para comprender las acciones realizadas por nuestros usuarios en su día a día,
 
 ## 2.4. Big Picture Event Storming.
 
+### Fase 1: Big Picture Event Storming - Chaos Exploration
+
+En esta etapa inicial, el equipo de **PircaIndustries** se enfocó en capturar la línea de tiempo de los eventos de dominio. Un **evento de dominio** es algo que sucede en el negocio, que es de interés para los expertos (arquitectos, ingenieros, gestores) y que se escribe siempre en **tiempo pasado**.
+
+El objetivo no fue establecer un orden perfecto desde el inicio, sino obtener una **visibilidad total** de lo que ocurre dentro de **Kipu**, abarcando desde que un usuario se registra hasta que un documento es legalmente firmado o una obra es supervisada en campo.
+
+---
+
+### Fase 1: Big Picture Event Storming - Adding commands and users.
+
+
+### 2. Categorización de Eventos Identificados
+Durante la lluvia de ideas, identificamos que los eventos orbitan alrededor de conceptos clave que definen nuestra solución:
+
+#### A. Flujos de Identidad (Identity)
+Se capturaron los eventos que garantizan la seguridad y el acceso, esenciales para una plataforma profesional de alta confianza:
+* `User registered`
+* `Account verified`
+* `Permissions updated`
+
+#### B. Ciclo de Vida del Proyecto y Planificación
+Eventos que reflejan la estructura organizativa de una obra y su cronograma:
+* **Gestión de Proyecto:** `Project created`, `Member added to project`.
+* **Planificación:** `Schedule created`, `Task scheduled`, `Deadline modified`.
+
+#### C. Gestión Técnica y Legal (El valor diferencial de Kipu)
+Aquí capturamos la esencia de la modernización que propone **PircaIndustries** para centralizar la información dispersa:
+* **Planos:** `Blueprint uploaded`, `Blueprint rejected`, `Blueprint approved`.
+* **Legalidad:** `Document uploaded`, `Document sent for signature`, `Document signed`, `Document approved`.
+* **Finanzas:** `Budget created`, `Budget approved`, `Cost modified`.
+
+#### D. Ejecución y Control en Campo
+Eventos críticos que ocurren durante la fase de construcción real para asegurar la precisión operativa:
+* `Progress recorded`
+* `Progress observed` (detección de errores en obra)
+* `Progress approved`
+
+#### E. Comunicación y Notificaciones
+La capa transversal diseñada para eliminar la fragmentación de la información y la dependencia de procesos manuales:
+* `Comment added`
+* `Notification sent`
+* `Notification read`
+* `File shared`
+
+<img src="Resources/Big-Picture-Event-Storming/Event-Storming-Step-1.PNG" alt="Foto de Big Picture Event Storming - Step 1"/>
+
+---
+
 ## 2.5. Ubiquitous Language
 
 En esta sección se define el glosario de términos y conceptos fundamentales del dominio del negocio de construcción y arquitectura que manejamos dentro de la startup. Este lenguaje ubicuo asegura una comunicación efectiva y libre de ambigüedades entre los expertos del dominio, los usuarios (arquitectos, ingenieros y logísticos) y el equipo de desarrollo, evitando así la terminología técnica de software.
