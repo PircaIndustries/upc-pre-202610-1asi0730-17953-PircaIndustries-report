@@ -1322,6 +1322,51 @@ Lo mismo ocurre con el sistema de alertas generales. El evento de notificación 
 
 <img src="Resources/Big-Picture-Event-Storming/step-3-Big picture event storming 1.2.PNG" alt="Foto de Big Picture Event Storming - Step 3"/>
 
+## Fase 4: Definición de Agregados
+
+En esta etapa de diseño de **Kipu**, organizamos toda la información anterior en grupos lógicos llamados **Agregados**. Cada agregado actúa como un contenedor responsable de una parte específica del negocio, asegurando que las reglas se cumplan y la información se mantenga íntegra y ordenada.
+
+---
+
+#### Agregado: User
+Es el corazón del acceso al sistema. Se encarga de todo lo relacionado con la identidad de las personas, desde que alguien se registra y verifica su cuenta hasta el control detallado de sus capacidades mediante la asignación de roles y permisos específicos.
+
+<img src="Resources/Big-Picture-Event-Storming/step-4-Big picture Event Storming-User.PNG"alt="Foto de Big Picture Event Storming - Step 4"/>
+
+#### Agregado: Project
+Este es el contenedor principal de la obra. Aquí se gestiona la existencia del proyecto mismo: su creación, actualización y administración general. También controla la estructura del equipo, definiendo quiénes forman parte de la obra y qué funciones desempeñan.
+
+<img src="Resources/Big-Picture-Event-Storming/step-4-Big picture Event Storming-Project.PNG"alt="Foto de Big Picture Event Storming - Step 4"/>
+
+#### Agregado: BluePrint
+Se encarga exclusivamente de la gestión técnica de ingeniería. Su función es controlar el ciclo de vida de los planos, permitiendo subir nuevas versiones, actualizarlos o rechazarlos si presentan errores, asegurando que el equipo trabaje siempre con la información técnica validada.
+
+<img src="Resources/Big-Picture-Event-Storming/step-4-Big picture Event Storming-BluePrint.PNG"alt="Foto de Big Picture Event Storming - Step 4"/>
+
+#### Agregado: Budget
+Es el módulo de control financiero de la plataforma. Agrupa las acciones de creación y actualización de presupuestos, permitiendo que los interesados aprueben o rechacen los costos. Su objetivo es garantizar que cualquier movimiento económico sea transparente y esté debidamente validado.
+
+<img src="Resources/Big-Picture-Event-Storming/step-4-Big picture Event Storming-Budget.PNG"alt="Foto de Big Picture Event Storming - Step 4"/>
+
+#### Agregado: Schedule
+Controla el tiempo y la secuencia de ejecución de las tareas. Aquí es donde el cronograma cobra vida, permitiendo organizar las actividades de la obra, definir fechas de inicio y fin, y ajustar los plazos según el ritmo real del proyecto para evitar retrasos.
+
+<img src="Resources/Big-Picture-Event-Storming/step-4-Big picture Event Storming-Schedule.PNG"alt="Foto de Big Picture Event Storming - Step 4"/>
+
+#### Agregado: Document
+Gestiona toda la documentación legal y administrativa que requiere firmas o aprobaciones formales. Este agregado es vital para la formalidad de la startup, ya que controla el flujo de envío, carga, firma digital y aprobación final de los documentos necesarios para avanzar legalmente.
+
+<img src="Resources/Big-Picture-Event-Storming/step-4-Big picture Event Storming-Document.PNG"alt="Foto de Big Picture Event Storming - Step 4"/>
+
+#### Agregado: Progress
+Es el encargado de monitorear lo que sucede físicamente en el campo de trabajo. Recibe los reportes directos de los ingenieros, permitiendo que los gerentes revisen, aprueben u observen el avance real de la obra para tomar decisiones basadas en datos precisos.
+
+<img src="Resources/Big-Picture-Event-Storming/step-4-Big picture Event Storming-Progress.PNG"alt="Foto de Big Picture Event Storming - Step 4"/>
+
+#### Agregado: Collaboration
+Fomenta la comunicación directa y centralizada sobre el trabajo. Agrupa los comentarios, las respuestas y el intercambio de archivos entre los miembros del equipo, permitiendo además solicitar revisiones específicas para asegurar que ningún detalle importante sea ignorado.
+
+<img src="Resources/Big-Picture-Event-Storming/step-4-Big picture Event Storming-Collaboration.PNG"alt="Foto de Big Picture Event Storming - Step 4"/>
 
 ## 2.5. Ubiquitous Language
 
