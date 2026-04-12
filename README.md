@@ -1226,9 +1226,6 @@ El objetivo no fue establecer un orden perfecto desde el inicio, sino obtener un
 
 ---
 
-### Fase 1: Big Picture Event Storming - Adding commands and users.
-
-
 ### 2. Categorización de Eventos Identificados
 Durante la lluvia de ideas, identificamos que los eventos orbitan alrededor de conceptos clave que definen nuestra solución:
 
@@ -1263,7 +1260,6 @@ La capa transversal diseñada para eliminar la fragmentación de la información
 * `File shared`
 
 <img src="Resources/Big-Picture-Event-Storming/Event-Storming-Step-1.PNG" alt="Foto de Big Picture Event Storming - Step 1"/>
-
 ---
 
 ## 2.5. Ubiquitous Language
