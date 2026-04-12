@@ -1303,6 +1303,25 @@ El **Team Member** utiliza comandos sociales como `Add comment`, `Reply to comme
 
 <img src="Resources/Big-Picture-Event-Storming/step-2-Big picture event storming 1.4.PNG" alt="Foto de Big Picture Event Storming - Step 2"/>
 
+## Fase 3: Integración de Sistemas Externos y Políticas
+
+En esta etapa del diseño de **Kipu**, la arquitectura del sistema se vuelve más robusta al integrar **políticas de dominio y servicios externos** que automatizan flujos críticos. La lógica deja de ser puramente reactiva para convertirse en un proceso orquestado donde ciertos eventos disparan acciones automáticas sin intervención manual.
+
+---
+
+#### Automatización de Identidad y Seguridad
+Un ejemplo clave es la validación de identidad y la seguridad. Cuando un **User** ejecuta el comando para registrar su cuenta, el sistema no solo genera el evento de registro, sino que activa inmediatamente un servicio de **Manejo de emails**. Este componente externo actúa como un puente técnico que garantiza la veracidad de la información, enviando un código o enlace que, una vez procesado por el usuario, permite que el flujo continúe hacia la verificación exitosa de la cuenta (`Account verified`).
+
+<img src="Resources/Big-Picture-Event-Storming/step-3-Big picture event storming 1.1.PNG" alt="Foto de Big Picture Event Storming - Step 3"/>
+
+#### Gestión de Comunicaciones y Notificaciones Legales
+Esta misma dependencia externa se vuelve fundamental en el ecosistema legal y de notificaciones de la plataforma. En el flujo de gestión de **Documents**, cuando un **Manager** aprueba un documento o cuando un **Stakeholder** rechaza una firma, el sistema utiliza nuevamente el servicio de mensajería para notificar a las partes interesadas en tiempo real.
+
+#### Orquestación del Sistema de Alertas
+Lo mismo ocurre con el sistema de alertas generales. El evento de notificación enviada por el **System** está intrínsecamente ligado a este motor de correos externo, asegurando que el usuario final reciba el aviso en su bandeja de entrada personal y pueda proceder a realizar el comando de lectura (`Read notification`) dentro de la interfaz de **Kipu**. Esta integración permite que la startup mantenga una trazabilidad total, delegando la infraestructura de comunicación a servicios especializados pero manteniendo el control absoluto del estado del negocio dentro de sus propios límites.
+
+<img src="Resources/Big-Picture-Event-Storming/step-3-Big picture event storming 1.2.PNG" alt="Foto de Big Picture Event Storming - Step 3"/>
+
 
 ## 2.5. Ubiquitous Language
 
