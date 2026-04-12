@@ -1226,7 +1226,7 @@ El objetivo no fue establecer un orden perfecto desde el inicio, sino obtener un
 
 ---
 
-### 2. Categorización de Eventos Identificados
+### Categorización de Eventos Identificados
 Durante la lluvia de ideas, identificamos que los eventos orbitan alrededor de conceptos clave que definen nuestra solución:
 
 #### A. Flujos de Identidad (Identity)
@@ -1261,6 +1261,48 @@ La capa transversal diseñada para eliminar la fragmentación de la información
 
 <img src="Resources/Big-Picture-Event-Storming/Event-Storming-Step-1.PNG" alt="Foto de Big Picture Event Storming - Step 1"/>
 ---
+
+## Fase 2: Process Modeling - Comandos y Actores
+
+En esta etapa de diseño de **Kipu**, identificamos quién inicia las acciones (**Actores** - etiquetas amarillas) y qué intención tienen (**Comandos** - etiquetas azules) para producir los eventos de dominio ya definidos en la fase anterior.
+
+---
+
+#### Gestión de Usuarios (User)
+El **User** interactúa con el sistema para gestionar su cuenta mediante comandos como `Register`, `Verify`, `Start Session` y `Log out`. Por otro lado, el **Admin** interviene en la seguridad mediante comandos de control como `Asign role to user` y `Register Account`, permitiendo una gestión jerárquica y segura de los accesos a la plataforma.
+
+#### Gestión de Proyectos (Project)
+El **Project Manager** centraliza la actividad operativa del proyecto. Es el responsable de ejecutar comandos para `Create`, `Update` y `Delete project`. Además, gestiona al equipo de trabajo mediante acciones para agregar o remover miembros y asignar roles específicos dentro de la obra, asegurando que cada integrante tenga el contexto adecuado.
+
+#### Planos y Diseño (Blueprint)
+El **Admin** (o responsable técnico) lidera el flujo de ingeniería. Utiliza comandos para `Upload`, `Update` y `Create version` de planos. La lógica de negocio se consolida con la capacidad de ejecutar `Approve` o `Reject blueprint`, garantizando que solo el diseño técnico validado sea el que se ejecute en la obra.
+
+<img src="Resources/Big-Picture-Event-Storming/step-2-Big picture event storming 1.1.PNG" alt="Foto de Big Picture Event Storming - Step 2"/>
+
+#### Control Financiero (Budget)
+Para garantizar la transparencia, existe una clara separación de responsabilidades. El **Project Manager** propone la estructura financiera con `Create budget`, mientras que el **Stakeholder** actúa como ente aprobador mediante `Approve` o `Reject budget`. El comando `Update budget` permite que el sistema refleje modificaciones de costos en tiempo real.
+
+#### Cronograma (Schedule)
+El **Project Manager** define la planificación mediante `Create/Update schedule` y `Schedule task`. La ejecución operativa recae en el **Team Member**, quien dispara los comandos `Start task` y `Complete task`, permitiendo que Kipu registre el avance temporal y detecte desviaciones en el cronograma.
+
+<img src="Resources/Big-Picture-Event-Storming/step-2-Big picture event storming 1.2.PNG" alt="Foto de Big Picture Event Storming - Step 2"/>
+
+#### Documentación y Firmas (Document)
+El flujo legal es altamente colaborativo. El **User** carga y envía documentos para firma, mientras que el **Stakeholder** asume la responsabilidad crítica de `Sign document` o `Reject signature`. Finalmente, el **Manager** supervisa la integridad del proceso mediante `Approve document` u `Observe document` en caso de encontrar inconsistencias.
+
+#### Sistema de Notificaciones
+Se identifica al **System** como un actor automatizado que ejecuta el comando `Send notification` ante eventos clave. El **User** cierra este ciclo con el comando `Read notification`, garantizando que la información importante sea consumida y que no existan cuellos de botella por falta de comunicación.
+
+<img src="Resources/Big-Picture-Event-Storming/step-2-Big picture event storming 1.3.PNG" alt="Foto de Big Picture Event Storming - Step 2"/>
+
+#### Seguimiento de Avance (Progress)
+El **Engineer / Supervisor** es el actor encargado de reportar la realidad del campo mediante `Record progress` y `Update progress`. Esta información es auditada por el **Project Manager**, quien decide `Approve progress` para validarlo formalmente u `Observe progress` si el avance físico no cumple con los estándares de calidad.
+
+#### Colaboración y Comunicación (Collaboration)
+El **Team Member** utiliza comandos sociales como `Add comment`, `Reply to comment` y `Share file` para mantener la comunicación centralizada en la plataforma. El **Project Manager** tiene la facultad de forzar revisiones críticas mediante el comando `Request review`, asegurando que los puntos de fricción sean atendidos oportunamente.
+
+<img src="Resources/Big-Picture-Event-Storming/step-2-Big picture event storming 1.4.PNG" alt="Foto de Big Picture Event Storming - Step 2"/>
+
 
 ## 2.5. Ubiquitous Language
 
