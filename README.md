@@ -1343,7 +1343,7 @@ Este es el contenedor principal de la obra. Aquí se gestiona la existencia del 
 #### Agregado: BluePrint
 Se encarga exclusivamente de la gestión técnica de ingeniería. Su función es controlar el ciclo de vida de los planos, permitiendo subir nuevas versiones, actualizarlos o rechazarlos si presentan errores, asegurando que el equipo trabaje siempre con la información técnica validada.
 
-<img src="Resources/Big-Picture-Event-Storming/step-4-Big picture Event Storming-BluePrint.PNG"alt="Foto de Big Picture Event Storming - Step 4"/>
+<img src="Resources/Big-Picture-Event-Storming/step-4-Big picture Event Storming-Blueprint.PNG"alt="Foto de Big Picture Event Storming - Step 4"/>
 
 #### Agregado: Budget
 Es el módulo de control financiero de la plataforma. Agrupa las acciones de creación y actualización de presupuestos, permitiendo que los interesados aprueben o rechacen los costos. Su objetivo es garantizar que cualquier movimiento económico sea transparente y esté debidamente validado.
