@@ -1609,6 +1609,14 @@ Aunque Kipu es una herramienta B2B, el SEO es nuestra puerta de entrada. Hemos d
 * **Descripción:** `<meta name="description" content="Accede a tus proyectos, gestiona firmas digitales y revisa la trazabilidad de tus documentos en tiempo real."/>`
 
 ### 4.2.4. Searching Systems.
+No queremos que el usuario "busque", queremos que "encuentre". Por eso, el sistema es proactivo:
+
+* **Búsqueda Predictiva:** A medida que el usuario escribe, el sistema sugiere términos relacionados (ej. códigos de proyecto o nombres de contratistas) para ahorrar tiempo en campo.
+
+* **Filtros de Facetas:** El usuario puede refinar resultados por *Rango de fechas*, *Tipo de documento*, *Estado de firma* y *Persona responsable*, evitando la sobrecarga de información.
+
+* **Motor OCR (Reconocimiento Óptico):** Implementamos indexación de texto en documentos escaneados, permitiendo localizar palabras clave incluso dentro de archivos PDF que originalmente eran papel.
+
 ### 4.2.5. Navigation Systems.
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
