@@ -1562,6 +1562,7 @@ El uso de patrones visuales repetitivos a lo largo del software disminuye el esf
 Finalmente, se emplea una jerarquía basada en contrastes y grosores de letra para ordenar la información densa. Esto hace que las notificaciones clave o los estados de los proyectos capten la atención de inmediato, dejando en segundo plano los detalles menores. Los tamaños y colores están pensados para dirigir la vista hacia las tareas urgentes.
 
 ## 4.2. Information Architecture.
+En Kipu, la arquitectura de la información no es solo un mapa de contenidos, sino la columna vertebral que sostiene la confianza legal y la eficiencia operativa. En el sector construcción, el caos documental puede costar miles de dólares en retrasos; por ello, nuestra arquitectura busca eliminar la fricción. Hemos diseñado una estructura donde la información crítica (como el estado de una firma) siempre tiene prioridad, asegurando que cualquier usuario, desde un gerente de proyectos hasta un capataz, pueda navegar la plataforma sin una curva de aprendizaje pesada.
 ### 4.2.1. Organization Systems.
 ### 4.2.2. Labeling Systems.
 ### 4.2.3. SEO Tags and Meta Tags
