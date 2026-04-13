@@ -1562,9 +1562,24 @@ El uso de patrones visuales repetitivos a lo largo del software disminuye el esf
 Finalmente, se emplea una jerarquía basada en contrastes y grosores de letra para ordenar la información densa. Esto hace que las notificaciones clave o los estados de los proyectos capten la atención de inmediato, dejando en segundo plano los detalles menores. Los tamaños y colores están pensados para dirigir la vista hacia las tareas urgentes.
 
 ## 4.2. Information Architecture.
-En Kipu, la arquitectura de la información no es solo un mapa de contenidos, sino la columna vertebral que sostiene la confianza legal y la eficiencia operativa. En el sector construcción, el caos documental puede costar miles de dólares en retrasos; por ello, nuestra arquitectura busca eliminar la fricción. Hemos diseñado una estructura donde la información crítica (como el estado de una firma) siempre tiene prioridad, asegurando que cualquier usuario, desde un gerente de proyectos hasta un capataz, pueda navegar la plataforma sin una curva de aprendizaje pesada.
+En **Kipu**, la arquitectura de la información no es solo un mapa de contenidos, sino la columna vertebral que sostiene la confianza legal y la eficiencia operativa. En el sector construcción, el caos documental puede costar miles de dólares en retrasos; por ello, nuestra arquitectura busca eliminar la fricción. Hemos diseñado una estructura donde la información crítica (como el estado de una firma) siempre tiene prioridad, asegurando que cualquier usuario, desde un gerente de proyectos hasta un capataz, pueda navegar la plataforma sin una curva de aprendizaje pesada.
 ### 4.2.1. Organization Systems.
+Para que Kipu sea realmente útil en el campo y en la oficina, hemos decidido combinar varios sistemas de organización, cada uno respondiendo a una necesidad específica del flujo de trabajo de ingeniería:
+
+#### Organización visual del contenido
+
+* **Jerárquica (Visual Hierarchy):** Elegimos este sistema porque en la gestión de obras hay datos que "gritan" más fuerte que otros. Por ejemplo, en el Dashboard, los documentos con firmas pendientes o alertas de vencimiento utilizan un tamaño y color prominentes. No es solo estética; es una estrategia para reducir el riesgo de incumplimiento legal al dirigir el ojo del usuario hacia lo urgente.
+* **Organización secuencial (Step-by-step):** La firma de un contrato o la aprobación de una valorización tiene implicancias legales. Implementamos este sistema para que procesos complejos se sientan simples. Al dividir la carga de documentos en pasos (Carga > Validación > Selección de Firmantes > Firma), evitamos que el usuario se sienta abrumado y garantizamos que no se salte ningún protocolo de seguridad.
+
+#### Esquemas de categorización de contenido
+
+* **Por tópicos (Estructura de Proyecto):** Es la forma natural en la que piensan los ingenieros. Organizamos todo por "Proyectos" y luego por sub-temas (Planos, Contratos, Actas). Esto permite que el modelo mental del usuario coincida perfectamente con el software.
+* **Según audiencia (Roles de Usuario):** Un residente de obra no necesita ver la facturación de la empresa, y un gerente no necesita ver cada pequeño reporte diario. Categorizar por audiencia nos permite "limpiar" la interfaz de cada usuario, mostrándole solo lo que es relevante para su rol.
+* **Cronológico:** En construcción, el "cuándo" es vital. Usamos este esquema para el historial de cambios (log de auditoría). Si hay una disputa legal, Kipu permite reconstruir la historia de un documento de forma lineal, lo cual es nuestra mayor propuesta de valor en cuanto a trazabilidad.
+* **Alfabético:** Lo reservamos para funciones de soporte, como el directorio de proveedores o la lista de colaboradores, donde la búsqueda por nombre es la forma más rápida de encontrar un dato.
+
 ### 4.2.2. Labeling Systems.
+
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems.
 ### 4.2.5. Navigation Systems.
