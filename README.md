@@ -1618,6 +1618,14 @@ No queremos que el usuario "busque", queremos que "encuentre". Por eso, el siste
 * **Motor OCR (Reconocimiento Óptico):** Implementamos indexación de texto en documentos escaneados, permitiendo localizar palabras clave incluso dentro de archivos PDF que originalmente eran papel.
 
 ### 4.2.5. Navigation Systems.
+La navegación en Kipu está pensada para ser "invisible" y eficiente:
+
+* **Menú Lateral Retráctil:** Prioriza el espacio de trabajo central donde se visualizan los documentos, manteniendo el acceso a los módulos principales a un solo clic.
+
+* **Migas de Pan (Breadcrumbs):** Vital para la navegación profunda en carpetas de proyectos (ej. Proyectos > Edificio Sol > Planos > Instalaciones), permitiendo al usuario ubicarse en todo momento.
+
+* **Acciones Contextuales:** El sistema ofrece botones inteligentes basados en el estado del documento (ej. si un contrato no está firmado, el botón principal será "Solicitar Firma").
+
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
 ### 4.3.2. Landing Page Mock-up.
