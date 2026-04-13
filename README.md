@@ -1588,7 +1588,26 @@ En el sistema de etiquetado de Kipu, hemos huido del lenguaje genérico. Queremo
 * **Trazabilidad:** Esta etiqueta es clave. En lugar de "Historial", usamos "Trazabilidad" para reforzar la idea de que cada acción está blindada y registrada para auditorías futuras.
 
 * **Hitos de Obra:** Etiqueta usada para agrupar documentos por etapas del proyecto, facilitando la organización temporal según el avance físico.
+
 ### 4.2.3. SEO Tags and Meta Tags
+Aunque Kipu es una herramienta B2B, el SEO es nuestra puerta de entrada. Hemos definido los tags pensando en las consultas estratégicas de los tomadores de decisiones:
+
+#### Landing Page
+
+* **Título:** `<title>Kipu | Firma Digital y Control Documental para Constructoras en Perú</title>`
+
+* **Descripción:** `<meta name="description" content="Protege tus proyectos de construcción. Kipu centraliza tus contratos y valorizaciones con firma digital de validez legal, evitando multas y retrasos operativos."/>`
+
+* **Keywords:** `<meta name="keywords" content="Gestión documental construcción, firma digital Perú, ConTech, contratos de obra, trazabilidad documental, PircaIndustries."/>`
+
+* **Autor:** `<meta name="author" content="PircaIndustries" />`
+
+#### Web Application
+
+* **Título:** `<title>Panel de Control Kipu - Gestión de Proyectos</title>`
+
+* **Descripción:** `<meta name="description" content="Accede a tus proyectos, gestiona firmas digitales y revisa la trazabilidad de tus documentos en tiempo real."/>`
+
 ### 4.2.4. Searching Systems.
 ### 4.2.5. Navigation Systems.
 ## 4.3. Landing Page UI Design.
