@@ -59,6 +59,7 @@
 |1\.3\.2|10/04/2026|Jhony Manuel Francia Torres| Se agregó épicas y user stories|
 |1\.3\.3|10/04/2026|Adrian Fernando Palacios Tinoco| Se agregaron 10 user stories|
 |1\.3\.4|11/04/2026|Adrian Fernando Palacios Tinoco| Se completó de documentar el event storming|
+|1\.3\.5|12/04/2026|Adrian Fernando Palacios Tinoco| Se agregó y completo el Information Architecture|
 
 </div><br><br>
 
