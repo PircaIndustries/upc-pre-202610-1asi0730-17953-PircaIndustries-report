@@ -1579,7 +1579,15 @@ Para que Kipu sea realmente útil en el campo y en la oficina, hemos decidido co
 * **Alfabético:** Lo reservamos para funciones de soporte, como el directorio de proveedores o la lista de colaboradores, donde la búsqueda por nombre es la forma más rápida de encontrar un dato.
 
 ### 4.2.2. Labeling Systems.
+En el sistema de etiquetado de Kipu, hemos huido del lenguaje genérico. Queremos que el usuario sienta que el software habla su mismo idioma "constructor":
 
+* **Bandeja de Firmas:** En lugar de "Pendientes", usamos este término porque es una metáfora de la vida real. El usuario sabe que ahí está la documentación que requiere su autoridad.
+
+* **Expediente Técnico:** Podríamos llamarlo "Archivos", pero este término le da el peso y la formalidad que requiere la documentación de ingeniería en Perú.
+
+* **Trazabilidad:** Esta etiqueta es clave. En lugar de "Historial", usamos "Trazabilidad" para reforzar la idea de que cada acción está blindada y registrada para auditorías futuras.
+
+* **Hitos de Obra:** Etiqueta usada para agrupar documentos por etapas del proyecto, facilitando la organización temporal según el avance físico.
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems.
 ### 4.2.5. Navigation Systems.
