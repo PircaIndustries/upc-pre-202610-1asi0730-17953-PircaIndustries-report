@@ -1643,7 +1643,7 @@ La navegación en Kipu está pensada para ser "invisible" y eficiente:
 ### 4.6.4. Software Architecture Components Diagrams.
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
-<br>
+
 <img src="Resources/Diagrams/Class Diagram - Aplicaciones web" alt="Foto de Diagrama de Clases"/>
 
 ## 4.8. Database Design.
