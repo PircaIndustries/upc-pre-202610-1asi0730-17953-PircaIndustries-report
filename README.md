@@ -60,6 +60,7 @@
 |1\.3\.3|10/04/2026|Adrian Fernando Palacios Tinoco| Se agregaron 10 user stories|
 |1\.3\.4|11/04/2026|Adrian Fernando Palacios Tinoco| Se completó de documentar el event storming|
 |1\.3\.5|12/04/2026|Adrian Fernando Palacios Tinoco| Se agregó y completo el Information Architecture|
+|1\.4\.1|12/04/2026|Paula Fernanda Montoya Nina | Se agregó Domain-Driven Software Architecture|
 
 </div><br><br>
 
@@ -1632,10 +1633,70 @@ La navegación en Kipu está pensada para ser "invisible" y eficiente:
 ### 4.4.4. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
 ## 4.6. Domain-Driven Software Architecture.
+En esta sección se emplea el modelo C4 para diseñar la arquitectura del software, abarcando sus distintos niveles: contexto, contenedores, componentes y código. Este método facilita una visión clara del sistema.
+
 ### 4.6.1. Design-Level Event Storming.
+
 ### 4.6.2. Software Architecture Context Diagram.
+En este nivel se visualizan los actores principales: el Operative Manager, el Logistics Officer, el System Administrator y el Client. Asimismo, se detallan las relaciones con los sistemas externos encargados de la seguridad y comunicación, representados por el Servicio SMS OTP y el Servicio de Correo.
+
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Domain-Driven-Software-Architecture/SystemContext.svg" alt="Imagen del Diagrama de Contexto">
+
+<br>
+
 ### 4.6.3. Software Architecture Container Diagrams.
+
+En este diagrama se detalla la distribución de la plataforma en contenedores dentro de la nube de Microsoft Azure. Se identifica la Landing Page y la Web Application (SPA) como interfaces de usuario. La comunicación se centraliza a través de un API Gateway, el cual distribuye las peticiones hacia los ocho microservicios especializados desarrollados en ASP.NET Core. Además, se incluye el uso de Azure Blob Storage para el almacenamiento de archivos pesados y una Base de Datos MySQL para la persistencia de datos relacionales.
+
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Domain-Driven-Software-Architecture/ContainerDiagram.svg" alt="Imagen del Container Diagram">
+
+<br>
+
 ### 4.6.4. Software Architecture Components Diagrams.
+
+En esta sección se desglosa la arquitectura interna de los microservicios principales. Se describe cómo cada controlador actúa como punto de entrada, delegando la lógica de negocio a componentes específicos para luego persistir la información mediante conectores de base de datos.
+
+**Componente Blueprint**
+
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Domain-Driven-Software-Architecture/BlueprintComponents.svg" alt="Imagen del Blueprint">
+
+<br>
+
+**Componente Document**
+
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Domain-Driven-Software-Architecture/DocumentComponents.svg" alt="Imagen del Document">
+
+<br>
+
+**Componente Identity**
+
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Domain-Driven-Software-Architecture/IdentityComponents.svg" alt="Imagen del Identity">
+
+<br>
+
+**Componente Logistics**
+
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Domain-Driven-Software-Architecture/LogisticsComponents.svg" alt="Imagen del Identity">
+
+<br>
+
+**Componente Notification**
+
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Domain-Driven-Software-Architecture/NotificationComponents.svg" alt="Imagen del Notification">
+
+<br>
+
+**Componente Progress**
+
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Domain-Driven-Software-Architecture/ProgressComponents.svg" alt="Imagen del Progress">
+
+<br>
+
+**Componente Project**
+
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Domain-Driven-Software-Architecture/ProjectComponents.svg" alt="Imagen del Project">
+<br>
+
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 
