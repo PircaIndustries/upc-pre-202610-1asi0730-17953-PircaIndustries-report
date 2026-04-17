@@ -1795,7 +1795,404 @@ Repositorio GitHub de los archivos feature: https://github.com/PircaIndustries/A
     <img src="https://github.com/placeholder"  alt="repositorio feature">
 </div><br><br>
 
-### 5.1.3. Source Code Style Guide & Conventions.
+### 5.1.3 Source Code Style Guide & Conventions
+
+Esta sección define las convenciones de codificación y nomenclatura que se aplicarán en Kipu para mantener consistencia técnica, legibilidad, mantenibilidad y escalabilidad. Las pautas que se describirán a continuación se alinean con guías de referencia ampliamente adoptadas en la industria y serán obligatorias para el desarrollo de la solución.
+
+Nuestro proyecto utilizará HTML, CSS, JavaScript y C# para implementación, y Gherkin para especificaciones ejecutables de comportamiento.
+
+## 1) Principios generales para todos los lenguajes
+
+### 1.1 Nomenclatura obligatoria en inglés
+
+Todos los identificadores deben estar en inglés y reflejar intención funcional.
+
+- Correcto: `userProfile`, `checkoutForm`, `calculateTotal`, `OrderService`.
+- Incorrecto: `perfilUsuario`, `formulario2`, `x1`, `servicioPedido`.
+
+Reglas transversales:
+
+- Los nombres deben ser descriptivos y orientados al dominio.
+- Se prohíben abreviaciones ambiguas (`tmp`, `obj`, `val`) excepto en contextos locales muy acotados.
+- La semántica del nombre debe anticipar responsabilidad y tipo de dato.
+- Los nombres de una sola letra se reservan para iteradores de alcance corto (`i`, `j`) o coordenadas matemáticas.
+
+### 1.2 Formato base de código
+
+- Indentación con espacios, nunca tabulaciones.
+- Archivos UTF-8.
+- Línea final en blanco al cierre del archivo.
+- Evitar líneas excesivamente largas; se prioriza legibilidad.
+- Comentarios solo cuando aporten contexto no obvio (evitar comentar lo evidente).
+
+Ejemplo:
+
+```text
+Mala práctica:
+- Mezclar tabs y espacios.
+- Comentar cada línea aunque sea autoexplicativa.
+- Mantener funciones enormes sin separación lógica.
+
+Recomendado:
+- Definir formato automático con herramientas del proyecto (formatter/linter).
+- Escribir comentarios de intención, no de traducción literal del código.
+- Dividir bloques largos en funciones pequeñas y nombradas por responsabilidad.
+```
+
+Complementación conveniente:
+
+- Configurar formateo automático al guardar.
+- Integrar validación en CI para prevenir desviaciones de estilo.
+- Mantener un checklist de revisión de PR con reglas de esta guía.
+
+### 1.3 Convenciones de estilo por tecnología
+
+Cada lenguaje conserva su convención estándar:
+
+- HTML/CSS/JavaScript: estilo de Google y recomendaciones de ecosistema web moderno.
+- C#: convenciones oficiales de Microsoft y guías ASP.NET Core.
+- Gherkin: enfoque de legibilidad y comportamiento orientado a negocio.
+
+## 2) Convenciones para HTML
+
+Se adopta HTML5 con enfoque semántico y accesible.
+
+### 2.1 Estructura y sintaxis
+
+- Declarar `<!doctype html>` al inicio.
+- Usar `lang` en el elemento raíz (`<html lang="es">` o según corresponda).
+- Escribir etiquetas y atributos en minúsculas.
+- Utilizar comillas dobles para valores de atributos.
+
+### 2.2 Semántica y accesibilidad
+
+- Usar elementos semánticos (`header`, `main`, `nav`, `section`, `article`, `footer`) en lugar de `div` sin propósito.
+- Evitar controladores inline (`onclick`, `onchange`); la lógica se define en JavaScript.
+- Incluir texto alternativo significativo en imágenes.
+- Asociar etiquetas y controles de formulario (`label` + `for`).
+
+Ejemplo:
+
+```html
+<!-- Mala práctica -->
+<div onclick="submitForm()">Send</div>
+<img src="chart.png" alt="image">
+
+<!-- Recomendado -->
+<button type="button" id="send-button">Send</button>
+<img src="chart.png" alt="Sales chart for Q1 showing month-over-month growth">
+```
+
+Complementación conveniente:
+
+- Mantener jerarquía de encabezados (`h1` -> `h2` -> `h3`) sin saltos arbitrarios.
+- Usar atributos ARIA solo cuando HTML semántico no sea suficiente.
+- Verificar navegación por teclado y foco visible en elementos interactivos.
+
+Ejemplo recomendado:
+
+```html
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Account Settings</title>
+  </head>
+  <body>
+    <main>
+      <h1>Account settings</h1>
+      <img src="avatar.png" alt="Profile avatar preview">
+      <a href="/comments">All comments</a>
+    </main>
+  </body>
+</html>
+```
+
+## 3) Convenciones para CSS
+
+Se adopta CSS con enfoque mantenible, predecible y escalable.
+
+### 3.1 Nomenclatura
+
+- Nombres de clases en inglés y formato `kebab-case`.
+- Se prioriza semántica de componente/rol (`checkout-form`, `product-card-title`).
+- Evitar nombres crípticos (`.rg`, `.x`, `.blueText`).
+
+### 3.2 Reglas de estilo
+
+- Un espacio después de `:` en cada declaración.
+- Finalizar cada declaración con `;`.
+- Llave de apertura en la misma línea del selector.
+- Aprovechar propiedades abreviadas cuando mejoren claridad.
+- Evitar `!important` salvo justificación técnica documentada.
+
+Ejemplo:
+
+```css
+/* Mala práctica */
+.btnPrimary{
+color:white!important;
+background:#1a73e8
+}
+
+/* Recomendado */
+.btn-primary {
+  color: #fff;
+  background: #1a73e8;
+}
+```
+
+Complementación conveniente:
+
+- Preferir unidades relativas (`rem`, `%`) para mejorar escalabilidad y accesibilidad.
+- Estandarizar paleta y espaciados mediante variables CSS (`:root { --color-primary: ... }`).
+- Definir estrategia de arquitectura (por ejemplo, BEM o utilidades) y usarla de forma consistente.
+
+Ejemplo recomendado:
+
+```css
+.checkout-form {
+  padding: 0 1rem 1.5rem;
+  border-top: 0;
+}
+
+.checkout-form__title {
+  margin-bottom: 0.75rem;
+  font: 600 1.25rem/1.4 'Open Sans', sans-serif;
+}
+```
+
+## 4) Convenciones para JavaScript
+
+Se adopta JavaScript moderno (ES202x) y lineamientos de Google JavaScript Style Guide + MDN.
+
+### 4.1 Nomenclatura y estructura
+
+- Identificadores en inglés.
+- Variables y funciones en `camelCase`.
+- Clases y constructores en `PascalCase`.
+- Constantes de módulo en `UPPER_SNAKE_CASE` solo cuando representen valores invariantes globales.
+
+### 4.2 Reglas de codificación
+
+- Preferir `const`; usar `let` solo si hay reasignación.
+- No usar `var`.
+- Usar igualdad estricta (`===`, `!==`).
+- Dejar espacios alrededor de operadores y después de comas.
+- Incluir punto y coma al final de sentencias.
+- Usar comillas simples por defecto; reservar template literals para interpolación.
+- Manejar errores de forma explícita (`try/catch` o propagación controlada).
+
+Ejemplo:
+
+```javascript
+// Mala práctica
+var result = '0'
+if (result == 0) {
+  console.log("ok")
+}
+
+// Recomendado
+const result = 0;
+if (result === 0) {
+  console.log('ok');
+}
+```
+
+Complementación conveniente:
+
+- Definir reglas de linting para complejidad ciclomática y longitud máxima de función.
+- Usar módulos con responsabilidades claras y evitar archivos monolíticos.
+- Centralizar manejo de errores para respuestas de API y eventos no controlados.
+
+Ejemplo recomendado:
+
+```javascript
+const MAX_RETRY_ATTEMPTS = 3;
+
+function calculateSquare(value) {
+  return value * value;
+}
+
+function getGreeting(hour) {
+  if (hour < 20) {
+    return 'Good day';
+  }
+
+  return 'Good evening';
+}
+```
+
+## 5) Convenciones para C# (ASP.NET Core)
+
+Se adoptan convenciones oficiales de C# y guías de estilo para ASP.NET Core.
+
+### 5.1 Nomenclatura
+
+Todos los nombres se escriben en inglés.
+
+- Tipos, métodos, propiedades, eventos y constantes: `PascalCase`.
+- Variables locales y parámetros: `camelCase`.
+- Campos privados: `_camelCase`.
+- Interfaces: prefijo `I` (por ejemplo, `IOrderRepository`).
+
+Nota importante: en C# moderno no se recomienda definir constantes en mayúsculas sostenidas como regla general; se usa `PascalCase`.
+
+Ejemplo recomendado:
+
+```csharp
+public class OrderService
+{
+    private readonly IOrderRepository _orderRepository;
+    private const int MaxRetryAttempts = 3;
+
+    public OrderService(IOrderRepository orderRepository)
+    {
+        _orderRepository = orderRepository;
+    }
+
+    public async Task<Order?> GetOrderAsync(Guid orderId)
+    {
+        if (orderId == Guid.Empty)
+        {
+            return null;
+        }
+
+        return await _orderRepository.FindByIdAsync(orderId);
+    }
+}
+```
+
+### 5.2 Formato y prácticas
+
+- Estilo de llaves Allman en bloques de control y tipos.
+- Indentación de 4 espacios.
+- Uso de `var` cuando el tipo es obvio; tipo explícito cuando mejora claridad.
+- Nullability habilitado y validaciones defensivas.
+- Métodos asíncronos con sufijo `Async`.
+- Comentarios XML en APIs públicas cuando el contexto no sea evidente.
+
+Ejemplo:
+
+```csharp
+// Mala práctica
+public class user_service {
+  public async Task<string> getdata() {
+    return await _repo.Get();
+  }
+}
+
+// Recomendado
+public class UserService
+{
+  public async Task<string> GetDataAsync()
+  {
+    return await _repository.GetAsync();
+  }
+}
+```
+
+Complementación conveniente:
+
+- Activar analizadores de código y tratarlos como advertencias mínimas en build.
+- Aplicar inyección de dependencias para desacoplar infraestructura de dominio.
+- Evitar capturar excepciones genéricas sin logging ni estrategia de recuperación.
+
+## 6) Convenciones para Gherkin
+
+Gherkin se utiliza para especificaciones legibles por negocio y equipo técnico.
+
+### 6.1 Reglas de legibilidad
+
+- Escenarios con estructura clara `Given-When-Then`.
+- `And` se usa para continuidad lógica dentro del mismo bloque.
+- Steps concretos, observables y sin ruido irrelevante.
+- Cuando un step requiere tabla, finalizar con `:`.
+- Dejar líneas en blanco entre escenarios para facilitar lectura.
+
+Ejemplo:
+
+```gherkin
+# Mala práctica
+Scenario: Test login
+  Given user exists and has name and profile and role and email and extra info
+  When login happens somehow
+  Then works
+
+# Recomendado
+Scenario: Registered user signs in successfully
+  Given a registered user with valid credentials
+  When the user submits email and password
+  Then the system grants access to the dashboard
+```
+
+Complementación conveniente:
+
+- Nombrar escenarios por comportamiento de negocio, no por detalle técnico.
+- Evitar escenarios con múltiples objetivos; un escenario, un resultado principal.
+- Reusar steps comunes para reducir duplicidad y costo de mantenimiento.
+
+Ejemplo recomendado:
+
+```gherkin
+Feature: Contact channels
+
+  Scenario: Visitor opens social media from contact section
+    Given the visitor is on the landing page
+    When the visitor opens the "Contact us" section
+    And selects the Instagram icon
+    Then the visitor is redirected to the official Instagram page
+
+
+  Scenario: Visitor sends a contact form request
+    Given the visitor provides the following data:
+      | field   | value              |
+      | name    | Ana Torres         |
+      | email   | ana@example.com    |
+      | message | I need more details |
+    When the visitor submits the form
+    Then the system confirms the request was received
+```
+
+## 7) Convenciones complementarias para Vue (si aplica)
+
+Cuando la solución incorpore Vue, se adoptará Vue Style Guide como extensión de las reglas anteriores:
+
+- Componentes en `PascalCase` y con nombres multi-palabra.
+- `props` en `camelCase` en script y `kebab-case` en plantillas.
+- Evitar lógica compleja en templates; mover a `computed`/métodos.
+- Mantener separación clara entre presentación, estado y efectos.
+
+## 8) Resumen de convenciones de nomenclatura
+
+| Contexto | Convención |
+| --- | --- |
+| HTML attributes/classes/ids | Inglés, minúsculas, `kebab-case` cuando aplique |
+| CSS classes | Inglés, `kebab-case` |
+| JavaScript variables/functions | Inglés, `camelCase` |
+| JavaScript classes | Inglés, `PascalCase` |
+| C# methods/classes/properties/constants | Inglés, `PascalCase` |
+| C# local variables/parameters | Inglés, `camelCase` |
+| C# private fields | Inglés, `_camelCase` |
+
+
+## 9) Referencias adoptadas
+
+Las siguientes fuentes se adoptan como base normativa del proyecto:
+
+- HTML Style Guide and Coding Conventions.
+- Google HTML/CSS Style Guide.
+- Gherkin Conventions for Readable Specifications.
+- Vue Style Guide.
+- Google JavaScript Style Guide.
+- MDN JavaScript Guidelines.
+- W3C JavaScript Style Guide.
+- C# Coding Conventions.
+- Microsoft ASP.NET Core Coding Guidelines.
+
+Estas referencias se aplicarán de manera complementaria. Si existiera conflicto entre guías, se priorizará la convención oficial del framework o lenguaje principal del módulo implementado.
+
 ### 5.1.4. Software Deployment Configuration.
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
