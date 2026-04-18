@@ -1711,6 +1711,8 @@ En esta sección se desglosa la arquitectura interna de los microservicios princ
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagrams.
 
+<img src="Resources/Diagrams/Database Diagram - Kipu.png" alt="Foto de Diagrama de Base de Datos"/>
+
 ---
 # Capítulo V: Product Implementation, Validation & Deployment.
 ## 5.1 Software Configuration Management
