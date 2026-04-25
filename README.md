@@ -60,7 +60,8 @@
 |1\.3\.3|10/04/2026|Adrian Fernando Palacios Tinoco| Se agregaron 10 user stories|
 |1\.3\.4|11/04/2026|Adrian Fernando Palacios Tinoco| Se completó de documentar el event storming|
 |1\.3\.5|12/04/2026|Adrian Fernando Palacios Tinoco| Se agregó y completo el Information Architecture|
-|1\.3\.6|24/04/2026|Paula Fernanda Montoya Nina| Product Backlog|
+|1\.3\.6|24/04/2026|Paula Fernanda Montoya Nina| Se agregó el Product Backlog|
+|1\.3\.7|24/04/2026|Paula Fernanda Montoya Nina| Se agregaron las technical Stories|
 |1\.4\.1|12/04/2026|Paula Fernanda Montoya Nina| Se agregó Domain-Driven  Architecture|
 |1\.5\.1|17/04/2026|Diego Antonio Ramos Hinostroza| Se inicio el Capítulo V: Product Implementation, Validation & Deployment y se agregó contenido relacionado al Software Configuration Management |
 |1\.4\.2|18/04/2026|Jhony Manuel Francia Torres| Se agregaron los Diagramas de Clases y Base de Datos|
