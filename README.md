@@ -1586,6 +1586,17 @@ Enlace público del Product Backlog (Trello): https://trello.com/invite/b/69e1a8
 | **76**  | **TS01**      | Create API User                                    | Como usuario developer, quiero diseñar una API que facilite la gestión de usuarios, para administrar eficazmente la seguridad y acceso a la plataforma.                                                                                      | **2**                        |
 | **77**  | **TS02**      | Post User                                          | Como usuario developer, quiero registrar usuarios en el API, para que los profesionales puedan crear sus cuentas de obra.                                                                                                                    | **2**                        |
 | **78**  | **TS03**      | Get User                                           | Como usuario developer, quiero obtener la información de un usuario, para usarla en la aplicación cuando se necesite mostrar el perfil.                                                                                                      | **2**                        |
+
+A continuación se muestra una representación gráfica tanto de las user stories como de las technical stories en la plataforma Jira Software:
+
+<div align="center">
+
+![Product Backlog.](/Resources/Product-Backlog/Jira-backlog.png)
+</div>
+
+Enlace: [Product Backlog en Jira Software](https://pircaindustries.atlassian.net/jira/software/projects/ASS/boards/1/backlog?atlOrigin=eyJpIjoiYmIwNDlhZDg4MmI5NDUwZGFjYmI0ODQxMGFmMmQwMzAiLCJwIjoiaiJ9)<br><br>
+
+
 ---
 # Capítulo IV: Product Design
 
@@ -2211,6 +2222,8 @@ Para abarcar todas las actividades del ciclo de vida del producto digital, el eq
 
   +	<b>Jira Software:</b> Herramienta de gestión de proyectos ágil que permite planificar, rastrear y gestionar el trabajo mediante tableros Scrum o Kanban, facilitando la colaboración entre equipos de desarrollo. <br>https://www.atlassian.com/software/jira<br><br>
 
+    +	<b>Trello:</b> Plataforma de gestión visual de tareas basada en el método Kanban. Se utiliza específicamente para la organización y seguimiento detallado del Sprint Backlog 1, permitiendo al equipo mover tarjetas a través de diferentes estados de ejecución (To Do, Doing, Done) para asegurar la transparencia del progreso diario.<br>https://trello.com/<br><br>
+
 + **Requirements Management**<br>Corresponde al conjunto de actividades orientadas a identificar, documentar, validar y administrar los requisitos tanto del sistema como del software. Este proceso implica comprender las necesidades de los usuarios y de los stakeholders, transformándolas en requisitos funcionales y no funcionales bien definidos. Su finalidad es asegurar que el producto desarrollado cumpla con las expectativas y necesidades del usuario final.<br><br>
 
   + **Jira Software:** Además de su uso en la gestión de proyectos, Jira también permite gestionar requisitos mediante la creación y seguimiento de historias de usuario, épicas y tareas. Facilita la trazabilidad de los requisitos a lo largo del ciclo de desarrollo, permitiendo priorizarlos, validarlos y mantenerlos actualizados conforme evolucionan las necesidades del proyecto.<br> https://www.atlassian.com/software/jira<br><br>
@@ -2807,6 +2820,14 @@ Durante el Sprint 1, el equipo organizó el trabajo en base a las Epics definida
 **Leyenda:** L = Líder, C = Colaborador
 
 #### 5.2.1.3. Sprint Backlog 1.
+
+Para este primer sprint, nuestro enfoque prioritario es el despliegue de los módulos fundamentales de Kipu, permitiendo que las constructoras y consultoras visualicen el valor estratégico de la plataforma. Buscamos establecer una base sólida donde los usuarios puedan explorar las capacidades de gestión logística y técnica, conocer el alcance de nuestros planes de suscripción y entender cómo nuestra herramienta optimiza la trazabilidad en obra. Asimismo, priorizamos la transparencia de nuestra startup, exponiendo nuestra misión y canales de soporte directo. Para lograrlo, hemos seleccionado del Product Backlog aquellas funcionalidades críticas que garantizan una experiencia operativa coherente y funcional desde este primer hito de desarrollo.
+
+Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94d49929393b94517123fbc0f320cfc66B31A6FB/cambiazo)<br><br>
+
+<div align="center">
+  <img src="/Resources/Sprint-Backlog/trello-sprint-backlog-1.png" alt="sprint">
+</div><br><br>
 
 <table>
   <thead>
