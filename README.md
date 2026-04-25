@@ -2569,9 +2569,9 @@ Durante el Sprint 1, el equipo organizó el trabajo en base a las Epics definida
 | Team Member (Last Name, First Name) | GitHub Username | EP01 (Calidad y Trazabilidad) | EP02 (Suministros y Presupuesto) | EP03 (Visualización Técnica) | EP04 (Administración de Cuenta) | EP05 (Landing Page) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Francia Torres, Jhony Manuel | ManuelFT4 | L | C | C | C | C |
-| Montoya Nina, Paula Fernanda | SeviNyO | C | C | C | L | C |
+| Montoya Nina, Paula Fernanda | SeviNyO | C | L | C | C | C |
 | Palacios Tinoco, Adrian Fernando | AdrianP3107 | C | C | C | C | C |
-| Ramos Hinostroza, Diego Antonio | Kosevy | C | L | C | C | C |
+| Ramos Hinostroza, Diego Antonio | Kosevy | C | C | C | L | C |
 | Ramos Mera, Neo Daniel | norahccccc | C | C | L | C | L |
 
 **Leyenda:** L = Líder, C = Colaborador
