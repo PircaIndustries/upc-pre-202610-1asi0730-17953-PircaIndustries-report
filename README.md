@@ -2876,6 +2876,61 @@ Por lo tanto, al tratarse de un entregable puramente visual e informativo en est
 </table>
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+#### 1. Creación de la Organización y Repositorios Base
+Se estableció la organización **PircaIndustries** en GitHub para centralizar los activos del proyecto. Dentro de esta organización, se crearon los repositorios específicos para aislar las responsabilidades del código:
+* **Landing-Page-Kipu:** Contiene el código fuente estático (HTML, CSS, JS) de la página de aterrizaje.
+* **Acceptance-Test:** Repositorio dedicado exclusivamente a la documentación de pruebas utilizando sintaxis Gherkin.
+
+<div align="center">
+    <img src="Resources\Software-Deplotment-Evidence\SoftwareDeployment-repositories.png" width="600px" alt="Vista general de repositorios de la organización PircaIndustries">
+	<br>
+	<p>Vista general de la organización PircaIndustries y sus repositorios activos.<\p>
+</div>
+
+<div align="center">
+    <img src="Resources\Software-Deplotment-Evidence\SoftwareDeployment-repositories-landingpage.png" width="600px" alt="Vista principal del repositorio Landing-Page-Kipu">
+	<br>
+	<p>Vista principal del repositorio de la Landing Page, mostrando el código fusionado en la rama principal tras las revisiones.<\p>
+</div>
+
+<div align="center">
+    <img src="Resources\SoftwareDeployment-repositories-acceptancetest.png" width="600px" alt="Vista principal del repositorio Acceptance-Test">
+	<br>
+	<p>Vista principal del repositorio de Acceptance-Test, evidenciando el uso de archivos Gherkin.<\p>
+</div>
+
+#### 2. Configuración del Flujo de Trabajo (Git Flow)
+Para asegurar que solo el código funcional y aprobado llegue al entorno de producción, se implementó la estrategia de ramificación Git Flow en ambos repositorios. Se configuraron ramas `feature/*` para el desarrollo individual, las cuales se integran mediante Pull Requests hacia `develop`, para finalmente pasar a `main` cuando el incremento está listo para despliegue.
+
+<div align="center">
+    <img src="Resources\Software-Deplotment-Evidence\SoftwareDeployment-landingpage-branch.png" width="600px" alt="Ramas activas en el repositorio Landing-Page-Kipu">
+	<br>
+	<p>Ramas activas en el repositorio de la Landing Page, evidenciando el aislamiento de características antes de su integración.<\p>
+</div>
+
+<div align="center">
+    <img src="Resources\Software-Deplotment-Evidence\SoftwareDeployment-acceptancetest-branch.png" width="600px" alt="Ramas activas en el repositorio Acceptance-Test">
+	<br>
+	<p>Gestión de ramas en el repositorio de pruebas de aceptación, manteniendo sincronía con el desarrollo del Sprint.<\p>
+</div>
+
+#### 3. Despliegue
+Para el despliegue continuo y gratuito de la Landing Page, se utilizó el servicio **GitHub Pages**. La configuración se enlazó directamente a la rama `main` del repositorio `Landing-Page-Kipu`. 
+
+**Acciones implementadas:**
+* **Source:** Despliegue automatizado desde la rama `main` y la carpeta raíz (`/root`).
+* **Disponibilidad:** Tras la configuración, el entorno de producción quedó publicado y accesible de forma pública.
+
+**URL del entorno de producción (Landing Page):** [https://pircaindustries.github.io/Landing-Page-Kipu/](https://pircaindustries.github.io/Landing-Page-Kipu/)
+
+<div align="center">
+    <img src="Resources\Software-Deplotment-Evidence\SoftwareDeployment-landingpage-deployment.png" width="600px" alt="Configuración de despliegue en GitHub Pages">
+	<br>
+	<p> Configuración exitosa de GitHub Pages, indicando que el sitio se encuentra "Live"* <\p>
+</div>
+
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 A partir de la sección Insights de GitHub, se presentan las gráficas de colaboración del repositorio. Esta visualización refleja la contribución individual de cada miembro del equipo durante el Sprint 1.
