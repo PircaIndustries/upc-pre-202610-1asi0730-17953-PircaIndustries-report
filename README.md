@@ -63,6 +63,10 @@
 |1\.4\.1|12/04/2026|Paula Fernanda Montoya Nina| Se agregó Domain-Driven  Architecture|
 |1\.5\.1|17/04/2025|Diego Antonio Ramos Hinostroza| Se inicio el Capítulo V: Product Implementation, Validation & Deployment y se agregó contenido relacionado al Software Configuration Management |
 |1\.4\.2|18/04/2026|Jhony Manuel Francia Torres| Se agregaron los Diagramas de Clases y Base de Datos|
+|1\.5\.2|24/04/2025|Diego Antonio Ramos Hinostroza, Paula Fernanda Montoya Nina, Neo Daniel Ramos Mera, Adrian Fernando Palacios Tinoco, Jhony Manuel Francia Torres | Se agregó contenido relacionado a los Mockups y Wireframes tanto de la aplicación web como de la landing page  |
+|1\.5\.3|24/04/2025|Diego Antonio Ramos Hinostroza | Se agregó contenido relacionado a Source Code Management  |
+
+
 
 </div><br><br>
 
@@ -199,6 +203,7 @@ https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries
     - [4.3.2. Landing Page Mock-up.](#432-landing-page-mock-up)
   - [4.4. Web Applications UX/UI Design.](#44-web-applications-uxui-design)
     - [4.4.1. Web Applications Wireframes.](#441-web-applications-wireframes)
+  - [Wireframes versión Mobile:](#wireframes-versión-mobile)
     - [4.4.2. Web Applications Wireflow Diagrams.](#442-web-applications-wireflow-diagrams)
     - [4.4.3. Web Applications Mock-ups.](#443-web-applications-mock-ups)
     - [4.4.4. Web Applications User Flow Diagrams.](#444-web-applications-user-flow-diagrams)
@@ -257,6 +262,7 @@ https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
+  - [Needfinding Interviews](#needfinding-interviews)
 
 ---
 
@@ -839,7 +845,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224130_upc_edu_pe/IQD0ILyKaMoNQpmNfCo1snWaAcy9g1v0gUypY4lI6AXDFz4?e=PUUEew&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Mi41Mn19" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224130_upc_edu_pe/IQD0ILyKaMoNQpmNfCo1snWaAcoXcuh_qXizzUDEAj-AWTg?e=XVCNNU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duracion<br></td>
@@ -905,7 +911,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224130_upc_edu_pe/IQD0ILyKaMoNQpmNfCo1snWaAcy9g1v0gUypY4lI6AXDFz4?e=cxMScj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzkyLjk4fX0%3D" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224130_upc_edu_pe/IQD0ILyKaMoNQpmNfCo1snWaAcoXcuh_qXizzUDEAj-AWTg?e=0eJNZF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzkzfX0%3D" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duracion<br></td>
@@ -971,7 +977,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224130_upc_edu_pe/IQD0ILyKaMoNQpmNfCo1snWaAcy9g1v0gUypY4lI6AXDFz4?e=30ZDJP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6OTcwLjYyfX0%3D" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224130_upc_edu_pe/IQD0ILyKaMoNQpmNfCo1snWaAcoXcuh_qXizzUDEAj-AWTg?e=Dg11ct&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6OTcwLjQ3fX0%3D" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duracion<br></td>
@@ -1039,7 +1045,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224130_upc_edu_pe/IQD0ILyKaMoNQpmNfCo1snWaAcy9g1v0gUypY4lI6AXDFz4?e=oqWIZB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTQxNi42Mn19" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224130_upc_edu_pe/IQD0ILyKaMoNQpmNfCo1snWaAcoXcuh_qXizzUDEAj-AWTg?e=UJFJ7b&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTQxNi4wOH19" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
@@ -1105,7 +1111,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224130_upc_edu_pe/IQD0ILyKaMoNQpmNfCo1snWaAcy9g1v0gUypY4lI6AXDFz4?e=SEKWRk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTc4MS40Nn19" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224130_upc_edu_pe/IQD0ILyKaMoNQpmNfCo1snWaAcoXcuh_qXizzUDEAj-AWTg?e=pjv5Cj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTc4MS43NX19" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duracion<br></td>
@@ -1171,7 +1177,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224130_upc_edu_pe/IQD0ILyKaMoNQpmNfCo1snWaAcy9g1v0gUypY4lI6AXDFz4?e=8XDWkg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjE1OS44Nn19" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224130_upc_edu_pe/IQD0ILyKaMoNQpmNfCo1snWaAcoXcuh_qXizzUDEAj-AWTg?e=J3CVG7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjE1OS4zMn19" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
@@ -1728,14 +1734,91 @@ A continuación, presentaremos los wireframes de nuestra aplicación web de mane
 
 - **RNC:** centraliza el registro de Resultados No Conformes, incluyendo observaciones, evidencias y seguimiento de incidencias para asegurar la corrección oportuna de errores en obra.<br><br>
 
+<div align="center">
+    <img src="/Resources/Wireframes/Wireframe-6.png"  alt="wireframes-6"><br><br>
+</div><br>
 
 - **Materiales:** agrupa las pantallas destinadas al control logístico de insumos y es una de las secciones más extensas de la aplicación. Aquí se gestionan solicitudes, entradas y salidas de stock, niveles mínimos, alertas de reposición, asignación de materiales a partidas y seguimiento de movimientos en almacén. La lógica de esta sección busca reducir la dependencia de registros manuales y de coordinaciones informales, ofreciendo una vista clara del inventario disponible, de los pedidos pendientes y del estado de cada material en tiempo real. También permite reforzar la trazabilidad entre el requerimiento realizado en obra y la atención desde logística, evitando duplicidades, quiebres de stock y errores en la distribución.<br><br>
 
 <div align="center">
-    <img src="Resources/Wireframes/Wireframe-13.png"  alt="wireframes-13">
+    <img src="Resources/Wireframes/Wireframe-7.png"  alt="wireframes-7">
 </div><br>
 
 - **Planos:** reúne los wireframes vinculados a la gestión documental técnica, permitiendo versionar, consultar y organizar planos para asegurar que el equipo trabaje siempre con la información vigente.<br><br>
+
+<div align="center">
+    <img src="Resources/Wireframes/Wireframe-8.png"  alt="wireframes-8">
+</div><br>
+
+- **Firmas:** contempla el flujo de validación y aprobación de documentos o entregables, incorporando mecanismos de conformidad digital para mantener respaldo y trazabilidad en los cierres de etapa.<br><br>
+
+<div align="center">
+    <img src="Resources/Wireframes/Wireframe-9.png"  alt="wireframes-9">
+</div><br>
+
+- **Presupuesto y equipo:** agrupa las vistas relacionadas con el control financiero y la gestión del personal. En esta sección se supervisa el presupuesto asignado, el gasto ejecutado y la disponibilidad del equipo de trabajo, de modo que la administración pueda mantener un control operativo y económico más ordenado.<br><br>
+
+## <b>Wireframes versión Mobile:</b>
+
+<b>Wireframes de Autenticación </b><br>
+<div align="center">
+    <img src="Resources/Wireframes/Wireframe-mobile-1.png" alt="wireframes-mobile-1">
+</div><br>
+
+<b>Wireframes de la sección Proyectos</b><br>
+<div align="center">
+    <img src="Resources/Wireframes/Wireframe-mobile-2.png" alt="wireframes-mobile-2">
+</div><br>
+
+<b>Wireframes de la sección Dashboard</b><br>
+<div align="center">
+    <img src="Resources/Wireframes/Wireframe-mobile-3.png" alt="wireframes-mobile-3">
+</div><br>
+
+<b>Wireframes de la sección Avances</b><br>
+<div align="center">
+    <img src="Resources/Wireframes/Wireframe-mobile-4.png" alt="wireframes-mobile-4">
+</div><br>
+
+<b>Wireframes de la sección Firmas</b><br>
+<div align="center">
+    <img src="Resources/Wireframes/Wireframe-mobile-5.png" alt="wireframes-mobile-5">
+</div><br>
+
+<b>Wireframes de la sección Firmas</b><br>
+<div align="center">
+    <img src="Resources/Wireframes/Wireframe-mobile-5.png" alt="wireframes-mobile-5">
+</div><br>
+
+<b>Wireframes de la sección Materiales</b><br>
+<div align="center">
+    <img src="Resources/Wireframes/Wireframe-mobile-6.png" alt="wireframes-mobile-6">
+</div><br>
+
+<b>Wireframes de la sección RNC</b><br>
+<div align="center">
+    <img src="Resources/Wireframes/Wireframe-mobile-8.png" alt="wireframes-mobile-8">
+</div><br>
+
+<b>Wireframes de la sección Planos</b><br>
+<div align="center">
+    <img src="Resources/Wireframes/Wireframe-mobile-9.png" alt="wireframes-mobile-9">
+</div><br>
+
+<b>Wireframes de la sección Presupuesto</b><br>
+<div align="center">
+    <img src="Resources/Wireframes/Wireframe-mobile-10.png" alt="wireframes-mobile-10">
+</div><br>
+
+<b>Wireframes de la sección Equipo</b><br>
+<div align="center">
+    <img src="Resources/Wireframes/Wireframe-mobile-11.png" alt="wireframes-mobile-11">
+</div><br>
+
+<b>Wireframes de la sección Perfil</b><br>
+<div align="center">
+    <img src="Resources/Wireframes/Wireframe-mobile-13.png" alt="wireframes-mobile-13">
+</div><br>
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 ### 4.4.3. Web Applications Mock-ups.
@@ -1887,16 +1970,16 @@ Adicionalmente, se eligió GitHub como plataforma de control de versiones, aprov
 
 En relación con la gestión de nuevas funcionalidades, creamos ramas específicas bajo la nomenclatura “feature/sprint-1-development” para cada mejora o componente a implementar. Este esquema favorece un desarrollo ordenado y progresivo, ya que cada rama funciona como un entorno independiente donde es posible desarrollar y probar una funcionalidad antes de integrarla a la rama de desarrollo principal.<br><br>
 
-Enlace de la Landing Page en GitHub Pages:  <br><br> 
+Enlace de la Landing Page en GitHub Pages: https://pircaindustries.github.io/Landing-Page-Kipu/  <br><br> 
 
 <div align="center">
-    <img src="https://github.com/placeholder" alt="Landing Page">
+    <img src="/Resources/Code-Management/landing-desplegada.png" alt="Landing Page">
 </div><br>
 
-Repositorio GitHub de la Landing Page: https://github.com/PircaIndustries/Landing-Page-Kipu <br><br> 
+Repositorio GitHub de la Landing Page: https://pircaindustries.github.io/landing-page-Kipu/ <br><br> 
 
 <div align="center">
-    <img src="https://github.com/placeholder"  alt="Repositorio landing page">
+    <img src="/Resources/Code-Management/landing-repositorio.png"  alt="Repositorio landing page">
 </div><br>
 
 Repositorio GitHub de los archivos feature: https://github.com/PircaIndustries/Acceptance-Test <br><br> 
@@ -2304,6 +2387,53 @@ Las siguientes fuentes se adoptan como base normativa del proyecto:
 Estas referencias se aplicarán de manera complementaria. Si existiera conflicto entre guías, se priorizará la convención oficial del framework o lenguaje principal del módulo implementado.
 
 ### 5.1.4. Software Deployment Configuration.
+
+En esta sección mostraremos los pasos que hemos realizado para poder desplegar cada uno de nuestros proyectos.
+
+**Landing Page**
+
+Con el objetivo de realizar el despliegue de nuestra landing page, seleccionamos la plataforma GitHub Pages, ya que permite alojar sitios web estáticos de forma totalmente gratuita.
+
+**1.  Ingresamos al repositorio de la landing page**
+
+<div align="center">
+  <img src="/Resources/Deployment-Landing/deployment-step-1.png" alt="landing repo">
+</div>
+
+<br>
+
+**2.  Nos dirigimos al apartado de settings**
+
+<div align="center">
+  <img src="/Resources/Deployment-Landing/deployment-step-2.png" alt="landing repo">
+</div>
+
+<br>
+
+**3.  Vamos a la sección de Github Pages**
+
+<div align="center">
+  <img src="/Resources/Deployment-Landing/deployment-step-3.png" alt="landing repo">
+</div>
+
+<br>
+
+**4.  Seleccionamos la rama main de github-pages en el apartado de source y damos click en save para desplegar.**
+
+<div align="center">
+  <img src="/Resources/Deployment-Landing/deployment-step-4.png" alt="landing repo">
+</div>
+
+<br>
+
+**5.  Finalmente estaría todo listo.**
+
+<div align="center">
+  <img src="/Resources/Deployment-Landing/deployment-step-5.png" alt="landing repo">
+</div><br>
+
+A modo de resumen, la automatización del despliegue funciona de la siguiente manera: GitHub Pages utiliza la rama main como origen de producción. Paralelamente, se configuró un flujo con GitHub Actions que reacciona a los commits en develop para compilar el código estático. Cuando las modificaciones son revisadas y aprobadas por el equipo para su paso a producción, la plataforma actualiza el sitio en vivo con la nueva versión.
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
@@ -2324,4 +2454,22 @@ Estas referencias se aplicarán de manera complementaria. Si existiera conflicto
 # Bibliografía
 Aquise, J., Bustamante, G. y Cáceres, M. (2021). Control de Calidad y su Impacto en los Indicadores de Desempeño Financiero y Operativo (KPIs) de una Pequeña Empresa Constructora en el Sur del Perú. [Tesis de maestría, Universidad Peruana de Ciencias Aplicadas]. Repositorio académico UPC. https://repositorioacademico.upc.edu.pe/handle/10757/672148
 # Anexos
+
++ Landing Page: [Ver Landing Page](https://pircaindustries.github.io/Landing-Page-Kipu/)<br><br>
++ Repositorio GitHub de la Organización: [Ver Organización](https://github.com/PircaIndustries)<br><br>
++ Repositorio GitHub del Landing Page: [Ver Repositorio](https://github.com/PircaIndustries/Landing-Page-Kipu)<br><br>
++ Repositorio GitHub del Informe: [Ver Repositorio](https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report)<br><br>
++ Repositorio GitHub de los Acceptance-Test: [Ver Repositorio]( https://github.com/PircaIndustries/Acceptance-Test)<br><br>
++ Wireframes: [Ver Wireframes](https://www.figma.com/design/wYSJ9ua6Bc2UCmH6TnQWie/Kipu---Aplicaciones-Web-Wireframes?node-id=0-1&t=zWud7TLSj3oIzBkc-1)<br><br>
+<!--+ Mock-ups: [Ver Mock-ups](https://www.figma.com/)<br><br> -->
+<!--+ Prototype: [Ver Prototype ](https://www.figma.com/)<br><br>-->
+
+## Needfinding Interviews
+
+  <div align="center">
+    <img src="/Resources/Interviews/entrevista-Eliud-Lopez.png" alt="Needfinding Interviews">
+ </div>
+
+
+Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224130_upc_edu_pe/IQD0ILyKaMoNQpmNfCo1snWaAcoXcuh_qXizzUDEAj-AWTg?e=XVCNNU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
