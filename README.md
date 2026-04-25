@@ -2504,21 +2504,62 @@ A modo de resumen, la automatización del despliegue funciona de la siguiente ma
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
-
-| Sprint #                               | Sprint 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |     |     |     |
-| :---------------------------------------| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -----| -----| -----|
-| **Sprint Planning Background**         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |     |     |     |
-| **Date**                               | 2026-04-02                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |     |     |     |
-| **Time**                               | 7:00 PM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |     |     |     |
-| **Location**                           | Reunión virtual mediante Discord                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |     |     |     |
-| **Prepared By**                        | Montoya Nina, Paula Fernanda / Ramos Mera, Neo Daniel                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |     |     |     |
-| **Attendees (to planning meeting)**    | Francia Torres, Jhony Manuel / Montoya Nina, Paula Fernanda / Palacios Tinoco Adrian Fernando / Ramos Hinostroza, Diego Antonio / Ramos Mera, Neo Daniel                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |     |     |     |
-| **Sprint n – 1 Review Summary**        | N/A (Primer Sprint del proyecto Kipu).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |     |     |     |
-| **Sprint n – 1 Retrospective Summary** | N/A (Primer Sprint del proyecto Kipu).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |     |     |     |
-| **Sprint Goal & User Stories**         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |     |     |     |
-| **Sprint 1 Goal**                      | The Kipu Product Team is launching our inaugural Landing Page to showcase our value proposition and secure early leads within the construction industry. Our focus is on capturing immediate market interest and establishing a direct, high-value communication channel with our target audience. We believe it delivers a foundation of trust, professional clarity regarding construction process optimization, and a frictionless point of contact for Operations Managers and Logistics Teams.  This will be confirmed when visitors engage with the page’s segmented information and we generate a minimum of 10 qualified registrations or demo requests through our primary calls to action. |     |     |     |
-| **Sprint 1 Velocity**                  | 10 Story Points                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |     |     |     |
-| **Sum of Story Points**                | **10 Story Points**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |     |     |     |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left; width: 30%;">Sprint #</th>
+      <th style="text-align: left;">Sprint 1</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" style="background-color: #f2f2f2;"><strong>Sprint Planning Background</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Date</strong></td>
+      <td>2026-04-02</td>
+    </tr>
+    <tr>
+      <td><strong>Time</strong></td>
+      <td>7:00 PM</td>
+    </tr>
+    <tr>
+      <td><strong>Location</strong></td>
+      <td>Reunión virtual mediante Discord</td>
+    </tr>
+    <tr>
+      <td><strong>Prepared By</strong></td>
+      <td>Montoya Nina, Paula Fernanda / Ramos Mera, Neo Daniel</td>
+    </tr>
+    <tr>
+      <td><strong>Attendees</strong></td>
+      <td>Francia Torres, Jhony Manuel / Montoya Nina, Paula Fernanda / Palacios Tinoco Adrian Fernando / Ramos Hinostroza, Diego Antonio / Ramos Mera, Neo Daniel</td>
+    </tr>
+    <tr>
+      <td><strong>Sprint n – 1 Review Summary</strong></td>
+      <td>N/A (Primer Sprint del proyecto Kipu).</td>
+    </tr>
+    <tr>
+      <td><strong>Sprint n – 1 Retrospective Summary</strong></td>
+      <td>N/A (Primer Sprint del proyecto Kipu).</td>
+    </tr>
+    <tr>
+      <td colspan="2" style="background-color: #f2f2f2;"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 1 Goal</strong></td>
+      <td>The Kipu Product Team is launching our inaugural Landing Page to showcase our value proposition and secure early leads within the construction industry. Our focus is on capturing immediate market interest and establishing a direct, high-value communication channel with our target audience. We believe it delivers a foundation of trust, professional clarity regarding construction process optimization, and a frictionless point of contact for Operations Managers and Logistics Teams. This will be confirmed when visitors engage with the page’s segmented information and we generate a minimum of 10 qualified registrations or demo requests through our primary calls to action.</td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 1 Velocity</strong></td>
+      <td>10 Story Points</td>
+    </tr>
+    <tr>
+      <td><strong>Sum of Story Points</strong></td>
+      <td><strong>10 Story Points</strong></td>
+    </tr>
+  </tbody>
+</table>
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 
