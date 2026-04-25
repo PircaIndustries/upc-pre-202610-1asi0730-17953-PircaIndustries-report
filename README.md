@@ -72,6 +72,7 @@
 |1\.5\.6|24/04/2026|Neo Daniel Ramos Mera| Se agregó el Aspect Leaders and Collaborators|
 |1\.5\.7|24/04/2026|Neo Daniel Ramos Mera| Se agregó el apartado de Development Evidence for Sprint Review|
 |1\.5\.8|24/04/2026|Neo Daniel Ramos Mera| Se agregó el apartado de Team Collaboration Insights during Sprint|
+|1\.5\.9|24/04/2026|Neo Daniel Ramos Mera| Se agregó el apartado de Wireflow|
 
 
 
@@ -1889,6 +1890,86 @@ A continuación, presentaremos los wireframes de nuestra aplicación web de mane
 </div><br>
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
+
+## Autenticación
+
+**User Goal 1:** Como usuario del sistema, quiero acceder a la plataforma mediante inicio de sesión, creación de cuenta nueva o recuperación de contraseña, para utilizar las funcionalidades de gestión de proyectos de manera segura y personalizada.
+
+<img src="Resources/Wireflow/Autenticación.png">
+
+---
+
+## Proyecto
+
+**User Goal 2:** Como administrador o gestor del sistema, quiero registrar, modificar y administrar los proyectos dentro de la plataforma, estableciendo sus datos principales y su estado operativo, para mantener un control centralizado de todas las obras activas y simplificar su gestión.
+
+<img src="Resources/Wireflow/Proyecto.png">
+
+---
+
+## Avance
+
+**User Goal 3:** Como encargado de campo o supervisor, quiero reportar periódicamente el progreso físico de las tareas del proyecto, indicando el porcentaje de avance y agregando observaciones relevantes, para conservar un historial trazable de la ejecución real frente a lo programado.
+
+<img src="Resources/Wireflow/Avances.png">
+
+---
+
+## RNC (No Conformidad)
+
+**User Goal 4:** Como responsable de control de calidad o supervisor, quiero registrar las no conformidades detectadas en la ejecución de la obra, adjuntando evidencia visual como fotografías, para comunicar al equipo correspondiente y dar seguimiento hasta la corrección del problema.
+
+<img src="Resources/Wireflow/RNC.png">
+
+---
+
+## Materiales
+
+**User Goal 5:** Como profesional en campo o solicitante, quiero crear pedidos formales de materiales e insumos, detallando los productos necesarios, las cantidades y la fecha requerida de entrega, para enviar las solicitudes al área logística de forma estructurada y evitar coordinaciones informales.
+
+<img src="Resources/Wireflow/Materiales.png">
+
+---
+
+## Planos
+
+**User Goal 6:** Como profesional técnico, quiero cargar, visualizar, versionar y organizar los planos del proyecto, aplicando filtros por categoría o especialidad y descargándolos para consulta sin conexión, para garantizar que todo el equipo trabaje con la versión más reciente y prevenir errores por documentos desactualizados.
+
+<img src="Resources/Wireflow/Planos.png">
+
+---
+
+## Firmas
+
+**User Goal 7:** Como profesional autorizado, quiero aprobar documentos de manera digital mediante un mecanismo de verificación que asegure la autenticidad de la acción, para formalizar el cierre de etapas o la conformidad de entregables con respaldo legal y trazabilidad.
+
+<img src="Resources/Wireflow/Firmas.png">
+
+---
+
+## Presupuesto
+
+**User Goal 8:** Como miembro del equipo administrativo o financiero, quiero consultar el presupuesto asignado por cada partida o categoría, compararlo con el gasto real ejecutado y recibir notificaciones ante desviaciones, para identificar fugas presupuestarias y fundamentar decisiones antes de aprobar nuevas compras.
+
+<img src="Resources/Wireflow/Presupuesto.png">
+
+---
+
+## Equipo
+
+**User Goal 9:** Como administrador o líder del proyecto, quiero gestionar los usuarios vinculados a cada obra y ajustar sus permisos de acceso, para que cada persona cuente con los niveles de autorización adecuados a su función y evitar accesos no autorizados a información delicada.
+
+<img src="Resources/Wireflow/Equipo Usuario.png">
+<img src="Resources/Wireflow/Equipo Obrero.png">
+
+---
+
+## Dossier de Calidad
+
+**User Goal 10:** Como administrador o gerente del proyecto, quiero generar un informe completo en formato PDF que consolide todo el historial de firmas electrónicas, aprobaciones y documentos de calidad de una etapa constructiva, para facilitar la entrega oficial del proyecto a la municipalidad o al cliente final.
+
+<img src="Resources/Wireflow/Dossier.png">
+
 ### 4.4.3. Web Applications Mock-ups.
 ### 4.4.4. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
