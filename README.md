@@ -67,6 +67,7 @@
 |1\.5\.3|24/04/2026|Diego Antonio Ramos Hinostroza | Se agregó contenido relacionado a Source Code Management  |
 |1\.5\.4|24/04/2026|Neo Daniel Ramos Mera| Se agregó el Aspect Leaders and Collaborators|
 |1\.5\.5|24/04/2026|Neo Daniel Ramos Mera| Se agregó el apartado de Development Evidence for Sprint Review|
+|1\.5\.6|24/04/2026|Neo Daniel Ramos Mera| Se agregó el apartado de Team Collaboration Insights during Sprint|
 
 
 
@@ -2464,6 +2465,15 @@ A continuación, se presentan los commits más relevantes realizados durante el 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+A partir de la sección Insights de GitHub, se presenta la gráfica de colaboración del repositorio. Esta visualización refleja la contribución individual de cada miembro del equipo durante el Sprint 1.
+<br><br>
+
+<img src="Resources/Insights/Insight 1.jpeg">
+<img src="Resources/Insights/Insight 2.jpeg">
+<img src="Resources/Insights/Insight 3.jpeg">
+
+
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
 ### 5.3.2. Registro de Entrevistas.
