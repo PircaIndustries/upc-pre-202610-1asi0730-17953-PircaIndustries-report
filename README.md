@@ -3629,8 +3629,18 @@ Wiegers, K. E., y Beatty, J. (2013). *Software requirements* (3rd ed.). Microsof
 + Mock-ups: [Ver Mock-ups](https://www.figma.com/design/YozJtIsGkKkhXZA5kArMvL/Kipu---Open-Source-Mockups?node-id=2-10598&t=ylKZiCxcAheVlOJA-1)<br><br>
 + Prototype Figma: [Ver Prototype](https://www.figma.com/design/oCVgJrJ3SUNXq8jIGHlhX0/App-Web---Prototype?t=RCnCwcgdiy5cIIsu-1)<br><br>
 
-+ Prototype Video: [Ver Prototype](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e418_upc_edu_pe/IQA-0HfzRP5QQbjtvHgLZhicAX8TCTcr1XWOAx8Bqw1kWTM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=WbNAKq)<br><br>
+
 <!--+ Prototype: [Ver Prototype ](https://www.figma.com/)<br><br>-->
+
+## Prototype
+
+  <div align="center">
+    <img src="/Resources/Prototype/Autenticación.jpeg" alt="Prototype video">
+ </div>
+
+
+Enlace: [Prototype](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e418_upc_edu_pe/IQA-0HfzRP5QQbjtvHgLZhicAX8TCTcr1XWOAx8Bqw1kWTM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=WbNAKq)<br><br>
+
 
 ## Needfinding Interviews
 
