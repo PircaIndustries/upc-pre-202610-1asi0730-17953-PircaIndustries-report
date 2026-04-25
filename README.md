@@ -1971,6 +1971,155 @@ A continuación, presentaremos los wireframes de nuestra aplicación web de mane
 <img src="Resources/Wireflow/Dossier.png">
 
 ### 4.4.3. Web Applications Mock-ups.
+
+Se presentarán los Mock-ups de Kipu, versiones más realistas de los Wireframes.
+
+<img src="Resources/Mockups/Mockup general view.png">
+
+Enlace de <a href="https://www.figma.com/design/YozJtIsGkKkhXZA5kArMvL/Kipu---Open-Source-Mockups?node-id=2-10598&t=ylKZiCxcAheVlOJA-1">Mockups</a>
+
+## <b>Mock-ups versión Desktop:</b>
+
+## Autenticación
+
+<img src="Resources/Mockups/Autenticacion/Mockup Desktop Autenticacion - 1.png">
+<img src="Resources/Mockups/Autenticacion/Mockup Desktop Autenticacion - 2.png">
+<img src="Resources/Mockups/Autenticacion/Mockup Desktop Autenticacion - 3.png">
+
+---
+
+## Avances
+
+<img src="Resources/Mockups/Avances/Mockup Desktop Avances.png">
+
+---
+
+## Dashboard
+
+<img src="Resources/Mockups/Dashboard/Mockup Desktop Dashboard - 1.png">
+<img src="Resources/Mockups/Dashboard/Mockup Desktop Dashboard - 2.png">
+
+---
+
+## Firmas
+
+<img src="Resources/Mockups/Firmas/Mockup Desktop Firmas - 1.png">
+<img src="Resources/Mockups/Firmas/Mockup Desktop Firmas - 2.png">
+
+---
+
+## Materiales
+
+<img src="Resources/Mockups/Materiales/Mockup Desktop Materiales - 1.png">
+<img src="Resources/Mockups/Materiales/Mockup Desktop Materiales - 2.png">
+<img src="Resources/Mockups/Materiales/Mockup Desktop Materiales - 2.png">
+<img src="Resources/Mockups/Materiales/Mockup Desktop Materiales - 3.png">
+<img src="Resources/Mockups/Materiales/Mockup Desktop Materiales - 4.png">
+<img src="Resources/Mockups/Materiales/Mockup Desktop Materiales - 5.png">
+<img src="Resources/Mockups/Materiales/Mockup Desktop Materiales - 6.png">
+
+---
+
+## Planos
+
+<img src="Resources/Mockups/Planos/Mockup Desktop Planos - 1.png">
+<img src="Resources/Mockups/Planos/Mockup Desktop Planos - 2.png">
+
+---
+
+## Equipo
+
+<img src="Resources/Mockups/Equipo/Mockup Desktop Equipo.png">
+
+---
+
+## Presupuesto
+
+<img src="Resources/Mockups/Presupuesto/Mockup Desktop Presupuesto.png">
+
+---
+
+## Proyecto
+
+<img src="Resources/Mockups/Proyecto/Mockup Desktop Proyecto.png">
+
+---
+
+## RNC
+
+<img src="Resources/Mockups/RNC/Mockup Desktop RNC.png">
+
+## <b>Mock-ups versión Mobile:</b>
+
+## Autenticación
+
+<img src="Resources/Mockups/Autenticacion/Mockup Mobile Autenticacion 1.png">
+
+---
+
+## Avances
+
+<img src="Resources/Mockups/Avances/Mockup Mobile Avances.png">
+
+---
+
+## Dashboard
+
+<img src="Resources/Mockups/Dashboard/Mockup Mobile Dashboard.png">
+
+---
+
+## Equipo
+
+<img src="Resources/Mockups/Equipo/Mockup Mobile Equipo.png">
+
+---
+
+## Firmas
+
+<img src="Resources/Mockups/Firmas/Mockup Mobile Firmas.png">
+
+---
+
+## Materiales
+
+<img src="Resources/Mockups/Materiales/Mockup Mobile Materiales.png">
+
+---
+
+## Notificaciones
+
+<img src="Resources/Mockups/Notificaciones/Mockup Mobile Notificaciones.png">
+
+---
+
+## Perfil
+
+<img src="Resources/Mockups/Perfil/Mockup Mobile Perfil.png">
+
+---
+
+## Planos
+
+<img src="Resources/Mockups/Planos/Mockup Mobile Planos.png">
+
+---
+
+## Presupuesto
+
+<img src="Resources/Mockups/Presupuesto/Mockup Mobile Presupuesto.png">
+
+---
+
+## Proyecto
+
+<img src="Resources/Mockups/Proyecto/Mockup Mobile Proyecto.png">
+
+---
+
+## RNC
+
+<img src="Resources/Mockups/RNC/Mockup Mobile RNC.png">
 ### 4.4.4. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
 ## 4.6. Domain-Driven Software Architecture.
