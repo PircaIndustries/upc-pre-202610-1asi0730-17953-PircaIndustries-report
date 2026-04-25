@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1023" height="71" alt="imagen" src="https://github.com/user-attachments/assets/c6a4d556-581a-4641-848c-ccd479411f67" /><div align="center">
   <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/UPC_logo_transparente.png" alt="Logo-UPC" width="150">
 
 ## Universidad Peruana de Ciencias Aplicadas
@@ -3069,7 +3069,7 @@ Durante el Sprint 1, el equipo organizó el trabajo en base a las Epics definida
 
 Para este primer sprint, nuestro enfoque prioritario es el despliegue de los módulos fundamentales de Kipu, permitiendo que las constructoras y consultoras visualicen el valor estratégico de la plataforma. Buscamos establecer una base sólida donde los usuarios puedan explorar las capacidades de gestión logística y técnica, conocer el alcance de nuestros planes de suscripción y entender cómo nuestra herramienta optimiza la trazabilidad en obra. Asimismo, priorizamos la transparencia de nuestra startup, exponiendo nuestra misión y canales de soporte directo. Para lograrlo, hemos seleccionado del Product Backlog aquellas funcionalidades críticas que garantizan una experiencia operativa coherente y funcional desde este primer hito de desarrollo.
 
-Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94d49929393b94517123fbc0f320cfc66B31A6FB/cambiazo)<br><br>
+Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/69e1a8ade7c896f39a65000b/ATTI3f0a19c500027a1781547989057c9d4cC31C6F4E/kipu)<br><br>
 
 <table>
   <thead>
