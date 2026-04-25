@@ -67,10 +67,11 @@
 |1\.4\.2|18/04/2026|Jhony Manuel Francia Torres| Se agregaron los Diagramas de Clases y Base de Datos|
 |1\.5\.2|24/04/2026|Diego Antonio Ramos Hinostroza, Paula Fernanda Montoya Nina, Neo Daniel Ramos Mera, Adrian Fernando Palacios Tinoco, Jhony Manuel Francia Torres | Se agregó contenido relacionado a los Mockups y Wireframes tanto de la aplicación web como de la landing page  |
 |1\.5\.3|24/04/2026|Diego Antonio Ramos Hinostroza | Se agregó contenido relacionado a Source Code Management  |
-|1\.5\.4|15/04/2026|Paula Fernanda Montoya Nina| Se agregó el apartado Sprint Planning|
-|1\.5\.5|24/04/2026|Neo Daniel Ramos Mera| Se agregó el Aspect Leaders and Collaborators|
-|1\.5\.6|24/04/2026|Neo Daniel Ramos Mera| Se agregó el apartado de Development Evidence for Sprint Review|
-|1\.5\.7|24/04/2026|Neo Daniel Ramos Mera| Se agregó el apartado de Team Collaboration Insights during Sprint|
+|1\.5\.4|15/04/2026|Paula Fernanda Montoya Nina| Se agregó el apartado Sprint 1 Planning|
+|1\.5\.5|15/04/2026|Paula Fernanda Montoya Nina| Se agregó el apartado Sprint 1 Backlog|
+|1\.5\.6|24/04/2026|Neo Daniel Ramos Mera| Se agregó el Aspect Leaders and Collaborators|
+|1\.5\.7|24/04/2026|Neo Daniel Ramos Mera| Se agregó el apartado de Development Evidence for Sprint Review|
+|1\.5\.8|24/04/2026|Neo Daniel Ramos Mera| Se agregó el apartado de Team Collaboration Insights during Sprint|
 
 
 
@@ -2576,6 +2577,114 @@ Durante el Sprint 1, el equipo organizó el trabajo en base a las Epics definida
 **Leyenda:** L = Líder, C = Colaborador
 
 #### 5.2.1.3. Sprint Backlog 1.
+
+<table>
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th style="text-align: left;">User Story Id</th>
+      <th style="text-align: left;">User Story Title</th>
+      <th style="text-align: left;">Task Id</th>
+      <th style="text-align: left;">Task Title</th>
+      <th style="text-align: left;">Task Description</th>
+      <th style="text-align: center;">Estimation (Hours)</th>
+      <th style="text-align: left;">Assigned To</th>
+      <th style="text-align: center;">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>US-50</strong></td>
+      <td>Presentación de Kipu y propuesta de valor</td>
+      <td>TK-01</td>
+      <td>Implementación Navbar</td>
+      <td>Implementación de la barra de navegación y menús</td>
+      <td style="text-align: center;">10 min</td>
+      <td>Paula Montoya</td>
+      <td style="text-align: center;">Done</td>
+    </tr>
+    <tr>
+      <td><strong>US-50</strong></td>
+      <td>Presentación de Kipu y propuesta de valor</td>
+      <td>TK-02</td>
+      <td>Implementación Home</td>
+      <td>Implementación de la sección Home (Hero)</td>
+      <td style="text-align: center;">1</td>
+      <td>Neo Ramos</td>
+      <td style="text-align: center;">Done</td>
+    </tr>
+    <tr>
+      <td><strong>US-50</strong></td>
+      <td>Presentación de Kipu y propuesta de valor</td>
+      <td>TK-03</td>
+      <td>Implementación Propuesta</td>
+      <td>Implementación de la sección de propuesta de valor</td>
+      <td style="text-align: center;">1</td>
+      <td>Diego Ramos</td>
+      <td style="text-align: center;">Done</td>
+    </tr>
+    <tr>
+      <td><strong>US-50</strong></td>
+      <td>Presentación de Kipu y propuesta de valor</td>
+      <td>TK-04</td>
+      <td>Implementación Diferencias</td>
+      <td>Implementación de la sección de ventajas competitivas</td>
+      <td style="text-align: center;">1</td>
+      <td>Paula Montoya</td>
+      <td style="text-align: center;">Done</td>
+    </tr>
+    <tr>
+      <td><strong>US-51</strong></td>
+      <td>Visualización de funcionalidades principales</td>
+      <td>TK-05</td>
+      <td>Implementación Roles</td>
+      <td>Implementación de la sección de mención de roles</td>
+      <td style="text-align: center;">1</td>
+      <td>Adrian Palacios</td>
+      <td style="text-align: center;">Done</td>
+    </tr>
+    <tr>
+      <td><strong>US-52</strong></td>
+      <td>Presentación de misión y visión</td>
+      <td>TK-06</td>
+      <td>Implementación Planes</td>
+      <td>Implementación de la sección de planes estratégicos</td>
+      <td style="text-align: center;">1</td>
+      <td>Manuel Francia</td>
+      <td style="text-align: center;">Done</td>
+    </tr>
+    <tr>
+      <td><strong>US-52</strong></td>
+      <td>Presentación de misión y visión</td>
+      <td>TK-07</td>
+      <td>Implementación Creadores</td>
+      <td>Implementación de la sección de creadores y visión</td>
+      <td style="text-align: center;">1</td>
+      <td>Adrian Palacios</td>
+      <td style="text-align: center;">Done</td>
+    </tr>
+    <tr>
+      <td><strong>US-53</strong></td>
+      <td>Visualización de canales de contacto y formulario</td>
+      <td>TK-08</td>
+      <td>Implementación Formulario</td>
+      <td>Implementación de la sección de contacto (formulario)</td>
+      <td style="text-align: center;">1</td>
+      <td>Diego Ramos</td>
+      <td style="text-align: center;">Done</td>
+    </tr>
+    <tr>
+      <td><strong>US-54</strong></td>
+      <td>Solicitud de registro y/o demo</td>
+      <td>TK-09</td>
+      <td>Implementación Footer</td>
+      <td>Implementación de la sección de pie de página (footer)</td>
+      <td style="text-align: center;">10 min</td>
+      <td>Neo Ramos</td>
+      <td style="text-align: center;">Done</td>
+    </tr>
+  </tbody>
+</table>
+
 #### 5.2.1.4. Development Evidence for Sprint Review.
 
 Durante el Sprint 1, el equipo trabajó en la implementación de la Landing Page de Kipu. Los principales avances incluyen la estructura base del sitio, las secciones de Home, Propuesta, Equipo, Planes y Diferencias, así como la configuración de internacionalización (i18n), el menú de navegación responsivo para dispositivos móviles, la sección de contacto y el despliegue en GitHub Pages.
