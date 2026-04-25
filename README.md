@@ -1274,6 +1274,42 @@ Para comprender las acciones realizadas por nuestros usuarios en su día a día,
 <img src="Resources/Artefactos/Empathy Mapping - Olivia Da Silva.png" alt="Foto de Empathy Mapping segmento 2"/>
 
 ### 2.3.5. As-is Scenario Mapping.
+<table>
+  <thead>
+    <tr>
+      <th style="padding: 8px;">Fase</th>
+      <th style="padding: 8px;">Haciendo</th>
+      <th style="padding: 8px;">Pensando</th>
+      <th style="padding: 8px;">Sintiendo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px;"><b>Revisión de planos técnicos</b></td>
+      <td style="padding: 8px;">Busca la última versión de los planos entre correos electrónicos, mensajes de WhatsApp o copias impresas directamente en la obra.</td>
+      <td style="padding: 8px;">"¿Estaré usando el plano correcto o construiré sobre un diseño que ya fue modificado en la oficina?"</td>
+      <td style="padding: 8px;">Frustración e inseguridad por el tiempo perdido validando documentos y el alto riesgo de cometer errores de construcción caros.</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;"><b>Requerimiento de materiales</b></td>
+      <td style="padding: 8px;">El residente pide insumos por WhatsApp. El equipo de logística copia esos mensajes a mano en un Excel para verificar si hay presupuesto.</td>
+      <td style="padding: 8px;">"Ojalá anoten bien las medidas del material que pedí y que el presupuesto alcance para comprarlo a tiempo."</td>
+      <td style="padding: 8px;">Estrés constante por el riesgo de compras duplicadas, envío de materiales equivocados y retrasos que terminan paralizando la obra.</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;"><b>Control de avance diario</b></td>
+      <td style="padding: 8px;">Anota el progreso físico de la construcción en cuadernos o libretas sueltas y calcula los porcentajes manualmente al final del mes.</td>
+      <td style="padding: 8px;">"Armar los reportes de avance para los clientes o inversores me quita demasiado tiempo porque la información está dispersa."</td>
+      <td style="padding: 8px;">Agobio por el desorden de los datos y preocupación por no detectar a tiempo fallas estructurales o fugas de dinero.</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;"><b>Cierre de etapas y firmas</b></td>
+      <td style="padding: 8px;">Persigue a los ingenieros y dueños de manera presencial para conseguir firmas físicas en las actas de conformidad y expedientes.</td>
+      <td style="padding: 8px;">"Si no consigo estas firmas antes del límite de la municipalidad, nos van a poner una multa o detener la obra."</td>
+      <td style="padding: 8px;">Ansiedad por la lentitud de la burocracia y temor al riesgo legal de cerrar un proyecto sin un historial claro de responsabilidades.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## 2.4. Big Picture Event Storming.
 
