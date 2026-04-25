@@ -1985,7 +1985,7 @@ A continuación, presentaremos los wireframes de nuestra aplicación web de mane
 
 Se presentarán los Mock-ups de Kipu, versiones más realistas de los Wireframes.
 
-<img src="Resources/Mockups/Mockup general view.png">
+<img src="Resources/Mockups/General/Mockup General.png">
 
 Enlace de <a href="https://www.figma.com/design/YozJtIsGkKkhXZA5kArMvL/Kipu---Open-Source-Mockups?node-id=2-10598&t=ylKZiCxcAheVlOJA-1">Mockups</a>
 
@@ -2064,7 +2064,7 @@ Enlace de <a href="https://www.figma.com/design/YozJtIsGkKkhXZA5kArMvL/Kipu---Op
 
 ## Autenticación
 
-<img src="Resources/Mockups/Autenticacion/Mockup Mobile Autenticacion 1.png">
+<img src="Resources/Mockups/Autenticacion/Mockup Mobile Autenticacion.png">
 
 ---
 
