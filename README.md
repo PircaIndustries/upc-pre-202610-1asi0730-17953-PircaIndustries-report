@@ -2254,6 +2254,124 @@ En esta sección se emplea el modelo C4 para diseñar la arquitectura del softwa
 
 ### 4.6.1. Design-Level Event Storming.
 
+En esta etapa del diseño, se profundizó en la interacción exacta entre los usuarios y el sistema para descubrir los límites transaccionales de **Kipu**. A diferencia del *Big Picture*, el **Design-Level Event Storming** se centra en identificar los **Agregados** responsables de proteger las reglas de negocio (*Policies*) antes de emitir un Evento de Dominio.
+
+A continuación, se documenta la arquitectura dividida por los Bounded Contexts identificados:
+
+<br><br>
+<div align="center">
+    <img src="Resources/Design-Level-Event-Storming/desingEventStorming-panoramic.png" alt="Vista Panorámica del Design-Level Event Storming">
+</div>
+<br><br>
+
+### Identity and Access Management
+Este dominio gestiona la seguridad, el control de acceso y el registro del personal operativo. 
+
+<br><br>
+<div align="center">
+    <img src="Resources/Design-Level-Event-Storming/desingEventStorming-identity.png" alt="Identity and Access Management Event Storming">
+</div>
+<br><br>
+
+* **Agregado: User Profile**
+  <br> **Flujo:** El *Usuario Anónimo* visualiza la pantalla de registro y ejecuta el comando **Registrarse**.
+  <br> **Política:** Validar formato de datos y asegurar que el correo sea único.
+  <br> **Eventos:** *Registro Exitoso* o un punto de pánico por *Error: Correo Existente*. <br>
+  
+* **Agregado: Session**
+  <br> **Flujo:** El *Usuario Registrado* ejecuta **Iniciar Sesión**. Depende de un sistema externo (Servicio Correo/SMS) para la autenticación en dos pasos.
+  <br> **Eventos:** *Sesión Iniciada* o falla por *Token Inválido*. <br>
+  
+* **Agregados Secundarios:** System Access (para envío de invitaciones) y Worker Directory.
+
+### Service Design and Planning
+Gestiona el ciclo de vida estructural de la obra y la centralización de datos a nivel macro.
+
+<br><br>
+<div align="center">
+    <img src="Resources/Design-Level-Event-Storming/desingEventStorming-planning.png" alt="Service Design and Planning Event Storming">
+</div>
+<br><br>
+
+* **Agregado: Project**
+  <br> **Flujo:** Los equipos de logística y administración ejecutan el comando **Crear Nuevo Proyecto** desde la vista de lista de proyectos.
+  <br> **Eventos:** *Proyecto Creado y Confirmado*. <br>
+  
+* **Agregado: Project Dossier**
+  <br> **Flujo:** Mediante el Dashboard, se ejecuta el comando **Exportar Dossier** para consolidar la información.
+  <br> **Eventos:** *Dossier Generado* o *Fallo de exportación*.
+
+### Service Execution and Monitoring
+Controla la realidad en el campo (faena), capturando el avance físico y los problemas de calidad. Destaca por su comunicación asíncrona con Logística.
+
+<br><br>
+<div align="center">
+    <img src="Resources/Design-Level-Event-Storming/desingEventStorming-monitoring.png" alt="Service Execution and Monitoring Event Storming">
+</div>
+<br><br>
+
+* **Agregado: Task Progress**
+  <br> **Flujo:** El *Supervisor de Obra* ejecuta **Guardar Avance**.
+  <br> **Política:** Si el avance indica material usado, se dispara un evento de integración para deducir el stock.
+  <br> **Eventos:** *Avance Guardado*. Este evento notifica al Agregado Inventory en el contexto logístico, logrando un *Stock Actualizado Automáticamente*. <br>
+  
+* **Agregado: PhotoLog & Incident**
+  <br> **Flujo:** El supervisor adjunta evidencia visual mediante **Subir Fotos** y reporta fallas con **Agregar Nuevo RNC**.
+  <br> **Eventos:** *Fotos Guardadas* y *RNC Registrado*. 
+
+### Resource and Asset Management
+El dominio con mayor carga transaccional. Administra la cadena de suministro, maquinaria e inventario general.
+
+<br><br>
+<div align="center">
+    <img src="Resources/Design-Level-Event-Storming/desingEventStorming-resource1.png" alt="Resource and Asset Management Event Storming Parte 1">
+</div>
+<br><br>
+<div align="center">
+    <img src="Resources/Design-Level-Event-Storming/desingEventStorming-resource2.png" alt="Resource and Asset Management Event Storming Parte 2">
+</div>
+<br><br>
+
+* **Agregado: Material Request**
+  <br> **Flujo:** Los supervisores en obra ejecutan **Hacer Solicitud de Material**. Logística, desde su vista, ejecuta **Aprobar o Rechazar**.
+  <br> **Eventos:** *Solicitud Creada* y *Estado de Solicitud Actualizado*. <br>
+  
+* **Agregado: Merma Report**
+  <br> **Flujo:** Al reportar material dañado, se aplica una **Política** que exige especificar cantidad y tipo.
+  <br> **Eventos:** *Merma Registrada*. Esto dispara automáticamente el comando de deducir merma en el Agregado Inventory. <br>
+  
+* **Agregados Secundarios:** Inventory (Añadir stock manual), Machinery (Devolución de equipos) y Provide (Registro de proveedores).
+
+### Technical Documentation & Design
+Protege la propiedad intelectual y asegura que el personal en campo construya sobre la versión correcta.
+
+<br><br>
+<div align="center">
+    <img src="Resources/Design-Level-Event-Storming/desingEventStorming-blueprint.png" alt="Technical Documentation & Design Event Storming">
+</div>
+<br><br>
+
+* **Agregado: Blueprint Family**
+  <br> **Flujo:** El *Supervisor de Obra* consulta todos los planos y ejecuta **Subir Nueva Versión / Descargar**.
+  <br> **Eventos:** *Historial de Plano Actualizado*. <br>
+* **Agregado: Blueprint Data**
+  <br> **Flujo:** A través del visor 3D, el supervisor ejecuta **Añadir Comentario / Exportar 3D**.
+  <br> **Eventos:** *Anotación Guardada / Modelo Exportado*.
+
+### Legal & Compliance Management
+Maneja las responsabilidades legales y el cierre formal de etapas constructivas.
+
+<br><br>
+<div align="center">
+    <img src="Resources/Design-Level-Event-Storming/desingEventStorming-legal.png" alt="Legal & Compliance Management Event Storming">
+</div>
+<br><br>
+
+* **Agregado: Legal Document**
+  <br> **Flujo:** El *Supervisor de Obra* visualiza el apartado de firmas y ejecuta **Firmar Documento**.
+  <br> **Política:** Es estrictamente necesario *Ingresar el Token de Verificación Exacto*.
+  <br> **Eventos:** *Firma Exitosa* o punto de pánico por *Firma No Exitosa*.
+    
 ### 4.6.2. Software Architecture Context Diagram.
 En este nivel se visualizan los actores principales: el Operative Manager, el Logistics Officer, el System Administrator y el Client. Asimismo, se detallan las relaciones con los sistemas externos encargados de la seguridad y comunicación, representados por el Servicio SMS OTP y el Servicio de Correo.
 
