@@ -1988,7 +1988,7 @@ Se presentarán los Mock-ups de Kipu, versiones más realistas de los Wireframes
 
 <img src="Resources/Mockups/General/Mockup General.png">
 
-Enlace de <a href="https://www.figma.com/design/YozJtIsGkKkhXZA5kArMvL/Kipu---Open-Source-Mockups?node-id=2-10598&t=ylKZiCxcAheVlOJA-1">Mockups</a>
+Enlace de <a href="https://www.figma.com/design/FyoLkuLim7pgB23ZdnuZOl/Kipu---Aplicaciones-Web-Mockups?node-id=0-1&t=p8occfAoy5s2FUhl-1">Mockups</a>
 
 ## <b>Mock-ups versión Desktop:</b>
 
