@@ -1716,19 +1716,19 @@ A continuación, presentaremos los wireframes de nuestra aplicación web de mane
     <img src="/Resources/Wireframes/Wireframe-2.png"  alt="wireframes-2"><br><br>
 </div><br>
 
-- **Proyectos:** Lorem<br><br>
+- **Proyectos:** agrupa las vistas dedicadas a la administración y seguimiento de obras, permitiendo crear, revisar y organizar la información principal de cada proyecto desde un solo lugar.<br><br>
 
 <div align="center">
     <img src="/Resources/Wireframes/Wireframe-3.png"  alt="wireframes-3"><br><br>
 </div><br>
 
-- **Dashboard:** Lorem<br><br>
+- **Dashboard:** reúne las pantallas orientadas al resumen operativo, mostrando indicadores clave, alertas y accesos rápidos para tomar decisiones sin recorrer múltiples módulos.<br><br>
 
 <div align="center">
     <img src="/Resources/Wireframes/Wireframe-4.png"  alt="wireframes-4"><br><br>
 </div><br>
 
-- **Avances:** Lorem<br><br>
+- **Avances:** concentra el registro del progreso físico de la obra, incluyendo reportes diarios, porcentajes de cumplimiento y seguimiento visual del estado de ejecución.<br><br>
 
 <div align="center">
     <img src="/Resources/Wireframes/Wireframe-5.png"  alt="wireframes-5"><br><br>
