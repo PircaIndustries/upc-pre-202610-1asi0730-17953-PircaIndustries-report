@@ -3407,6 +3407,9 @@ Wiegers, K. E., y Beatty, J. (2013). *Software requirements* (3rd ed.). Microsof
 + Repositorio GitHub de los Acceptance-Test: [Ver Repositorio]( https://github.com/PircaIndustries/Acceptance-Test)<br><br>
 + Wireframes: [Ver Wireframes](https://www.figma.com/design/wYSJ9ua6Bc2UCmH6TnQWie/Kipu---Aplicaciones-Web-Wireframes?node-id=0-1&t=zWud7TLSj3oIzBkc-1)<br><br>
 + Mock-ups: [Ver Mock-ups](https://www.figma.com/design/YozJtIsGkKkhXZA5kArMvL/Kipu---Open-Source-Mockups?node-id=2-10598&t=ylKZiCxcAheVlOJA-1)<br><br>
++ Prototype Figma: [Ver Prototype](https://www.figma.com/design/oCVgJrJ3SUNXq8jIGHlhX0/App-Web---Prototype?t=RCnCwcgdiy5cIIsu-1)<br><br>
+
++ Prototype Video: [Ver Prototype](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e418_upc_edu_pe/IQCY5IVqRkn-Rpyt0Ap_YS49AQWdTh02CBwF0xwLnlNL5UQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=jhMW5r)<br><br>
 <!--+ Prototype: [Ver Prototype ](https://www.figma.com/)<br><br>-->
 
 ## Needfinding Interviews
