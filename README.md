@@ -75,7 +75,7 @@
 |1\.5\.9|24/04/2026|Neo Daniel Ramos Mera| Se agregó el apartado de Wireflow|
 |1\.5\.10|24/04/2026|Paula Fernanda Montoya Nina| Se agregó el apartado de Execution Evidence for Sprint Review.|
 |1\.5\.11|24/04/2026|Paula Fernanda Montoya Nina| Se agregó el apartado de Services Documentation Evidence for Sprint Review.|
-
+|1\.5\.12|24/04/2026|Paula Fernanda Montoya Nina| Se agregó el apartado de Software Deployment Evidence for Sprint Review.|
 </div><br><br>
 
 ---
@@ -2898,7 +2898,7 @@ Se estableció la organización **PircaIndustries** en GitHub para centralizar l
 <br>
 <br>
 <div align="center">
-    <img src="Resources\SoftwareDeployment-repositories-acceptancetest.png" width="600px" alt="Vista principal del repositorio Acceptance-Test">
+    <img src="Resources/Software-Deplotment-Evidence/SoftwareDeployment-repositories-acceptancetest.png" width="600px" alt="Vista principal del repositorio Acceptance-Test">
 	<br>
 	<p>Vista principal del repositorio de Acceptance-Test, evidenciando el uso de archivos Gherkin.</p>
 </div>
@@ -2928,7 +2928,6 @@ Para asegurar que solo el código funcional y aprobado llegue al entorno de prod
 
 #### 3. Despliegue
 Para el despliegue continuo y gratuito de la Landing Page, se utilizó el servicio **GitHub Pages**. La configuración se enlazó directamente a la rama `main` del repositorio `Landing-Page-Kipu`. 
-**Acciones implementadas:**
 * **Source:** Despliegue automatizado desde la rama `main` y la carpeta raíz (`/root`).
 * **Disponibilidad:** Tras la configuración, el entorno de producción quedó publicado y accesible de forma pública.
 **URL del entorno de producción (Landing Page):** [https://pircaindustries.github.io/Landing-Page-Kipu/](https://pircaindustries.github.io/Landing-Page-Kipu/)
