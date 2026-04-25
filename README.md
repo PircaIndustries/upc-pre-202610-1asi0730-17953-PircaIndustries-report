@@ -2374,7 +2374,110 @@ Prototype completo de Kipu:
 
 Enlace para ver el Prototype: <a href="https://www.figma.com/design/oCVgJrJ3SUNXq8jIGHlhX0/App-Web---Prototype?t=RCnCwcgdiy5cIIsu-1">Prototype Figma</a>
 
+Ahora, se presentarán las evidencias del vídeo del Prototype interactivo de Kipu:
+
 Enlace para ver demostración del Prototype en vídeo: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e418_upc_edu_pe/IQCY5IVqRkn-Rpyt0Ap_YS49AQWdTh02CBwF0xwLnlNL5UQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=jhMW5r">Prototype video</a>
+
+## Autenticación
+
+**User Goal 1:** Como usuario del sistema, quiero acceder a la plataforma mediante inicio de sesión, creación de cuenta nueva o recuperación de contraseña, para utilizar las funcionalidades de gestión de proyectos de manera segura y personalizada.
+
+<img src="Resources/Prototype/Autenticación.jpeg">
+
+**Timestamp:** 0:00
+
+---
+
+## Proyecto
+
+**User Goal 2:** Como administrador o gestor del sistema, quiero registrar, modificar y administrar los proyectos dentro de la plataforma, estableciendo sus datos principales y su estado operativo, para mantener un control centralizado de todas las obras activas y simplificar su gestión.
+
+<img src="Resources/Prototype/Proyecto.jpeg">
+
+**Timestamp:** 0:46
+
+---
+
+## Avance
+
+**User Goal 3:** Como encargado de campo o supervisor, quiero reportar periódicamente el progreso físico de las tareas del proyecto, indicando el porcentaje de avance y agregando observaciones relevantes, para conservar un historial trazable de la ejecución real frente a lo programado.
+
+<img src="Resources/Prototype/Avances.jpeg">
+
+**Timestamp:** 1:43
+
+---
+
+## RNC (No Conformidad)
+
+**User Goal 4:** Como responsable de control de calidad o supervisor, quiero registrar las no conformidades detectadas en la ejecución de la obra, adjuntando evidencia visual como fotografías, para comunicar al equipo correspondiente y dar seguimiento hasta la corrección del problema.
+
+<img src="Resources/Prototype/RNC.jpeg">
+
+**Timestamp:** 2:07
+
+---
+
+## Materiales
+
+**User Goal 5:** Como profesional en campo o solicitante, quiero crear pedidos formales de materiales e insumos, detallando los productos necesarios, las cantidades y la fecha requerida de entrega, para enviar las solicitudes al área logística de forma estructurada y evitar coordinaciones informales.
+
+<img src="Resources/Prototype/Materiales.jpeg">
+
+**Timestamp:** 2:20
+
+---
+
+## Planos
+
+**User Goal 6:** Como profesional técnico, quiero cargar, visualizar, versionar y organizar los planos del proyecto, aplicando filtros por categoría o especialidad y descargándolos para consulta sin conexión, para garantizar que todo el equipo trabaje con la versión más reciente y prevenir errores por documentos desactualizados.
+
+<img src="Resources/Prototype/Planos.jpeg">
+
+**Timestamp:** 3:20
+
+---
+
+## Firmas
+
+**User Goal 7:** Como profesional autorizado, quiero aprobar documentos de manera digital mediante un mecanismo de verificación que asegure la autenticidad de la acción, para formalizar el cierre de etapas o la conformidad de entregables con respaldo legal y trazabilidad.
+
+<img src="Resources/Prototype/Firmas.jpeg">
+
+**Timestamp:** 3:56
+
+---
+
+## Presupuesto
+
+**User Goal 8:** Como miembro del equipo administrativo o financiero, quiero consultar el presupuesto asignado por cada partida o categoría, compararlo con el gasto real ejecutado y recibir notificaciones ante desviaciones, para identificar fugas presupuestarias y fundamentar decisiones antes de aprobar nuevas compras.
+
+<img src="Resources/Prototype/Presupuesto.jpeg">
+
+**Timestamp:** 4:24
+
+---
+
+## Equipo
+
+**User Goal 9:** Como administrador o líder del proyecto, quiero gestionar los usuarios vinculados a cada obra y ajustar sus permisos de acceso, para que cada persona cuente con los niveles de autorización adecuados a su función y evitar accesos no autorizados a información delicada.
+
+<img src="Resources/Prototype/Equipo.jpeg">
+
+**Timestamp:** 4:34
+
+---
+
+## Dossier de Calidad
+
+**User Goal 10:** Como administrador o gerente del proyecto, quiero generar un informe completo en formato PDF que consolide todo el historial de firmas electrónicas, aprobaciones y documentos de calidad de una etapa constructiva, para facilitar la entrega oficial del proyecto a la municipalidad o al cliente final.
+
+<img src="Resources/Prototype/Dossier.jpeg">
+
+**Timestamp:** 1:23
+
+---
+<br><br>
 
 ## 4.6. Domain-Driven Software Architecture.
 En esta sección se emplea el modelo C4 para diseñar la arquitectura del software, abarcando sus distintos niveles: contexto, contenedores, componentes y código. Este método facilita una visión clara del sistema.
