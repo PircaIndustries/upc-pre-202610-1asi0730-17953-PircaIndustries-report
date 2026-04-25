@@ -1690,7 +1690,7 @@ Enlace: [Mock-up del Landing Page en Figma](https://www.figma.com/design/SSJ93ys
 **Landing Page en Mobile Web Browser**
 
 <div align="center">
-    <img src="Resources/Mock-ups/Landing_Mockup_mobile.png" width="300px" alt="Mockup Mobile">
+    <img src="Resources/Mock-ups/Landing_Mockup_Mobile.png" width="300px" alt="Mockup Mobile">
 </div><br><br>
 
 ## 4.4. Web Applications UX/UI Design.
