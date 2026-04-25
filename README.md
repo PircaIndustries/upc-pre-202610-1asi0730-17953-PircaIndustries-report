@@ -77,6 +77,7 @@
 |1\.5\.11|24/04/2026|Paula Fernanda Montoya Nina| Se agregó el apartado de Services Documentation Evidence for Sprint Review.|
 |1\.5\.12|24/04/2026|Paula Fernanda Montoya Nina| Se agregó el apartado de Software Deployment Evidence for Sprint Review.|
 |1\.4\.3|24/04/2026|Neo Daniel Ramos Mera| Se agregó el apartado de User Flow|
+|1\.4\.4|24/04/2026|Neo Daniel Ramos Mera| Se agregó el apartado de Prototype|
 </div><br><br>
 
 ---
@@ -2249,6 +2250,15 @@ Enlace de <a href="https://www.figma.com/design/FyoLkuLim7pgB23ZdnuZOl/Kipu---Ap
 <img src="Resources/UserFlow/Dossier.png">
 
 ## 4.5. Web Applications Prototyping.
+
+Prototype completo de Kipu:
+
+<img src="Resources/Prototype/Prototype.jpeg">
+
+Enlace para ver el Prototype: <a href="https://www.figma.com/design/oCVgJrJ3SUNXq8jIGHlhX0/App-Web---Prototype?t=RCnCwcgdiy5cIIsu-1">Prototype Figma</a>
+
+Enlace para ver demostración del Prototype en vídeo: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e418_upc_edu_pe/IQCY5IVqRkn-Rpyt0Ap_YS49AQWdTh02CBwF0xwLnlNL5UQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=jhMW5r">Prototype video</a>
+
 ## 4.6. Domain-Driven Software Architecture.
 En esta sección se emplea el modelo C4 para diseñar la arquitectura del software, abarcando sus distintos niveles: contexto, contenedores, componentes y código. Este método facilita una visión clara del sistema.
 
