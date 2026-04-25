@@ -1988,7 +1988,7 @@ Se presentarán los Mock-ups de Kipu, versiones más realistas de los Wireframes
 
 <img src="Resources/Mockups/General/Mockup General.png">
 
-Enlace de <a href="https://www.figma.com/design/YozJtIsGkKkhXZA5kArMvL/Kipu---Open-Source-Mockups?node-id=2-10598&t=ylKZiCxcAheVlOJA-1">Mockups</a>
+Enlace de <a href="https://www.figma.com/design/FyoLkuLim7pgB23ZdnuZOl/Kipu---Aplicaciones-Web-Mockups?node-id=0-1&t=p8occfAoy5s2FUhl-1">Mockups</a>
 
 ## <b>Mock-ups versión Desktop:</b>
 
@@ -2827,13 +2827,9 @@ Para este primer sprint, nuestro enfoque prioritario es el despliegue de los mó
 
 Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94d49929393b94517123fbc0f320cfc66B31A6FB/cambiazo)<br><br>
 
-<div align="center">
-  <img src="/Resources/Sprint-Backlog/trello-sprint-backlog-1.png" alt="sprint">
-</div><br><br>
-
 <table>
   <thead>
-    <tr style="background-color: #f2f2f2;">
+    <tr style="background-color">
       <th style="text-align: left;">User Story Id</th>
       <th style="text-align: left;">User Story Title</th>
       <th style="text-align: left;">Task Id</th>
@@ -2886,11 +2882,21 @@ Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94
       <td style="text-align: center;">Done</td>
     </tr>
     <tr>
-      <td><strong>US-51</strong></td>
+      <td><strong>US-49</strong></td>
       <td>Visualización de funcionalidades principales</td>
       <td>TK-05</td>
-      <td>Implementación Roles</td>
-      <td>Implementación de la sección de mención de roles</td>
+      <td>Implementación Roles: Equipos de logística</td>
+      <td>Implementación de la sección de mención de roles: para equipos de logística</td>
+      <td style="text-align: center;">1</td>
+      <td>Adrian Palacios</td>
+      <td style="text-align: center;">Done</td>
+    </tr>
+     <tr>
+      <td><strong>US-48</strong></td>
+      <td>Visualización de funcionalidades principales</td>
+      <td>TK-06</td>
+      <td>Implementación Roles: Gestores operativos</td>
+      <td>Implementación de la sección de mención de roles: para gestores operativos</td>
       <td style="text-align: center;">1</td>
       <td>Adrian Palacios</td>
       <td style="text-align: center;">Done</td>
@@ -2898,7 +2904,7 @@ Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94
     <tr>
       <td><strong>US-52</strong></td>
       <td>Presentación de misión y visión</td>
-      <td>TK-06</td>
+      <td>TK-07</td>
       <td>Implementación Planes</td>
       <td>Implementación de la sección de planes estratégicos</td>
       <td style="text-align: center;">1</td>
@@ -2908,7 +2914,7 @@ Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94
     <tr>
       <td><strong>US-52</strong></td>
       <td>Presentación de misión y visión</td>
-      <td>TK-07</td>
+      <td>TK-08</td>
       <td>Implementación Creadores</td>
       <td>Implementación de la sección de creadores y visión</td>
       <td style="text-align: center;">1</td>
@@ -2918,7 +2924,7 @@ Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94
     <tr>
       <td><strong>US-53</strong></td>
       <td>Visualización de canales de contacto y formulario</td>
-      <td>TK-08</td>
+      <td>TK-09</td>
       <td>Implementación Formulario</td>
       <td>Implementación de la sección de contacto (formulario)</td>
       <td style="text-align: center;">1</td>
@@ -2928,7 +2934,7 @@ Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94
     <tr>
       <td><strong>US-54</strong></td>
       <td>Solicitud de registro y/o demo</td>
-      <td>TK-09</td>
+      <td>TK-10</td>
       <td>Implementación Footer</td>
       <td>Implementación de la sección de pie de página (footer)</td>
       <td style="text-align: center;">10 min</td>
