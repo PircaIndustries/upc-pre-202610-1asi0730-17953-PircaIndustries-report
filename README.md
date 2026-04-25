@@ -2466,7 +2466,7 @@ A continuación, se presentan los commits más relevantes realizados durante el 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
-A partir de la sección Insights de GitHub, se presenta la gráfica de colaboración del repositorio. Esta visualización refleja la contribución individual de cada miembro del equipo durante el Sprint 1.
+A partir de la sección Insights de GitHub, se presentan las gráficas de colaboración del repositorio. Esta visualización refleja la contribución individual de cada miembro del equipo durante el Sprint 1.
 <br><br>
 
 <img src="Resources/Insights/Insight 1.jpeg">
