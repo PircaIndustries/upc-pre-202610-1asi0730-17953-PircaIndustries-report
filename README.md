@@ -236,7 +236,6 @@ El curso contribuye al cumplimiento del Student Outcome ABET:<br><br>
 **ABET – EAC - Student Outcome 5**
 Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo establecen objetivos, planifican tareas y cumplen objetivos.<br><br>
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.<br><br>
-
 <table>
 <thead>
 <tr>
@@ -250,37 +249,36 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 <td colspan="3">Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
 <td colspan="3" align="justify">
 <h3>Francia Torres Jhony Manuel</h3>
- <b>AV1</b><p>  </p>
+ <b>AV1</b><p>Lideró la definición del perfil de la solución y estructuró los modelos de la base de datos y el diseño orientado a objetos.</p>
 <h3>Montoya Nina Paula Fernanda</h3>
- <b>AV1</b><p>  </p>
-<h3>Palacios Tinoco Adrian</h3>
- <b>AV1</b><p>  </p>
+ <b>AV1</b><p>Asumió el rol de Team Leader, dirigiendo la planificación del primer sprint, la estructuración del Product Backlog y definiendo la arquitectura impulsada por el dominio.</p>
+<h3>Palacios Tinoco Adrian Fernando</h3>
+ <b>AV1</b><p>Tomó la iniciativa en el análisis de competidores, el desarrollo del Big Picture EventStorming y la definición de la arquitectura de la información.</p>
 <h3>Ramos Hinostroza Diego Antonio</h3>
- <b>AV1</b><p>  </p>
+ <b>AV1</b><p>Lideró la gestión de la configuración del software, la identificación de los segmentos objetivos y la recolección de requisitos mediante entrevistas.</p>
 <h3>Ramos Mera Neo Daniel</h3>
- <b>AV1</b><p>  </p>
+ <b>AV1</b><p>Dirigió el proceso de Lean UX, la elaboración del Impact Mapping y la organización de líderes y colaboradores para las distintas tareas.</p>
 </td>
 <td colspan="3">
-<b>AV1</b><p>  </p>
-
+<b>AV1</b><p>El equipo demostró un liderazgo distribuido. Cada integrante asumió el control de áreas específicas basándose en sus fortalezas analíticas y técnicas, lo que permitió estructurar el proyecto desde la concepción del modelo de negocio hasta la arquitectura del software de manera metódica y equilibrada.</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. </td>
 <td colspan="3" align="justify">
 <h3>Francia Torres Jhony Manuel</h3>
- <b>AV1</b><p>  </p>
+ <b>AV1</b><p>Colaboró en la redacción de User Stories, el diseño UX/UI y cumplió a tiempo con la implementación de la Landing Page y la preparación del Keynote.</p>
 <h3>Montoya Nina Paula Fernanda</h3>
- <b>AV1</b><p>  </p>
-<h3>Palacios Tinoco Adrian</h3>
- <b>AV1</b><p>  </p>
+ <b>AV1</b><p>Estableció las metas iniciales mediante el Sprint Planning y Backlog, colaborando en el diseño de interfaces y el desarrollo de la Landing Page.</p>
+<h3>Palacios Tinoco Adrian Fernando</h3>
+ <b>AV1</b><p>Participó en la creación conjunta de User Stories, apoyó en el diseño visual (UX/UI) y completó sus asignaciones de desarrollo de la aplicación web de manera puntual.</p>
 <h3>Ramos Hinostroza Diego Antonio</h3>
- <b>AV1</b><p>  </p>
+ <b>AV1</b><p>Aportó en la elaboración del Ubiquitous Language y User Stories, y consolidó las evidencias de ejecución, despliegue y colaboración del equipo durante el sprint.</p>
 <h3>Ramos Mera Neo Daniel</h3>
- <b>AV1</b><p>  </p>
+ <b>AV1</b><p>Contribuyó al diseño de interfaces y a la redacción de User Stories, cumpliendo exitosamente con los objetivos de implementación web trazados para la primera entrega.</p>
 </td>
 <td colspan="3">
-<b>AV1</b><p>  </p>
+<b>AV1</b><p>Se consolidó un entorno de trabajo colaborativo mediante la participación conjunta en actividades transversales, como el diseño de interfaces (UX/UI) y el desarrollo de la Landing Page. La asignación clara de responsabilidades y la planificación estructurada del flujo de trabajo garantizaron que todos los miembros cumplieran a tiempo con el 100% de sus objetivos operativos para la entrega AV1.</p>
 </td>
 </tr>
 </tbody>
