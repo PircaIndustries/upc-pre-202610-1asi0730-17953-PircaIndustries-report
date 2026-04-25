@@ -3134,10 +3134,24 @@ A partir de la sección Insights de GitHub, se presentan las gráficas de colabo
 ---
 # Conclusiones
 
++ El proyecto evidencia un avance sólido y ordenado, ya que en pocas semanas se logró construir una base integral que abarca desde la identificación del problema y la validación con usuarios hasta la definición funcional del producto. La evolución de versiones refleja continuidad en el trabajo del equipo, con aportes distribuidos entre todos los integrantes y una cobertura completa de artefactos clave como entrevistas, needfinding, épicas, user stories, backlog e impact mapping, lo que demuestra una buena capacidad de planificación y ejecución colaborativa.
 
++ El progreso alcanzado no se quedó en el análisis, sino que avanzó hacia el diseño y la implementación con evidencias concretas de sprint, documentación técnica y despliegue. La incorporación de wireframes, mockups, arquitectura orientada al dominio, diagramas de clases y base de datos muestra una madurez creciente del proyecto, porque conecta la visión de negocio con decisiones técnicas y resultados verificables; en conjunto, esto posiciona al equipo en una etapa favorable para consolidar entregables funcionales con mayor calidad y trazabilidad.
 
 # Bibliografía
-Aquise, J., Bustamante, G. y Cáceres, M. (2021). Control de Calidad y su Impacto en los Indicadores de Desempeño Financiero y Operativo (KPIs) de una Pequeña Empresa Constructora en el Sur del Perú. [Tesis de maestría, Universidad Peruana de Ciencias Aplicadas]. Repositorio académico UPC. https://repositorioacademico.upc.edu.pe/handle/10757/672148
+Aquise, J., Bustamante, G., y Cáceres, M. (2021). *Control de calidad y su impacto en los indicadores de desempeño financiero y operativo (KPIs) de una pequeña empresa constructora en el sur del Perú* [Tesis de maestría, Universidad Peruana de Ciencias Aplicadas]. Repositorio Académico UPC. https://repositorioacademico.upc.edu.pe/handle/10757/672148
+
+Brown, S. (2022). *The C4 model for visualising software architecture*. https://c4model.com/
+
+Evans, E. (2003). *Domain-driven design: Tackling complexity in the heart of software*. Addison-Wesley.
+
+Gothelf, J., y Seiden, J. (2021). *Lean UX: Designing great products with agile teams* (3rd ed.). O'Reilly Media.
+
+Nielsen, J. (1994). *10 usability heuristics for user interface design*. Nielsen Norman Group. https://www.nngroup.com/articles/ten-usability-heuristics/
+
+Schwaber, K., y Sutherland, J. (2020). *The Scrum guide: The definitive guide to Scrum: The rules of the game*. Scrum.org. https://scrumguides.org/scrum-guide.html
+
+Wiegers, K. E., y Beatty, J. (2013). *Software requirements* (3rd ed.). Microsoft Press.
 # Anexos
 
 + Landing Page: [Ver Landing Page](https://pircaindustries.github.io/Landing-Page-Kipu/)<br><br>
