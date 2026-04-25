@@ -73,8 +73,8 @@
 |1\.5\.7|24/04/2026|Neo Daniel Ramos Mera| Se agregó el apartado de Development Evidence for Sprint Review|
 |1\.5\.8|24/04/2026|Neo Daniel Ramos Mera| Se agregó el apartado de Team Collaboration Insights during Sprint|
 |1\.5\.9|24/04/2026|Neo Daniel Ramos Mera| Se agregó el apartado de Wireflow|
-|1\.5\.9|24/04/2026|Paula Fernanda Montoya Nina| Se agregó el apartado de Execution Evidence for Sprint Review.|
-
+|1\.5\.10|24/04/2026|Paula Fernanda Montoya Nina| Se agregó el apartado de Execution Evidence for Sprint Review.|
+|1\.5\.11|24/04/2026|Paula Fernanda Montoya Nina| Se agregó el apartado de Services Documentation Evidence for Sprint Review.|
 
 </div><br><br>
 
@@ -2847,6 +2847,34 @@ El principal logro del Sprint 1 consistió en el despliegue de la versión inici
 </div><br><br>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+Durante el Sprint 1, el esfuerzo técnico del equipo se concentró exclusivamente en la capa de presentación (Frontend), utilizando HTML, CSS y JavaScript bajo el modelo de ramificación Git Flow. El objetivo de este primer incremento (MVP) fue construir la Landing Page estática de Kipu para establecer la presencia digital, validar la propuesta de valor y asegurar la correcta navegación del cliente.
+
+Por lo tanto, al tratarse de un entregable puramente visual e informativo en esta iteración inicial, no se requirió la implementación de Web Services ni arquitecturas Backend. El desarrollo, despliegue y documentación de Endpoints mediante OpenAPI está planificado estratégicamente a partir del Sprint 2.
+
+<table>
+  <thead>
+    <tr>
+      <th>Endpoint</th>
+      <th>Verbo HTTP</th>
+      <th>Acción</th>
+      <th>Parámetros</th>
+      <th>Response</th>
+      <th>URL Documentación</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><em>N/A</em></td>
+      <td><em>N/A</em></td>
+      <td><em>No aplica para el Sprint 1 (Desarrollo Frontend Estático).</em></td>
+      <td><em>N/A</em></td>
+      <td><em>N/A</em></td>
+      <td><em>N/A</em></td>
+    </tr>
+  </tbody>
+</table>
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
