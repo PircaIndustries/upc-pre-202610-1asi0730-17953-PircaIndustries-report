@@ -61,10 +61,11 @@
 |1\.3\.4|11/04/2026|Adrian Fernando Palacios Tinoco| Se completó de documentar el event storming|
 |1\.3\.5|12/04/2026|Adrian Fernando Palacios Tinoco| Se agregó y completo el Information Architecture|
 |1\.4\.1|12/04/2026|Paula Fernanda Montoya Nina| Se agregó Domain-Driven  Architecture|
-|1\.5\.1|17/04/2025|Diego Antonio Ramos Hinostroza| Se inicio el Capítulo V: Product Implementation, Validation & Deployment y se agregó contenido relacionado al Software Configuration Management |
+|1\.5\.1|17/04/2026|Diego Antonio Ramos Hinostroza| Se inicio el Capítulo V: Product Implementation, Validation & Deployment y se agregó contenido relacionado al Software Configuration Management |
 |1\.4\.2|18/04/2026|Jhony Manuel Francia Torres| Se agregaron los Diagramas de Clases y Base de Datos|
-|1\.5\.2|24/04/2025|Diego Antonio Ramos Hinostroza, Paula Fernanda Montoya Nina, Neo Daniel Ramos Mera, Adrian Fernando Palacios Tinoco, Jhony Manuel Francia Torres | Se agregó contenido relacionado a los Mockups y Wireframes tanto de la aplicación web como de la landing page  |
-|1\.5\.3|24/04/2025|Diego Antonio Ramos Hinostroza | Se agregó contenido relacionado a Source Code Management  |
+|1\.5\.2|24/04/2026|Diego Antonio Ramos Hinostroza, Paula Fernanda Montoya Nina, Neo Daniel Ramos Mera, Adrian Fernando Palacios Tinoco, Jhony Manuel Francia Torres | Se agregó contenido relacionado a los Mockups y Wireframes tanto de la aplicación web como de la landing page  |
+|1\.5\.3|24/04/2026|Diego Antonio Ramos Hinostroza | Se agregó contenido relacionado a Source Code Management  |
+|1\.5\.4|24/04/2026|Neo Daniel Ramos Mera| Se agregó el Aspect Leaders and Collaborators|
 
 
 
@@ -2438,6 +2439,19 @@ A modo de resumen, la automatización del despliegue funciona de la siguiente ma
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
 #### 5.2.1.2. Aspect Leaders and Collaborators.
+
+Durante el Sprint 1, el equipo organizó el trabajo en base a las Epics definidas en el Product Backlog. La siguiente matriz muestra la distribución de liderazgo y colaboración por cada Epic:
+
+| Team Member (Last Name, First Name) | GitHub Username | EP01 (Calidad y Trazabilidad) | EP02 (Suministros y Presupuesto) | EP03 (Visualización Técnica) | EP04 (Administración de Cuenta) | EP05 (Landing Page) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Francia Torres, Jhony Manuel | ManuelFT4 | L | C | C | C | C |
+| Montoya Nina, Paula Fernanda | SeviNyO | C | C | C | L | C |
+| Palacios Tinoco, Adrian Fernando | AdrianP3107 | C | C | C | C | C |
+| Ramos Hinostroza, Diego Antonio | Kosevy | C | L | C | C | C |
+| Ramos Mera, Neo Daniel | norahccccc | C | C | L | C | L |
+
+**Leyenda:** L = Líder, C = Colaborador
+
 #### 5.2.1.3. Sprint Backlog 1.
 #### 5.2.1.4. Development Evidence for Sprint Review.
 #### 5.2.1.5. Execution Evidence for Sprint Review.
