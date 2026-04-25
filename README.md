@@ -1,4 +1,4 @@
-<img width="1023" height="71" alt="imagen" src="https://github.com/user-attachments/assets/c6a4d556-581a-4641-848c-ccd479411f67" /><div align="center">
+<div align="center">
   <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/UPC_logo_transparente.png" alt="Logo-UPC" width="150">
 
 ## Universidad Peruana de Ciencias Aplicadas
