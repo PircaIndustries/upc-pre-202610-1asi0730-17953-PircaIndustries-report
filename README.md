@@ -2296,7 +2296,7 @@ Repositorio GitHub de la Landing Page: https://pircaindustries.github.io/landing
 Repositorio GitHub de los archivos feature: https://github.com/PircaIndustries/Acceptance-Test <br><br> 
 
 <div align="center">
-    <img src="https://github.com/placeholder"  alt="repositorio feature">
+    <img src="/Resources/Code-Management/feature-repositorio.png"  alt="repositorio feature">
 </div><br><br>
 
 ### 5.1.3 Source Code Style Guide & Conventions
