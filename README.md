@@ -2223,7 +2223,7 @@ Para abarcar todas las actividades del ciclo de vida del producto digital, el eq
 
   +	<b>Jira Software:</b> Herramienta de gestión de proyectos ágil que permite planificar, rastrear y gestionar el trabajo mediante tableros Scrum o Kanban, facilitando la colaboración entre equipos de desarrollo. <br>https://www.atlassian.com/software/jira<br><br>
 
-    +	<b>Trello:</b> Plataforma de gestión visual de tareas basada en el método Kanban. Se utiliza específicamente para la organización y seguimiento detallado del Sprint Backlog 1, permitiendo al equipo mover tarjetas a través de diferentes estados de ejecución (To Do, Doing, Done) para asegurar la transparencia del progreso diario.<br>https://trello.com/<br><br>
+  +	<b>Trello:</b> Plataforma de gestión visual de tareas basada en el método Kanban. Se utiliza específicamente para la organización y seguimiento detallado del Sprint Backlog 1, permitiendo al equipo mover tarjetas a través de diferentes estados de ejecución (To Do, Doing, Done) para asegurar la transparencia del progreso diario.<br>https://trello.com/<br><br>
 
 + **Requirements Management**<br>Corresponde al conjunto de actividades orientadas a identificar, documentar, validar y administrar los requisitos tanto del sistema como del software. Este proceso implica comprender las necesidades de los usuarios y de los stakeholders, transformándolas en requisitos funcionales y no funcionales bien definidos. Su finalidad es asegurar que el producto desarrollado cumpla con las expectativas y necesidades del usuario final.<br><br>
 
