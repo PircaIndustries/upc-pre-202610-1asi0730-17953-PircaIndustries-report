@@ -73,7 +73,7 @@
 |1\.5\.7|24/04/2026|Neo Daniel Ramos Mera| Se agregó el apartado de Development Evidence for Sprint Review|
 |1\.5\.8|24/04/2026|Neo Daniel Ramos Mera| Se agregó el apartado de Team Collaboration Insights during Sprint|
 |1\.5\.9|24/04/2026|Neo Daniel Ramos Mera| Se agregó el apartado de Wireflow|
-
+|1\.5\.9|24/04/2026|Paula Fernanda Montoya Nina| Se agregó el apartado de Execution Evidence for Sprint Review.|
 
 
 </div><br><br>
@@ -2792,6 +2792,60 @@ A continuación, se presentan los commits más relevantes realizados durante el 
 | PircaIndustries/Landing-Page-Kipu | develop | faec327 | Feat: Create index.html | Create index and base structure for Kipu's Landing Page | 2026-04-18 |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+
+El principal logro del Sprint 1 consistió en el despliegue de la versión inicial de la landing page. Se completó el desarrollo del header, hero y footer, junto con las secciones de Propuesta, Diferencias, Roles, Creadores, Planes y Formulario. Asimismo, se implementó la metodología GitFlow, gestionando el avance mediante ramas feat: integradas posteriormente en el branch develop.
+
+<div align="center">
+	<br>
+	<b>Section Home</b>
+	<br>
+    <img src="Resources\Landing-page\landingpage-home.png" width="600px" alt="Imagen de la landing page Seccion Home">
+</div><br><br>
+
+<div align="center">
+	<b>Section Proposal</b>
+	<br>
+    <img src="Resources\Landing-page\landingpage-proposal.png" width="600px" alt="Imagen de la landing page Seccion Proposal">
+</div><br><br>
+
+<div align="center">
+	<b>Section Differences</b>
+	<br>
+    <img src="Resources\Landing-page\landingpage-differences.png" width="600px" alt="Imagen de la landing page Seccion Differences">
+</div><br><br>
+
+<div align="center">
+	<b>Section Roles</b>
+	<br>
+    <img src="Resources\Landing-page\landingpage-roles.png" width="600px" alt="Imagen de la landing page Seccion Roles">
+</div><br><br>
+
+<div align="center">
+	<b>Section Members</b>
+	<br>
+    <img src="Resources\Landing-page\landingpage-members.png" width="600px" alt="Imagen de la landing page Seccion Members">
+</div><br><br>
+
+<div align="center">
+	<b>Section Plans</b>
+	<br>
+    <img src="Resources\Landing-page\landingpage-plans.png" width="600px" alt="Imagen de la landing page Seccion Plans">
+</div><br><br>
+
+
+
+<div align="center">
+	<b>Section Contact</b>
+	<br>
+    <img src="Resources\Landing-page\landingpage-contact.png" width="600px" alt="Imagen de la landing page Seccion Contact">
+</div><br><br>
+
+<div align="center">
+	<b>Section Footer</b>
+	<br>
+    <img src="Resources\Landing-page\landingpage-footer.png" width="600px" alt="Imagen de la landing page Seccion Footer">
+</div><br><br>
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
