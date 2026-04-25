@@ -1504,7 +1504,8 @@ En esta sección se define el glosario de términos y conceptos fundamentales de
 
 
 ## 3.3. Product Backlog
-Enlace público del Product Backlog (Trello): https://trello.com/invite/b/69e1a8ade7c896f39a65000b/ATTI3f0a19c500027a1781547989057c9d4cC31C6F4E/kipu
+Dentro del Product Backlog, hemos consolidado una lista jerarquizada de nuestras historias de usuario, organizadas meticulosamente bajo los criterios de prioridad establecidos por el equipo para maximizar la entrega de valor en cada iteración. Para cuantificar el esfuerzo y la complejidad técnica de cada ítem, aplicamos la técnica de Planning Poker basada en la secuencia de Fibonacci (1, 2, 3, 5, 8), lo que nos permite obtener estimaciones relativas precisas y alineadas con la agilidad del proyecto.
+
 
 | # Orden | User Story Id | Título                                             | Descripción                                                                                                                                                                                                                                  | Story Points (1 / 2 / 3 / 5/ 8) |
 | :--------| :--------------| :---------------------------------------------------| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| :----------------------------:|
