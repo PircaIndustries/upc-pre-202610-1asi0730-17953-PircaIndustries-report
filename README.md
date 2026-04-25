@@ -2132,6 +2132,7 @@ Enlace de <a href="https://www.figma.com/design/YozJtIsGkKkhXZA5kArMvL/Kipu---Op
 ## RNC
 
 <img src="Resources/Mockups/RNC/Mockup Mobile RNC.png">
+
 ### 4.4.4. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
 ## 4.6. Domain-Driven Software Architecture.
@@ -3128,6 +3129,9 @@ A partir de la sección Insights de GitHub, se presentan las gráficas de colabo
 ## 5.4. Video About-the-Product.
 ---
 # Conclusiones
+
+
+
 # Bibliografía
 Aquise, J., Bustamante, G. y Cáceres, M. (2021). Control de Calidad y su Impacto en los Indicadores de Desempeño Financiero y Operativo (KPIs) de una Pequeña Empresa Constructora en el Sur del Perú. [Tesis de maestría, Universidad Peruana de Ciencias Aplicadas]. Repositorio académico UPC. https://repositorioacademico.upc.edu.pe/handle/10757/672148
 # Anexos
@@ -3138,7 +3142,7 @@ Aquise, J., Bustamante, G. y Cáceres, M. (2021). Control de Calidad y su Impact
 + Repositorio GitHub del Informe: [Ver Repositorio](https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report)<br><br>
 + Repositorio GitHub de los Acceptance-Test: [Ver Repositorio]( https://github.com/PircaIndustries/Acceptance-Test)<br><br>
 + Wireframes: [Ver Wireframes](https://www.figma.com/design/wYSJ9ua6Bc2UCmH6TnQWie/Kipu---Aplicaciones-Web-Wireframes?node-id=0-1&t=zWud7TLSj3oIzBkc-1)<br><br>
-<!--+ Mock-ups: [Ver Mock-ups](https://www.figma.com/)<br><br> -->
++ Mock-ups: [Ver Mock-ups](https://www.figma.com/design/YozJtIsGkKkhXZA5kArMvL/Kipu---Open-Source-Mockups?node-id=2-10598&t=ylKZiCxcAheVlOJA-1)<br><br>
 <!--+ Prototype: [Ver Prototype ](https://www.figma.com/)<br><br>-->
 
 ## Needfinding Interviews
