@@ -66,6 +66,7 @@
 |1\.5\.2|24/04/2026|Diego Antonio Ramos Hinostroza, Paula Fernanda Montoya Nina, Neo Daniel Ramos Mera, Adrian Fernando Palacios Tinoco, Jhony Manuel Francia Torres | Se agregó contenido relacionado a los Mockups y Wireframes tanto de la aplicación web como de la landing page  |
 |1\.5\.3|24/04/2026|Diego Antonio Ramos Hinostroza | Se agregó contenido relacionado a Source Code Management  |
 |1\.5\.4|24/04/2026|Neo Daniel Ramos Mera| Se agregó el Aspect Leaders and Collaborators|
+|1\.5\.5|24/04/2026|Neo Daniel Ramos Mera| Se agregó el apartado de Development Evidence for Sprint Review|
 
 
 
@@ -2454,6 +2455,30 @@ Durante el Sprint 1, el equipo organizó el trabajo en base a las Epics definida
 
 #### 5.2.1.3. Sprint Backlog 1.
 #### 5.2.1.4. Development Evidence for Sprint Review.
+
+Durante el Sprint 1, el equipo trabajó en la implementación de la Landing Page de Kipu. Los principales avances incluyen la estructura base del sitio, las secciones de Home, Propuesta, Equipo, Planes y Diferencias, así como la configuración de internacionalización (i18n), el menú de navegación responsivo para dispositivos móviles, la sección de contacto y el despliegue en GitHub Pages.
+
+A continuación, se presentan los commits más relevantes realizados durante el Sprint, organizados por repositorio y rama.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| PircaIndustries/Landing-Page-Kipu | main | 44eb15f | Merge pull request #6 from PircaIndustries/develop | Feat: Use relative asset paths in index.html | 2026-04-24 |
+| PircaIndustries/Landing-Page-Kipu | develop | 72cefa7 | Merge branch 'main' into develop | N/A | 2026-04-24 |
+| PircaIndustries/Landing-Page-Kipu | develop | d6a00fd | Update file paths in index.html | N/A | 2026-04-24 |
+| PircaIndustries/Landing-Page-Kipu | develop | ea14da9 | Feat: Merge pull request #5 from PircaIndustries/develop | Feat: Enhance landing page with structure, sections, and i18n support | 2026-04-24 |
+| PircaIndustries/Landing-Page-Kipu | develop | 169166e | Feat: Use relative asset paths in index.html | Replace root-absolute asset URLs with relative paths in index.html so stylesheets, images, and the script load correctly when the site is served from a subdirectory or opened locally. | 2026-04-24 |
+| PircaIndustries/Landing-Page-Kipu | develop | 0326984 | Feat: Fix mobile header, prevent overflow | Make the main header fixed on small screens and add top padding to the body so content isn't hidden behind it. Prevent visual/horizontal overflow by adding overflow rules to the home card and proposal sections. | 2026-04-24 |
+| PircaIndustries/Landing-Page-Kipu | develop | 5e9b33f | Feat: Add i18n, contact page, mobile nav and team images | Introduce internationalization and UI improvements: add translations-driven script with language toggle, apply data-i18n attributes, add responsive mobile nav toggle, append new contact section with its styles, add profile images. | 2026-04-24 |
+| PircaIndustries/Landing-Page-Kipu | develop | a133f4b | Merge pull request #4 from PircaIndustries/feature/TeamMembers&Buttons | feat: Adding team members and roles demo | 2026-04-21 |
+| PircaIndustries/Landing-Page-Kipu | feature/TeamMembers&Buttons | 4750879 | feat: Adding team members and roles demo | N/A | 2026-04-21 |
+| PircaIndustries/Landing-Page-Kipu | develop | 7b5d1cb | Merge pull request #3 from PircaIndustries/landing-manuel | feature: landing - manuel - plans section | 2026-04-20 |
+| PircaIndustries/Landing-Page-Kipu | landing-manuel | 34f7518 | feature: landing - manuel - plans section | N/A | 2026-04-20 |
+| PircaIndustries/Landing-Page-Kipu | develop | 5b07343 | Merge pull request #1 from PircaIndustries/feature/ui-header-differences | feat: implement header and differences sections | 2026-04-20 |
+| PircaIndustries/Landing-Page-Kipu | feature/ui-header-differences | cbd294c | feat: implement header and differences sections | N/A | 2026-04-20 |
+| PircaIndustries/Landing-Page-Kipu | develop | 426b88f | Feat: Create proposal section, image and styles | Creation of the proposal section, in this part we communicate Kipu's value proposition | 2026-04-18 |
+| PircaIndustries/Landing-Page-Kipu | develop | 55b89a7 | Feat: Add home section to landing page | N/A | 2026-04-18 |
+| PircaIndustries/Landing-Page-Kipu | develop | faec327 | Feat: Create index.html | Create index and base structure for Kipu's Landing Page | 2026-04-18 |
+
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
