@@ -2254,6 +2254,8 @@ En esta sección se emplea el modelo C4 para diseñar la arquitectura del softwa
 
 ### 4.6.1. Design-Level Event Storming.
 
+* **Tablero de Event Storming (Miro):** <a href="https://miro.com/welcomeonboard/eWM5Vkl4cTJUU3lDb0RsSTRxWFpRdHhNK2tRc29OUkZEd01UQUdHbHV6QjlydFpGNTYvMUVrK3dKK2hzUXJ5MXg2S3RPLzVsREZQdlJiaTJIaCtwTzZpcWdYSW9UWVlKSHRCUEFRdytqVS9ZUkJmWDlwQjc0M05FRUxHL0R0YUhyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=407483649097" target="_blank" rel="noopener noreferrer">Abrir tablero en Miro</a>
+
 En esta etapa del diseño, se profundizó en la interacción exacta entre los usuarios y el sistema para descubrir los límites transaccionales de **Kipu**. A diferencia del *Big Picture*, el **Design-Level Event Storming** se centra en identificar los **Agregados** responsables de proteger las reglas de negocio (*Policies*) antes de emitir un Evento de Dominio.
 
 A continuación, se documenta la arquitectura dividida por los Bounded Contexts identificados:
