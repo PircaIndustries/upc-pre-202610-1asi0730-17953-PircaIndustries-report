@@ -345,8 +345,6 @@ https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
-  - [Needfinding Interviews](#needfinding-interviews)
-
 ---
 
 # Student Outcome
@@ -3591,12 +3589,6 @@ A partir de la sección Insights de GitHub, se presentan las gráficas de colabo
 <img src="Resources/Insights/Insight 2.jpeg">
 <img src="Resources/Insights/Insight 3.jpeg">
 
-
-## 5.3. Validation Interviews.
-### 5.3.1. Diseño de Entrevistas.
-### 5.3.2. Registro de Entrevistas.
-### 5.3.3. Evaluaciones según heurísticas.
-## 5.4. Video About-the-Product.
 ---
 # Conclusiones
 
@@ -3628,9 +3620,6 @@ Wiegers, K. E., y Beatty, J. (2013). *Software requirements* (3rd ed.). Microsof
 + Wireframes: [Ver Wireframes](https://www.figma.com/design/wYSJ9ua6Bc2UCmH6TnQWie/Kipu---Aplicaciones-Web-Wireframes?node-id=0-1&t=zWud7TLSj3oIzBkc-1)<br><br>
 + Mock-ups: [Ver Mock-ups](https://www.figma.com/design/YozJtIsGkKkhXZA5kArMvL/Kipu---Open-Source-Mockups?node-id=2-10598&t=ylKZiCxcAheVlOJA-1)<br><br>
 + Prototype Figma: [Ver Prototype](https://www.figma.com/design/oCVgJrJ3SUNXq8jIGHlhX0/App-Web---Prototype?t=RCnCwcgdiy5cIIsu-1)<br><br>
-
-
-<!--+ Prototype: [Ver Prototype ](https://www.figma.com/)<br><br>-->
 
 ## Prototype Evidence
 
