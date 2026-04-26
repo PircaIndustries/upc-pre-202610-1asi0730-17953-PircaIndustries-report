@@ -3640,3 +3640,9 @@ Enlace: [Prototype](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e418
 
 Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224130_upc_edu_pe/IQD0ILyKaMoNQpmNfCo1snWaAcoXcuh_qXizzUDEAj-AWTg?e=XVCNNU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
+## Video-About-The-Product
+  <div align="center">
+    <img src="/Resources/Video-About-The-Product/Video-About-The-Product-image.PNG" alt="Video about the product">
+ </div>
+
+ Enlace: [Video-About-The-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410817_upc_edu_pe/IQAaVrLGm803Qb5tEaD5zDwtASW_V6QHpUGs_V0TKhayERg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=2utT6s)
