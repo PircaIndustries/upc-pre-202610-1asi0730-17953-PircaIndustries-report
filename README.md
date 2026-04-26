@@ -3486,6 +3486,8 @@ El principal logro del Sprint 1 consistió en el despliegue de la versión inici
     <img src="Resources\Landing-page\landingpage-footer.png" width="600px" alt="Imagen de la landing page Seccion Footer">
 </div><br><br>
 
+Enlace: [Video del despliegue de la landing page en GitHub Pages](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410817_upc_edu_pe/IQAaVrLGm803Qb5tEaD5zDwtASW_V6QHpUGs_V0TKhayERg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=2utT6s)
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
 Durante el Sprint 1, el esfuerzo técnico del equipo se concentró exclusivamente en la capa de presentación (Frontend), utilizando HTML, CSS y JavaScript bajo el modelo de ramificación Git Flow. El objetivo de este primer incremento (MVP) fue construir la Landing Page estática de Kipu para establecer la presencia digital, validar la propuesta de valor y asegurar la correcta navegación del cliente.
