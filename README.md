@@ -229,7 +229,7 @@ https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries
 
         + **Adrian Palacios**
             <div style="display: flex; align-items: center;">
-            <img src="/Resources/Collaboration-Insights/Insight-Marcelo-Commits.png" >
+            <img src="/Resources/Collaboration-Insights/Insight-Adrian-Commits.png" >
             </div><br>
 
         + **Neo Ramos**
@@ -3646,3 +3646,10 @@ Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u2022241
  </div>
 
  Enlace: [Video-About-The-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410817_upc_edu_pe/IQAaVrLGm803Qb5tEaD5zDwtASW_V6QHpUGs_V0TKhayERg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=2utT6s)
+
+ ## Exposure Video AV1
+  <div align="center">
+    <img src="Resources\Exposure\Exposure-AV1.png">
+ </div>
+
+ Enlace: [Exposure Video AV1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224130_upc_edu_pe/IQCgxsCDO1NsT5v7JkBZJb1QAdbxazxXpjQHcc98P8a8sP0?e=YrATad&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
