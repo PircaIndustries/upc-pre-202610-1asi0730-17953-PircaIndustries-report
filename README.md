@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/UPC_logo_transparente.png" alt="Logo-UPC" width="150">
+  <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/UPC_logo_transparente.png?raw=true" alt="Logo-UPC" width="150">
+
 
 ## Universidad Peruana de Ciencias Aplicadas
 
@@ -19,13 +20,13 @@
 
 ### Kipu
 #### Relación de integrantes 
-| Integrante                  | Código         |
-|---------------------------------|----------------|
-| Francia Torres Jhony Manuel             | U202417329     |
-| Montoya Nina Paula Fernanda             | U20241d934     |
-| Palacios Tinoco Adrian Fernando         | U202410817     |
-| Ramos Hinostroza Diego Antonio          | U202224130     |
-| Ramos Mera Neo Daniel                   | U20241e418     |
+| Integrante                      | Código     |
+| ---------------------------------| ------------|
+| Francia Torres Jhony Manuel     | U202417329 |
+| Montoya Nina Paula Fernanda     | U20241d934 |
+| Palacios Tinoco Adrian Fernando | U202410817 |
+| Ramos Hinostroza Diego Antonio  | U202224130 |
+| Ramos Mera Neo Daniel           | U20241e418 |
 
 </div>
 
@@ -216,11 +217,11 @@ https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries
 + **Evidencias de colaboración y commits - Github:**
     * **Análiticos de colaboración** <br><br>
         + **Pulse Image of Github Insights**
-        <div align="center"><img src="/Resources/Collaboration-Insights/Insight-1.png"></div><br><br>
+        <div align="center"><img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Collaboration-Insights/Insight-1.png?raw=true"></div><br><br>
 
 
         + **Contributors Image of Github Insights**
-        <div align="center"><img src="/Resources/Collaboration-Insights/Insight-2.png"></div><br><br>
+        <div align="center"><img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Collaboration-Insights/Insight-2.png?raw=true"></div><br><br>
 
 
     * **Commits**
@@ -229,25 +230,25 @@ https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries
 
         + **Adrian Palacios**
             <div style="display: flex; align-items: center;">
-            <img src="/Resources/Collaboration-Insights/Insight-Adrian-Commits.png" >
+            <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Collaboration-Insights/Insight-Adrian-Commits.png?raw=true" >
             </div><br>
 
         + **Neo Ramos**
             <div style="display: flex; align-items: center;">
-            <img src="/Resources/Collaboration-Insights/Insight-Neo-Commits.png">
+            <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Collaboration-Insights/Insight-Neo-Commits.png?raw=true">
             </div><br>
 
         + **Paula Montoya**
             <div style="display: flex; align-items: center;">
-            <img src="/Resources/Collaboration-Insights/Insight-Paula-Commits.png">
+            <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Collaboration-Insights/Insight-Paula-Commits.png?raw=true">
             </div><br>
         + **Jhony Francia**
             <div style="display: flex; align-items: center;">
-            <img src="/Resources/Collaboration-Insights/Insight-Jhony-Commits.png">
+            <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Collaboration-Insights/Insight-Jhony-Commits.png?raw=true">
             </div><br>
         + **Diego Ramos**
             <div style="display: flex; align-items: center;">
-            <img src="/Resources/Collaboration-Insights/Insight-Diego-Commits.png">
+            <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Collaboration-Insights/Insight-Diego-Commits.png?raw=true">
             </div><br><br>
 
 
@@ -430,13 +431,13 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
-| **Integrante** | **Perfil** | **Imagen** |
-| :--- | :--- | :---: |
-| **Ramos Mera Neo Daniel - u20241e418** | Mi nombre es Neo Daniel Ramos Mera, tengo 20 años, mi código es u20241e418 y soy de la carrera de Ing. Software, donde vemos el diseño, el manejo, mantenimiento y el desarrollo de aplicaciones web, de escritorio y móvil. Tengo habilidades de programación en C++, Javascript y SQL, Mis intereses están dirigidos al desarrollo web con el backend, manejo de bases de datos y pentesting. Me considero una persona responsable y determinada a cumplir sus metas, además de que siento curiosidad por todo el mundo de la informática, y tengo una inclinación especial por la ciberseguridad. | <img src="Resources/Profiles/Neo.jpeg" alt="Foto de Ramos Mera Neo Daniel" width="150"/> |
-| **Montoya Nina Paula Fernanda - u20241d934** | Mi nombre es Paula Fernanda Montoya Nina, tengo 19 años y curso el 5.º ciclo de la carrera de Ingeniería de Software, con código u20241D934. Tengo un enfoque de trabajo que prioriza la planificación y el orden estructural antes de iniciar cualquier implementación técnica. Mis fortalezas son la organización de flujos de trabajo eficiente y, además, puedo desempeñar múltiples roles dentro de un proyecto, ya sea en frontend o backend, aunque prefiero dedicarme a la gestión de datos.Mi propósito es profundizar mis conocimientos en Inteligencia Artificial e Internet de las Cosas, además de mejorar mi capacidad de colaboración en equipo para contribuir activamente en la creación de soluciones tecnológicas.| <img src="Resources/Profiles/paula.jpg" alt="Foto de Montoya Nina Paula Fernanda" width="150"/> |
-| **Ramos Hinostroza Diego Antonio - u202224130** | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), estoy cursando el 5to ciclo de la carrera. Me considero una persona perseverante, con mucho interés en adquirir conocimiento sólido y aplicado en el desarrollo de software. Busco dominar nuevas tecnologías y competencias, además de entender a fondo los principios esenciales que sustentan la creación de aplicaciones tecnologicas. | <img src="Resources/Profiles/Diego.jpeg" alt="Foto de Ramos Hinostroza Diego Antonio" width="150"/> |
-| **Francia Torres Jhony Manuel - u202417329** | Mi nombre es Jhony Manuel Francia Torres, tengo 19 años, actualmente estoy cursando el 5to  ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Soy un apasionado del fútbol y la natación. Soy perseverante en lograr mis objetivos y metódico en mis proyectos. Mi objetivo en este grupo es poder desarrollar mis habilidades de trabajo en equipo y comunicación ágil, además de adquirir conocimientos en nuevos lenguajes de programación para el desarrollo de aplicaciones web. Mis aportes en este grupo serán cumplir responsablemente con las tareas que se me asignen y brindar ideas para el desarrollo del proyecto.| <img src="Resources/Profiles/Manuel.jpeg" alt="Foto de Jhony Manuel Francia Torres" width="150"/> |
-| **Palacios Tinoco Adrian Fernando - u202410817** | Estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me encuentro cursando el 5to ciclo de la carrera. Cuento con habilidades tanto blandas como tecnicas. Por un lado, entre mis habilidades blandas destaco el trabajo en equipo, comunicacion efectiva y escucha activa. Por otro lado, mis habilidades entre mis habilidades tecnicas es el diseño de base de datos, analisis de requisitos, diseño de software y como lenguajes destaco mi conocimiento en C++, JavaScript, Python, Java y SQL. Me comprometo a que el proyecto **PircaIndustries** se lleve a cabo con éxito brindando responsabilidad y puntualidad en las entregas y avances del proyecto. | <img src="Resources/Profiles/Adrian.jpg" alt="Foto de Adrian Fernando Palacios Tinoco" width="150"/> |
+| **Integrante**                                   | **Perfil**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | **Imagen**                                                                                                                                                                                                      |
+| :-------------------------------------------------| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Ramos Mera Neo Daniel - u20241e418**           | Mi nombre es Neo Daniel Ramos Mera, tengo 20 años, mi código es u20241e418 y soy de la carrera de Ing. Software, donde vemos el diseño, el manejo, mantenimiento y el desarrollo de aplicaciones web, de escritorio y móvil. Tengo habilidades de programación en C++, Javascript y SQL, Mis intereses están dirigidos al desarrollo web con el backend, manejo de bases de datos y pentesting. Me considero una persona responsable y determinada a cumplir sus metas, además de que siento curiosidad por todo el mundo de la informática, y tengo una inclinación especial por la ciberseguridad.                                                                                                                                  | <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Profiles/Neo.jpeg?raw=true" alt="Foto de Ramos Mera Neo Daniel" width="150"/>             |
+| **Montoya Nina Paula Fernanda - u20241d934**     | Mi nombre es Paula Fernanda Montoya Nina, tengo 19 años y curso el 5.º ciclo de la carrera de Ingeniería de Software, con código u20241D934. Tengo un enfoque de trabajo que prioriza la planificación y el orden estructural antes de iniciar cualquier implementación técnica. Mis fortalezas son la organización de flujos de trabajo eficiente y, además, puedo desempeñar múltiples roles dentro de un proyecto, ya sea en frontend o backend, aunque prefiero dedicarme a la gestión de datos.Mi propósito es profundizar mis conocimientos en Inteligencia Artificial e Internet de las Cosas, además de mejorar mi capacidad de colaboración en equipo para contribuir activamente en la creación de soluciones tecnológicas. | <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Profiles/paula.jpg?raw=true" alt="Foto de Montoya Nina Paula Fernanda" width="150"/>      |
+| **Ramos Hinostroza Diego Antonio - u202224130**  | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), estoy cursando el 5to ciclo de la carrera. Me considero una persona perseverante, con mucho interés en adquirir conocimiento sólido y aplicado en el desarrollo de software. Busco dominar nuevas tecnologías y competencias, además de entender a fondo los principios esenciales que sustentan la creación de aplicaciones tecnologicas.                                                                                                                                                                                                                                                                              | <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Profiles/Diego.jpeg?raw=true" alt="Foto de Ramos Hinostroza Diego Antonio" width="150"/>  |
+| **Francia Torres Jhony Manuel - u202417329**     | Mi nombre es Jhony Manuel Francia Torres, tengo 19 años, actualmente estoy cursando el 5to  ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Soy un apasionado del fútbol y la natación. Soy perseverante en lograr mis objetivos y metódico en mis proyectos. Mi objetivo en este grupo es poder desarrollar mis habilidades de trabajo en equipo y comunicación ágil, además de adquirir conocimientos en nuevos lenguajes de programación para el desarrollo de aplicaciones web. Mis aportes en este grupo serán cumplir responsablemente con las tareas que se me asignen y brindar ideas para el desarrollo del proyecto.                                                         | <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Profiles/Manuel.jpeg?raw=true" alt="Foto de Jhony Manuel Francia Torres" width="150"/>    |
+| **Palacios Tinoco Adrian Fernando - u202410817** | Estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me encuentro cursando el 5to ciclo de la carrera. Cuento con habilidades tanto blandas como tecnicas. Por un lado, entre mis habilidades blandas destaco el trabajo en equipo, comunicacion efectiva y escucha activa. Por otro lado, mis habilidades entre mis habilidades tecnicas es el diseño de base de datos, analisis de requisitos, diseño de software y como lenguajes destaco mi conocimiento en C++, JavaScript, Python, Java y SQL. Me comprometo a que el proyecto **PircaIndustries** se lleve a cabo con éxito brindando responsabilidad y puntualidad en las entregas y avances del proyecto.               | <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Profiles/Adrian.jpg?raw=true" alt="Foto de Adrian Fernando Palacios Tinoco" width="150"/> |
 
 
 ## 1.2 Solution Profile
@@ -658,10 +659,10 @@ En esta sección se realizará el análisis competitivo de los competidores iden
     <td colspan="2">
         <div align="center">Logo</div>
     </td>
-    <td><div align="center"><img src="Resources/styleGuidelines/logoWithBackground.svg" alt="Logo Kipu" width="100"></div></td>
-    <td><div align="center"><img src="Resources/Competitors/Obralink.PNG" alt="Logo ObraLink" width="100"></div></td>
-    <td><div align="center"><img src="Resources/Competitors/ConstruApp.PNG" alt="Logo Construapp" width="100"></div></td>
-    <td><div align="center"><img src="Resources/Competitors/PlanRadar.PNG" alt="Logo PlanRadar" width="100"></div></td>
+    <td><div align="center"><img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/styleGuidelines/logoWithBackground.svg?raw=true" alt="Logo Kipu?raw=true" width="100"></div></td>
+    <td><div align="center"><img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Competitors/Obralink.PNG?raw=true" alt="Logo ObraLink?raw=true" width="100"></div></td>
+    <td><div align="center"><img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Competitors/ConstruApp.PNG?raw=true" alt="Logo Construapp?raw=true" width="100"></div></td>
+    <td><div align="center"><img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Competitors/PlanRadar.PNG?raw=true" alt="Logo PlanRadar?raw=true" width="100"></div></td>
   </tr>
   <tr>
     <td rowspan="2">Perfil</td>
@@ -920,7 +921,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Harry-Rodas.png" alt="Entrevista Harry Rodas"></div></td>
+    <td><div align="center"><img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Harry-Rodas.png?raw=true" alt="Entrevista Harry Rodas"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -986,7 +987,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Juan-Macedo.png" alt="Entrevista Juan Macedo"></div></td>
+    <td><div align="center"><img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Juan-Macedo.png?raw=true" alt="Entrevista Juan Macedo"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -1052,7 +1053,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Vilma-Hinostroza.png" alt="Entrevista Vilma Hinostroza"></div></td>
+    <td><div align="center"><img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Vilma-Hinostroza.png?raw=true" alt="Entrevista Vilma Hinostroza"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -1120,7 +1121,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Eliud-Lopez.png" alt="Entrevista Eliud Lopez"></div></td>
+    <td><div align="center"><img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Eliud-Lopez.png?raw=true" alt="Entrevista Eliud Lopez"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -1186,7 +1187,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Nayeli-Huaman.png" alt="Entrevista Nayeli Huaman"></div></td>
+    <td><div align="center"><img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Nayeli-Huaman.png?raw=true" alt="Entrevista Nayeli Huaman"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -1252,7 +1253,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Jacqueline-Herrera.png" alt="Entrevista Jeanela Herrera"></div></td>
+    <td><div align="center"><img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Jacqueline-Herrera.png?raw=true" alt="Entrevista Jeanela Herrera"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -1326,7 +1327,7 @@ Finalmente, al consultar sobre las características fundamentales que debería t
 
 <br>
 
- <img src="Resources/Artefactos/User Persona - Julian Carbonero.png" alt="Foto de User persona segmento 1"/>
+ <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Artefactos/User Persona - Julian Carbonero.png?raw=true" alt="Foto de User persona segmento 1"/>
  
 <br>
 
@@ -1334,7 +1335,7 @@ Finalmente, al consultar sobre las características fundamentales que debería t
 
 <br>
 
-<img src="Resources/Artefactos/User Persona - Olivia Da Silva.png" alt="Foto de User persona segmento 2"/>
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Artefactos/User Persona - Olivia Da Silva.png?raw=true" alt="Foto de User persona segmento 2"/>
 
 ### 2.3.2. User Task Matrix.
 <br>
@@ -1363,7 +1364,7 @@ Para comprender las acciones realizadas por nuestros usuarios en su día a día,
 
 <br>
 
- <img src="Resources/Artefactos/User Journey Mapping - Julian Carbonero.png" alt="Foto de User Journey Mapping segmento 1"/>
+ <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Artefactos/User Journey Mapping - Julian Carbonero.png?raw=true" alt="Foto de User Journey Mapping segmento 1"/>
  
 <br>
 
@@ -1371,7 +1372,7 @@ Para comprender las acciones realizadas por nuestros usuarios en su día a día,
 
 <br>
 
-<img src="Resources/Artefactos/User Journey Mapping - Olivia Da Silva.png" alt="Foto de User Journey Mapping segmento 2"/>
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Artefactos/User Journey Mapping - Olivia Da Silva.png?raw=true" alt="Foto de User Journey Mapping segmento 2"/>
 
 ### 2.3.4. Empathy Mapping.
 <br>
@@ -1380,7 +1381,7 @@ Para comprender las acciones realizadas por nuestros usuarios en su día a día,
 
 <br>
 
- <img src="Resources/Artefactos/Empathy Mapping - Julian Carbonero.png" alt="Foto de Empathy Mapping segmento 1"/>
+ <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Artefactos/Empathy Mapping - Julian Carbonero.png?raw=true" alt="Foto de Empathy Mapping segmento 1"/>
  
 <br>
 
@@ -1388,7 +1389,7 @@ Para comprender las acciones realizadas por nuestros usuarios en su día a día,
 
 <br>
 
-<img src="Resources/Artefactos/Empathy Mapping - Olivia Da Silva.png" alt="Foto de Empathy Mapping segmento 2"/>
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Artefactos/Empathy Mapping - Olivia Da Silva.png?raw=true" alt="Foto de Empathy Mapping segmento 2"/>
 
 ### 2.3.5. As-is Scenario Mapping.
 <table>
@@ -1471,7 +1472,7 @@ La capa transversal diseñada para eliminar la fragmentación de la información
 * `Notification read`
 * `File shared`
 
-<img src="Resources/Big-Picture-Event-Storming/Event-Storming-Step-1.PNG" alt="Foto de Big Picture Event Storming - Step 1"/>
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Big-Picture-Event-Storming/Event-Storming-Step-1.PNG?raw=true" alt="Foto de Big Picture Event Storming - Step 1"/>
 ---
 
 ## Fase 2: Process Modeling - Comandos y Actores
@@ -1489,7 +1490,7 @@ El **Project Manager** centraliza la actividad operativa del proyecto. Es el res
 #### Planos y Diseño (Blueprint)
 El **Admin** (o responsable técnico) lidera el flujo de ingeniería. Utiliza comandos para `Upload`, `Update` y `Create version` de planos. La lógica de negocio se consolida con la capacidad de ejecutar `Approve` o `Reject blueprint`, garantizando que solo el diseño técnico validado sea el que se ejecute en la obra.
 
-<img src="Resources/Big-Picture-Event-Storming/step-2-Big picture event storming 1.1.PNG" alt="Foto de Big Picture Event Storming - Step 2"/>
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Big-Picture-Event-Storming/step-2-Big picture event storming 1.1.PNG?raw=true" alt="Foto de Big Picture Event Storming - Step 2"/>
 
 #### Control Financiero (Budget)
 Para garantizar la transparencia, existe una clara separación de responsabilidades. El **Project Manager** propone la estructura financiera con `Create budget`, mientras que el **Stakeholder** actúa como ente aprobador mediante `Approve` o `Reject budget`. El comando `Update budget` permite que el sistema refleje modificaciones de costos en tiempo real.
@@ -1497,7 +1498,7 @@ Para garantizar la transparencia, existe una clara separación de responsabilida
 #### Cronograma (Schedule)
 El **Project Manager** define la planificación mediante `Create/Update schedule` y `Schedule task`. La ejecución operativa recae en el **Team Member**, quien dispara los comandos `Start task` y `Complete task`, permitiendo que Kipu registre el avance temporal y detecte desviaciones en el cronograma.
 
-<img src="Resources/Big-Picture-Event-Storming/step-2-Big picture event storming 1.2.PNG" alt="Foto de Big Picture Event Storming - Step 2"/>
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Big-Picture-Event-Storming/step-2-Big picture event storming 1.2.PNG?raw=true" alt="Foto de Big Picture Event Storming - Step 2"/>
 
 #### Documentación y Firmas (Document)
 El flujo legal es altamente colaborativo. El **User** carga y envía documentos para firma, mientras que el **Stakeholder** asume la responsabilidad crítica de `Sign document` o `Reject signature`. Finalmente, el **Manager** supervisa la integridad del proceso mediante `Approve document` u `Observe document` en caso de encontrar inconsistencias.
@@ -1505,7 +1506,7 @@ El flujo legal es altamente colaborativo. El **User** carga y envía documentos 
 #### Sistema de Notificaciones
 Se identifica al **System** como un actor automatizado que ejecuta el comando `Send notification` ante eventos clave. El **User** cierra este ciclo con el comando `Read notification`, garantizando que la información importante sea consumida y que no existan cuellos de botella por falta de comunicación.
 
-<img src="Resources/Big-Picture-Event-Storming/step-2-Big picture event storming 1.3.PNG" alt="Foto de Big Picture Event Storming - Step 2"/>
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Big-Picture-Event-Storming/step-2-Big picture event storming 1.3.PNG?raw=true" alt="Foto de Big Picture Event Storming - Step 2"/>
 
 #### Seguimiento de Avance (Progress)
 El **Engineer / Supervisor** es el actor encargado de reportar la realidad del campo mediante `Record progress` y `Update progress`. Esta información es auditada por el **Project Manager**, quien decide `Approve progress` para validarlo formalmente u `Observe progress` si el avance físico no cumple con los estándares de calidad.
@@ -1513,7 +1514,7 @@ El **Engineer / Supervisor** es el actor encargado de reportar la realidad del c
 #### Colaboración y Comunicación (Collaboration)
 El **Team Member** utiliza comandos sociales como `Add comment`, `Reply to comment` y `Share file` para mantener la comunicación centralizada en la plataforma. El **Project Manager** tiene la facultad de forzar revisiones críticas mediante el comando `Request review`, asegurando que los puntos de fricción sean atendidos oportunamente.
 
-<img src="Resources/Big-Picture-Event-Storming/step-2-Big picture event storming 1.4.PNG" alt="Foto de Big Picture Event Storming - Step 2"/>
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Big-Picture-Event-Storming/step-2-Big picture event storming 1.4.PNG?raw=true" alt="Foto de Big Picture Event Storming - Step 2"/>
 
 ## 2.5. Ubiquitous Language
 
@@ -1647,11 +1648,11 @@ En esta sección se define el glosario de términos y conceptos fundamentales de
 
 **Segmento objetivo 1:** Gestores y Supervisores de Obra (Arquitectos e Ingenieros).
 
-<img src="Resources/ImpactMapping/Gestor y supervisor impact map.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/ImpactMapping/Gestor y supervisor impact map.png?raw=true">
 
 **Segmento objetivo 2:** Equipos de Logística y Administración.
 
-<img src="Resources/ImpactMapping/Logística y administración impact map.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/ImpactMapping/Logística y administración impact map.png?raw=true">
 
 
 ## 3.3. Product Backlog
@@ -1743,7 +1744,7 @@ A continuación se muestra una representación gráfica tanto de las user storie
 
 <div align="center">
 
-![Product Backlog.](/Resources/Product-Backlog/Jira-backlog.png)
+![Product Backlog.](https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Product-Backlog/Jira-backlog.png?raw=true)
 </div>
 
 Enlace: [Product Backlog en Jira Software](https://pircaindustries.atlassian.net/jira/software/projects/ASS/boards/1/backlog?atlOrigin=eyJpIjoiYmIwNDlhZDg4MmI5NDUwZGFjYmI0ODQxMGFmMmQwMzAiLCJwIjoiaiJ9)<br><br>
@@ -1796,11 +1797,12 @@ La distribución de los componentes se rige por una cuadrícula base de 8px, man
 | Categoría   | Medida (rem / px) | Aplicación Técnica Obligatoria                                       |
 | :------------| :------------------| :---------------------------------------------------------------------|
 | **X-Small** | 0.25 rem / 4 px   | Alineación de iconos y micro-ajustes de posición.                    |
-| **Small** | 0.5 rem / 8 px    | Separación de elementos con dependencia semántica directa.           |
-| **Medium** | 1.0 rem / 16 px   | Relleno interno (*padding*) de componentes interactivos primarios.   |
-| **Large** | 1.5 rem / 24 px   | Margen entre componentes pertenecientes a un mismo bloque funcional. |
+| **Small**   | 0.5 rem / 8 px    | Separación de elementos con dependencia semántica directa.           |
+| **Medium**  | 1.0 rem / 16 px   | Relleno interno (*padding*) de componentes interactivos primarios.   |
+| **Large**   | 1.5 rem / 24 px   | Margen entre componentes pertenecientes a un mismo bloque funcional. |
 | **X-Large** | 2.0 rem / 32 px   | Distancia entre contenedores de información independientes.          |
 | **Section** | 4.0 rem / 64 px   | Delimitación de secciones estructurales macro en la interfaz.        |
+
 <br>
 Unidad de Medida: El código debe implementar los márgenes y rellenos únicamente en `rem`. Queda descartado el uso de píxeles estáticos para estas propiedades.
 <br><br>
@@ -1897,13 +1899,13 @@ Enlace: [Wireframe del Landing Page en Figma](https://www.figma.com/design/MjEQM
 **Landing Page**
 
 <div align="center">
-    <img src="Resources\Wireframes\Wireframes_Landing.png" width="600px" alt="Wireframe Desktop">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources\Wireframes\Wireframes_Landing.png?raw=true" width="600px" alt="Wireframe Desktop">
 </div><br><br>
 
 **Landing Page en Mobile Web Browser**
 
 <div align="center">
-    <img src="Resources/Wireframes/Wireframes_Landing_Mobile.png" width="300px" alt="Wireframe Mobile">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireframes/Wireframes_Landing_Mobile.png?raw=true" width="300px" alt="Wireframe Mobile">
 </div><br><br>
 
 ### 4.3.2. Landing Page Mock-up.
@@ -1914,13 +1916,13 @@ Enlace: [Mock-up del Landing Page en Figma](https://www.figma.com/design/SSJ93ys
 **Landing Page**
 
 <div align="center">
-    <img src="Resources\Mock-ups\Landing_Mockup.png" width="600px" alt="Mockup Desktop">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources\Mock-ups\Landing_Mockup.png?raw=true" width="600px" alt="Mockup Desktop">
 </div><br><br>
 
 **Landing Page en Mobile Web Browser**
 
 <div align="center">
-    <img src="Resources/Mock-ups/Landing_Mockup_Mobile.png" width="300px" alt="Mockup Mobile">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mock-ups/Landing_Mockup_Mobile.png?raw=true" width="300px" alt="Mockup Mobile">
 </div><br><br>
 
 ## 4.4. Web Applications UX/UI Design.
@@ -1929,7 +1931,7 @@ Enlace: [Mock-up del Landing Page en Figma](https://www.figma.com/design/SSJ93ys
 El uso de wireframes es clave para definir la estructura visual y de navegación de la aplicación previo a la programación. Elegimos Figma como herramienta para agilizar este proceso colaborativo.
 
 <div align="center">
-    <img src="Resources/Wireframes/Wireframes_Overview.png" width="300px" alt="Wireframes Application Web">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireframes/Wireframes_Overview.png?raw=true" width="300px" alt="Wireframes Application Web">
 </div><br><br>
 
 Enlace: [Wireframes de la App Web en Figma](https://www.figma.com/design/wYSJ9ua6Bc2UCmH6TnQWie/Untitled?node-id=0-1&t=zWud7TLSj3oIzBkc-1)<br><br>
@@ -1937,55 +1939,55 @@ Enlace: [Wireframes de la App Web en Figma](https://www.figma.com/design/wYSJ9ua
 A continuación, presentaremos los wireframes de nuestra aplicación web de manera detallada, acompañados de una breve descripción de la función que cumple cada sección dentro del flujo de trabajo de Kipu:<br><br>
 
 <div align="center">
-    <img src="/Resources/Wireframes/Wireframe-1.png"  alt="wireframes-1"><br><br>
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireframes/Wireframe-1.png?raw=true"  alt="wireframes-1"><br><br>
 </div><br>
 
 - **Autenticación:** Estos wireframes definen los procesos web de inicio de sesión, registro y actualización de contraseña. La estructura prioriza la usabilidad y la interacción fluida, omitiendo temporalmente el aspecto visual.<br><br>
 
 <div align="center">
-    <img src="/Resources/Wireframes/Wireframe-2.png"  alt="wireframes-2"><br><br>
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireframes/Wireframe-2.png?raw=true"  alt="wireframes-2"><br><br>
 </div><br>
 
 - **Proyectos:** agrupa las vistas dedicadas a la administración y seguimiento de obras, permitiendo crear, revisar y organizar la información principal de cada proyecto desde un solo lugar.<br><br>
 
 <div align="center">
-    <img src="/Resources/Wireframes/Wireframe-3.png"  alt="wireframes-3"><br><br>
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireframes/Wireframe-3.png?raw=true"  alt="wireframes-3"><br><br>
 </div><br>
 
 - **Dashboard:** reúne las pantallas orientadas al resumen operativo, mostrando indicadores clave, alertas y accesos rápidos para tomar decisiones sin recorrer múltiples módulos.<br><br>
 
 <div align="center">
-    <img src="/Resources/Wireframes/Wireframe-4.png"  alt="wireframes-4"><br><br>
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireframes/Wireframe-4.png?raw=true"  alt="wireframes-4"><br><br>
 </div><br>
 
 - **Avances:** concentra el registro del progreso físico de la obra, incluyendo reportes diarios, porcentajes de cumplimiento y seguimiento visual del estado de ejecución.<br><br>
 
 <div align="center">
-    <img src="/Resources/Wireframes/Wireframe-5.png"  alt="wireframes-5"><br><br>
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireframes/Wireframe-5.png?raw=true"  alt="wireframes-5"><br><br>
 </div><br>
 
 - **RNC:** centraliza el registro de Resultados No Conformes, incluyendo observaciones, evidencias y seguimiento de incidencias para asegurar la corrección oportuna de errores en obra.<br><br>
 
 <div align="center">
-    <img src="/Resources/Wireframes/Wireframe-6.png"  alt="wireframes-6"><br><br>
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireframes/Wireframe-6.png?raw=true"  alt="wireframes-6"><br><br>
 </div><br>
 
 - **Materiales:** agrupa las pantallas destinadas al control logístico de insumos y es una de las secciones más extensas de la aplicación. Aquí se gestionan solicitudes, entradas y salidas de stock, niveles mínimos, alertas de reposición, asignación de materiales a partidas y seguimiento de movimientos en almacén. La lógica de esta sección busca reducir la dependencia de registros manuales y de coordinaciones informales, ofreciendo una vista clara del inventario disponible, de los pedidos pendientes y del estado de cada material en tiempo real. También permite reforzar la trazabilidad entre el requerimiento realizado en obra y la atención desde logística, evitando duplicidades, quiebres de stock y errores en la distribución.<br><br>
 
 <div align="center">
-    <img src="Resources/Wireframes/Wireframe-7.png"  alt="wireframes-7">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireframes/Wireframe-7.png?raw=true"  alt="wireframes-7">
 </div><br>
 
 - **Planos:** reúne los wireframes vinculados a la gestión documental técnica, permitiendo versionar, consultar y organizar planos para asegurar que el equipo trabaje siempre con la información vigente.<br><br>
 
 <div align="center">
-    <img src="Resources/Wireframes/Wireframe-8.png"  alt="wireframes-8">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireframes/Wireframe-8.png?raw=true"  alt="wireframes-8">
 </div><br>
 
 - **Firmas:** contempla el flujo de validación y aprobación de documentos o entregables, incorporando mecanismos de conformidad digital para mantener respaldo y trazabilidad en los cierres de etapa.<br><br>
 
 <div align="center">
-    <img src="Resources/Wireframes/Wireframe-9.png"  alt="wireframes-9">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireframes/Wireframe-9.png?raw=true"  alt="wireframes-9">
 </div><br>
 
 - **Presupuesto y equipo:** agrupa las vistas relacionadas con el control financiero y la gestión del personal. En esta sección se supervisa el presupuesto asignado, el gasto ejecutado y la disponibilidad del equipo de trabajo, de modo que la administración pueda mantener un control operativo y económico más ordenado.<br><br>
@@ -1994,62 +1996,62 @@ A continuación, presentaremos los wireframes de nuestra aplicación web de mane
 
 <b>Wireframes de Autenticación </b><br>
 <div align="center">
-    <img src="Resources/Wireframes/Wireframe-mobile-1.png" alt="wireframes-mobile-1">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireframes/Wireframe-mobile-1.png?raw=true" alt="wireframes-mobile-1">
 </div><br>
 
 <b>Wireframes de la sección Proyectos</b><br>
 <div align="center">
-    <img src="Resources/Wireframes/Wireframe-mobile-2.png" alt="wireframes-mobile-2">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireframes/Wireframe-mobile-2.png?raw=true" alt="wireframes-mobile-2">
 </div><br>
 
 <b>Wireframes de la sección Dashboard</b><br>
 <div align="center">
-    <img src="Resources/Wireframes/Wireframe-mobile-3.png" alt="wireframes-mobile-3">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireframes/Wireframe-mobile-3.png?raw=true" alt="wireframes-mobile-3">
 </div><br>
 
 <b>Wireframes de la sección Avances</b><br>
 <div align="center">
-    <img src="Resources/Wireframes/Wireframe-mobile-4.png" alt="wireframes-mobile-4">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireframes/Wireframe-mobile-4.png?raw=true" alt="wireframes-mobile-4">
 </div><br>
 
 <b>Wireframes de la sección Firmas</b><br>
 <div align="center">
-    <img src="Resources/Wireframes/Wireframe-mobile-5.png" alt="wireframes-mobile-5">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireframes/Wireframe-mobile-5.png?raw=true" alt="wireframes-mobile-5">
 </div><br>
 
 <b>Wireframes de la sección Firmas</b><br>
 <div align="center">
-    <img src="Resources/Wireframes/Wireframe-mobile-5.png" alt="wireframes-mobile-5">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireframes/Wireframe-mobile-5.png?raw=true" alt="wireframes-mobile-5">
 </div><br>
 
 <b>Wireframes de la sección Materiales</b><br>
 <div align="center">
-    <img src="Resources/Wireframes/Wireframe-mobile-6.png" alt="wireframes-mobile-6">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireframes/Wireframe-mobile-6.png?raw=true" alt="wireframes-mobile-6">
 </div><br>
 
 <b>Wireframes de la sección RNC</b><br>
 <div align="center">
-    <img src="Resources/Wireframes/Wireframe-mobile-8.png" alt="wireframes-mobile-8">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireframes/Wireframe-mobile-8.png?raw=true" alt="wireframes-mobile-8">
 </div><br>
 
 <b>Wireframes de la sección Planos</b><br>
 <div align="center">
-    <img src="Resources/Wireframes/Wireframe-mobile-9.png" alt="wireframes-mobile-9">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireframes/Wireframe-mobile-9.png?raw=true" alt="wireframes-mobile-9">
 </div><br>
 
 <b>Wireframes de la sección Presupuesto</b><br>
 <div align="center">
-    <img src="Resources/Wireframes/Wireframe-mobile-10.png" alt="wireframes-mobile-10">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireframes/Wireframe-mobile-10.png?raw=true" alt="wireframes-mobile-10">
 </div><br>
 
 <b>Wireframes de la sección Equipo</b><br>
 <div align="center">
-    <img src="Resources/Wireframes/Wireframe-mobile-11.png" alt="wireframes-mobile-11">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireframes/Wireframe-mobile-11.png?raw=true" alt="wireframes-mobile-11">
 </div><br>
 
 <b>Wireframes de la sección Perfil</b><br>
 <div align="center">
-    <img src="Resources/Wireframes/Wireframe-mobile-13.png" alt="wireframes-mobile-13">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireframes/Wireframe-mobile-13.png?raw=true" alt="wireframes-mobile-13">
 </div><br>
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
@@ -2058,7 +2060,7 @@ A continuación, presentaremos los wireframes de nuestra aplicación web de mane
 
 **User Goal 1:** Como usuario del sistema, quiero acceder a la plataforma mediante inicio de sesión, creación de cuenta nueva o recuperación de contraseña, para utilizar las funcionalidades de gestión de proyectos de manera segura y personalizada.
 
-<img src="Resources/Wireflow/Autenticación.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireflow/Autenticación.png?raw=true">
 
 ---
 
@@ -2066,7 +2068,7 @@ A continuación, presentaremos los wireframes de nuestra aplicación web de mane
 
 **User Goal 2:** Como administrador o gestor del sistema, quiero registrar, modificar y administrar los proyectos dentro de la plataforma, estableciendo sus datos principales y su estado operativo, para mantener un control centralizado de todas las obras activas y simplificar su gestión.
 
-<img src="Resources/Wireflow/Proyecto.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireflow/Proyecto.png?raw=true">
 
 ---
 
@@ -2074,7 +2076,7 @@ A continuación, presentaremos los wireframes de nuestra aplicación web de mane
 
 **User Goal 3:** Como encargado de campo o supervisor, quiero reportar periódicamente el progreso físico de las tareas del proyecto, indicando el porcentaje de avance y agregando observaciones relevantes, para conservar un historial trazable de la ejecución real frente a lo programado.
 
-<img src="Resources/Wireflow/Avances.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireflow/Avances.png?raw=true">
 
 ---
 
@@ -2082,7 +2084,7 @@ A continuación, presentaremos los wireframes de nuestra aplicación web de mane
 
 **User Goal 4:** Como responsable de control de calidad o supervisor, quiero registrar las no conformidades detectadas en la ejecución de la obra, adjuntando evidencia visual como fotografías, para comunicar al equipo correspondiente y dar seguimiento hasta la corrección del problema.
 
-<img src="Resources/Wireflow/RNC.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireflow/RNC.png?raw=true">
 
 ---
 
@@ -2090,7 +2092,7 @@ A continuación, presentaremos los wireframes de nuestra aplicación web de mane
 
 **User Goal 5:** Como profesional en campo o solicitante, quiero crear pedidos formales de materiales e insumos, detallando los productos necesarios, las cantidades y la fecha requerida de entrega, para enviar las solicitudes al área logística de forma estructurada y evitar coordinaciones informales.
 
-<img src="Resources/Wireflow/Materiales.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireflow/Materiales.png?raw=true">
 
 ---
 
@@ -2098,7 +2100,7 @@ A continuación, presentaremos los wireframes de nuestra aplicación web de mane
 
 **User Goal 6:** Como profesional técnico, quiero cargar, visualizar, versionar y organizar los planos del proyecto, aplicando filtros por categoría o especialidad y descargándolos para consulta sin conexión, para garantizar que todo el equipo trabaje con la versión más reciente y prevenir errores por documentos desactualizados.
 
-<img src="Resources/Wireflow/Planos.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireflow/Planos.png?raw=true">
 
 ---
 
@@ -2106,7 +2108,7 @@ A continuación, presentaremos los wireframes de nuestra aplicación web de mane
 
 **User Goal 7:** Como profesional autorizado, quiero aprobar documentos de manera digital mediante un mecanismo de verificación que asegure la autenticidad de la acción, para formalizar el cierre de etapas o la conformidad de entregables con respaldo legal y trazabilidad.
 
-<img src="Resources/Wireflow/Firmas.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireflow/Firmas.png?raw=true">
 
 ---
 
@@ -2114,7 +2116,7 @@ A continuación, presentaremos los wireframes de nuestra aplicación web de mane
 
 **User Goal 8:** Como miembro del equipo administrativo o financiero, quiero consultar el presupuesto asignado por cada partida o categoría, compararlo con el gasto real ejecutado y recibir notificaciones ante desviaciones, para identificar fugas presupuestarias y fundamentar decisiones antes de aprobar nuevas compras.
 
-<img src="Resources/Wireflow/Presupuesto.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireflow/Presupuesto.png?raw=true">
 
 ---
 
@@ -2122,8 +2124,8 @@ A continuación, presentaremos los wireframes de nuestra aplicación web de mane
 
 **User Goal 9:** Como administrador o líder del proyecto, quiero gestionar los usuarios vinculados a cada obra y ajustar sus permisos de acceso, para que cada persona cuente con los niveles de autorización adecuados a su función y evitar accesos no autorizados a información delicada.
 
-<img src="Resources/Wireflow/Equipo Usuario.png">
-<img src="Resources/Wireflow/Equipo Obrero.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireflow/Equipo Usuario.png?raw=true">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireflow/Equipo Obrero.png?raw=true">
 
 ---
 
@@ -2131,13 +2133,13 @@ A continuación, presentaremos los wireframes de nuestra aplicación web de mane
 
 **User Goal 10:** Como administrador o gerente del proyecto, quiero generar un informe completo en formato PDF que consolide todo el historial de firmas electrónicas, aprobaciones y documentos de calidad de una etapa constructiva, para facilitar la entrega oficial del proyecto a la municipalidad o al cliente final.
 
-<img src="Resources/Wireflow/Dossier.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireflow/Dossier.png?raw=true">
 
 ### 4.4.3. Web Applications Mock-ups.
 
 Se presentarán los Mock-ups de Kipu, versiones más realistas de los Wireframes.
 
-<img src="Resources/Mockups/General/Mockup General.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/General/Mockup General.png?raw=true">
 
 Enlace de <a href="https://www.figma.com/design/FyoLkuLim7pgB23ZdnuZOl/Kipu---Aplicaciones-Web-Mockups?node-id=0-1&t=p8occfAoy5s2FUhl-1">Mockups</a>
 
@@ -2145,144 +2147,144 @@ Enlace de <a href="https://www.figma.com/design/FyoLkuLim7pgB23ZdnuZOl/Kipu---Ap
 
 ## Autenticación
 
-<img src="Resources/Mockups/Autenticacion/Mockup Desktop Autenticacion - 1.png">
-<img src="Resources/Mockups/Autenticacion/Mockup Desktop Autenticacion - 2.png">
-<img src="Resources/Mockups/Autenticacion/Mockup Desktop Autenticacion - 3.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Autenticacion/Mockup Desktop Autenticacion - 1.png?raw=true">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Autenticacion/Mockup Desktop Autenticacion - 2.png?raw=true">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Autenticacion/Mockup Desktop Autenticacion - 3.png?raw=true">
 
 ---
 
 ## Avances
 
-<img src="Resources/Mockups/Avances/Mockup Desktop Avances.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Avances/Mockup Desktop Avances.png?raw=true">
 
 ---
 
 ## Dashboard
 
-<img src="Resources/Mockups/Dashboard/Mockup Desktop Dashboard - 1.png">
-<img src="Resources/Mockups/Dashboard/Mockup Desktop Dashboard - 2.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Dashboard/Mockup Desktop Dashboard - 1.png?raw=true">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Dashboard/Mockup Desktop Dashboard - 2.png?raw=true">
 
 ---
 
 ## Firmas
 
-<img src="Resources/Mockups/Firmas/Mockup Desktop Firmas - 1.png">
-<img src="Resources/Mockups/Firmas/Mockup Desktop Firmas - 2.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Firmas/Mockup Desktop Firmas - 1.png?raw=true">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Firmas/Mockup Desktop Firmas - 2.png?raw=true">
 
 ---
 
 ## Materiales
 
-<img src="Resources/Mockups/Materiales/Mockup Desktop Materiales - 1.png">
-<img src="Resources/Mockups/Materiales/Mockup Desktop Materiales - 2.png">
-<img src="Resources/Mockups/Materiales/Mockup Desktop Materiales - 2.png">
-<img src="Resources/Mockups/Materiales/Mockup Desktop Materiales - 3.png">
-<img src="Resources/Mockups/Materiales/Mockup Desktop Materiales - 4.png">
-<img src="Resources/Mockups/Materiales/Mockup Desktop Materiales - 5.png">
-<img src="Resources/Mockups/Materiales/Mockup Desktop Materiales - 6.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Materiales/Mockup Desktop Materiales - 1.png?raw=true">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Materiales/Mockup Desktop Materiales - 2.png?raw=true">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Materiales/Mockup Desktop Materiales - 2.png?raw=true">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Materiales/Mockup Desktop Materiales - 3.png?raw=true">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Materiales/Mockup Desktop Materiales - 4.png?raw=true">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Materiales/Mockup Desktop Materiales - 5.png?raw=true">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Materiales/Mockup Desktop Materiales - 6.png?raw=true">
 
 ---
 
 ## Planos
 
-<img src="Resources/Mockups/Planos/Mockup Desktop Planos - 1.png">
-<img src="Resources/Mockups/Planos/Mockup Desktop Planos - 2.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Planos/Mockup Desktop Planos - 1.png?raw=true">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Planos/Mockup Desktop Planos - 2.png?raw=true">
 
 ---
 
 ## Equipo
 
-<img src="Resources/Mockups/Equipo/Mockup Desktop Equipo.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Equipo/Mockup Desktop Equipo.png?raw=true">
 
 ---
 
 ## Presupuesto
 
-<img src="Resources/Mockups/Presupuesto/Mockup Desktop Presupuesto.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Presupuesto/Mockup Desktop Presupuesto.png?raw=true">
 
 ---
 
 ## Proyecto
 
-<img src="Resources/Mockups/Proyecto/Mockup Desktop Proyecto.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Proyecto/Mockup Desktop Proyecto.png?raw=true">
 
 ---
 
 ## RNC
 
-<img src="Resources/Mockups/RNC/Mockup Desktop RNC.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/RNC/Mockup Desktop RNC.png?raw=true">
 
 ## <b>Mock-ups versión Mobile:</b>
 
 ## Autenticación
 
-<img src="Resources/Mockups/Autenticacion/Mockup Mobile Autenticacion.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Autenticacion/Mockup Mobile Autenticacion.png?raw=true">
 
 ---
 
 ## Avances
 
-<img src="Resources/Mockups/Avances/Mockup Mobile Avances.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Avances/Mockup Mobile Avances.png?raw=true">
 
 ---
 
 ## Dashboard
 
-<img src="Resources/Mockups/Dashboard/Mockup Mobile Dashboard.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Dashboard/Mockup Mobile Dashboard.png?raw=true">
 
 ---
 
 ## Equipo
 
-<img src="Resources/Mockups/Equipo/Mockup Mobile Equipo.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Equipo/Mockup Mobile Equipo.png?raw=true">
 
 ---
 
 ## Firmas
 
-<img src="Resources/Mockups/Firmas/Mockup Mobile Firmas.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Firmas/Mockup Mobile Firmas.png?raw=true">
 
 ---
 
 ## Materiales
 
-<img src="Resources/Mockups/Materiales/Mockup Mobile Materiales.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Materiales/Mockup Mobile Materiales.png?raw=true">
 
 ---
 
 ## Notificaciones
 
-<img src="Resources/Mockups/Notificaciones/Mockup Mobile Notificaciones.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Notificaciones/Mockup Mobile Notificaciones.png?raw=true">
 
 ---
 
 ## Perfil
 
-<img src="Resources/Mockups/Perfil/Mockup Mobile Perfil.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Perfil/Mockup Mobile Perfil.png?raw=true">
 
 ---
 
 ## Planos
 
-<img src="Resources/Mockups/Planos/Mockup Mobile Planos.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Planos/Mockup Mobile Planos.png?raw=true">
 
 ---
 
 ## Presupuesto
 
-<img src="Resources/Mockups/Presupuesto/Mockup Mobile Presupuesto.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Presupuesto/Mockup Mobile Presupuesto.png?raw=true">
 
 ---
 
 ## Proyecto
 
-<img src="Resources/Mockups/Proyecto/Mockup Mobile Proyecto.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Proyecto/Mockup Mobile Proyecto.png?raw=true">
 
 ---
 
 ## RNC
 
-<img src="Resources/Mockups/RNC/Mockup Mobile RNC.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/RNC/Mockup Mobile RNC.png?raw=true">
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 
@@ -2290,7 +2292,7 @@ Enlace de <a href="https://www.figma.com/design/FyoLkuLim7pgB23ZdnuZOl/Kipu---Ap
 
 **User Goal 1:** Como usuario del sistema, quiero acceder a la plataforma mediante inicio de sesión, creación de cuenta nueva o recuperación de contraseña, para utilizar las funcionalidades de gestión de proyectos de manera segura y personalizada.
 
-<img src="Resources/UserFlow/Autenticación.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/UserFlow/Autenticación.png?raw=true">
 
 ---
 
@@ -2298,7 +2300,7 @@ Enlace de <a href="https://www.figma.com/design/FyoLkuLim7pgB23ZdnuZOl/Kipu---Ap
 
 **User Goal 2:** Como administrador o gestor del sistema, quiero registrar, modificar y administrar los proyectos dentro de la plataforma, estableciendo sus datos principales y su estado operativo, para mantener un control centralizado de todas las obras activas y simplificar su gestión.
 
-<img src="Resources/UserFlow/Proyecto.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/UserFlow/Proyecto.png?raw=true">
 
 ---
 
@@ -2306,7 +2308,7 @@ Enlace de <a href="https://www.figma.com/design/FyoLkuLim7pgB23ZdnuZOl/Kipu---Ap
 
 **User Goal 3:** Como encargado de campo o supervisor, quiero reportar periódicamente el progreso físico de las tareas del proyecto, indicando el porcentaje de avance y agregando observaciones relevantes, para conservar un historial trazable de la ejecución real frente a lo programado.
 
-<img src="Resources/UserFlow/Avance.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/UserFlow/Avance.png?raw=true">
 
 ---
 
@@ -2314,7 +2316,7 @@ Enlace de <a href="https://www.figma.com/design/FyoLkuLim7pgB23ZdnuZOl/Kipu---Ap
 
 **User Goal 4:** Como responsable de control de calidad o supervisor, quiero registrar las no conformidades detectadas en la ejecución de la obra, adjuntando evidencia visual como fotografías, para comunicar al equipo correspondiente y dar seguimiento hasta la corrección del problema.
 
-<img src="Resources/UserFlow/RNC.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/UserFlow/RNC.png?raw=true">
 
 ---
 
@@ -2322,7 +2324,7 @@ Enlace de <a href="https://www.figma.com/design/FyoLkuLim7pgB23ZdnuZOl/Kipu---Ap
 
 **User Goal 5:** Como profesional en campo o solicitante, quiero crear pedidos formales de materiales e insumos, detallando los productos necesarios, las cantidades y la fecha requerida de entrega, para enviar las solicitudes al área logística de forma estructurada y evitar coordinaciones informales.
 
-<img src="Resources/UserFlow/Materiales.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/UserFlow/Materiales.png?raw=true">
 
 ---
 
@@ -2330,7 +2332,7 @@ Enlace de <a href="https://www.figma.com/design/FyoLkuLim7pgB23ZdnuZOl/Kipu---Ap
 
 **User Goal 6:** Como profesional técnico, quiero cargar, visualizar, versionar y organizar los planos del proyecto, aplicando filtros por categoría o especialidad y descargándolos para consulta sin conexión, para garantizar que todo el equipo trabaje con la versión más reciente y prevenir errores por documentos desactualizados.
 
-<img src="Resources/UserFlow/Planos.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/UserFlow/Planos.png?raw=true">
 
 ---
 
@@ -2338,7 +2340,7 @@ Enlace de <a href="https://www.figma.com/design/FyoLkuLim7pgB23ZdnuZOl/Kipu---Ap
 
 **User Goal 7:** Como profesional autorizado, quiero aprobar documentos de manera digital mediante un mecanismo de verificación que asegure la autenticidad de la acción, para formalizar el cierre de etapas o la conformidad de entregables con respaldo legal y trazabilidad.
 
-<img src="Resources/UserFlow/FIrmas.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/UserFlow/FIrmas.png?raw=true">
 
 ---
 
@@ -2346,7 +2348,7 @@ Enlace de <a href="https://www.figma.com/design/FyoLkuLim7pgB23ZdnuZOl/Kipu---Ap
 
 **User Goal 8:** Como miembro del equipo administrativo o financiero, quiero consultar el presupuesto asignado por cada partida o categoría, compararlo con el gasto real ejecutado y recibir notificaciones ante desviaciones, para identificar fugas presupuestarias y fundamentar decisiones antes de aprobar nuevas compras.
 
-<img src="Resources/UserFlow/Presupuesto.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/UserFlow/Presupuesto.png?raw=true">
 
 ---
 
@@ -2354,7 +2356,7 @@ Enlace de <a href="https://www.figma.com/design/FyoLkuLim7pgB23ZdnuZOl/Kipu---Ap
 
 **User Goal 9:** Como administrador o líder del proyecto, quiero gestionar los usuarios vinculados a cada obra y ajustar sus permisos de acceso, para que cada persona cuente con los niveles de autorización adecuados a su función y evitar accesos no autorizados a información delicada.
 
-<img src="Resources/UserFlow/Equipo.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/UserFlow/Equipo.png?raw=true">
 
 ---
 
@@ -2362,13 +2364,13 @@ Enlace de <a href="https://www.figma.com/design/FyoLkuLim7pgB23ZdnuZOl/Kipu---Ap
 
 **User Goal 10:** Como administrador o gerente del proyecto, quiero generar un informe completo en formato PDF que consolide todo el historial de firmas electrónicas, aprobaciones y documentos de calidad de una etapa constructiva, para facilitar la entrega oficial del proyecto a la municipalidad o al cliente final.
 
-<img src="Resources/UserFlow/Dossier.png">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/UserFlow/Dossier.png?raw=true">
 
 ## 4.5. Web Applications Prototyping.
 
 Prototype completo de Kipu:
 
-<img src="Resources/Prototype/Prototype.jpeg">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Prototype/Prototype.jpeg?raw=true">
 
 Enlace para ver el Prototype: <a href="https://www.figma.com/design/oCVgJrJ3SUNXq8jIGHlhX0/App-Web---Prototype?t=RCnCwcgdiy5cIIsu-1">Prototype Figma</a>
 
@@ -2380,7 +2382,7 @@ Enlace para ver demostración del Prototype en vídeo: <a href="https://upcedupe
 
 **User Goal 1:** Como usuario del sistema, quiero acceder a la plataforma mediante inicio de sesión, creación de cuenta nueva o recuperación de contraseña, para utilizar las funcionalidades de gestión de proyectos de manera segura y personalizada.
 
-<img src="Resources/Prototype/Autenticación.jpeg">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/25ba33cc85c64ef7d852b55f5558f0c28e4a4eae/Resources/Prototype/Autenticación.jpeg?raw=true">
 
 **Timestamp:** 0:00
 
@@ -2390,7 +2392,7 @@ Enlace para ver demostración del Prototype en vídeo: <a href="https://upcedupe
 
 **User Goal 2:** Como administrador o gestor del sistema, quiero registrar, modificar y administrar los proyectos dentro de la plataforma, estableciendo sus datos principales y su estado operativo, para mantener un control centralizado de todas las obras activas y simplificar su gestión.
 
-<img src="Resources/Prototype/Proyecto.jpeg">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Prototype/Proyecto.jpeg?raw=true">
 
 **Timestamp:** 0:46
 
@@ -2400,7 +2402,7 @@ Enlace para ver demostración del Prototype en vídeo: <a href="https://upcedupe
 
 **User Goal 3:** Como encargado de campo o supervisor, quiero reportar periódicamente el progreso físico de las tareas del proyecto, indicando el porcentaje de avance y agregando observaciones relevantes, para conservar un historial trazable de la ejecución real frente a lo programado.
 
-<img src="Resources/Prototype/Avances.jpeg">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Prototype/Avances.jpeg?raw=true">
 
 **Timestamp:** 1:43
 
@@ -2410,7 +2412,7 @@ Enlace para ver demostración del Prototype en vídeo: <a href="https://upcedupe
 
 **User Goal 4:** Como responsable de control de calidad o supervisor, quiero registrar las no conformidades detectadas en la ejecución de la obra, adjuntando evidencia visual como fotografías, para comunicar al equipo correspondiente y dar seguimiento hasta la corrección del problema.
 
-<img src="Resources/Prototype/RNC.jpeg">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Prototype/RNC.jpeg?raw=true">
 
 **Timestamp:** 2:07
 
@@ -2420,7 +2422,7 @@ Enlace para ver demostración del Prototype en vídeo: <a href="https://upcedupe
 
 **User Goal 5:** Como profesional en campo o solicitante, quiero crear pedidos formales de materiales e insumos, detallando los productos necesarios, las cantidades y la fecha requerida de entrega, para enviar las solicitudes al área logística de forma estructurada y evitar coordinaciones informales.
 
-<img src="Resources/Prototype/Materiales.jpeg">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Prototype/Materiales.jpeg?raw=true">
 
 **Timestamp:** 2:20
 
@@ -2430,7 +2432,7 @@ Enlace para ver demostración del Prototype en vídeo: <a href="https://upcedupe
 
 **User Goal 6:** Como profesional técnico, quiero cargar, visualizar, versionar y organizar los planos del proyecto, aplicando filtros por categoría o especialidad y descargándolos para consulta sin conexión, para garantizar que todo el equipo trabaje con la versión más reciente y prevenir errores por documentos desactualizados.
 
-<img src="Resources/Prototype/Planos.jpeg">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Prototype/Planos.jpeg?raw=true">
 
 **Timestamp:** 3:20
 
@@ -2440,7 +2442,7 @@ Enlace para ver demostración del Prototype en vídeo: <a href="https://upcedupe
 
 **User Goal 7:** Como profesional autorizado, quiero aprobar documentos de manera digital mediante un mecanismo de verificación que asegure la autenticidad de la acción, para formalizar el cierre de etapas o la conformidad de entregables con respaldo legal y trazabilidad.
 
-<img src="Resources/Prototype/Firmas.jpeg">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Prototype/Firmas.jpeg?raw=true">
 
 **Timestamp:** 3:56
 
@@ -2450,7 +2452,7 @@ Enlace para ver demostración del Prototype en vídeo: <a href="https://upcedupe
 
 **User Goal 8:** Como miembro del equipo administrativo o financiero, quiero consultar el presupuesto asignado por cada partida o categoría, compararlo con el gasto real ejecutado y recibir notificaciones ante desviaciones, para identificar fugas presupuestarias y fundamentar decisiones antes de aprobar nuevas compras.
 
-<img src="Resources/Prototype/Presupuesto.jpeg">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Prototype/Presupuesto.jpeg?raw=true">
 
 **Timestamp:** 4:24
 
@@ -2460,7 +2462,7 @@ Enlace para ver demostración del Prototype en vídeo: <a href="https://upcedupe
 
 **User Goal 9:** Como administrador o líder del proyecto, quiero gestionar los usuarios vinculados a cada obra y ajustar sus permisos de acceso, para que cada persona cuente con los niveles de autorización adecuados a su función y evitar accesos no autorizados a información delicada.
 
-<img src="Resources/Prototype/Equipo.jpeg">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Prototype/Equipo.jpeg?raw=true">
 
 **Timestamp:** 4:34
 
@@ -2470,7 +2472,7 @@ Enlace para ver demostración del Prototype en vídeo: <a href="https://upcedupe
 
 **User Goal 10:** Como administrador o gerente del proyecto, quiero generar un informe completo en formato PDF que consolide todo el historial de firmas electrónicas, aprobaciones y documentos de calidad de una etapa constructiva, para facilitar la entrega oficial del proyecto a la municipalidad o al cliente final.
 
-<img src="Resources/Prototype/Dossier.jpeg">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Prototype/Dossier.jpeg?raw=true">
 
 **Timestamp:** 1:23
 
@@ -2490,7 +2492,7 @@ A continuación, se documenta la arquitectura dividida por los Bounded Contexts 
 
 <br><br>
 <div align="center">
-    <img src="Resources/Design-Level-Event-Storming/desingEventStorming-panoramic.png" alt="Vista Panorámica del Design-Level Event Storming">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Design-Level-Event-Storming/desingEventStorming-panoramic.png?raw=true" alt="Vista Panorámica del Design-Level Event Storming">
 </div>
 <br><br>
 
@@ -2499,7 +2501,7 @@ Este dominio gestiona la seguridad, el control de acceso y el registro del perso
 
 <br><br>
 <div align="center">
-    <img src="Resources/Design-Level-Event-Storming/desingEventStorming-identity.png" alt="Identity and Access Management Event Storming">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Design-Level-Event-Storming/desingEventStorming-identity.png?raw=true" alt="Identity and Access Management Event Storming">
 </div>
 <br><br>
 
@@ -2519,7 +2521,7 @@ Gestiona el ciclo de vida estructural de la obra y la centralización de datos a
 
 <br><br>
 <div align="center">
-    <img src="Resources/Design-Level-Event-Storming/desingEventStorming-planning.png" alt="Service Design and Planning Event Storming">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Design-Level-Event-Storming/desingEventStorming-planning.png?raw=true" alt="Service Design and Planning Event Storming">
 </div>
 <br><br>
 
@@ -2536,7 +2538,7 @@ Controla la realidad en el campo (faena), capturando el avance físico y los pro
 
 <br><br>
 <div align="center">
-    <img src="Resources/Design-Level-Event-Storming/desingEventStorming-monitoring.png" alt="Service Execution and Monitoring Event Storming">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Design-Level-Event-Storming/desingEventStorming-monitoring.png?raw=true" alt="Service Execution and Monitoring Event Storming">
 </div>
 <br><br>
 
@@ -2554,11 +2556,11 @@ El dominio con mayor carga transaccional. Administra la cadena de suministro, ma
 
 <br><br>
 <div align="center">
-    <img src="Resources/Design-Level-Event-Storming/desingEventStorming-resource1.png" alt="Resource and Asset Management Event Storming Parte 1">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Design-Level-Event-Storming/desingEventStorming-resource1.png?raw=true" alt="Resource and Asset Management Event Storming Parte 1">
 </div>
 <br><br>
 <div align="center">
-    <img src="Resources/Design-Level-Event-Storming/desingEventStorming-resource2.png" alt="Resource and Asset Management Event Storming Parte 2">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Design-Level-Event-Storming/desingEventStorming-resource2.png?raw=true" alt="Resource and Asset Management Event Storming Parte 2">
 </div>
 <br><br>
 
@@ -2577,7 +2579,7 @@ Protege la propiedad intelectual y asegura que el personal en campo construya so
 
 <br><br>
 <div align="center">
-    <img src="Resources/Design-Level-Event-Storming/desingEventStorming-blueprint.png" alt="Technical Documentation & Design Event Storming">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Design-Level-Event-Storming/desingEventStorming-blueprint.png?raw=true" alt="Technical Documentation & Design Event Storming">
 </div>
 <br><br>
 
@@ -2593,7 +2595,7 @@ Maneja las responsabilidades legales y el cierre formal de etapas constructivas.
 
 <br><br>
 <div align="center">
-    <img src="Resources/Design-Level-Event-Storming/desingEventStorming-legal.png" alt="Legal & Compliance Management Event Storming">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Design-Level-Event-Storming/desingEventStorming-legal.png?raw=true" alt="Legal & Compliance Management Event Storming">
 </div>
 <br><br>
 
@@ -2605,7 +2607,7 @@ Maneja las responsabilidades legales y el cierre formal de etapas constructivas.
 ### 4.6.2. Software Architecture Context Diagram.
 En este nivel se visualizan los actores principales: el Operative Manager, el Logistics Officer, el System Administrator y el Client. Asimismo, se detallan las relaciones con los sistemas externos encargados de la seguridad y comunicación, representados por el Servicio SMS OTP y el Servicio de Correo.
 
-<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Domain-Driven-Software-Architecture/SystemContext.svg" alt="Imagen del Diagrama de Contexto">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Domain-Driven-Software-Architecture/SystemContext.svg?raw=true" alt="Imagen del Diagrama de Contexto">
 
 <br>
 
@@ -2613,7 +2615,7 @@ En este nivel se visualizan los actores principales: el Operative Manager, el Lo
 
 En este diagrama se detalla la distribución de la plataforma en contenedores dentro de la nube de Microsoft Azure. Se identifica la Landing Page y la Web Application (SPA) como interfaces de usuario. La comunicación se centraliza a través de un API Gateway, el cual distribuye las peticiones hacia los ocho microservicios especializados desarrollados en ASP.NET Core. Además, se incluye el uso de Azure Blob Storage para el almacenamiento de archivos pesados y una Base de Datos MySQL para la persistencia de datos relacionales.
 
-<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Domain-Driven-Software-Architecture/ContainerDiagram.svg" alt="Imagen del Container Diagram">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Domain-Driven-Software-Architecture/ContainerDiagram.svg?raw=true" alt="Imagen del Container Diagram">
 
 <br>
 
@@ -2623,54 +2625,54 @@ En esta sección se desglosa la arquitectura interna de los microservicios princ
 
 **Componente Blueprint**
 
-<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Domain-Driven-Software-Architecture/BlueprintComponents.svg" alt="Imagen del Blueprint">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Domain-Driven-Software-Architecture/BlueprintComponents.svg?raw=true" alt="Imagen del Blueprint">
 
 <br>
 
 **Componente Document**
 
-<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Domain-Driven-Software-Architecture/DocumentComponents.svg" alt="Imagen del Document">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Domain-Driven-Software-Architecture/DocumentComponents.svg?raw=true" alt="Imagen del Document">
 
 <br>
 
 **Componente Identity**
 
-<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Domain-Driven-Software-Architecture/IdentityComponents.svg" alt="Imagen del Identity">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Domain-Driven-Software-Architecture/IdentityComponents.svg?raw=true" alt="Imagen del Identity">
 
 <br>
 
 **Componente Logistics**
 
-<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Domain-Driven-Software-Architecture/LogisticsComponents.svg" alt="Imagen del Identity">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Domain-Driven-Software-Architecture/LogisticsComponents.svg?raw=true" alt="Imagen del Identity">
 
 <br>
 
 **Componente Notification**
 
-<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Domain-Driven-Software-Architecture/NotificationComponents.svg" alt="Imagen del Notification">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Domain-Driven-Software-Architecture/NotificationComponents.svg?raw=true" alt="Imagen del Notification">
 
 <br>
 
 **Componente Progress**
 
-<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Domain-Driven-Software-Architecture/ProgressComponents.svg" alt="Imagen del Progress">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Domain-Driven-Software-Architecture/ProgressComponents.svg?raw=true" alt="Imagen del Progress">
 
 <br>
 
 **Componente Project**
 
-<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Domain-Driven-Software-Architecture/ProjectComponents.svg" alt="Imagen del Project">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Domain-Driven-Software-Architecture/ProjectComponents.svg?raw=true" alt="Imagen del Project">
 <br>
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 
-<img src="Resources/Diagrams/Class Diagram - Kipu.png" alt="Foto de Diagrama de Clases"/>
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Diagrams/Class Diagram - Kipu.png?raw=true" alt="Foto de Diagrama de Clases"/>
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagrams.
 
-<img src="Resources/Diagrams/Database Diagram - Kipu.png" alt="Foto de Diagrama de Base de Datos"/>
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Diagrams/Database Diagram - Kipu.png?raw=true" alt="Foto de Diagrama de Base de Datos"/>
 
 ---
 # Capítulo V: Product Implementation, Validation & Deployment.
@@ -2748,19 +2750,19 @@ En relación con la gestión de nuevas funcionalidades, creamos ramas específic
 Enlace de la Landing Page en GitHub Pages: https://pircaindustries.github.io/Landing-Page-Kipu/  <br><br> 
 
 <div align="center">
-    <img src="/Resources/Code-Management/landing-desplegada.png" alt="Landing Page">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main//Resources/Code-Management/landing-desplegada.png?raw=true" alt="Landing Page">
 </div><br>
 
 Repositorio GitHub de la Landing Page: https://pircaindustries.github.io/landing-page-Kipu/ <br><br> 
 
 <div align="center">
-    <img src="/Resources/Code-Management/landing-repositorio.png"  alt="Repositorio landing page">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main//Resources/Code-Management/landing-repositorio.png?raw=true"  alt="Repositorio landing page">
 </div><br>
 
 Repositorio GitHub de los archivos feature: https://github.com/PircaIndustries/Acceptance-Test <br><br> 
 
 <div align="center">
-    <img src="/Resources/Code-Management/feature-repositorio.png"  alt="repositorio feature">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main//Resources/Code-Management/feature-repositorio.png?raw=true"  alt="repositorio feature">
 </div><br><br>
 
 ### 5.1.3 Source Code Style Guide & Conventions
@@ -2844,11 +2846,11 @@ Ejemplo:
 ```html
 <!-- Mala práctica -->
 <div onclick="submitForm()">Send</div>
-<img src="chart.png" alt="image">
+<img src="chart.png?raw=true" alt="image">
 
 <!-- Recomendado -->
 <button type="button" id="send-button">Send</button>
-<img src="chart.png" alt="Sales chart for Q1 showing month-over-month growth">
+<img src="chart.png?raw=true" alt="Sales chart for Q1 showing month-over-month growth">
 ```
 
 Complementación conveniente:
@@ -2870,7 +2872,7 @@ Ejemplo recomendado:
   <body>
     <main>
       <h1>Account settings</h1>
-      <img src="avatar.png" alt="Profile avatar preview">
+      <img src="avatar.png?raw=true" alt="Profile avatar preview">
       <a href="/comments">All comments</a>
     </main>
   </body>
@@ -3172,7 +3174,7 @@ Con el objetivo de realizar el despliegue de nuestra landing page, seleccionamos
 **1.  Ingresamos al repositorio de la landing page**
 
 <div align="center">
-  <img src="/Resources/Deployment-Landing/deployment-step-1.png" alt="landing repo">
+  <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main//Resources/Deployment-Landing/deployment-step-1.png?raw=true" alt="landing repo">
 </div>
 
 <br>
@@ -3180,7 +3182,7 @@ Con el objetivo de realizar el despliegue de nuestra landing page, seleccionamos
 **2.  Nos dirigimos al apartado de settings**
 
 <div align="center">
-  <img src="/Resources/Deployment-Landing/deployment-step-2.png" alt="landing repo">
+  <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main//Resources/Deployment-Landing/deployment-step-2.png?raw=true" alt="landing repo">
 </div>
 
 <br>
@@ -3188,7 +3190,7 @@ Con el objetivo de realizar el despliegue de nuestra landing page, seleccionamos
 **3.  Vamos a la sección de Github Pages**
 
 <div align="center">
-  <img src="/Resources/Deployment-Landing/deployment-step-3.png" alt="landing repo">
+  <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main//Resources/Deployment-Landing/deployment-step-3.png?raw=true" alt="landing repo">
 </div>
 
 <br>
@@ -3196,7 +3198,7 @@ Con el objetivo de realizar el despliegue de nuestra landing page, seleccionamos
 **4.  Seleccionamos la rama main de github-pages en el apartado de source y damos click en save para desplegar.**
 
 <div align="center">
-  <img src="/Resources/Deployment-Landing/deployment-step-4.png" alt="landing repo">
+  <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main//Resources/Deployment-Landing/deployment-step-4.png?raw=true" alt="landing repo">
 </div>
 
 <br>
@@ -3204,7 +3206,7 @@ Con el objetivo de realizar el despliegue de nuestra landing page, seleccionamos
 **5.  Finalmente estaría todo listo.**
 
 <div align="center">
-  <img src="/Resources/Deployment-Landing/deployment-step-5.png" alt="landing repo">
+  <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main//Resources/Deployment-Landing/deployment-step-5.png?raw=true" alt="landing repo">
 </div><br>
 
 A modo de resumen, la automatización del despliegue funciona de la siguiente manera: GitHub Pages utiliza la rama main como origen de producción. Paralelamente, se configuró un flujo con GitHub Actions que reacciona a los commits en develop para compilar el código estático. Cuando las modificaciones son revisadas y aprobadas por el equipo para su paso a producción, la plataforma actualiza el sitio en vivo con la nueva versión.
@@ -3221,7 +3223,7 @@ A modo de resumen, la automatización del despliegue funciona de la siguiente ma
   </thead>
   <tbody>
     <tr>
-      <td colspan="2" style="background-color: #f2f2f2;"><strong>Sprint Planning Background</strong></td>
+      <td colspan="2" "><strong>Sprint Planning Background</strong></td>
     </tr>
     <tr>
       <td><strong>Date</strong></td>
@@ -3252,7 +3254,7 @@ A modo de resumen, la automatización del despliegue funciona de la siguiente ma
       <td>N/A (Primer Sprint del proyecto Kipu).</td>
     </tr>
     <tr>
-      <td colspan="2" style="background-color: #f2f2f2;"><strong>Sprint Goal & User Stories</strong></td>
+      <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
     </tr>
     <tr>
       <td><strong>Sprint 1 Goal</strong></td>
@@ -3439,37 +3441,37 @@ El principal logro del Sprint 1 consistió en el despliegue de la versión inici
 	<br>
 	<b>Section Home</b>
 	<br>
-    <img src="Resources\Landing-page\landingpage-home.png" width="600px" alt="Imagen de la landing page Seccion Home">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources\Landing-page\landingpage-home.png?raw=true" width="600px" alt="Imagen de la landing page Seccion Home">
 </div><br><br>
 
 <div align="center">
 	<b>Section Proposal</b>
 	<br>
-    <img src="Resources\Landing-page\landingpage-proposal.png" width="600px" alt="Imagen de la landing page Seccion Proposal">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources\Landing-page\landingpage-proposal.png?raw=true" width="600px" alt="Imagen de la landing page Seccion Proposal">
 </div><br><br>
 
 <div align="center">
 	<b>Section Differences</b>
 	<br>
-    <img src="Resources\Landing-page\landingpage-differences.png" width="600px" alt="Imagen de la landing page Seccion Differences">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources\Landing-page\landingpage-differences.png?raw=true" width="600px" alt="Imagen de la landing page Seccion Differences">
 </div><br><br>
 
 <div align="center">
 	<b>Section Roles</b>
 	<br>
-    <img src="Resources\Landing-page\landingpage-roles.png" width="600px" alt="Imagen de la landing page Seccion Roles">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources\Landing-page\landingpage-roles.png?raw=true" width="600px" alt="Imagen de la landing page Seccion Roles">
 </div><br><br>
 
 <div align="center">
 	<b>Section Members</b>
 	<br>
-    <img src="Resources\Landing-page\landingpage-members.png" width="600px" alt="Imagen de la landing page Seccion Members">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources\Landing-page\landingpage-members.png?raw=true" width="600px" alt="Imagen de la landing page Seccion Members">
 </div><br><br>
 
 <div align="center">
 	<b>Section Plans</b>
 	<br>
-    <img src="Resources\Landing-page\landingpage-plans.png" width="600px" alt="Imagen de la landing page Seccion Plans">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources\Landing-page\landingpage-plans.png?raw=true" width="600px" alt="Imagen de la landing page Seccion Plans">
 </div><br><br>
 
 
@@ -3477,13 +3479,13 @@ El principal logro del Sprint 1 consistió en el despliegue de la versión inici
 <div align="center">
 	<b>Section Contact</b>
 	<br>
-    <img src="Resources\Landing-page\landingpage-contact.png" width="600px" alt="Imagen de la landing page Seccion Contact">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources\Landing-page\landingpage-contact.png?raw=true" width="600px" alt="Imagen de la landing page Seccion Contact">
 </div><br><br>
 
 <div align="center">
 	<b>Section Footer</b>
 	<br>
-    <img src="Resources\Landing-page\landingpage-footer.png" width="600px" alt="Imagen de la landing page Seccion Footer">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources\Landing-page\landingpage-footer.png?raw=true" width="600px" alt="Imagen de la landing page Seccion Footer">
 </div><br><br>
 
 Enlace: [Video del despliegue de la landing page en GitHub Pages](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410817_upc_edu_pe/IQAaVrLGm803Qb5tEaD5zDwtASW_V6QHpUGs_V0TKhayERg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=2utT6s)
@@ -3524,7 +3526,7 @@ Se estableció la organización **PircaIndustries** en GitHub para centralizar l
 * **Landing-Page-Kipu:** Contiene el código fuente estático (HTML, CSS, JS) de la página de aterrizaje.
 * **Acceptance-Test:** Repositorio dedicado exclusivamente a la documentación de pruebas utilizando sintaxis Gherkin.
 <div align="center">
-    <img src="Resources\Software-Deplotment-Evidence\SoftwareDeployment-repositories.png" width="600px" alt="Vista general de repositorios de la organización PircaIndustries">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources\Software-Deplotment-Evidence\SoftwareDeployment-repositories.png?raw=true" width="600px" alt="Vista general de repositorios de la organización PircaIndustries">
 	<br>
 	<p>Vista general de la organización PircaIndustries y sus repositorios activos.</p>
 </div>
@@ -3533,14 +3535,14 @@ Se estableció la organización **PircaIndustries** en GitHub para centralizar l
 <br>
 
 <div align="center">
-    <img src="Resources\Software-Deplotment-Evidence\SoftwareDeployment-repositories-landingpage.png" width="600px" alt="Vista principal del repositorio Landing-Page-Kipu">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources\Software-Deplotment-Evidence\SoftwareDeployment-repositories-landingpage.png?raw=true" width="600px" alt="Vista principal del repositorio Landing-Page-Kipu">
 	<br>
 	<p>Vista principal del repositorio de la Landing Page, mostrando el código fusionado en la rama principal tras las revisiones.</p>
 </div>
 <br>
 <br>
 <div align="center">
-    <img src="Resources/Software-Deplotment-Evidence/SoftwareDeployment-repositories-acceptancetest.png" width="600px" alt="Vista principal del repositorio Acceptance-Test">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Software-Deplotment-Evidence/SoftwareDeployment-repositories-acceptancetest.png?raw=true" width="600px" alt="Vista principal del repositorio Acceptance-Test">
 	<br>
 	<p>Vista principal del repositorio de Acceptance-Test, evidenciando el uso de archivos Gherkin.</p>
 </div>
@@ -3551,7 +3553,7 @@ Se estableció la organización **PircaIndustries** en GitHub para centralizar l
 #### 2. Configuración del Flujo de Trabajo (Git Flow)
 Para asegurar que solo el código funcional y aprobado llegue al entorno de producción, se implementó la estrategia de ramificación Git Flow en ambos repositorios. Se configuraron ramas `feature/*` para el desarrollo individual, las cuales se integran mediante Pull Requests hacia `develop`, para finalmente pasar a `main` cuando el incremento está listo para despliegue.
 <div align="center">
-    <img src="Resources\Software-Deplotment-Evidence\SoftwareDeployment-landingpage-branch.png" width="600px" alt="Ramas activas en el repositorio Landing-Page-Kipu">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources\Software-Deplotment-Evidence\SoftwareDeployment-landingpage-branch.png?raw=true" width="600px" alt="Ramas activas en el repositorio Landing-Page-Kipu">
 	<br>
 	<p>Ramas activas en el repositorio de la Landing Page, evidenciando el aislamiento de características antes de su integración.</p>
 </div>
@@ -3560,7 +3562,7 @@ Para asegurar que solo el código funcional y aprobado llegue al entorno de prod
 <br>
 
 <div align="center">
-    <img src="Resources\Software-Deplotment-Evidence\SoftwareDeployment-acceptancetest-branch.png" width="600px" alt="Ramas activas en el repositorio Acceptance-Test">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources\Software-Deplotment-Evidence\SoftwareDeployment-acceptancetest-branch.png?raw=true" width="600px" alt="Ramas activas en el repositorio Acceptance-Test">
 	<br>
 	<p>Gestión de ramas en el repositorio de pruebas de aceptación, manteniendo sincronía con el desarrollo del Sprint.</p>
 </div>
@@ -3574,7 +3576,7 @@ Para el despliegue continuo y gratuito de la Landing Page, se utilizó el servic
 * **Disponibilidad:** Tras la configuración, el entorno de producción quedó publicado y accesible de forma pública.
 **URL del entorno de producción (Landing Page):** [https://pircaindustries.github.io/Landing-Page-Kipu/](https://pircaindustries.github.io/Landing-Page-Kipu/)
 <div align="center">
-    <img src="Resources\Software-Deplotment-Evidence\SoftwareDeployment-landingpage-deployment.png" width="600px" alt="Configuración de despliegue en GitHub Pages">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources\Software-Deplotment-Evidence\SoftwareDeployment-landingpage-deployment.png?raw=true" width="600px" alt="Configuración de despliegue en GitHub Pages">
 	<br>
 	<p> Configuración exitosa de GitHub Pages, indicando que el sitio se encuentra "Live" </p>
 </div>
@@ -3587,9 +3589,9 @@ Para el despliegue continuo y gratuito de la Landing Page, se utilizó el servic
 A partir de la sección Insights de GitHub, se presentan las gráficas de colaboración del repositorio. Esta visualización refleja la contribución individual de cada miembro del equipo durante el Sprint 1.
 <br><br>
 
-<img src="Resources/Insights/Insight 1.jpeg">
-<img src="Resources/Insights/Insight 2.jpeg">
-<img src="Resources/Insights/Insight 3.jpeg">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Insights/Insight 1.jpeg?raw=true">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Insights/Insight 2.jpeg?raw=true">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Insights/Insight 3.jpeg?raw=true">
 
 ---
 # Conclusiones
@@ -3626,7 +3628,7 @@ Wiegers, K. E., y Beatty, J. (2013). *Software requirements* (3rd ed.). Microsof
 ## Prototype Evidence
 
   <div align="center">
-    <img src="/Resources/Prototype/Autenticación.jpeg" alt="Prototype video">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main//Resources/Prototype/Autenticación.jpeg?raw=true" alt="Prototype video">
  </div>
 
 
@@ -3636,7 +3638,7 @@ Enlace: [Prototype](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e418
 ## Needfinding Interviews
 
   <div align="center">
-    <img src="/Resources/Interviews/entrevista-Eliud-Lopez.png" alt="Needfinding Interviews">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main//Resources/Interviews/entrevista-Eliud-Lopez.png?raw=true" alt="Needfinding Interviews">
  </div>
 
 
@@ -3644,14 +3646,14 @@ Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u2022241
 
 ## Video-About-The-Product
   <div align="center">
-    <img src="/Resources/Video-About-The-Product/Video-About-The-Product-image.PNG" alt="Video about the product">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/25ba33cc85c64ef7d852b55f5558f0c28e4a4eae/Resources/Video-About-The-Product/Video-About-The-Product-image.PNG?raw=true" alt="Video about the product">
  </div>
 
  Enlace: [Video-About-The-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410817_upc_edu_pe/IQAaVrLGm803Qb5tEaD5zDwtASW_V6QHpUGs_V0TKhayERg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=2utT6s)
 
  ## Exposure Video AV1
   <div align="center">
-    <img src="Resources\Exposure\Exposure-AV1.png">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/25ba33cc85c64ef7d852b55f5558f0c28e4a4eae/Resources/Exposure/Exposure-AV1.png?raw=true">
  </div>
 
  Enlace: [Exposure Video AV1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224130_upc_edu_pe/IQCgxsCDO1NsT5v7JkBZJb1QAdbxazxXpjQHcc98P8a8sP0?e=YrATad&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
