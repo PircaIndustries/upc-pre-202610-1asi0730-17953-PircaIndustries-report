@@ -229,7 +229,7 @@ https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries
 
         + **Adrian Palacios**
             <div style="display: flex; align-items: center;">
-            <img src="/Resources/Collaboration-Insights/Insight-Marcelo-Commits.png" >
+            <img src="/Resources/Collaboration-Insights/Insight-Adrian-Commits.png" >
             </div><br>
 
         + **Neo Ramos**
