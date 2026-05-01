@@ -1663,59 +1663,73 @@ Dentro del Product Backlog, hemos consolidado una lista jerarquizada de nuestras
 | 4 | US-32 | Landing page - Misión y visión de PircaIndustries | Como visitante potencial, quiero conocer la misión y visión de PircaIndustries para evaluar la confianza y dirección de largo plazo del proyecto Kipu. | 1 |
 | 5 | US-33 | Landing page - Canales de contacto y formulario | Como visitante interesado, quiero disponer de canales de contacto y un formulario para comunicarme con el equipo de Kipu sin salir del sitio. | 2 |
 | 6 | US-34 | Landing page - Llamados a la acción de registro y demo | Como visitante que ya entendió la propuesta, quiero ver llamados a la acción visibles para registrarme o solicitar demo y avanzar al siguiente paso. | 2 |
-| 7 | TS04 | Create API Projects | Como usuario developer, quiero diseñar una API para la gestión de proyectos de obra, para centralizar la información técnica de las construcciones. | 3 |
-| 8 | TS05 | Post Project | Como usuario developer, quiero registrar nuevas obras en el API, para iniciar el seguimiento operativo del proyecto. | 2 |
-| 9 | TS06 | Get Project | Como usuario developer, quiero consultar la lista de obras, para mostrar los indicadores de avance en la aplicación. | 2 |
-| 10 | US-19 | Crear nuevo proyecto de obra | Como Gestor Operativo, quiero registrar una nueva obra en el sistema para iniciar su gestión operativa y trazabilidad. | 3 |
-| 11 | US-09 | Cambiar estado del proyecto | Como Gestor Operativo, quiero modificar el estado global de una obra (ej. En ejecución, Paralizada, Finalizada), para reflejar la situación operativa actual ante todos los usuarios. | 2 |
-| 12 | US-21 | Registrar partidas de obra | Como Gestor Operativo, quiero registrar el catálogo de partidas de la obra para definir con claridad el volumen de trabajo y el alcance constructivo a ejecutar. | 5 |
-| 13 | TS07 | Create API Advances | Como usuario developer, quiero diseñar una API para el registro de avances diarios, para medir la productividad real de la construcción. | 3 |
-| 14 | TS08 | Post Advance | Como usuario developer, quiero registrar el progreso diario en el API, para actualizar el porcentaje de avance físico frente al cronograma. | 2 |
-| 15 | TS09 | Get Advance | Como usuario developer, quiero consultar los avances registrados, para calcular el Porcentaje de Plan Completado (PPC). | 2 |
-| 16 | US-08 | Registrar avance diario de obra | Como Gestor Operativo, quiero registrar el estado de ejecución diario de una partida planificada para dejar constancia de si se avanzó conforme al cronograma o si hubo bloqueos. | 5 |
-| 17 | TS13 | Create API Materials | Como usuario developer, quiero diseñar una API para el control logístico, para administrar el stock de materiales de construcción. | 3 |
-| 18 | TS14 | Post Material | Como usuario developer, quiero registrar pedidos de materiales en el API, para que el área de compras procese los requerimientos. | 2 |
-| 19 | TS15 | Get Material | Como usuario developer, quiero consultar el stock disponible en tiempo real, para informar al personal sobre la existencia de materiales. | 2 |
-| 20 | US-04 | Alertar stock crítico automáticamente | Como Equipo de Logística, quiero recibir notificaciones cuando el inventario sea bajo para evitar paralizar la construcción. | 5 |
-| 21 | US-13 | Registrar merma de materiales | Como Equipo de Logística, quiero registrar la merma de materiales para ajustar el stock real y analizar la eficiencia de los recursos. | 3 |
-| 22 | US-17 | Controlar herramientas asignadas por operario | Como Equipo de Logística, quiero registrar las herramientas eléctricas asignadas a un obrero específico para que sea el responsable de su devolución en buen estado. | 3 |
-| 23 | US-03 | Solicitar materiales formalmente | Como Gestor Operativo, quiero enviar pedidos de insumos desde la app para evitar errores de comunicación por canales informales. | 3 |
-| 24 | US-05 | Validar presupuesto en solicitud de material | Como Equipo de Logística, quiero que el sistema bloquee pedidos que excedan el presupuesto meta para evitar pérdidas. | 5 |
-| 25 | US-34 | Registrar perfil de proveedor | Como Equipo de Logística, quiero registrar una nueva entidad proveedora en el sistema para formalizar la fuente de suministros y permitir la trazabilidad de las órdenes de compra. | 3 |
-| 26 | US-35 | Modificar perfil de proveedor | Como Equipo de Logística, quiero modificar los datos de contacto o el estado de un proveedor para asegurar que la comunicación y las compras se realicen con información vigente. | 2 |
-| 27 | TS01 | Create API User | Como usuario developer, quiero diseñar una API que facilite la gestión de usuarios, para administrar eficazmente la seguridad y acceso a la plataforma. | 3 |
-| 28 | TS02 | Post User | Como usuario developer, quiero registrar usuarios en el API, para que los profesionales puedan crear sus cuentas de obra. | 2 |
-| 29 | TS03 | Get User | Como usuario developer, quiero obtener la información de un usuario, para usarla en la aplicación cuando se necesite mostrar el perfil. | 2 |
-| 30 | US-01 | Registrar cuenta de usuario | Como Gestor Operativo, quiero crear una cuenta en la plataforma para habilitar mi identidad en el sistema. | 3 |
-| 31 | US-18 | Iniciar sesión con credenciales | Como Gestor Operativo, quiero iniciar sesión con mis credenciales para acceder a los módulos de mi obra asignada. | 2 |
-| 32 | US-11 | Asignar roles a usuarios | Como Gestor Operativo, quiero asignar o modificar los permisos de los trabajadores en la plataforma, para asegurar que cada empleado solo tenga acceso a los módulos correspondientes a su cargo. | 3 |
-| 33 | US-14 | Acceder como cliente en modo solo lectura | Como cliente de la obra, quiero tener acceso de solo lectura para monitorear el avance físico y financiero de mi inversión. | 3 |
-| 34 | US-07 | Atender solicitud de materiales | Como Equipo de Logística, quiero cambiar el estado de las solicitudes de materiales a "Aprobado" o "Rechazado", para mantener al equipo de obra informado sobre la disponibilidad de los insumos. | 3 |
-| 35 | TS16 | Create API Budget | Como usuario developer, quiero diseñar una API financiera, para controlar que los gastos no excedan el presupuesto meta. | 3 |
-| 36 | TS17 | Post Budget | Como usuario developer, quiero cargar el presupuesto inicial en el API, para establecer los topes económicos de la obra. | 2 |
-| 37 | TS18 | Get Budget | Como usuario developer, quiero obtener el estado del presupuesto, para visualizar desviaciones financieras en los paneles de control. | 2 |
-| 38 | US-20 | Cargar presupuesto base del proyecto | Como Equipo de Logística, quiero cargar el presupuesto inicial para tener un tope financiero al validar compras y requerimientos. | 3 |
-| 39 | US-15 | Alertar desviación presupuestal | Como Equipo de Logística, quiero recibir notificaciones si el gasto real supera el presupuesto meta para tomar medidas correctivas. | 5 |
-| 40 | TS22 | Create API Blueprints | Como usuario developer, quiero diseñar una API documental, para gestionar las versiones de los planos del proyecto. | 3 |
-| 41 | TS23 | Post Blueprint | Como usuario developer, quiero subir versiones de planos al API, para que el equipo en campo trabaje con el diseño más reciente. | 2 |
-| 42 | TS24 | Get Blueprint | Como usuario developer, quiero obtener la información de planos desde el API, para que puedan visualizarse en la aplicación incluso sin conexión. | 2 |
-| 43 | US-27 | Subir nueva versión de plano | Como Gestor Operativo, quiero cargar actualizaciones de los planos para que el equipo en campo trabaje con la información final. | 3 |
-| 44 | US-26 | Visualizar historial de versiones de plano | Como Gestor Operativo, quiero visualizar el registro de versiones de un plano para entender la evolución del diseño. | 2 |
-| 45 | US-28 | Descargar plano para uso sin conectividad | Como Gestor Operativo, quiero guardar planos en mi dispositivo para consultarlos en zonas sin conectividad (sótanos). | 3 |
-| 46 | US-35 | Registrar anotaciones gráficas en plano | Como Gestor Operativo, quiero realizar anotaciones gráficas sobre el plano para reportar errores de diseño detectados en campo. | 5 |
-| 47 | US-36 | Filtrar planos por especialidad técnica | Como Gestor Operativo, quiero segmentar la lista de archivos por rama técnica para localizar información crítica rápidamente. | 2 |
-| 48 | US-37 | Ordenar planos cronológicamente | Como Equipo de Logística, quiero organizar los documentos por fecha de carga para identificar los últimos requerimientos técnicos. | 1 |
-| 49 | TS10 | Create API RNC | Como usuario developer, quiero diseñar una API para incidencias no conformes, para gestionar los fallos de calidad detectados en campo. | 3 |
-| 50 | TS11 | Post RNC | Como usuario developer, quiero registrar fallas técnicas en el API, para alertar inmediatamente al equipo de diseño. | 2 |
-| 51 | TS12 | Get RNC | Como usuario developer, quiero obtener la lista de RNC, para permitir la revisión y subsanación de errores de obra. | 2 |
-| 52 | US-02 | Registrar Resultado No Conforme | Como Gestor Operativo, quiero registrar un RNC con evidencia fotográfica para que el equipo de diseño sea alertado y subsane el error de inmediato. | 5 |
-| 53 | US-10 | Visualizar dashboard de control del proyecto | Como Gestor Operativo, deseo acceder a un resumen consolidado de la obra para identificar desviaciones en el plan sin procesar datos de forma manual. | 8 |
-| 54 | TS25 | Create API Sign | Como usuario developer, quiero diseñar una API de firmas digitales, para validar legalmente el cierre de actas de conformidad. | 5 |
-| 55 | TS26 | Post Sign | Como usuario developer, quiero ejecutar el proceso de firma en el API, para sellar digitalmente los documentos de obra con un token. | 3 |
-| 56 | TS27 | Get Sign | Como usuario developer, quiero obtener el estado de las firmas de un acta, para verificar quién ha aprobado el cierre de la etapa técnica. | 2 |
-| 57 | US-06 | Firmar actas digitalmente con token | Como Gestor Operativo, quiero firmar actas de conformidad con un código de verificación para asegurar la validez legal del cierre de etapa. | 5 |
-| 58 | US-38 | Exportar dossier de calidad en PDF | Como Gestor Operativo, quiero exportar un archivo PDF que contenga todo el historial de firmas electrónicas y aprobaciones de una etapa constructiva, para facilitar la entrega del proyecto a la municipalidad o al cliente final. | 5 |
-| 59 | US-12 | Exportar base de datos del proyecto | Como Gestor Operativo, quiero exportar la información del proyecto en formatos abiertos (.csv, .json) para garantizar la soberanía de los datos. | 3 |
+| 7 | TS00 | Setup Mock API | Como usuario developer, quiero preparar un servidor Fake API con datos de prueba para permitir el desarrollo paralelo del frontend sin depender del backend real. | 3 |
+| 8 | TS06 | Setup Projects API Domain | Como usuario developer, quiero inicializar el dominio de proyectos de obra con su controlador, servicio y repositorio para centralizar la información técnica de las construcciones. | 3 |
+| 9 | TS07 | Endpoint POST Project | Como usuario developer, quiero implementar el endpoint de registro de obras mediante POST a /api/v1/projects para iniciar el seguimiento operativo del proyecto. | 2 |
+| 10 | TS08 | Endpoint GET Project | Como usuario developer, quiero implementar el endpoint de consulta de obras mediante GET a /api/v1/projects para mostrar los indicadores de avance en la aplicación. | 2 |
+| 11 | US-19 | Crear nuevo proyecto de obra | Como Gestor Operativo, quiero registrar una nueva obra en el sistema para iniciar su gestión operativa y trazabilidad. | 3 |
+| 12 | TS09 | Endpoint PATCH Project Status | Como usuario developer, quiero implementar el endpoint de modificación de estado de obra mediante PATCH a /api/v1/projects/{id}/status para reflejar la situación operativa actual. | 2 |
+| 13 | US-09 | Cambiar estado del proyecto | Como Gestor Operativo, quiero modificar el estado global de una obra (ej. En ejecución, Paralizada, Finalizada), para reflejar la situación operativa actual ante todos los usuarios. | 2 |
+| 14 | TS10 | Endpoint POST Project Items | Como usuario developer, quiero implementar el endpoint de registro de partidas mediante POST a /api/v1/projects/{id}/items para definir el catálogo de trabajo de una obra. | 3 |
+| 15 | US-20 | Registrar partidas de obra | Como Gestor Operativo, quiero registrar el catálogo de partidas de la obra para definir con claridad el volumen de trabajo y el alcance constructivo a ejecutar. | 5 |
+| 16 | TS11 | Setup Advances API Domain | Como usuario developer, quiero inicializar el dominio de avances con su controlador, servicio y repositorio para medir la productividad real de las obras. | 3 |
+| 17 | TS12 | Endpoint POST Advance | Como usuario developer, quiero implementar el endpoint de registro de progreso diario mediante POST a /api/v1/advances para actualizar el avance físico frente al cronograma. | 2 |
+| 18 | TS13 | Endpoint GET Advance | Como usuario developer, quiero implementar el endpoint de consulta de avances mediante GET a /api/v1/advances para calcular el Porcentaje de Plan Completado (PPC). | 2 |
+| 19 | US-08 | Registrar avance diario de obra | Como Gestor Operativo, quiero registrar el estado de ejecución diario de una partida planificada para dejar constancia de si se avanzó conforme al cronograma o si hubo bloqueos. | 5 |
+| 20 | TS14 | Setup Materials API Domain | Como usuario developer, quiero inicializar el dominio de materiales con su controlador, servicio y repositorio para administrar el stock de insumos de construcción. | 3 |
+| 21 | TS15 | Endpoint GET Material | Como usuario developer, quiero implementar el endpoint de consulta de stock mediante GET a /api/v1/materials para informar al personal sobre la existencia de materiales en tiempo real. | 2 |
+| 22 | TS16 | Endpoint POST Material Request | Como usuario developer, quiero implementar el endpoint de solicitud de materiales mediante POST a /api/v1/materials/requests para que el área logística procese los pedidos. | 2 |
+| 23 | US-04 | Alertar stock crítico automáticamente | Como Equipo de Logística, quiero recibir notificaciones cuando el inventario sea bajo para evitar paralizar la construcción. | 5 |
+| 24 | TS18 | Endpoint POST Material Waste | Como usuario developer, quiero implementar el endpoint de registro de mermas mediante POST a /api/v1/materials/waste para ajustar el inventario real. | 2 |
+| 25 | US-13 | Registrar merma de materiales | Como Equipo de Logística, quiero registrar la merma de materiales para ajustar el stock real y analizar la eficiencia de los recursos. | 3 |
+| 26 | TS19 | Endpoint POST Tools Assignment | Como usuario developer, quiero implementar el endpoint de asignación de herramientas mediante POST a /api/v1/materials/tools-assignments para vincular equipos a operarios registrados. | 2 |
+| 27 | US-16 | Controlar herramientas asignadas por operario | Como Equipo de Logística, quiero registrar las herramientas eléctricas asignadas a un obrero específico para que sea el responsable de su devolución en buen estado. | 3 |
+| 28 | US-03 | Solicitar materiales formalmente | Como Gestor Operativo, quiero enviar pedidos de insumos desde la app para evitar errores de comunicación por canales informales. | 3 |
+| 29 | TS17 | Endpoint PATCH Request Status | Como usuario developer, quiero implementar el endpoint de aprobación o rechazo de solicitudes de material mediante PATCH a /api/v1/materials/requests/{id}/status para mantener informado al equipo de obra. | 2 |
+| 30 | US-05 | Validar presupuesto en solicitud de material | Como Equipo de Logística, quiero que el sistema bloquee pedidos que excedan el presupuesto meta para evitar pérdidas. | 5 |
+| 31 | TS20 | Setup Suppliers API Domain | Como usuario developer, quiero inicializar el dominio de proveedores con su controlador, servicio y repositorio para formalizar la gestión de suministros. | 3 |
+| 32 | TS21 | Endpoint POST Supplier | Como usuario developer, quiero implementar el endpoint de registro de proveedores mediante POST a /api/v1/suppliers para formalizar las fuentes de suministro. | 2 |
+| 33 | US-34 | Registrar perfil de proveedor | Como Equipo de Logística, quiero registrar una nueva entidad proveedora en el sistema para formalizar la fuente de suministros y permitir la trazabilidad de las órdenes de compra. | 3 |
+| 34 | TS22 | Endpoint PUT Supplier | Como usuario developer, quiero implementar el endpoint de modificación de proveedores mediante PUT a /api/v1/suppliers/{id} para mantener la información de contacto vigente. | 2 |
+| 35 | US-35 | Modificar perfil de proveedor | Como Equipo de Logística, quiero modificar los datos de contacto o el estado de un proveedor para asegurar que la comunicación y las compras se realicen con información vigente. | 2 |
+| 36 | TS01 | Setup User API Domain | Como usuario developer, quiero inicializar el dominio de usuarios con su controlador, servicio y repositorio para establecer la base de la gestión de seguridad y acceso. | 3 |
+| 37 | TS02 | Endpoint POST Auth Login | Como usuario developer, quiero implementar el endpoint de autenticación mediante POST a /api/v1/auth/login para que los usuarios puedan iniciar sesión y recibir un token JWT. | 2 |
+| 38 | TS03 | Endpoint POST User | Como usuario developer, quiero implementar el endpoint de registro de usuarios mediante POST a /api/v1/users para que los profesionales puedan crear sus cuentas. | 2 |
+| 39 | TS04 | Endpoint GET User | Como usuario developer, quiero implementar el endpoint de consulta de perfil de usuario mediante GET a /api/v1/users/{id} para mostrar los datos del usuario en la aplicación. | 2 |
+| 40 | US-01 | Registrar cuenta de usuario | Como Gestor Operativo, quiero crear una cuenta en la plataforma para habilitar mi identidad en el sistema. | 3 |
+| 41 | US-17 | Iniciar sesión con credenciales | Como Gestor Operativo, quiero iniciar sesión con mis credenciales para acceder a los módulos de mi obra asignada. | 2 |
+| 42 | TS05 | Endpoint PUT User Roles | Como usuario developer, quiero implementar el endpoint de asignación de roles mediante PUT a /api/v1/users/{id}/roles para que el administrador pueda modificar permisos de los usuarios. | 2 |
+| 43 | US-11 | Asignar roles a usuarios | Como Gestor Operativo, quiero asignar o modificar los permisos de los trabajadores en la plataforma, para asegurar que cada empleado solo tenga acceso a los módulos correspondientes a su cargo. | 3 |
+| 44 | US-14 | Acceder como cliente en modo solo lectura | Como cliente de la obra, quiero tener acceso de solo lectura para monitorear el avance físico y financiero de mi inversión. | 3 |
+| 45 | US-07 | Atender solicitud de materiales | Como Equipo de Logística, quiero cambiar el estado de las solicitudes de materiales a "Aprobado" o "Rechazado", para mantener al equipo de obra informado sobre la disponibilidad de los insumos. | 3 |
+| 46 | TS23 | Setup Budget API Domain | Como usuario developer, quiero inicializar el dominio financiero con su controlador, servicio y repositorio para controlar que los gastos no excedan el presupuesto meta. | 3 |
+| 47 | TS24 | Endpoint POST Budget | Como usuario developer, quiero implementar el endpoint de carga de presupuesto inicial mediante POST a /api/v1/budgets para establecer los topes financieros de la obra. | 2 |
+| 48 | TS25 | Endpoint GET Budget | Como usuario developer, quiero implementar el endpoint de consulta de estado financiero mediante GET a /api/v1/budgets/{projectId} para visualizar desviaciones en los paneles de control. | 2 |
+| 49 | US-19 | Cargar presupuesto base del proyecto | Como Equipo de Logística, quiero cargar el presupuesto inicial para tener un tope financiero al validar compras y requerimientos. | 3 |
+| 50 | US-15 | Alertar desviación presupuestal | Como Equipo de Logística, quiero recibir notificaciones si el gasto real supera el presupuesto meta para tomar medidas correctivas. | 5 |
+| 51 | TS26 | Setup Blueprints API Domain | Como usuario developer, quiero inicializar el dominio documental de planos con su controlador, servicio y repositorio para gestionar versiones de documentos técnicos. | 3 |
+| 52 | TS27 | Endpoint POST Blueprint | Como usuario developer, quiero implementar el endpoint de subida de planos mediante POST a /api/v1/blueprints para que el equipo trabaje siempre con la versión vigente. | 2 |
+| 53 | TS28 | Endpoint GET Blueprint | Como usuario developer, quiero implementar el endpoint de listado de planos mediante GET a /api/v1/blueprints para permitir filtrado por especialidad técnica. | 2 |
+| 54 | US-22 | Subir nueva versión de plano | Como Gestor Operativo, quiero cargar actualizaciones de los planos para que el equipo en campo trabaje con la información final. | 3 |
+| 55 | TS29 | Endpoint GET Blueprint Versions | Como usuario developer, quiero implementar el endpoint de historial de versiones mediante GET a /api/v1/blueprints/{id}/versions para que el equipo pueda rastrear la evolución del diseño. | 2 |
+| 56 | US-21 | Visualizar historial de versiones de plano | Como Gestor Operativo, quiero visualizar el registro de versiones de un plano para entender la evolución del diseño. | 2 |
+| 57 | US-23 | Descargar plano para uso sin conectividad | Como Gestor Operativo, quiero guardar planos en mi dispositivo para consultarlos en zonas sin conectividad (sótanos). | 3 |
+| 58 | TS30 | Endpoint POST Blueprint Annotations | Como usuario developer, quiero implementar el endpoint de anotaciones en planos mediante POST a /api/v1/blueprints/{id}/annotations para registrar observaciones de campo sobre los documentos. | 2 |
+| 59 | US-30 | Registrar anotaciones gráficas en plano | Como Gestor Operativo, quiero realizar anotaciones gráficas sobre el plano para reportar errores de diseño detectados en campo. | 5 |
+| 60 | US-31 | Filtrar planos por especialidad técnica | Como Gestor Operativo, quiero segmentar la lista de archivos por rama técnica para localizar información crítica rápidamente. | 2 |
+| 61 | US-32 | Ordenar planos cronológicamente | Como Equipo de Logística, quiero organizar los documentos por fecha de carga para identificar los últimos requerimientos técnicos. | 1 |
+| 62 | TS31 | Setup RNC API Domain | Como usuario developer, quiero inicializar el dominio de incidencias de calidad con su controlador, servicio y repositorio para gestionar los Resultados No Conformes de obra. | 3 |
+| 63 | TS32 | Endpoint POST RNC | Como usuario developer, quiero implementar el endpoint de registro de fallas técnicas mediante POST a /api/v1/rnc para alertar al equipo de diseño con evidencia fotográfica. | 2 |
+| 64 | TS33 | Endpoint GET RNC | Como usuario developer, quiero implementar el endpoint de consulta de incidencias mediante GET a /api/v1/rnc para permitir la revisión y subsanación de errores de calidad. | 2 |
+| 65 | US-02 | Registrar Resultado No Conforme | Como Gestor Operativo, quiero registrar un RNC con evidencia fotográfica para que el equipo de diseño sea alertado y subsane el error de inmediato. | 5 |
+| 66 | US-10 | Visualizar dashboard de control del proyecto | Como Gestor Operativo, deseo acceder a un resumen consolidado de la obra para identificar desviaciones en el plan sin procesar datos de forma manual. | 8 |
+| 67 | TS34 | Setup Signatures API Domain | Como usuario developer, quiero inicializar el dominio de firmas digitales con su controlador, servicio y repositorio para validar legalmente el cierre de actas de conformidad. | 5 |
+| 68 | TS35 | Endpoint POST Signature | Como usuario developer, quiero implementar el endpoint de sellado digital de documentos mediante POST a /api/v1/signatures para formalizar el cierre de actas con respaldo legal. | 3 |
+| 69 | TS36 | Endpoint GET Signature | Como usuario developer, quiero implementar el endpoint de consulta de estado de firmas mediante GET a /api/v1/signatures/records/{recordId} para verificar quién ha aprobado el cierre de una etapa técnica. | 2 |
+| 70 | US-06 | Firmar actas digitalmente con token | Como Gestor Operativo, quiero firmar actas de conformidad con un código de verificación para asegurar la validez legal del cierre de etapa. | 5 |
+| 71 | TS37 | Endpoint GET Signature Export | Como usuario developer, quiero implementar el endpoint de exportación del dossier de firmas mediante GET a /api/v1/signatures/export/{projectId} para facilitar la entrega formal del proyecto. | 3 |
+| 72 | US-33 | Exportar dossier de calidad en PDF | Como Gestor Operativo, quiero exportar un archivo PDF que contenga todo el historial de firmas electrónicas y aprobaciones de una etapa constructiva, para facilitar la entrega del proyecto a la municipalidad o al cliente final. | 5 |
+| 73 | US-12 | Exportar base de datos del proyecto | Como Gestor Operativo, quiero exportar la información del proyecto en formatos abiertos (.csv, .json) para garantizar la soberanía de los datos. | 3 |
 
 A continuación se muestra una representación gráfica tanto de las user stories como de las technical stories en la plataforma Jira Software:
 
