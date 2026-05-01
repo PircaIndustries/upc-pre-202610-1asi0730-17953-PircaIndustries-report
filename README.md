@@ -3297,101 +3297,101 @@ Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/69e1a8ade7c896f
   </thead>
   <tbody>
     <tr>
-      <td><strong>US-50</strong></td>
-      <td>Presentación de Kipu y propuesta de valor</td>
-      <td>TK-01</td>
-      <td>Implementación Navbar</td>
-      <td>Implementación de la barra de navegación y menús</td>
+      <td><strong>US-24</strong></td>
+      <td>Landing page - Visualización de propuesta de valor</strong></td>
+      <td>TK-01</strong></td>
+      <td>Implementación Navbar</strong></td>
+      <td>Implementación de la barra de navegación y menús</strong></td>
       <td style="text-align: center;">10 min</td>
       <td>Paula Montoya</td>
       <td style="text-align: center;">Done</td>
     </tr>
     <tr>
-      <td><strong>US-50</strong></td>
-      <td>Presentación de Kipu y propuesta de valor</td>
-      <td>TK-02</td>
-      <td>Implementación Home</td>
-      <td>Implementación de la sección Home (Hero)</td>
+      <td><strong>US-24</strong></td>
+      <td>Landing page - Visualización de propuesta de valor</strong></td>
+      <td>TK-02</strong></td>
+      <td>Implementación Home</strong></td>
+      <td>Implementación de la sección Home (Hero)</strong></td>
       <td style="text-align: center;">1</td>
       <td>Neo Ramos</td>
       <td style="text-align: center;">Done</td>
     </tr>
     <tr>
-      <td><strong>US-50</strong></td>
-      <td>Presentación de Kipu y propuesta de valor</td>
-      <td>TK-03</td>
-      <td>Implementación Propuesta</td>
-      <td>Implementación de la sección de propuesta de valor</td>
+      <td><strong>US-24</strong></td>
+      <td>Landing page - Visualización de propuesta de valor</strong></td>
+      <td>TK-03</strong></td>
+      <td>Implementación Propuesta</strong></td>
+      <td>Implementación de la sección de propuesta de valor</strong></td>
       <td style="text-align: center;">1</td>
       <td>Diego Ramos</td>
       <td style="text-align: center;">Done</td>
     </tr>
     <tr>
-      <td><strong>US-50</strong></td>
-      <td>Presentación de Kipu y propuesta de valor</td>
-      <td>TK-04</td>
-      <td>Implementación Diferencias</td>
-      <td>Implementación de la sección de ventajas competitivas</td>
+      <td><strong>US-24</strong></td>
+      <td>Landing page - Visualización de propuesta de valor</strong></td>
+      <td>TK-04</strong></td>
+      <td>Implementación Diferencias</strong></td>
+      <td>Implementación de la sección de ventajas competitivas</strong></td>
       <td style="text-align: center;">1</td>
       <td>Paula Montoya</td>
       <td style="text-align: center;">Done</td>
     </tr>
     <tr>
-      <td><strong>US-49</strong></td>
-      <td>Visualización de funcionalidades principales</td>
-      <td>TK-05</td>
-      <td>Implementación Roles: Equipos de logística</td>
-      <td>Implementación de la sección de mención de roles: para equipos de logística</td>
+      <td><strong>US-25</strong></td>
+      <td>Landing page - Contenido para gestores operativos</strong></td>
+      <td>TK-05</strong></td>
+      <td>Implementación Roles: Gestores operativos</strong></td>
+      <td>Implementación de la sección de mención de roles: para gestores operativos</strong></td>
       <td style="text-align: center;">1</td>
       <td>Adrian Palacios</td>
       <td style="text-align: center;">Done</td>
     </tr>
      <tr>
-      <td><strong>US-48</strong></td>
-      <td>Visualización de funcionalidades principales</td>
-      <td>TK-06</td>
-      <td>Implementación Roles: Gestores operativos</td>
-      <td>Implementación de la sección de mención de roles: para gestores operativos</td>
+      <td><strong>US-26</strong></td>
+      <td>Landing page - Contenido para equipos de logística</strong></td>
+      <td>TK-06</strong></td>
+      <td>Implementación Roles: Equipos de logística</strong></td>
+      <td>Implementación de la sección de mención de roles: para equipos de logística</strong></td>
       <td style="text-align: center;">1</td>
       <td>Adrian Palacios</td>
       <td style="text-align: center;">Done</td>
     </tr>
     <tr>
-      <td><strong>US-52</strong></td>
-      <td>Presentación de misión y visión</td>
-      <td>TK-07</td>
-      <td>Implementación Planes</td>
-      <td>Implementación de la sección de planes estratégicos</td>
+      <td><strong>US-27</strong></td>
+      <td>Landing page - Misión y visión de PircaIndustries</strong></td>
+      <td>TK-07</strong></td>
+      <td>Implementación Planes</strong></td>
+      <td>Implementación de la sección de planes estratégicos</strong></td>
       <td style="text-align: center;">1</td>
       <td>Manuel Francia</td>
       <td style="text-align: center;">Done</td>
     </tr>
     <tr>
-      <td><strong>US-52</strong></td>
-      <td>Presentación de misión y visión</td>
-      <td>TK-08</td>
-      <td>Implementación Creadores</td>
-      <td>Implementación de la sección de creadores y visión</td>
+      <td><strong>US-27</strong></td>
+      <td>Landing page - Misión y visión de PircaIndustries</strong></td>
+      <td>TK-08</strong></td>
+      <td>Implementación Creadores</strong></td>
+      <td>Implementación de la sección de creadores y visión</strong></td>
       <td style="text-align: center;">1</td>
       <td>Adrian Palacios</td>
       <td style="text-align: center;">Done</td>
     </tr>
     <tr>
-      <td><strong>US-53</strong></td>
-      <td>Visualización de canales de contacto y formulario</td>
-      <td>TK-09</td>
-      <td>Implementación Formulario</td>
-      <td>Implementación de la sección de contacto (formulario)</td>
+      <td><strong>US-28</strong></td>
+      <td>Landing page - Canales de contacto y formulario</strong></td>
+      <td>TK-09</strong></td>
+      <td>Implementación Formulario</strong></td>
+      <td>Implementación de la sección de contacto (formulario)</strong></td>
       <td style="text-align: center;">1</td>
       <td>Diego Ramos</td>
       <td style="text-align: center;">Done</td>
     </tr>
     <tr>
-      <td><strong>US-54</strong></td>
-      <td>Solicitud de registro y/o demo</td>
-      <td>TK-10</td>
-      <td>Implementación Footer</td>
-      <td>Implementación de la sección de pie de página (footer)</td>
+      <td><strong>US-29</strong></td>
+      <td>Landing page - Llamados a la acción de registro y demo</strong></td>
+      <td>TK-10</strong></td>
+      <td>Implementación Footer</strong></td>
+      <td>Implementación de la sección de pie de página (footer)</strong></td>
       <td style="text-align: center;">10 min</td>
       <td>Neo Ramos</td>
       <td style="text-align: center;">Done</td>
