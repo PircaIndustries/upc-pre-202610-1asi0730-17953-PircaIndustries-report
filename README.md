@@ -1595,6 +1595,8 @@ En esta sección se define el glosario de términos y conceptos fundamentales de
 | **US-34** | Registrar perfil de proveedor | Como Equipo de Logística, quiero registrar una nueva entidad proveedora en el sistema para formalizar la fuente de suministros y permitir la trazabilidad de las órdenes de compra. | **Escenario 1:** <br>Dado que el Equipo de Logística cuenta con los datos del proveedor (RUC, Estado, Razón social, contacto principal, teléfono, correo, categoría y condición de pago), <br>Cuando rellena el formulario con los campos solicitados, <br>Entonces el sistema registra el proveedor y actualiza la vista general de proveedores actuales. <br><br>**Escenario 2:** <br>Dado que el Equipo de Logística intenta registrar un proveedor, <br>Cuando ingresa un RUC que ya existe, <br>Entonces el sistema bloquea la acción. | **EP03** |
 | **US-35** | Modificar perfil de proveedor | Como Equipo de Logística, quiero modificar los datos de contacto o el estado de un proveedor para asegurar que la comunicación y las compras se realicen con información vigente. | **Escenario 1:** <br>Dado que el Equipo de Logística visualiza el perfil de un proveedor existente, <br>Cuando actualiza el teléfono o correo de atención, <br>Entonces el sistema guarda los cambios y emite una confirmación de actualización exitosa. | **EP03** |
 
+<br>
+
 
 | Technical Story ID | Título | Descripción | Criterios de Aceptación | Épica |
 | :--- | :--- | :--- | :--- | :--- |
