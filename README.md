@@ -1745,6 +1745,7 @@ Dentro del Product Backlog, hemos consolidado una lista jerarquizada de nuestras
 | 78 | TS44 | Endpoint GET Signature Export | Como usuario developer, quiero implementar el endpoint de exportación del dossier de firmas mediante GET a /api/v1/signatures/export/{projectId} para facilitar la entrega formal del proyecto. | 3 |
 | 79 | US-33 | Exportar dossier de calidad en PDF | Como Gestor Operativo, quiero exportar un archivo PDF que contenga todo el historial de firmas electrónicas y aprobaciones de una etapa constructiva, para facilitar la entrega del proyecto a la municipalidad o al cliente final. | 5 |
 | 80 | US-12 | Exportar base de datos del proyecto | Como Gestor Operativo, quiero exportar la información del proyecto en formatos abiertos (.csv, .json) para garantizar la soberanía de los datos. | 3 |
+
 A continuación se muestra una representación gráfica tanto de las user stories como de las technical stories en la plataforma Jira Software:
 
 <div align="center">
