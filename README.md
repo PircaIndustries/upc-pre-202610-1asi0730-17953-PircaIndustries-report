@@ -3297,7 +3297,7 @@ Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/69e1a8ade7c896f
 
 
 <div align="center">
-  <img src="ttps://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Sprint-Backlog/trello-sprint-backlog-1.png?raw=true" alt="sprint 1">
+  <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Sprint-Backlog/trello-sprint-backlog-1.png" alt="sprint 1">
 </div><br><br>
 
 <table>
@@ -3611,7 +3611,7 @@ Enlace: [Sprint Backlog 2 en Jira](https://pircaindustries.atlassian.net/jira/so
 
 
 <div align="center">
-  <img src="ttps://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Sprint-Backlog/jira-sprint-backlog-2.png?raw=true" alt="sprint">
+  <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Sprint-Backlog/jira-sprint-backlog-2.png" alt="sprint">
 </div><br><br>
 
 <table>
