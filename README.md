@@ -3295,6 +3295,11 @@ Para este primer sprint, nuestro enfoque prioritario es el despliegue de los mó
 
 Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/69e1a8ade7c896f39a65000b/ATTI3f0a19c500027a1781547989057c9d4cC31C6F4E/kipu)<br><br>
 
+
+<div align="center">
+  <img src="ttps://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Sprint-Backlog/trello-sprint-backlog-1.png?raw=true" alt="sprint 1">
+</div><br><br>
+
 <table>
   <thead>
     <tr style="background-color">
@@ -3596,6 +3601,282 @@ A partir de la sección Insights de GitHub, se presentan las gráficas de colabo
 <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Insights/Insight 1.jpeg?raw=true">
 <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Insights/Insight 2.jpeg?raw=true">
 <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Insights/Insight 3.jpeg?raw=true">
+
+### 5.2.2. Sprint 2
+
+#### 5.2.2.2 Sprint Backlog 2
+La prioridad estratégica de este segundo sprint consiste en el lanzamiento de la versión inicial de la plataforma web de Kipu. Para garantizar su operatividad, nos enfocaremos en el desarrollo y consumo de fake APIs simuladas, integrando únicamente las funcionalidades críticas que aseguren un despliegue exitoso y funcional en esta etapa.
+
+Enlace: [Sprint Backlog 2 en Jira](https://pircaindustries.atlassian.net/jira/software/projects/AW/boards/34?atlOrigin=eyJpIjoiOTE4YjA0ZTk1NTQxNDc1NmIwYWJjMmJkYjQ3MWRjOGYiLCJwIjoiaiJ9)<br><br>
+
+
+<div align="center">
+  <img src="ttps://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Sprint-Backlog/jira-sprint-backlog-2.png?raw=true" alt="sprint">
+</div><br><br>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item / Task</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Description</td>
+    <td>Estim<br>ation (Story Points)</td>
+    <td>Assigned to</td>
+    <td>Status (To-do / InProcess / ToReview / Done)</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US-01</td>
+    <td rowspan="1">Registrar cuenta de usuario</td>
+    <td>AW-251</td>
+    <td>Registrar cuenta de usuario</td>
+    <td>Como Gestor Operativo, quiero crear una cuenta en la plataforma para habilitar mi identidad en el sistema.</td>
+    <td>3</td>
+    <td>Diego Antonio Ramos Hinostroza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US-11</td>
+    <td rowspan="1">Asignar roles a usuarios</td>
+    <td>AW-261</td>
+    <td>Asignar roles a usuarios</td>
+    <td>Como Gestor Operativo, quiero asignar o modificar los permisos de los trabajadores en la plataforma, para asegurar que cada empleado solo tenga acceso a los módulos correspondientes a su cargo.</td>
+    <td>3</td>
+    <td>Neo Daniel ramos</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US-17</td>
+    <td rowspan="1">Iniciar sesión con credenciales</td>
+    <td>AW-267</td>
+    <td>Iniciar sesión con credenciales</td>
+    <td>Como Gestor Operativo, quiero iniciar sesión con mis credenciales para acceder a los módulos de mi obra asignada.</td>
+    <td>2</td>
+    <td>Diego Antonio Ramos Hinostroza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US-02</td>
+    <td rowspan="1">Registrar Resultado No Conforme</td>
+    <td>AW-252</td>
+    <td>Registrar Resultado No Conforme</td>
+    <td>Como Gestor Operativo, quiero registrar un RNC con evidencia fotográfica para que el equipo de diseño sea alertado y subsane el error de inmediato.</td>
+    <td>5</td>
+    <td>Adrian Palacios</td>
+    <td>In Progress</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US-06</td>
+    <td rowspan="1">Firmar actas digitalmente con token</td>
+    <td>AW-256</td>
+    <td>Firmar actas digitalmente con token</td>
+    <td>Como Gestor Operativo, quiero firmar actas de conformidad con un código de verificación para asegurar la validez legal del cierre de etapa.</td>
+    <td>5</td>
+    <td>Neo Daniel ramos</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US-08</td>
+    <td rowspan="1">Registrar avance diario de obra</td>
+    <td>AW-258</td>
+    <td>Registrar avance diario de obra</td>
+    <td>Como Gestor Operativo, quiero registrar el estado de ejecución diario de una partida planificada para dejar constancia de si se avanzó conforme al cronograma o si hubo bloqueos.</td>
+    <td>5</td>
+    <td>Manuel Francia Torres</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US-09</td>
+    <td rowspan="1">Cambiar estado del proyecto</td>
+    <td>AW-259</td>
+    <td>Cambiar estado del proyecto</td>
+    <td>Como Gestor Operativo, quiero modificar el estado global de una obra (ej. En ejecución, Paralizada, Finalizada), para reflejar la situación operativa actual ante todos los usuarios.</td>
+    <td>2</td>
+    <td>Diego Antonio Ramos Hinostroza</td>
+    <td>In Progress</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US-14</td>
+    <td rowspan="1">Acceder como cliente en modo solo lectura</td>
+    <td>AW-264</td>
+    <td>Acceder como cliente en modo solo lectura</td>
+    <td>Como cliente de la obra, quiero tener acceso de solo lectura para monitorear el avance físico y financiero de mi inversión.</td>
+    <td>3</td>
+    <td>Neo Daniel ramos</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US-18</td>
+    <td rowspan="1">Crear nuevo proyecto de obra</td>
+    <td>AW-268</td>
+    <td>Crear nuevo proyecto de obra</td>
+    <td>Como Gestor Operativo, quiero registrar una nueva obra en el sistema para iniciar su gestión operativa y trazabilidad.</td>
+    <td>3</td>
+    <td>Diego Antonio Ramos Hinostroza</td>
+    <td>In Progress</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US-20</td>
+    <td rowspan="1">Registrar partidas de obra</td>
+    <td>AW-270</td>
+    <td>Registrar partidas de obra</td>
+    <td>Como Gestor Operativo, quiero registrar el catálogo de partidas de la obra para definir con claridad el volumen de trabajo y el alcance constructivo a ejecutar.</td>
+    <td>5</td>
+    <td>Manuel Francia Torres</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US-03</td>
+    <td rowspan="1">Solicitar materiales formalmente</td>
+    <td>AW-253</td>
+    <td>Solicitar materiales formalmente</td>
+    <td>Como Gestor Operativo, quiero enviar pedidos de insumos desde la app para evitar errores de comunicación por canales informales.</td>
+    <td>3</td>
+    <td>Paula Montoya</td>
+    <td>In Progress</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US-04</td>
+    <td rowspan="1">Alertar stock crítico automáticamente</td>
+    <td>AW-254</td>
+    <td>Alertar stock crítico automáticamente</td>
+    <td>Como Equipo de Logística, quiero recibir notificaciones cuando el inventario sea bajo para evitar paralizar la construcción.</td>
+    <td>5</td>
+    <td>Paula Montoya</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US-05</td>
+    <td rowspan="1">Validar presupuesto en solicitud de material</td>
+    <td>AW-255</td>
+    <td>Validar presupuesto en solicitud de material</td>
+    <td>Como Equipo de Logística, quiero que el sistema bloquee pedidos que excedan el presupuesto meta para evitar pérdidas.</td>
+    <td>5</td>
+    <td>Adrian Palacios</td>
+    <td>In Progress</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US-07</td>
+    <td rowspan="1">Atender solicitud de materiales</td>
+    <td>AW-257</td>
+    <td>Atender solicitud de materiales</td>
+    <td>Como Equipo de Logística, quiero cambiar el estado de las solicitudes de materiales a 'Aprobado' o 'Rechazado', para mantener al equipo de obra informado sobre la disponibilidad de los insumos.</td>
+    <td>3</td>
+    <td>Paula Montoya</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US-13</td>
+    <td rowspan="1">Registrar merma de materiales</td>
+    <td>AW-263</td>
+    <td>Registrar merma de materiales</td>
+    <td>Como Equipo de Logística, quiero registrar la merma de materiales para ajustar el stock real y analizar la eficiencia de los recursos.</td>
+    <td>3</td>
+    <td>Paula Montoya</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US-16</td>
+    <td rowspan="1">Controlar herramientas asignadas por operario</td>
+    <td>AW-266</td>
+    <td>Controlar herramientas asignadas por operario</td>
+    <td>Como Equipo de Logística, quiero registrar las herramientas eléctricas asignadas a un obrero específico para que sea el responsable de su devolución en buen estado.</td>
+    <td>3</td>
+    <td>Neo Daniel ramos</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US-19</td>
+    <td rowspan="1">Cargar presupuesto base del proyecto</td>
+    <td>AW-269</td>
+    <td>Cargar presupuesto base del proyecto</td>
+    <td>Como Equipo de Logística, quiero cargar el presupuesto inicial para tener un tope financiero al validar compras y requerimientos.</td>
+    <td>3</td>
+    <td>Adrian Palacios</td>
+    <td>In Progress</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US-34</td>
+    <td rowspan="1">Registrar perfil de proveedor</td>
+    <td>AW-284</td>
+    <td>Registrar perfil de proveedor</td>
+    <td>Como Equipo de Logística, quiero registrar una nueva entidad proveedora en el sistema para formalizar la fuente de suministros y permitir la trazabilidad de las órdenes de compra.</td>
+    <td>3</td>
+    <td>Paula Montoya</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US-35</td>
+    <td rowspan="1">Modificar perfil de proveedor</td>
+    <td>AW-285</td>
+    <td>Modificar perfil de proveedor</td>
+    <td>Como Equipo de Logística, quiero modificar los datos de contacto o el estado de un proveedor para asegurar que la comunicación y las compras se realicen con información vigente.</td>
+    <td>2</td>
+    <td>Paula Montoya</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td rowspan="5">TS00</td>
+    <td rowspan="5">Setup Mock API</td>
+    <td>AW-331</td>
+    <td>Instalación y configuración base de JSON Server</td>
+    <td>Instalación y configuración del servidor Fake API.</td>
+    <td>—</td>
+    <td>Neo Daniel ramos</td>
+    <td>REVIEW</td>
+  </tr>
+  <tr>
+    <td>AW-332</td>
+    <td>Población de datos JSON - Proyectos y Autenticación</td>
+    <td>Creación de datos de prueba para módulos de proyectos y autenticación.</td>
+    <td>—</td>
+    <td>Diego Antonio Ramos Hinostroza</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>AW-333</td>
+    <td>Población de datos JSON - Firmas, Equipo y Maquinaria</td>
+    <td>Creación de datos de prueba para módulos de firmas, equipo y maquinaria.</td>
+    <td>—</td>
+    <td>Neo Daniel ramos</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>AW-334</td>
+    <td>Población de datos JSON - Partidas y Avances</td>
+    <td>Creación de datos de prueba para módulos de partidas y avances.</td>
+    <td>—</td>
+    <td>Manuel Francia Torres</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>AW-335</td>
+    <td>Población de datos JSON - RNC y Presupuesto</td>
+    <td>Creación de datos de prueba para módulos de RNC y presupuesto.</td>
+    <td>—</td>
+    <td>Adrian Palacios</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td rowspan="1">—</td>
+    <td rowspan="1">Task</td>
+    <td>AW-336</td>
+    <td>Crear maquetación de panel de navegación izquierdo (Menú)</td>
+    <td>Maquetación del panel de navegación lateral izquierdo de la aplicación.</td>
+    <td>—</td>
+    <td>Manuel Francia Torres</td>
+    <td>Done</td>
+  </tr>
+</tbody>
+</table>
+
 
 ---
 # Conclusiones
