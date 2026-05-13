@@ -613,7 +613,7 @@ Esta sección detalla los segmentos de mercado clave asociados al dominio de nue
 
 Para comprender el universo de posibles clientes y usuarios, definimos nuestro mercado de la siguiente manera:
 
-![Funnel de Mercado de Kipu en el Perú (2026)](https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/target-segment.png?raw=true)
+![Funnel de Mercado de Kipu en el Perú (2026)](https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Target%20segments/target-segment.png)
 
 *   **TAM (Total Addressable Market - Mercado Total Direccionable):** ~69,370 empresas. Corresponde al universo de micro, pequeñas y medianas empresas (PYMEs) constructoras formales en el Perú (que representan el 99.1% de las más de 70,000 empresas totales del sector según SUNAT/INEI).
 *   **SAM (Serviceable Addressable Market - Mercado Direccionable Útil):** ~17,340 empresas. Representa el 25% del TAM, enfocándose en PYMEs constructoras formales localizadas en zonas urbanas del país que ejecutan proyectos de edificación privada y residencial, donde los controles de calidad son más críticos para la rentabilidad.
