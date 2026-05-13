@@ -3619,7 +3619,7 @@ A partir de la sección Insights de GitHub, se presentan las gráficas de colabo
 
 ### 5.2.2. Sprint 2
 
-#### 5.2.2.2 Sprint Backlog 2
+#### 5.2.2.3 Sprint Backlog 2
 La prioridad estratégica de este segundo sprint consiste en el lanzamiento de la versión inicial de la plataforma web de Kipu. Para garantizar su operatividad, nos enfocaremos en el desarrollo y consumo de fake APIs simuladas, integrando únicamente las funcionalidades críticas que aseguren un despliegue exitoso y funcional en esta etapa.
 
 Enlace: [Sprint Backlog 2 en Jira](https://pircaindustries.atlassian.net/jira/software/projects/AW/boards/34?atlOrigin=eyJpIjoiOTE4YjA0ZTk1NTQxNDc1NmIwYWJjMmJkYjQ3MWRjOGYiLCJwIjoiaiJ9)<br><br>
