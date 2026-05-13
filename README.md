@@ -3619,7 +3619,22 @@ A partir de la sección Insights de GitHub, se presentan las gráficas de colabo
 
 ### 5.2.2. Sprint 2
 
-#### 5.2.2.2 Sprint Backlog 2
+#### 5.2.2.1. Sprint Planning 2
+
+| Sprint # | Sprint 2 |
+|----------|----------|
+| **Date** | 2026-05-13 |
+| **Time** | 12:00 AM |
+| **Location** | Reunión virtual mediante Discord |
+| **Prepared By** | Montoya Nina, Paula Fernanda / Ramos Mera, Neo Daniel |
+| **Attendees** | Francia Torres, Jhony Manuel / Montoya Nina, Paula Fernanda / Palacios Tinoco, Adrian Fernando / Ramos Hinostroza, Diego Antonio / Ramos Mera, Neo Daniel |
+| **Sprint 1 Review Summary** | Presentación exitosa de la Landing Page inicial. Se logró comunicar la propuesta de valor de Kipu para la optimización de procesos de construcción, obteniendo los primeros registros de prospectos y validando el interés temprano del sector. |
+| **Sprint 1 Retrospective Summary** | Para garantizar un flujo de trabajo continuo y evitar bloqueos, el equipo acordó estructurar una fake API utilizando json-server. Esto nos permitirá desarrollar y probar las interfaces del frontend de manera totalmente paralela al backend. |
+| **Sprint 2 Goal** | Our focus is on launching the initial functional version of the Kipu web platform powered by mock APIs. We believe it delivers an interactive and reliable early experience of core project management, logistics, and monitoring workflows. This will be confirmed when users can successfully navigate the frontend, register accounts, manage materials, and visualize key metrics seamlessly without backend dependencies. |
+| **Sprint 2 Velocity** | 26 Story Points |
+| **Sum of Story Points** | 69 Story Points |
+
+#### 5.2.2.3 Sprint Backlog 2
 La prioridad estratégica de este segundo sprint consiste en el lanzamiento de la versión inicial de la plataforma web de Kipu. Para garantizar su operatividad, nos enfocaremos en el desarrollo y consumo de fake APIs simuladas, integrando únicamente las funcionalidades críticas que aseguren un despliegue exitoso y funcional en esta etapa.
 
 Enlace: [Sprint Backlog 2 en Jira](https://pircaindustries.atlassian.net/jira/software/projects/AW/boards/34?atlOrigin=eyJpIjoiOTE4YjA0ZTk1NTQxNDc1NmIwYWJjMmJkYjQ3MWRjOGYiLCJwIjoiaiJ9)<br><br>
