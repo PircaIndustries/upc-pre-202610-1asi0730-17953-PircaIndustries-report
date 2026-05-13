@@ -3634,6 +3634,20 @@ A partir de la sección Insights de GitHub, se presentan las gráficas de colabo
 | **Sprint 2 Velocity** | 26 Story Points |
 | **Sum of Story Points** | 69 Story Points |
 
+#### 5.2.2.2 Aspect Leaders and Collaborators.
+
+Durante este Sprint, el equipo ha organizado el trabajo en base a las Epics definidas en el Product Backlog. La asignación de líderes y colaboradores se ha realizado considerando la responsabilidad real de cada miembro en los distintos aspectos del proyecto, según se documenta en la planificación interna del equipo.
+
+| Team Member (Last Name, First Name) | GitHub Username | EP01 (Cuentas y Acceso) | EP02 (Calidad y KPIs) | EP03 (Suministros y Presupuesto) | EP04 (Landing Page) | EP05 (Documentación Técnica) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Francia Torres, Jhony Manuel | ManuelFT4 | C | L | C | C | L |
+| Montoya Nina, Paula Fernanda | SeviNyO | C | C | L | C | C |
+| Palacios Tinoco, Adrian Fernando | AdrianP3107 | C | L | L | C | L |
+| Ramos Hinostroza, Diego Antonio | Kosevy | L | L | C | C | C |
+| Ramos Mera, Neo Daniel | norahccccc | L | C | C | C | C |
+
+**Leyenda:** L = Líder, C = Colaborador
+
 #### 5.2.2.3 Sprint Backlog 2
 La prioridad estratégica de este segundo sprint consiste en el lanzamiento de la versión inicial de la plataforma web de Kipu. Para garantizar su operatividad, nos enfocaremos en el desarrollo y consumo de fake APIs simuladas, integrando únicamente las funcionalidades críticas que aseguren un despliegue exitoso y funcional en esta etapa.
 
