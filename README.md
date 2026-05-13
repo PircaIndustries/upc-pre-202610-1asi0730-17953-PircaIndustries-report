@@ -4408,7 +4408,7 @@ Durante este ciclo de desarrollo, el equipo logró la implementación exitosa de
 <img src="Resources/Sprint-2/Dashboard.PNG" alt="Dashboard de Proyectos" width="600"/>
 
 #### 2.2 Registro de Avance Diario
-<img src="Resources/Sprint-2/Registro-de-Avances.PNG" alt="Registro de Avances" width="600"/>
+<img src="Resources/Sprint-2/Registro-de-avances.PNG" alt="Registro de Avances" width="600"/>
 
 #### 2.3 Módulo de NCR (Reportes de No Conformidad)
 <img src="Resources/Sprint-2/RNC.PNG" alt="Registro de NCR" width="600"/>
@@ -4420,7 +4420,7 @@ Durante este ciclo de desarrollo, el equipo logró la implementación exitosa de
 <img src="Resources/Sprint-2/firmas.PNG" alt="Módulo de Firmas" width="600"/>
 
 #### 2.6 Módulo de Presupuesto
-<img src="Resources/Sprint-2/presupuestos.PNG" alt="Módulo de Presupuesto" width="600"/>
+<img src="Resources/Sprint-2/Presupuestos.PNG" alt="Módulo de Presupuesto" width="600"/>
 
 #### 2.7 Módulo de equipo
 <img src="Resources/Sprint-2/equipo.PNG" alt="Módulo de Equipo" width="600"/>
