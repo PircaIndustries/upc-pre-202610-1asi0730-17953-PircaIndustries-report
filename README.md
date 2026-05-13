@@ -365,58 +365,17 @@ https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries
 
 # Student Outcome
 
-El curso contribuye al cumplimiento del Student Outcome ABET:<br><br>
-**ABET – EAC - Student Outcome 5**
-Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo establecen objetivos, planifican tareas y cumplen objetivos.<br><br>
-En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.<br><br>
-<table>
-<thead>
-<tr>
-<th colspan="3"><b>Criterio específico</b></th>
-<th colspan="3"><b>Acciones realizadas</b></th>
-<th colspan="3"><b>Conclusiones</b></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td colspan="3">Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
-<td colspan="3" align="justify">
-<h3>Francia Torres Jhony Manuel</h3>
- <b>AV1</b><p>Lideró la definición del perfil de la solución y estructuró los modelos de la base de datos y el diseño orientado a objetos.</p>
-<h3>Montoya Nina Paula Fernanda</h3>
- <b>AV1</b><p>Asumió el rol de Team Leader, dirigiendo la planificación del primer sprint, la estructuración del Product Backlog y definiendo la arquitectura impulsada por el dominio.</p>
-<h3>Palacios Tinoco Adrian Fernando</h3>
- <b>AV1</b><p>Tomó la iniciativa en el análisis de competidores, el desarrollo del Big Picture EventStorming y la definición de la arquitectura de la información.</p>
-<h3>Ramos Hinostroza Diego Antonio</h3>
- <b>AV1</b><p>Lideró la gestión de la configuración del software, la identificación de los segmentos objetivos y la recolección de requisitos mediante entrevistas.</p>
-<h3>Ramos Mera Neo Daniel</h3>
- <b>AV1</b><p>Dirigió el proceso de Lean UX, la elaboración del Impact Mapping y la organización de líderes y colaboradores para las distintas tareas.</p>
-</td>
-<td colspan="3">
-<b>AV1</b><p>El equipo demostró un liderazgo distribuido. Cada integrante asumió el control de áreas específicas basándose en sus fortalezas analíticas y técnicas, lo que permitió estructurar el proyecto desde la concepción del modelo de negocio hasta la arquitectura del software de manera metódica y equilibrada.</p>
-</td>
-</tr>
-<tr>
-<td colspan="3">Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. </td>
-<td colspan="3" align="justify">
-<h3>Francia Torres Jhony Manuel</h3>
- <b>AV1</b><p>Colaboró en la redacción de User Stories, el diseño UX/UI y cumplió a tiempo con la implementación de la Landing Page y la preparación del Keynote.</p>
-<h3>Montoya Nina Paula Fernanda</h3>
- <b>AV1</b><p>Estableció las metas iniciales mediante el Sprint Planning y Backlog, colaborando en el diseño de interfaces y el desarrollo de la Landing Page.</p>
-<h3>Palacios Tinoco Adrian Fernando</h3>
- <b>AV1</b><p>Participó en la creación conjunta de User Stories, apoyó en el diseño visual (UX/UI) y completó sus asignaciones de desarrollo de la aplicación web de manera puntual.</p>
-<h3>Ramos Hinostroza Diego Antonio</h3>
- <b>AV1</b><p>Aportó en la elaboración del Ubiquitous Language y User Stories, y consolidó las evidencias de ejecución, despliegue y colaboración del equipo durante el sprint.</p>
-<h3>Ramos Mera Neo Daniel</h3>
- <b>AV1</b><p>Contribuyó al diseño de interfaces y a la redacción de User Stories, cumpliendo exitosamente con los objetivos de implementación web trazados para la primera entrega.</p>
-</td>
-<td colspan="3">
-<b>AV1</b><p>Se consolidó un entorno de trabajo colaborativo mediante la participación conjunta en actividades transversales, como el diseño de interfaces (UX/UI) y el desarrollo de la Landing Page. La asignación clara de responsabilidades y la planificación estructurada del flujo de trabajo garantizaron que todos los miembros cumplieran a tiempo con el 100% de sus objetivos operativos para la entrega AV1.</p>
-</td>
-</tr>
-</tbody>
-</table>
+El curso contribuye al cumplimiento del Student Outcome ABET:
 
+**ABET – EAC - Student Outcome 5**
+Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo establecen objetivos, planifican tareas y cumplen objetivos.
+
+En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
+
+| Criterio específico | Acciones realizadas | Conclusiones |
+| :--- | :--- | :--- |
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta.** | **Francia Torres Jhony Manuel**<br>**AV1:** Lideró la definición del perfil de la solución y estructuró los modelos de la base de datos y el diseño orientado a objetos.<br>**TB1:** Lideró la migración y estructuración de los modelos de datos para los nuevos dominios de inventario y materiales, asegurando la integridad de la base de datos. Asimismo realizó los endpoints de registro diario y la navegación <br><br>**Montoya Nina Paula Fernanda**<br>**AV1:** Asumió el rol de Team Leader, dirigiendo la planificación del primer sprint, la estructuración del Product Backlog y definiendo la arquitectura impulsada por el dominio.<br>**TB1:** Dirigió la gestión de configuración del software, supervisando la resolución de conflictos críticos en el `package-lock.json` y el flujo de ramas en Git para el proyecto Kipu. Ademas aportó en el endpoint de materiales<br><br>**Palacios Tinoco Adrian Fernando**<br>**AV1:** Tomó la iniciativa en el análisis de competidores, el desarrollo del Big Picture EventStorming y la definición de la arquitectura de la información.<br>**TB1:** Aportó en los endopoints de budget y ncr, asimismo, en la integración con el db.json .<br><br>**Ramos Hinostroza Diego Antonio**<br>**AV1:** Lideró la gestión de la configuración del software, la identificación de los segmentos objetivos y la recolección de requisitos mediante entrevistas.<br>**TB1:** Coordinó la alineación de las mejoras continuas del proyecto, garantizando que la lógica de negocio se refleje correctamente en el frontend. Realizó tambien los endpoints de login y dashboard <br><br>**Ramos Mera Neo Daniel**<br>**AV1:** Dirigió el proceso de Lean UX, la elaboración del Impact Mapping y la organización de líderes y colaboradores para las distintas tareas.<br>**TB1:** Lideró la validación de interfaces bajo heurísticas de Nielsen, asegurando la consistencia visual en los módulos de Kipu. Aportó en la inicialización del json server y los endpoints de Equipo y firmas| **AV1:** El equipo demostró un liderazgo distribuido. Cada integrante asumió el control de áreas específicas basándose en sus fortalezas analíticas y técnicas, lo que permitió estructurar el proyecto desde la concepción del modelo de negocio hasta la arquitectura del software de manera metódica y equilibrada.<br><br>**TB1:** El equipo demostró un liderazgo técnico distribuido. La capacidad de cada integrante para dirigir áreas específicas, desde la gestión de Git hasta la arquitectura de dominios, permitió mantener la estabilidad del proyecto durante la fase de integración más compleja de la TB1. |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.** | **Francia Torres Jhony Manuel**<br>**AV1:** Colaboró en la redacción de User Stories, el diseño UX/UI y cumplió a tiempo con la implementación de la Landing Page y la preparación del Keynote.<br>**TB1:** Colaboró en la corrección de errores de importación en Vite y cumplió con la implementación de las vistas de catálogo para el dominio de materiales.<br><br>**Montoya Nina Paula Fernanda**<br>**AV1:** Estableció las metas iniciales mediante el Sprint Planning y Backlog, colaborando en el diseño de interfaces y el desarrollo de la Landing Page.<br>**TB1:** Estableció las metas del sprint mediante el Backlog y facilitó la resolución de errores de entorno para todo el equipo de desarrollo.<br><br>**Palacios Tinoco Adrian Fernando**<br>**AV1:** Participó en la creación conjunta de User Stories, apoyó en el diseño visual (UX/UI) y completó sus asignaciones de desarrollo de la aplicación web de manera puntual.<br>**TB1:** Participó en la redacción, vinculando los commits de avance a la tabla de evidencias del proyecto.<br><br>**Ramos Hinostroza Diego Antonio**<br>**AV1:** Aportó en la elaboración del Ubiquitous Language y User Stories, y consolidó las evidencias de ejecución, despliegue y colaboración del equipo durante el sprint.<br>**TB1:** Apoyó en la depuración de dependencias cruzadas y en la consolidación del Ubiquitous Language para los nuevos dominios de construcción.<br><br>**Ramos Mera Neo Daniel**<br>**AV1:** Contribuyó al diseño de interfaces y a la redacción de User Stories, cumpliendo exitosamente con los objetivos de implementación web trazados para la primera entrega.<br>**TB1:** Contribuyó al diseño de interfaces y cumpliendo con el 100% de los objetivos de implementación web trazados para las funcionalidades de NCR y Proyectos. | **AV1:** Se consolidó un entorno de trabajo colaborativo mediante la participación conjunta en actividades transversales, como el diseño de interfaces (UX/UI) y el desarrollo de la Landing Page. La asignación clara de responsabilidades y la planificación estructurada del flujo de trabajo garantizaron que todos los miembros cumplieran a tiempo con el 100% de sus objetivos operativos para la entrega AV1.<br><br>**TB1:** Se consolidó un entorno de trabajo inclusivo donde la resolución conjunta de problemas técnicos (como errores de compilación y rutas de archivo) fue clave. La planificación estructurada aseguró que todos los miembros cumplieran con sus metas operativas, logrando una entrega funcional y documentada. |
 
 ---
 
@@ -4474,6 +4433,9 @@ A continuación, se presenta la documentación de los servicios implementados du
 | `/team-users` | **GET** | `/team-users` | Usuarios con roles administrativos en la plataforma. | `http://localhost:3000/team-users` |
 | `/team-workers` | **GET** | `/team-workers` | Registro de operarios y personal de campo en obra. | `http://localhost:3000/team-workers` |
 | `/documents` | **GET** | `/documents` | Repositorio de planos, certificados y actas de obra. | `http://localhost:3000/documents` |
+
+#### 5.2.2.8.Team Collaboration Insights for Sprint Review
+
 
 
 ---
