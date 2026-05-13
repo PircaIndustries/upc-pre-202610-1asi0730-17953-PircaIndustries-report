@@ -4384,6 +4384,56 @@ Esta sección presenta los avances en la implementación técnica de la solució
 
 #### 5.2.2.5.Execution Evidence for Sprint Review.
 
+Esta sección presenta las evidencias de ejecución técnica alcanzadas durante el presente Sprint para la solución **Kipu** bajo el ecosistema de **PircaIndustries**. A continuación, se detalla el resumen de los logros, las interfaces principales implementadas y el material audiovisual de respaldo.
+
+---
+
+#### 1. Resumen de Logros del Sprint
+
+Durante este ciclo de desarrollo, el equipo logró la implementación exitosa de los módulos estratégicos para la gestión de proyectos y el control de obra, cumpliendo con los objetivos de funcionalidad y diseño propuestos. Los hitos principales incluyen:
+
+*   **Gestión de Proyectos Core:** Se finalizó el dashboard de proyectos, permitiendo la creación, edición y visualización de estados y progreso en tiempo real mediante estadísticas dinámicas.
+*   **Control de Ejecución (Execution):** Se implementó el registro de avance diario, el cual incluye formularios de reporte y una galería de registro fotográfico para evidencias físicas de la obra.
+*   **Contextos de Negocio Integrados:** Se completaron las vistas y la lógica para los contextos delimitados de **Inventario (Inventory)**, **Proveedores (Suppliers)** y **Presupuesto (Budget)**, asegurando la trazabilidad de recursos y costos bajo principios de *Domain-Driven Design* (DDD).
+*   **Seguridad y UX:** Se unificó la interfaz de autenticación bajo el dominio de *Identity* y se desplegó el sistema de navegación global con soporte para múltiples idiomas (i18n), optimizando la accesibilidad.
+*   **Infraestructura de Datos:** Se estableció la conexión completa entre el frontend y los servicios de datos a través de servidores JSON y configuraciones de entorno para asegurar la escalabilidad de la plataforma.
+
+---
+
+#### 2. Vistas Implementadas (Screenshots)
+
+*A continuación, se presentan las capturas de pantalla que validan la interfaz de usuario y la jerarquía de información lograda en las principales vistas del sistema:*
+
+#### 2.1 Dashboard de Proyectos
+<img src="Resources/Sprint-2/Dashboard.PNG" alt="Dashboard de Proyectos" width="600"/>
+
+#### 2.2 Registro de Avance Diario
+<img src="Resources/Sprint-2/Registro de Avances.PNG" alt="Registro de Avances" width="600"/>
+
+#### 2.3 Módulo de NCR (Reportes de No Conformidad)
+<img src="Resources/Sprint-2/RNC.PNG" alt="Registro de NCR" width="600"/>
+
+#### 2.4 Gestión de Materiales
+<img src="Resources/Sprint-2/materiales.PNG" alt="Gestión de Materiales" width="600"/>
+
+#### 2.5 Módulo de Firmas
+<img src="Resources/Sprint-2/firmas.PNG" alt="Módulo de Firmas" width="600"/>
+
+#### 2.6 Módulo de Presupuesto
+<img src="Resources/Sprint-2/presupuestos.PNG" alt="Módulo de Presupuesto" width="600"/>
+
+#### 2.7 Módulo de equipo
+<img src="Resources/Sprint-2/equipo.PNG" alt="Módulo de Equipo" width="600"/>
+---
+
+### 3. Demostración Audiovisual
+
+Para una comprensión detallada de la navegación y el flujo de trabajo implementado, se ha preparado un video demostrativo que recorre las funcionalidades clave desde la perspectiva del usuario:
+
+> 🔗 **Enlace al Video:** [Inserta aquí el link al video de YouTube/Loom/Drive]
+>
+> **Descripción:** El video ilustra la navegación fluida entre módulos, la gestión de los contextos delimitados y la respuesta del sistema ante la interacción del usuario en tiempo real, validando la arquitectura de información definida.
+
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
 
