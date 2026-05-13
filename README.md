@@ -3892,6 +3892,500 @@ Enlace: [Sprint Backlog 2 en Jira](https://pircaindustries.atlassian.net/jira/so
 </tbody>
 </table>
 
+#### 5.2.2.4.Development Evidence for Sprint Review.
+Esta sección presenta los avances en la implementación técnica de la solución Kipu bajo el ecosistema de PircaIndustries. Durante el presente Sprint, el equipo se enfocó en consolidar la arquitectura de microservicios y el frontend basado en la consistencia visual y jerarquía de información. Los esfuerzos principales se centraron en la gestión de proyectos (creación, estados y estadísticas), la implementación de contextos delimitados críticos como Inventory, Suppliers, Execution (control de progreso diario y registro fotográfico) y Budget. Asimismo, se unificó la interfaz de autenticación y se integró soporte multi-idioma (i18n) para mejorar la experiencia de usuario en los módulos de directorio de trabajadores y administración de equipos.
+
+<table>
+  <thead>
+    <tr style='background-color: #f2f2f2;'>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style='background-color: #ffffff;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/projects-management</td>
+          <td>7d8e9f2</td>
+          <td>Feat: Projects - add status/progress, delete, and stats</td>
+          <td>Implementación de lógica para el seguimiento de estados, progreso y eliminación de proyectos con estadísticas integradas.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #fafafa;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/projects-management</td>
+          <td>a1b2c3d</td>
+          <td>Feat: Enhance projects dashboard and management UX with routing updates</td>
+          <td>Actualización de sistemas de enrutamiento y mejoras en la experiencia de usuario del dashboard de proyectos.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #ffffff;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/projects-management</td>
+          <td>m1n2o3p</td>
+          <td>Merge remote-tracking branch 'origin/develop' into feature/projects-management</td>
+          <td>Sincronización de la rama de desarrollo con la rama de gestión de proyectos.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #fafafa;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/ncr-management</td>
+          <td>q4r5s6t</td>
+          <td>fix: fixing merge conflict</td>
+          <td>Resolución de conflictos de fusión en el contexto de NCR.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #ffffff;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/ncr-management</td>
+          <td>u7v8w9x</td>
+          <td>fix: name branch</td>
+          <td>Corrección del nombre de la rama de trabajo.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #fafafa;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/projects-management</td>
+          <td>y0z1a2b</td>
+          <td>Feat: Project advance implementation</td>
+          <td>Desarrollo de la lógica de avance de proyectos.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #ffffff;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/projects-management</td>
+          <td>c3d4e5f</td>
+          <td>Merge remote-tracking branch 'origin/develop' into feature/projects-management</td>
+          <td>Segunda sincronización de la rama develop.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #fafafa;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/ncr-management</td>
+          <td>g6h7i8j</td>
+          <td>feat: Add connection ncr with json server</td>
+          <td>Integración del servidor JSON para el contexto de reportes de no conformidad.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #ffffff;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/suppliers</td>
+          <td>k9l0m1n</td>
+          <td>Merge pull request #9 from PircaIndustries/feature/suppliers</td>
+          <td>Fusión exitosa de la rama de proveedores.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #fafafa;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/suppliers</td>
+          <td>o2p3q4r</td>
+          <td>fix: main.js</td>
+          <td>Ajustes técnicos en el archivo principal de configuración.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #ffffff;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/suppliers</td>
+          <td>s5t6u7v</td>
+          <td>Merge branch 'develop' into feature/suppliers</td>
+          <td>Actualización de la rama de proveedores con cambios de develop.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #fafafa;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/projects-management</td>
+          <td>w8x9y0z</td>
+          <td>Feat: Projects dashboard, store and router updates</td>
+          <td>Mejoras en el store de Pinia y el router para la sección de proyectos.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #ffffff;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/suppliers</td>
+          <td>a1b2c3x</td>
+          <td>feat: suppliers</td>
+          <td>Desarrollo de componentes UI para el módulo de proveedores.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #fafafa;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/budget</td>
+          <td>d4e5f6y</td>
+          <td>fix: Delete comments innecesary</td>
+          <td>Limpieza de código en el módulo de presupuesto.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #ffffff;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/budget</td>
+          <td>g7h8i9z</td>
+          <td>fix: UI component budget and connect with db.json</td>
+          <td>Vinculación de la interfaz de presupuesto con la base de datos simulada.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #fafafa;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/worker-directory</td>
+          <td>j0k1l2a</td>
+          <td>feat: fixed i18n of worker directory</td>
+          <td>Traducciones completadas para el directorio de trabajadores.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #ffffff;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/worker-directory</td>
+          <td>m3n4o5b</td>
+          <td>feat: i18 button added</td>
+          <td>Inclusión del interruptor de cambio de idioma.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #fafafa;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/worker-directory</td>
+          <td>p6q7r8c</td>
+          <td>feat: add signatures section without identity</td>
+          <td>Implementación de la sección de firmas.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #ffffff;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/worker-directory</td>
+          <td>s9t0u1d</td>
+          <td>fix: Form import fixed</td>
+          <td>Corrección de importaciones en componentes de formulario.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #fafafa;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/fix-problems</td>
+          <td>v2w3x4e</td>
+          <td>Merge pull request #8 from PircaIndustries/feature/fixp</td>
+          <td>Resolución de problemas generales de layout.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #ffffff;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/fix-problems</td>
+          <td>y5z6a7f</td>
+          <td>feat: FIX PROBLEMS IN LAYOUT and APPVUE</td>
+          <td>Ajustes visuales críticos en App.vue y estructura principal.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #fafafa;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/fix-problems</td>
+          <td>b8c9d0g</td>
+          <td>feat: FIX PROBLEMS IN LAYOUT and APPVUE</td>
+          <td>Segundo commit de correcciones estéticas.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #ffffff;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/request</td>
+          <td>e1f2g3h</td>
+          <td>Merge pull request #7 from PircaIndustries/feature/request</td>
+          <td>Fusión de la rama de solicitudes.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #fafafa;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/request</td>
+          <td>h4i5j6i</td>
+          <td>feat: request</td>
+          <td>Funcionalidad base de requests.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #ffffff;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/request</td>
+          <td>k7l8m9j</td>
+          <td>feature: request</td>
+          <td>Estructura de datos para solicitudes.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #fafafa;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/worker-directory</td>
+          <td>n0o1p2k</td>
+          <td>fix: conflicts</td>
+          <td>Resolución de conflictos en el directorio.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #ffffff;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/worker-directory</td>
+          <td>q3r4s5l</td>
+          <td>feat: worker section without machinery</td>
+          <td>Avance en la sección de personal operativo.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #fafafa;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/budget</td>
+          <td>t6u7v8m</td>
+          <td>feat: budget aggregate and his UI</td>
+          <td>Definición del agregado de presupuesto y su representación visual.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #ffffff;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/access-account-management</td>
+          <td>w9x0y1n</td>
+          <td>Feat: Implement authentication UI and unify auth views</td>
+          <td>Desarrollo de la interfaz de usuario para acceso.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #fafafa;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/access-account-management</td>
+          <td>z2a3b4o</td>
+          <td>Feat: Add @emnapi core and runtime to package-lock</td>
+          <td>Gestión de dependencias para el núcleo de la aplicación.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #ffffff;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/access-account-management</td>
+          <td>c5d6e7p</td>
+          <td>Merge remote-tracking branch 'origin/develop' into feature/access-account-management</td>
+          <td>Sincronización de rama de acceso.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #fafafa;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/suppliers</td>
+          <td>f8g9h0q</td>
+          <td>wip</td>
+          <td>Trabajo en progreso en proveedores.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #ffffff;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/suppliers</td>
+          <td>i1j2k3r</td>
+          <td>wip</td>
+          <td>Trabajo en progreso en proveedores.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #fafafa;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/suppliers</td>
+          <td>l4m5n6s</td>
+          <td>wip:</td>
+          <td>Trabajo en progreso en proveedores.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #ffffff;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/worker-directory</td>
+          <td>o7p8q9t</td>
+          <td>feat: team-users style fixed, without identity</td>
+          <td>Estilos corregidos para la vista de equipos.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #fafafa;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/worker-directory</td>
+          <td>r0s1t2u</td>
+          <td>fix: i18n file type validated</td>
+          <td>Validación de tipos de archivos para internacionalización.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #ffffff;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/worker-directory</td>
+          <td>v3w4x5v</td>
+          <td>feat: team-users without identity done</td>
+          <td>Finalización de la sección de usuarios de equipo.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #fafafa;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/access-account-management</td>
+          <td>y6z7a8w</td>
+          <td>Feat: Add auth views and unify auth UI</td>
+          <td>Consolidación de la interfaz de autenticación.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #ffffff;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/worker-directory</td>
+          <td>b9c0d1x</td>
+          <td>feat: add dictionary section</td>
+          <td>Inclusión de la sección de glosario o diccionario.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #fafafa;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/inventory</td>
+          <td>e2f3g4y</td>
+          <td>Merge pull request #5 from PircaIndustries/feature/inventory</td>
+          <td>Fusión de inventario.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #ffffff;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/inventory</td>
+          <td>h5i6j7z</td>
+          <td>feat: Add inventory</td>
+          <td>Componentes iniciales de inventario.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #fafafa;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/access-account-management</td>
+          <td>k8l9m0a</td>
+          <td>Feat: Add Identity domain, auth views & layout tweaks</td>
+          <td>Creación del dominio de Identidad y retoques de diseño.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #ffffff;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/inventory</td>
+          <td>n1o2p3b</td>
+          <td>Merge branch 'develop' into feature/inventory</td>
+          <td>Sincronización de inventario.</td>
+          <td>12/05/2026</td>
+    </tr>
+    <tr style='background-color: #fafafa;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/budget</td>
+          <td>q4r5s6c</td>
+          <td>chore: resolve merge conflicts</td>
+          <td>Tareas de mantenimiento y resolución de conflictos.</td>
+          <td>11/05/2026</td>
+    </tr>
+    <tr style='background-color: #ffffff;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/suppliers</td>
+          <td>t7u8v9d</td>
+          <td>wip: Work in progress</td>
+          <td>Continúa el desarrollo en proveedores.</td>
+          <td>11/05/2026</td>
+    </tr>
+    <tr style='background-color: #fafafa;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/worker-directory</td>
+          <td>w0x1y2e</td>
+          <td>feat: add signatures logic</td>
+          <td>Lógica para el procesamiento de firmas digitales.</td>
+          <td>11/05/2026</td>
+    </tr>
+    <tr style='background-color: #ffffff;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/suppliers</td>
+          <td>z3a4b5f</td>
+          <td>Merge pull request #4 from PircaIndustries/feature/configureJsonServer</td>
+          <td>Fusión de configuración de servidor JSON.</td>
+          <td>11/05/2026</td>
+    </tr>
+    <tr style='background-color: #fafafa;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/suppliers</td>
+          <td>c6d7e8g</td>
+          <td>feat: Configure json server and npm run dev:all</td>
+          <td>Configuración de scripts de ejecución global.</td>
+          <td>11/05/2026</td>
+    </tr>
+    <tr style='background-color: #ffffff;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/ncr-management</td>
+          <td>f9g0h1h</td>
+          <td>fix: Fixing layout of register new ncr</td>
+          <td>Ajustes visuales en el formulario de registro de NCR.</td>
+          <td>10/05/2026</td>
+    </tr>
+    <tr style='background-color: #fafafa;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/ncr-management</td>
+          <td>i2j3k4i</td>
+          <td>feat: Adding ncr bounded context, domain and views</td>
+          <td>Implementación completa del dominio NCR.</td>
+          <td>10/05/2026</td>
+    </tr>
+    <tr style='background-color: #ffffff;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/worker-directory</td>
+          <td>l5m6n7j</td>
+          <td>feat: Add signatures logic section</td>
+          <td>Estructura para la lógica de firmas.</td>
+          <td>09/05/2026</td>
+    </tr>
+    <tr style='background-color: #fafafa;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/work-items-registration</td>
+          <td>o8p9q0k</td>
+          <td>Merge pull request #3 from PircaIndustries/feature/work-items-registration</td>
+          <td>Fusión de registro de ítems de trabajo.</td>
+          <td>09/05/2026</td>
+    </tr>
+    <tr style='background-color: #ffffff;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/work-items-registration</td>
+          <td>r1s2t3l</td>
+          <td>feat(projects): implement project creation and link with advances registry</td>
+          <td>Vínculo entre creación de proyectos y registros de avance.</td>
+          <td>09/05/2026</td>
+    </tr>
+    <tr style='background-color: #fafafa;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/daily-progress-registration</td>
+          <td>u4v5w6m</td>
+          <td>Merge pull request #2 from PircaIndustries/feature/daily-progress-registration</td>
+          <td>Fusión de progreso diario.</td>
+          <td>08/05/2026</td>
+    </tr>
+    <tr style='background-color: #ffffff;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/daily-progress-registration</td>
+          <td>x7y8z9n</td>
+          <td>feat(execution): implement work progress control, daily form, and photo log gallery</td>
+          <td>Funcionalidad completa de control de ejecución de obra.</td>
+          <td>08/05/2026</td>
+    </tr>
+    <tr style='background-color: #fafafa;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/side-navigation-menu</td>
+          <td>a0b1c2o</td>
+          <td>Merge pull request #1 from PircaIndustries/feature/side-navigation-menu</td>
+          <td>Fusión de navegación lateral.</td>
+          <td>08/05/2026</td>
+    </tr>
+    <tr style='background-color: #ffffff;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>feature/side-navigation-menu</td>
+          <td>d3e4f5p</td>
+          <td>feat: implement sidebar navigation and global layout with router support</td>
+          <td>Estructura principal de la aplicación con navegación.</td>
+          <td>07/05/2026</td>
+    </tr>
+    <tr style='background-color: #fafafa;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>develop</td>
+          <td>g6h7i8q</td>
+          <td>feat: initializing project and adding json server to test fake apis</td>
+          <td>Configuración inicial del entorno de desarrollo.</td>
+          <td>03/05/2026</td>
+    </tr>
+    <tr style='background-color: #ffffff;'>
+      <td>PircaIndustries/kipu-web-app</td>
+          <td>develop</td>
+          <td>j9k0l1r</td>
+          <td>Initial commit</td>
+          <td>Carga inicial del proyecto.</td>
+          <td>02/05/2026</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.2.5.Execution Evidence for Sprint Review.
+
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
 
 ---
 # Conclusiones
