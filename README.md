@@ -4408,7 +4408,7 @@ Durante este ciclo de desarrollo, el equipo logró la implementación exitosa de
 <img src="Resources/Sprint-2/Dashboard.PNG" alt="Dashboard de Proyectos" width="600"/>
 
 #### 2.2 Registro de Avance Diario
-<img src="Resources/Sprint-2/Registro de Avances.PNG" alt="Registro de Avances" width="600"/>
+<img src="Resources/Sprint-2/Registro-de-Avances.PNG" alt="Registro de Avances" width="600"/>
 
 #### 2.3 Módulo de NCR (Reportes de No Conformidad)
 <img src="Resources/Sprint-2/RNC.PNG" alt="Registro de NCR" width="600"/>
@@ -4437,6 +4437,8 @@ Para una comprensión detallada de la navegación y el flujo de trabajo implemen
 > **Descripción:** El video ilustra la navegación fluida entre módulos, la gestión de los contextos delimitados y la respuesta del sistema ante la interacción del usuario en tiempo real, validando la arquitectura de información definida.
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+
 
 
 ---
