@@ -3619,7 +3619,7 @@ A partir de la sección Insights de GitHub, se presentan las gráficas de colabo
 
 ### 5.2.2. Sprint 2
 
-#### 5.2.2.3 Sprint Backlog 2
+#### 5.2.2.2 Sprint Backlog 2
 La prioridad estratégica de este segundo sprint consiste en el lanzamiento de la versión inicial de la plataforma web de Kipu. Para garantizar su operatividad, nos enfocaremos en el desarrollo y consumo de fake APIs simuladas, integrando únicamente las funcionalidades críticas que aseguren un despliegue exitoso y funcional en esta etapa.
 
 Enlace: [Sprint Backlog 2 en Jira](https://pircaindustries.atlassian.net/jira/software/projects/AW/boards/34?atlOrigin=eyJpIjoiOTE4YjA0ZTk1NTQxNDc1NmIwYWJjMmJkYjQ3MWRjOGYiLCJwIjoiaiJ9)<br><br>
@@ -4424,13 +4424,15 @@ Durante este ciclo de desarrollo, el equipo logró la implementación exitosa de
 
 #### 2.7 Módulo de equipo
 <img src="Resources/Sprint-2/equipo.PNG" alt="Módulo de Equipo" width="600"/>
+
+
 ---
 
 ### 3. Demostración Audiovisual
 
 Para una comprensión detallada de la navegación y el flujo de trabajo implementado, se ha preparado un video demostrativo que recorre las funcionalidades clave desde la perspectiva del usuario:
 
-> 🔗 **Enlace al Video:** [Inserta aquí el link al video de YouTube/Loom/Drive]
+>**Enlace al Video:** [Inserta aquí el link al video de YouTube/Loom/Drive]
 >
 > **Descripción:** El video ilustra la navegación fluida entre módulos, la gestión de los contextos delimitados y la respuesta del sistema ante la interacción del usuario en tiempo real, validando la arquitectura de información definida.
 
