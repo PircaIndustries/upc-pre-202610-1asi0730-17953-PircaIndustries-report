@@ -4512,7 +4512,7 @@ Durante este ciclo de desarrollo, el equipo logró la implementación exitosa de
 
 Para una comprensión detallada de la navegación y el flujo de trabajo implementado, se ha preparado un video demostrativo que recorre las funcionalidades clave desde la perspectiva del usuario:
 
->**Enlace al Video:** [Inserta aquí el link al video de YouTube/Loom/Drive]
+>**Enlace al Video:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e418_upc_edu_pe/IQDusJs-eJcxTbuMRmstPEimAQqKIYTGWkf4GIN8ub9d5M0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=aoqaMa">Demostración audiovisual</a>
 >
 > **Descripción:** El video ilustra la navegación fluida entre módulos, la gestión de los contextos delimitados y la respuesta del sistema ante la interacción del usuario en tiempo real, validando la arquitectura de información definida.
 
