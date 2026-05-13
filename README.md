@@ -4495,7 +4495,11 @@ A continuación, se presenta la documentación de los servicios implementados du
 
 #### 5.2.2.8.Team Collaboration Insights for Sprint Review
 
+<img src="Resources/Sprint-2/insight-sprint2.PNG" alt="Team Collaboration Insights" width="800"/>
 
+<img src="Resources/Sprint-2/insight2-sprint2.PNG" alt="Team Collaboration Insights 2" width="800"/>
+
+<img src="Resources/Sprint-2/insight3-sprint2.PNG" alt="Team Collaboration Insights 3" width="800"/>
 
 ---
 # Conclusiones
