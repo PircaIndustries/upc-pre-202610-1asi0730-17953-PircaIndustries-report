@@ -4438,7 +4438,27 @@ Para una comprensión detallada de la navegación y el flujo de trabajo implemen
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
+A continuación, se presenta la documentación de los servicios implementados durante el Sprint, detallando los endpoints disponibles, los verbos HTTP utilizados, la sintaxis de las solicitudes, la explicación de las respuestas y los enlaces a la documentación local para cada servicio.
 
+| Endpoint | Verbo HTTP | Sintaxis / Parámetros | Explicación del Response | Enlace Doc (Local) |
+| :--- | :--- | :--- | :--- | :--- |
+| `/categoriesCatalog` | **GET** | `/categoriesCatalog` | Catálogo maestro de categorías para clasificación de recursos. | `http://localhost:3000/categoriesCatalog` |
+| `/materialsCatalog` | **GET** | `/materialsCatalog` | Listado referencial de materiales de construcción disponibles. | `http://localhost:3000/materialsCatalog` |
+| `/materialsInventory` | **GET** | `/materialsInventory` | Stock actual y ubicación física de materiales en obra. | `http://localhost:3000/materialsInventory` |
+| `/supplierOffers` | **GET** | `/supplierOffers` | Comparativa de ofertas económicas de proveedores externos. | `http://localhost:3000/supplierOffers` |
+| `/materialsSuppliers` | **GET** | `/materialsSuppliers` | Directorio de proveedores de materiales homologados. | `http://localhost:3000/materialsSuppliers` |
+| `/materialsRequests` | **GET** | `/materialsRequests` | Solicitudes de pedido de materiales internas por proyecto. | `http://localhost:3000/materialsRequests` |
+| `/materialsWaste` | **GET** | `/materialsWaste` | Registro de desperdicios y mermas para control de costos. | `http://localhost:3000/materialsWaste` |
+| `/machineryCatalog` | **GET** | `/machineryCatalog` | Inventario de maquinaria pesada y herramientas disponibles. | `http://localhost:3000/machineryCatalog` |
+| `/machineryAssignments` | **GET** | `/machineryAssignments` | Historial de asignación de maquinaria a frentes de obra. | `http://localhost:3000/machineryAssignments` |
+| `/budgets` | **GET** | `/budgets` | Gestión de presupuestos operativos y financieros. | `http://localhost:3000/budgets` |
+| `/transactions` | **GET** | `/transactions` | Log de movimientos financieros y pagos realizados. | `http://localhost:3000/transactions` |
+| `/ncrs` | **GET** | `/ncrs` | Reportes de No Conformidad para el control de calidad. | `http://localhost:3000/ncrs` |
+| `/projects` | **GET** | `/projects` | Entidad principal con la data maestra de los proyectos. | `http://localhost:3000/projects` |
+| `/identities` | **GET** | `/identities` | Credenciales de acceso digital para el sistema SmartTecnologies. | `http://localhost:3000/identities` |
+| `/team-users` | **GET** | `/team-users` | Usuarios con roles administrativos en la plataforma. | `http://localhost:3000/team-users` |
+| `/team-workers` | **GET** | `/team-workers` | Registro de operarios y personal de campo en obra. | `http://localhost:3000/team-workers` |
+| `/documents` | **GET** | `/documents` | Repositorio de planos, certificados y actas de obra. | `http://localhost:3000/documents` |
 
 
 ---
