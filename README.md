@@ -606,19 +606,70 @@ Los ingenieros residentes y gestores de obra carecen de una plataforma segura y 
 
 
 ## 1.3. Segmentos Objetivo
-Esta sección incluye la descripción de los segmentos asociados al dominio del problema, incluyendo características geográficas y demográficas. Por lo tanto, con el fin de desarrollar un producto que satisfaga las necesidades operativas de nuestros usuarios, PircaIndustries se enfocará en los siguientes segmentos de la población:
-+ **Gestores Operativos de Obra (Arquitectos e Ingenieros):**<br>
-Son aquellos profesionales encargados de la planificación, diseño y supervisión de proyectos de construcción y arquitectura en pequeñas y medianas empresas (PYMES). Pueden utilizar kipu para centralizar documentación técnica y automatizar el seguimiento de proyectos de edificación.
-    + **Características demográficas:** Profesionales entre 28 y 55 años de edad que se desempeñan como ingenieros civiles, arquitectos, gerentes de proyecto y residentes de obra.<br>
-    + **Características geográficas:** Personas que residen y laboran en zonas urbanas a nivel nacional dentro del territorio peruano.<br><br>
 
+Esta sección detalla los segmentos de mercado clave asociados al dominio de nuestro problema. Con el fin de desarrollar una solución (Kipu) que resuelva de manera efectiva las necesidades de control de calidad, trazabilidad y gestión financiera en el sector construcción peruano, PircaIndustries ha delimitado y cuantificado cuantitativamente su público objetivo utilizando una metodología de dimensionamiento de mercado (TAM, SAM, SOM) basada en fuentes oficiales de la SUNAT, el INEI, el Colegio de Arquitectos del Perú (CAP) y el Colegio de Ingenieros del Perú (CIP).
 
+### 1.3.1 Dimensionamiento del Mercado (TAM, SAM, SOM)
 
+Para comprender el universo de posibles clientes y usuarios, definimos nuestro mercado de la siguiente manera:
 
-+ **Equipos de Logística y Administración:**<br>
-Son los colaboradores encargados del flujo de abastecimiento, control de presupuestos y gestión de inventarios desde la oficina central de la constructora o consultora. Utilizarían Kipu para recibir y gestionar los requerimientos de materiales en tiempo real, controlar los presupuestos operativos y agilizar la cadena de suministro interna para evitar paralizaciones.
-    + **Características demográficas:** Personas entre 25 y 60 años de edad que trabajan como jefes de logística, asistentes administrativos, contadores o encargados de compras dentro del rubro de construcción.
-    + **Características geográficas:** Personas que residen y laboran en zonas urbanas a nivel nacional dentro del territorio peruano.<br><br>
+```mermaid
+funnel
+    title Embudo de Mercado de Kipu en el Perú (2026)
+    TAM "TAM: ~69,370 PYMEs Constructoras Formales en el Perú (99.1% del sector)"
+    SAM "SAM: ~17,340 PYMEs en Zonas Urbanas con Enfoque en Proyectos Residenciales/Privados (25%)"
+    SOM "SOM: ~867 PYMEs a capturar en los primeros 3 años (5% del SAM)"
+```
+
+*   **TAM (Total Addressable Market - Mercado Total Direccionable):** ~69,370 empresas. Corresponde al universo de micro, pequeñas y medianas empresas (PYMEs) constructoras formales en el Perú (que representan el 99.1% de las más de 70,000 empresas totales del sector según SUNAT/INEI).
+*   **SAM (Serviceable Addressable Market - Mercado Direccionable Útil):** ~17,340 empresas. Representa el 25% del TAM, enfocándose en PYMEs constructoras formales localizadas en zonas urbanas del país que ejecutan proyectos de edificación privada y residencial, donde los controles de calidad son más críticos para la rentabilidad.
+*   **SOM (Serviceable Obtainable Market - Mercado Objetivo Consumible):** ~867 empresas. Es nuestra meta de captación para los primeros 3 años de operación de Kipu, correspondiente al 5% del SAM.
+
+---
+
+### 1.3.2 Descripción y Cuantificación de los Segmentos de Clientes
+
+A nivel de usuarios finales (personas), la solución se divide en dos segmentos operativos clave dentro de estas organizaciones:
+
+#### Segmento 1: Gestores Operativos de Obra (Arquitectos e Ingenieros Residentes)
+Este segmento representa al personal de campo encargado de la ejecución física de la obra, el control de calidad, la revisión de planos y la declaración del avance del cronograma. Son quienes reportan pérdidas de tiempo por dispersión de información y asumen responsabilidad legal civil en el cierre de la obra.
+
+| Dimensión | Detalle y Especificación |
+| :--- | :--- |
+| **Población Total Estimada (Perú)** | **~24,670 profesionales activos** (representan el ~51.3% del total del segmento técnico de construcción en PYMEs urbanas). |
+| **Meta de Adopción (SOM - 5%)** | **~1,230 usuarios activos** en los primeros 3 años. |
+| **Características Demográficas** | • **Rango de Edad:** 28 a 55 años.<br>• **Roles:** Ingenieros civiles residentes, arquitectos supervisores, jefes de oficina técnica y gerentes de proyecto.<br>• **Nivel Educativo:** Bachilleres o Titulados Colegiados (CAP / CIP). |
+| **Características Geográficas** | Profesionales que residen y laboran en zonas urbanas a nivel nacional dentro del territorio peruano (concentrados principalmente en Lima Metropolitana, Arequipa, Trujillo, Piura y Chiclayo). |
+| **Comportamiento y Pain Points** | • Alto nivel de estrés debido a la presión por tiempos de entrega.<br>• Frustración por retrabajos causados por el uso de planos desactualizados.<br>• Temor a la responsabilidad legal por firmar actas de cierre sin trazabilidad histórica completa.<br>• Utilizan dispositivos móviles en obra y laptops en la oficina de campo. |
+
+#### Segmento 2: Equipos de Logística y Administración
+Este segmento está compuesto por los colaboradores que operan desde la oficina central de la constructora. Su función principal es asegurar el abastecimiento oportuno de materiales en el almacén de obra, controlar los presupuestos de compras y evitar fugas financieras por robos sistemáticos o sobrecompra de insumos.
+
+| Dimensión | Detalle y Especificación |
+| :--- | :--- |
+| **Población Total Estimada (Perú)** | **~26,010 profesionales activos** (calculado en base a un promedio de 1.5 analistas/asistentes por cada una de las 17,340 constructoras del SAM). |
+| **Meta de Adopción (SOM - 5%)** | **~1,300 usuarios activos** en los primeros 3 años. |
+| **Características Demográficas** | • **Rango de Edad:** 25 a 60 años.<br>• **Roles:** Jefes de logística, asistentes administrativos, encargados de compras, contadores de obra y jefes de almacén.<br>• **Nivel Educativo:** Técnicos o universitarios en administración, contabilidad o ingeniería industrial. |
+| **Características Geográficas** | Personal administrativo que trabaja principalmente en oficinas centrales en zonas urbanas del Perú (o coordinando de forma remota con almacenes de obra). |
+| **Comportamiento y Pain Points** | • Dificultad para coordinar requerimientos en tiempo real con el residente en campo.<br>• Errores en presupuestos debido a la digitación manual en hojas de cálculo de Excel dispersas.<br>• Demora en la aprobación de órdenes de compra, lo que causa paralizaciones de obra por falta de material.<br>• Utilizan principalmente computadoras de escritorio y laptops con acceso a internet. |
+
+---
+
+### 1.3.3 Sustento Matemático y Fuentes de Información
+
+Las estimaciones presentadas en este capítulo se basan en el cruce de datos de las siguientes fuentes oficiales del sector construcción en el Perú:
+
+1.  **Colegio de Arquitectos del Perú (CAP - Reporte Demográfico 2025):** Registra un total de **33,795 agremiados**, de los cuales **32,513 son miembros activos**.
+2.  **Colegio de Ingenieros del Perú (CIP):** Registra más de **100,000 profesionales** a nivel nacional. La especialidad de Ingeniería Civil representa aproximadamente el **38% del total nacional** (~38,000 ingenieros civiles colegiados).
+3.  **Instituto Nacional de Estadística e Informática (INEI - Directorio Nacional de Empresas):** Indica que existen más de **70,000 empresas formales** en el sector construcción. El **99.1%** de estas se clasifican como Micro, Pequeñas o Medianas Empresas (PYMEs / MYPES).
+4.  **Cálculo del Segmento 1 (Técnico/Campo):**
+    $$\text{Universo de Profesionales} = 32,513 \text{ (CAP)} + 38,000 \text{ (CIP Civil)} = 70,513$$
+    $$\text{Población Urbana en Rango de Edad } 28\text{-}55 \text{ (70\%)} \approx 49,359$$
+    $$\text{Personal en Sector PYME / Independiente } (50\%) \approx 24,679 \text{ profesionales}$$
+5.  **Cálculo del Segmento 2 (Administrativo/Logística):**
+    $$\text{Empresas SAM (PYMEs urbanas con proyectos residenciales)} \approx 17,340 \text{ empresas}$$
+    $$\text{Promedio de personal de compras/logística por PYME} = 1.5$$
+    $$\text{Población Estimada} = 17,340 \times 1.5 = 26,010 \text{ profesionales}$$
 
 ---
 
