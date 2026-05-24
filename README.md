@@ -2521,7 +2521,7 @@ A continuación, se documenta la arquitectura dividida por los Bounded Contexts 
 
 <br><br>
 <div align="center">
-    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Design-Level-Event-Storming/desingEventStorming-panoramic.png?raw=true" alt="Vista Panorámica del Design-Level Event Storming">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Design-Level-Event-Storming/designEventStorming-panoramic.png?raw=true" alt="Vista Panorámica del Design-Level Event Storming">
 </div>
 <br><br>
 
@@ -2530,7 +2530,7 @@ Este dominio gestiona la seguridad, el control de acceso y el registro del perso
 
 <br><br>
 <div align="center">
-    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Design-Level-Event-Storming/desingEventStorming-identity.png?raw=true" alt="Identity and Access Management Event Storming">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Design-Level-Event-Storming/designEventStorming-identity.png?raw=true" alt="Identity and Access Management Event Storming">
 </div>
 <br><br>
 
@@ -2550,7 +2550,7 @@ Gestiona el ciclo de vida estructural de la obra y la centralización de datos a
 
 <br><br>
 <div align="center">
-    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Design-Level-Event-Storming/desingEventStorming-planning.png?raw=true" alt="Service Design and Planning Event Storming">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Design-Level-Event-Storming/designEventStorming-planning.png?raw=true" alt="Service Design and Planning Event Storming">
 </div>
 <br><br>
 
@@ -2567,7 +2567,7 @@ Controla la realidad en el campo (faena), capturando el avance físico y los pro
 
 <br><br>
 <div align="center">
-    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Design-Level-Event-Storming/desingEventStorming-monitoring.png?raw=true" alt="Service Execution and Monitoring Event Storming">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Design-Level-Event-Storming/designEventStorming-monitoring.png?raw=true" alt="Service Execution and Monitoring Event Storming">
 </div>
 <br><br>
 
@@ -2585,11 +2585,11 @@ El dominio con mayor carga transaccional. Administra la cadena de suministro, ma
 
 <br><br>
 <div align="center">
-    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Design-Level-Event-Storming/desingEventStorming-resource1.png?raw=true" alt="Resource and Asset Management Event Storming Parte 1">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Design-Level-Event-Storming/designEventStorming-resource1.png?raw=true" alt="Resource and Asset Management Event Storming Parte 1">
 </div>
 <br><br>
 <div align="center">
-    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Design-Level-Event-Storming/desingEventStorming-resource2.png?raw=true" alt="Resource and Asset Management Event Storming Parte 2">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Design-Level-Event-Storming/designEventStorming-resource2.png?raw=true" alt="Resource and Asset Management Event Storming Parte 2">
 </div>
 <br><br>
 
@@ -2608,7 +2608,7 @@ Protege la propiedad intelectual y asegura que el personal en campo construya so
 
 <br><br>
 <div align="center">
-    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Design-Level-Event-Storming/desingEventStorming-blueprint.png?raw=true" alt="Technical Documentation & Design Event Storming">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Design-Level-Event-Storming/designEventStorming-blueprint.png?raw=true" alt="Technical Documentation & Design Event Storming">
 </div>
 <br><br>
 
@@ -4548,6 +4548,396 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
 7. ¿Usted utilizaría la aplicación web Kipu para gestionar la logística y administración de sus proyectos? ¿Por qué?
 8. ¿Recomendaría a sus colegas del área de logística y administración a utilizar Kipu? ¿Por qué?
 
+### 5.3.2. Registro de entrevistas
+
+En esta sección presentamos los registros de las entrevistas de validación realizadas para cada segmento objetivo de nuestra aplicación.
+
+
+**Segmento Objetivo 1: Gestores y Supervisores de Obra (Arquitectos e Ingenieros)**<br>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Entrevista #1<br></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nombre</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Apellidos</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Edad</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Distrito</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Aplicaciones y Canales Utilizados</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Motivación</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Frustración</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tecnologías</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Preferencias Visuales</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Evidencia</td>
+      <td><div align="center"></div></td>
+    </tr>
+    <tr>
+      <td>Link</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Duración<br></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Entrevista #2<br></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nombre</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Apellidos</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Edad</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Distrito</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Aplicaciones y Canales Utilizados</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Motivación</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Frustración</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tecnologías</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Preferencias Visuales</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Evidencia</td>
+      <td><div align="center"></div></td>
+    </tr>
+    <tr>
+      <td>Link</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Duración<br></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Entrevista #3<br></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nombre</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Apellidos</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Edad</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Distrito</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Aplicaciones y Canales Utilizados</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Motivación</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Frustración</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tecnologías</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Preferencias Visuales</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Evidencia</td>
+      <td><div align="center"></div></td>
+    </tr>
+    <tr>
+      <td>Link</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Duración<br></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<br><br>
+
+**Segmento Objetivo 2: Equipos de Logística y Administración**<br>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Entrevista #4<br></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nombre</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Apellidos</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Edad</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Distrito</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Aplicaciones y Canales Utilizados</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Motivación</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Frustración</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tecnologías</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Preferencias Visuales</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Evidencia</td>
+      <td><div align="center"></div></td>
+    </tr>
+    <tr>
+      <td>Link</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Duración<br></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Entrevista #5<br></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nombre</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Apellidos</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Edad</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Distrito</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Aplicaciones y Canales Utilizados</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Motivación</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Frustración</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tecnologías</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Preferencias Visuales</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Evidencia</td>
+      <td><div align="center"></div></td>
+    </tr>
+    <tr>
+      <td>Link</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Duración<br></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Entrevista #6<br></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nombre</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Apellidos</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Edad</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Distrito</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Aplicaciones y Canales Utilizados</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Motivación</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Frustración</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tecnologías</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Preferencias Visuales</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Evidencia</td>
+      <td><div align="center"></div></td>
+    </tr>
+    <tr>
+      <td>Link</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Duración<br></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 # Conclusiones
