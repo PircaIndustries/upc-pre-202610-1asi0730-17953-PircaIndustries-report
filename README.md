@@ -342,7 +342,7 @@ https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries
     - [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
   - [5.2. Landing Page, Services \& Applications Implementation.](#52-landing-page-services--applications-implementation)
     - [5.2.1. Sprint 1](#521-sprint-1)
-      - [5.2.1.1. Sprint Planning 1.](#5211-sprint-planning-1)
+      - [5.2.1.1. Sprint  1.](#5211-sprint--1)
       - [5.2.1.2. Aspect Leaders and Collaborators.](#5212-aspect-leaders-and-collaborators)
       - [5.2.1.3. Sprint Backlog 1.](#5213-sprint-backlog-1)
       - [5.2.1.4. Development Evidence for Sprint Review.](#5214-development-evidence-for-sprint-review)
@@ -351,7 +351,7 @@ https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries
       - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
     - [5.2.2 Sprint 2](#522-sprint-2)
-      - [5.2.2.1 Sprint Planning 2](#5221-sprint-planning-2)
+      - [5.2.2.1 Sprint  2](#5221-sprint--2)
       - [5.2.2.2 Sprint Backlog 2](#5222-sprint-backlog-2)
       - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
       - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
@@ -381,7 +381,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 | Criterio específico | Acciones realizadas | Conclusiones |
 | :--- | :--- | :--- |
 | **Trabaja en equipo para proporcionar liderazgo en forma conjunta.** | **Francia Torres Jhony Manuel**<br>**AV1:** Lideró la definición del perfil de la solución y estructuró los modelos de la base de datos y el diseño orientado a objetos.<br>**TB1:** Lideró la migración y estructuración de los modelos de datos para los nuevos dominios de inventario y materiales, asegurando la integridad de la base de datos. Asimismo realizó los endpoints de registro diario y la navegación <br><br>**Montoya Nina Paula Fernanda**<br>**AV1:** Asumió el rol de Team Leader, dirigiendo la planificación del primer sprint, la estructuración del Product Backlog y definiendo la arquitectura impulsada por el dominio.<br>**TB1:** Dirigió la gestión de configuración del software, supervisando la resolución de conflictos críticos en el `package-lock.json` y el flujo de ramas en Git para el proyecto Kipu. Ademas aportó en el endpoint de materiales<br><br>**Palacios Tinoco Adrian Fernando**<br>**AV1:** Tomó la iniciativa en el análisis de competidores, el desarrollo del Big Picture EventStorming y la definición de la arquitectura de la información.<br>**TB1:** Aportó en los endopoints de budget y ncr, asimismo, en la integración con el db.json .<br><br>**Ramos Hinostroza Diego Antonio**<br>**AV1:** Lideró la gestión de la configuración del software, la identificación de los segmentos objetivos y la recolección de requisitos mediante entrevistas.<br>**TB1:** Coordinó la alineación de las mejoras continuas del proyecto, garantizando que la lógica de negocio se refleje correctamente en el frontend. Realizó tambien los endpoints de login y dashboard <br><br>**Ramos Mera Neo Daniel**<br>**AV1:** Dirigió el proceso de Lean UX, la elaboración del Impact Mapping y la organización de líderes y colaboradores para las distintas tareas.<br>**TB1:** Lideró la validación de interfaces bajo heurísticas de Nielsen, asegurando la consistencia visual en los módulos de Kipu. Aportó en la inicialización del json server y los endpoints de Equipo y firmas| **AV1:** El equipo demostró un liderazgo distribuido. Cada integrante asumió el control de áreas específicas basándose en sus fortalezas analíticas y técnicas, lo que permitió estructurar el proyecto desde la concepción del modelo de negocio hasta la arquitectura del software de manera metódica y equilibrada.<br><br>**TB1:** El equipo demostró un liderazgo técnico distribuido. La capacidad de cada integrante para dirigir áreas específicas, desde la gestión de Git hasta la arquitectura de dominios, permitió mantener la estabilidad del proyecto durante la fase de integración más compleja de la TB1. |
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.** | **Francia Torres Jhony Manuel**<br>**AV1:** Colaboró en la redacción de User Stories, el diseño UX/UI y cumplió a tiempo con la implementación de la Landing Page y la preparación del Keynote.<br>**TB1:** Colaboró en la corrección de errores de importación en Vite y cumplió con la implementación de las vistas de catálogo para el dominio de materiales.<br><br>**Montoya Nina Paula Fernanda**<br>**AV1:** Estableció las metas iniciales mediante el Sprint Planning y Backlog, colaborando en el diseño de interfaces y el desarrollo de la Landing Page.<br>**TB1:** Estableció las metas del sprint mediante el Backlog y facilitó la resolución de errores de entorno para todo el equipo de desarrollo.<br><br>**Palacios Tinoco Adrian Fernando**<br>**AV1:** Participó en la creación conjunta de User Stories, apoyó en el diseño visual (UX/UI) y completó sus asignaciones de desarrollo de la aplicación web de manera puntual.<br>**TB1:** Participó en la redacción, vinculando los commits de avance a la tabla de evidencias del proyecto.<br><br>**Ramos Hinostroza Diego Antonio**<br>**AV1:** Aportó en la elaboración del Ubiquitous Language y User Stories, y consolidó las evidencias de ejecución, despliegue y colaboración del equipo durante el sprint.<br>**TB1:** Apoyó en la depuración de dependencias cruzadas y en la consolidación del Ubiquitous Language para los nuevos dominios de construcción.<br><br>**Ramos Mera Neo Daniel**<br>**AV1:** Contribuyó al diseño de interfaces y a la redacción de User Stories, cumpliendo exitosamente con los objetivos de implementación web trazados para la primera entrega.<br>**TB1:** Contribuyó al diseño de interfaces y cumpliendo con el 100% de los objetivos de implementación web trazados para las funcionalidades de NCR y Proyectos. | **AV1:** Se consolidó un entorno de trabajo colaborativo mediante la participación conjunta en actividades transversales, como el diseño de interfaces (UX/UI) y el desarrollo de la Landing Page. La asignación clara de responsabilidades y la planificación estructurada del flujo de trabajo garantizaron que todos los miembros cumplieran a tiempo con el 100% de sus objetivos operativos para la entrega AV1.<br><br>**TB1:** Se consolidó un entorno de trabajo inclusivo donde la resolución conjunta de problemas técnicos (como errores de compilación y rutas de archivo) fue clave. La planificación estructurada aseguró que todos los miembros cumplieran con sus metas operativas, logrando una entrega funcional y documentada. |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.** | **Francia Torres Jhony Manuel**<br>**AV1:** Colaboró en la redacción de User Stories, el diseño UX/UI y cumplió a tiempo con la implementación de la Landing Page y la preparación del Keynote.<br>**TB1:** Colaboró en la corrección de errores de importación en Vite y cumplió con la implementación de las vistas de catálogo para el dominio de materiales.<br><br>**Montoya Nina Paula Fernanda**<br>**AV1:** Estableció las metas iniciales mediante el Sprint  y Backlog, colaborando en el diseño de interfaces y el desarrollo de la Landing Page.<br>**TB1:** Estableció las metas del sprint mediante el Backlog y facilitó la resolución de errores de entorno para todo el equipo de desarrollo.<br><br>**Palacios Tinoco Adrian Fernando**<br>**AV1:** Participó en la creación conjunta de User Stories, apoyó en el diseño visual (UX/UI) y completó sus asignaciones de desarrollo de la aplicación web de manera puntual.<br>**TB1:** Participó en la redacción, vinculando los commits de avance a la tabla de evidencias del proyecto.<br><br>**Ramos Hinostroza Diego Antonio**<br>**AV1:** Aportó en la elaboración del Ubiquitous Language y User Stories, y consolidó las evidencias de ejecución, despliegue y colaboración del equipo durante el sprint.<br>**TB1:** Apoyó en la depuración de dependencias cruzadas y en la consolidación del Ubiquitous Language para los nuevos dominios de construcción.<br><br>**Ramos Mera Neo Daniel**<br>**AV1:** Contribuyó al diseño de interfaces y a la redacción de User Stories, cumpliendo exitosamente con los objetivos de implementación web trazados para la primera entrega.<br>**TB1:** Contribuyó al diseño de interfaces y cumpliendo con el 100% de los objetivos de implementación web trazados para las funcionalidades de NCR y Proyectos. | **AV1:** Se consolidó un entorno de trabajo colaborativo mediante la participación conjunta en actividades transversales, como el diseño de interfaces (UX/UI) y el desarrollo de la Landing Page. La asignación clara de responsabilidades y la planificación estructurada del flujo de trabajo garantizaron que todos los miembros cumplieran a tiempo con el 100% de sus objetivos operativos para la entrega AV1.<br><br>**TB1:** Se consolidó un entorno de trabajo inclusivo donde la resolución conjunta de problemas técnicos (como errores de compilación y rutas de archivo) fue clave. La planificación estructurada aseguró que todos los miembros cumplieran con sus metas operativas, logrando una entrega funcional y documentada. |
 
 ---
 
@@ -1547,7 +1547,7 @@ En esta sección se define el glosario de términos y conceptos fundamentales de
 
 * **Blue Print (Plano):** A highly detailed technical drawing or architectural design used as a guide for constructing, remodeling, or sanitizing a building. Within the platform, a blueprint represents a dynamic entity that undergoes multiple revisions (versions). It is the primary reference document that the field team uses to execute the physical work, making strict version control essential to prevent critical construction errors.
 
-* **Worksite (Obra):** The physical location or temporary endeavor where the construction, architecture, or sanitation project is actively being executed. The worksite is the core entity around which all logistical, budgetary, and personnel activities revolve. It acts as the central hub where material requests originate and where the progress of the execution is continuously tracked against the initial planning.
+* **Worksite (Obra):** The physical location or temporary endeavor where the construction, architecture, or sanitation project is actively being executed. The worksite is the core entity around which all logistical, budgetary, and personnel activities revolve. It acts as the central hub where material requests originate and where the progress of the execution is continuously tracked against the initial .
 
 * **Technical Dossier (Expediente Técnico):** A comprehensive set of technical documents, blueprints, descriptive memories, and specifications required by municipal authorities to approve and legalize a construction or sanitation project. Managing the lifecycle and deadlines of the dossier is a critical administrative task, as failing to submit amendments or updates on time can result in project paralysis.
 
@@ -1683,7 +1683,7 @@ En esta sección se define el glosario de términos y conceptos fundamentales de
 
 
 ## 3.3. Product Backlog
-Dentro del Product Backlog, hemos consolidado una lista jerarquizada de nuestras historias de usuario, organizadas meticulosamente bajo los criterios de prioridad establecidos por el equipo para maximizar la entrega de valor en cada iteración. Para cuantificar el esfuerzo y la complejidad técnica de cada ítem, aplicamos la técnica de Planning Poker basada en la secuencia de Fibonacci (1, 2, 3, 5, 8), lo que nos permite obtener estimaciones relativas precisas y alineadas con la agilidad del proyecto.
+Dentro del Product Backlog, hemos consolidado una lista jerarquizada de nuestras historias de usuario, organizadas meticulosamente bajo los criterios de prioridad establecidos por el equipo para maximizar la entrega de valor en cada iteración. Para cuantificar el esfuerzo y la complejidad técnica de cada ítem, aplicamos la técnica de  Poker basada en la secuencia de Fibonacci (1, 2, 3, 5, 8), lo que nos permite obtener estimaciones relativas precisas y alineadas con la agilidad del proyecto.
 
 
 | # Orden | User Story ID | Título | Descripción | Story Points |
@@ -2545,12 +2545,12 @@ Este dominio gestiona la seguridad, el control de acceso y el registro del perso
   
 * **Agregados Secundarios:** System Access (para envío de invitaciones) y Worker Directory.
 
-### Service Design and Planning
+### Service Design and 
 Gestiona el ciclo de vida estructural de la obra y la centralización de datos a nivel macro.
 
 <br><br>
 <div align="center">
-    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Design-Level-Event-Storming/designEventStorming-planning.png?raw=true" alt="Service Design and Planning Event Storming">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Design-Level-Event-Storming/designEventStorming-.png?raw=true" alt="Service Design and  Event Storming">
 </div>
 <br><br>
 
@@ -4509,6 +4509,30 @@ A continuación, se presenta la documentación de los servicios implementados du
 
 ---
 
+### 5.2.3. Sprint 3
+#### 5.2.3.1.Spring Planning 3.
+
+| Sprint # | Sprint 3 |
+|----------|----------|
+| **Date** | 2026-05-26 |
+| **Time** | 07:30 PM |
+| **Location** | Reunión virtual mediante Discord |
+| **Prepared By** | Montoya Nina, Paula Fernanda / Ramos Mera, Neo Daniel |
+| **Attendees** | Francia Torres, Jhony Manuel / Montoya Nina, Paula Fernanda / Palacios Tinoco, Adrian Fernando / Ramos Hinostroza, Diego Antonio / Ramos Mera, Neo Daniel |
+| **Sprint 2 Review Summary** |Se validó con éxito la navegación del frontend utilizando mock APIs, logrando una experiencia interactiva temprana de los flujos principales (kipu-frontend).|
+| **Sprint 2 Retrospective Summary** | El equipo identificó que la separación por capas facilitó el trabajo en el frontend, lo cual servirá de base para alinear los Bounded Contexts del backend durante el siguiente ciclo.|
+| **Sprint 3 Goal** | Our focus is on integrating the initial C# .NET backend with our frontend using Domain-Driven Design, while launching the new versions of the Kipu ecosystem. We believe it delivers a reliable, real-data experience and seamless operational connectivity to our users and stakeholders. This will be confirmed when users can execute core operations on the live Web Application successfully consuming the first deployed Web Services, and visitors can access the updated Landing Page in production.|
+| **Sprint 2 Velocity** | 69 Story Points |
+| **Sum of Story Points** |  Story Points |
+
+#### 5.2.3.2. Aspect Leaders and Collaborators.
+#### 5.2.3.3.Sprint Backlog 3.
+#### 5.2.3.4.Development Evidence for Sprint Review.
+#### 5.2.3.5.Execution Evidence for Sprint Review.
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+
 ## 5.3. Validation Interviews.
 
 En esta sección, se registran y explican las actividades que abarcan las entrevistas de validación durante el desarrollo de nuestro proyecto. El objetivo principal de realizar estas entrevistas de validación es obtener retroalimentación, comprender las necesidades y expectativas de los usuarios, así como validar o refutar las hipótesis sobre el producto. Para lograr esto, haremos que nuestros entrevistados de ambos segmentos interactúen con la landing page y la aplicación web de Kipu.
@@ -4939,6 +4963,11 @@ En esta sección presentamos los registros de las entrevistas de validación rea
   </tbody>
 </table>
 
+### 5.3.3. Evaluaciones según heurísticas.
+
+
+
+## 5.4. Video About-the-Product.
 ---
 # Conclusiones
 
