@@ -4658,7 +4658,7 @@ Durante este ciclo de desarrollo, el equipo concentró sus esfuerzos en el dise�
 
 Para una comprensión detallada de la arquitectura del backend, el flujo de peticiones HTTP y la respuesta del servidor, se ha preparado un video demostrativo que recorre las pruebas de los endpoints clave:
 
->**Enlace al Video:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e418_upc_edu_pe/IQDusJs-eJcxTbuMRmstPEimAQqKIYTGWkf4GIN8ub9d5M0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=aoqaMa">Demostración audiovisual</a>
+>**Enlace al Video:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410817_upc_edu_pe/IQCFu10xyGUrRoSWRroXPoS8AX6kd2C1ORuCSpEqnqdTjU0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=IIKE6u">Demostración audiovisual</a>
 >
 > **Descripción:** El video ilustra el correcto funcionamiento de la API a través de Swagger UI, realizando peticiones (POST, GET, PUT, PATCH, DELETE) hacia la base de datos, validando los códigos de respuesta HTTP y demostrando la consistencia de la arquitectura de información definida para este Sprint.
 
