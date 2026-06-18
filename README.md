@@ -5138,6 +5138,16 @@ En esta sección presentamos los registros de las entrevistas de validación rea
 
 + El progreso alcanzado no se quedó en el análisis, sino que avanzó hacia el diseño y la implementación con evidencias concretas de sprint, documentación técnica y despliegue. La incorporación de wireframes, mockups, arquitectura orientada al dominio, diagramas de clases y base de datos muestra una madurez creciente del proyecto, porque conecta la visión de negocio con decisiones técnicas y resultados verificables; en conjunto, esto posiciona al equipo en una etapa favorable para consolidar entregables funcionales con mayor calidad y trazabilidad.
 
++ Durante el desarrollo del entregable AV2, el equipo demostró una sólida capacidad de organización, comunicación y trabajo colaborativo, coordinando eficazmente las actividades del Sprint mediante reuniones periódicas y una distribución equilibrada de responsabilidades. Gracias al esfuerzo conjunto, se logró implementar nuevas funcionalidades en frontend y backend, integrar distintos bounded contexts y realizar el despliegue de la solución, cumpliendo con los objetivos establecidos para la entrega. Asimismo, la retroalimentación obtenida en las sesiones presenciales permitió realizar mejoras oportunas y asegurar la calidad del producto final, fortaleciendo el desempeño del equipo y consolidando una dinámica de trabajo orientada al cumplimiento de metas y la mejora continua.
+
+# Recomendaciones
+
++ Fortalecer la validación continua con los usuarios finales durante las siguientes iteraciones del proyecto, realizando pruebas periódicas de usabilidad y recopilando retroalimentación temprana que permita identificar oportunidades de mejora y asegurar que las funcionalidades implementadas respondan adecuadamente a las necesidades del mercado objetivo.
+
++ Mantener actualizada la documentación técnica y funcional del sistema conforme se incorporen nuevas características, garantizando la trazabilidad entre requisitos, diseño, implementación y despliegue. Esto facilitará el mantenimiento futuro del proyecto y la integración eficiente de nuevas funcionalidades o integrantes al equipo.
+
++ Continuar promoviendo las prácticas de trabajo colaborativo adoptadas durante AV2, fortaleciendo la planificación de sprints, el seguimiento de tareas y la comunicación constante entre los miembros del equipo, con el fin de optimizar la gestión del tiempo, reducir riesgos durante la integración y asegurar el cumplimiento de los objetivos establecidos en futuras entregas.
+
 # Bibliografía
 Aquise, J., Bustamante, G., y Cáceres, M. (2021). *Control de calidad y su impacto en los indicadores de desempeño financiero y operativo (KPIs) de una pequeña empresa constructora en el sur del Perú* [Tesis de maestría, Universidad Peruana de Ciencias Aplicadas]. Repositorio Académico UPC. https://repositorioacademico.upc.edu.pe/handle/10757/672148
 
