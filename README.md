@@ -1,28 +1,28 @@
-<div style="text-align: center; width: 100%;">
+<div align="center" style="text-align: center; width: 100%;">
   <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/UPC_logo_transparente.png?raw=true" alt="Logo-UPC" width="150" style="display: block; margin: 0 auto 20px auto;">
 
-  <h2 style="text-align: center; margin: 10px 0;">Universidad Peruana de Ciencias Aplicadas</h2>
+  <h2 align="center" style="text-align: center; margin: 10px 0;">Universidad Peruana de Ciencias Aplicadas</h2>
 
-  <p style="text-align: center; margin: 5px 0;"><strong>Ingeniería de Software</strong></p>
+  <p align="center" style="text-align: center; margin: 5px 0;"><strong>Ingeniería de Software</strong></p>
 
-  <p style="text-align: center; margin: 5px 0;"><strong>Ciclo:</strong> 2026-10</p>
+  <p align="center" style="text-align: center; margin: 5px 0;"><strong>Ciclo:</strong> 2026-10</p>
 
-  <p style="text-align: center; margin: 5px 0;"><strong>Curso:</strong> Aplicaciones Web</p>
+  <p align="center" style="text-align: center; margin: 5px 0;"><strong>Curso:</strong> Aplicaciones Web</p>
 
-  <p style="text-align: center; margin: 5px 0;"><strong>Sección:</strong> 17953</p>
+  <p align="center" style="text-align: center; margin: 5px 0;"><strong>Sección:</strong> 17953</p>
 
-  <p style="text-align: center; margin: 5px 0;"><strong>Profesor:</strong> Alex Humberto Sánchez Ponce</p>
+  <p align="center" style="text-align: center; margin: 5px 0;"><strong>Profesor:</strong> Alex Humberto Sánchez Ponce</p>
 
   <hr style="width: 100%; border: 1px solid #ddd; margin: 20px 0;">
   
-  <h2 style="text-align: center; margin: 10px 0;">Informe de Trabajo Final</h2>
-  <h3 style="text-align: center; margin: 5px 0;">PircaIndustries</h3>
+  <h2 align="center" style="text-align: center; margin: 10px 0;">Informe de Trabajo Final</h2>
+  <h3 align="center" style="text-align: center; margin: 5px 0;">PircaIndustries</h3>
 
-  <h3 style="text-align: center; margin: 5px 0;">Kipu</h3>
+  <h3 align="center" style="text-align: center; margin: 5px 0;">Kipu</h3>
   <br>
-  <h4 style="text-align: center; margin: 10px 0;">Relación de integrantes</h4>
+  <h4 align="center" style="text-align: center; margin: 10px 0;">Relación de integrantes</h4>
   
-  <table style="margin: 0 auto; border-collapse: collapse; text-align: left;">
+  <table align="center" style="margin: 0 auto; border-collapse: collapse; text-align: left;">
     <thead>
       <tr style="border-bottom: 2px solid #ddd;">
         <th style="padding: 8px 20px; font-weight: bold;">Integrante</th>
@@ -54,7 +54,7 @@
   </table>
   
   <br><br>
-  <h3 style="text-align: center; margin: 20px 0;">Abril 2026</h3>
+  <h3 align="center" style="text-align: center; margin: 20px 0;">Abril 2026</h3>
 </div><br>
 <div style="text-align: justify;">
 
