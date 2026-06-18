@@ -4588,55 +4588,55 @@ En esta sección presentamos los registros de las entrevistas de validación rea
   <tbody>
     <tr>
       <td>Nombre</td>
-      <td></td>
+      <td>Harry Josué</td>
     </tr>
     <tr>
       <td>Apellidos</td>
-      <td></td>
+      <td>Rodas Oliveros</td>
     </tr>
     <tr>
       <td>Edad</td>
-      <td></td>
+      <td>23 años</td>
     </tr>
     <tr>
       <td>Distrito</td>
-      <td></td>
+      <td>Comas</td>
     </tr>
     <tr>
       <td>Aplicaciones y Canales Utilizados</td>
-      <td></td>
+      <td>Google Meet, WhatsApp, Facebook, Instagram, AutoCAD, software BIM</td>
     </tr>
     <tr>
       <td>Motivación</td>
-      <td></td>
+      <td>Automatizar procesos colaborativos en proyectos de gran escala y brindar las mejores soluciones técnicas orientando al cliente de manera eficaz.</td>
     </tr>
     <tr>
       <td>Frustración</td>
-      <td></td>
+      <td>La falta de comunicación asertiva; existe una gran brecha de entendimiento entre lo que el cliente "quiere" y lo que realmente "necesita".</td>
     </tr>
     <tr>
       <td>Tecnologías</td>
-      <td></td>
+      <td>Laptop, Smartphone</td>
     </tr>
     <tr>
       <td>Preferencias Visuales</td>
-      <td></td>
+      <td>Letras mayúsculas y cursivas para lectura rápida de títulos. Colores neutros (blanco, grises, negro, marrones) y tonos azules por familiaridad con programas de diseño. Interfaz altamente personalizable (estilo Photoshop) para ver todas las opciones posibles.</td>
     </tr>
     <tr>
       <td>Evidencia</td>
-      <td><div align="center"></div></td>
+      <td><div align="center"><img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Harry-Rodas.png?raw=true" alt="Entrevista Harry Rodas"></div></td>
     </tr>
     <tr>
       <td>Link</td>
-      <td></td>
+      <td><p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224130_upc_edu_pe/IQCA9xgF1lEKRIj9UXoSjWp8AfG26fYAt3zZ1eL-eoDdRuQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Wnr0AV" title="Title">Microsoft Stream</a></p></td>
     </tr>
     <tr>
       <td>Duración<br></td>
-      <td></td>
+      <td>00:02 min - 06:32 min</td>
     </tr>
     <tr>
       <td>Resumen</td>
-      <td></td>
+      <td>En la entrevista con Harry Josué Rodas Oliveros, logramos conocer su opinión acerca de qué le pareció nuestra landing page y nuestra aplicación web Kipu. Indicó que le llamó mucho la atención nuestra landing page, que le pareció muy bien organizada, profesional y fácil de comprender para el sector. Con respecto a nuestra aplicación web, le gustó lo tan detallada y específica que es para el monitoreo de avances de obra, destacando la comodidad de la bitácora fotográfica. Indicó que tal vez podríamos mejorar añadiendo una opción de zoom a las imágenes adjuntas en los reportes, pero que todo lo demás le había gustado. Finalmente indicó que sí estaría dispuesto a utilizar Kipu y a recomendársela a sus colegas y compañeros del rubro.</td>
     </tr>
   </tbody>
 </table>
@@ -4652,55 +4652,55 @@ En esta sección presentamos los registros de las entrevistas de validación rea
   <tbody>
     <tr>
       <td>Nombre</td>
-      <td></td>
+      <td>Juan</td>
     </tr>
     <tr>
       <td>Apellidos</td>
-      <td></td>
+      <td>Macedo Gutiérrez</td>
     </tr>
     <tr>
       <td>Edad</td>
-      <td></td>
+      <td>55 años</td>
     </tr>
     <tr>
       <td>Distrito</td>
-      <td></td>
+      <td>Mariscal Nieto (Moquegua)</td>
     </tr>
     <tr>
       <td>Aplicaciones y Canales Utilizados</td>
-      <td></td>
+      <td>AutoCAD, ETAPS, WhatsApp, correos electrónicos</td>
     </tr>
     <tr>
       <td>Motivación</td>
-      <td></td>
+      <td>Elaborar proyectos que cumplan estrictamente con el Reglamento Nacional de Edificaciones, automatizando los procesos para no perder tiempo.</td>
     </tr>
     <tr>
       <td>Frustración</td>
-      <td></td>
+      <td>Los cuellos de botella logísticos y la carga burocrática que acortan los plazos y terminan atrasando la ejecución de las obras.</td>
     </tr>
     <tr>
       <td>Tecnologías</td>
-      <td></td>
+      <td>Computadora, laptop</td>
     </tr>
     <tr>
       <td>Preferencias Visuales</td>
-      <td></td>
+      <td>Interfaz en modo oscuro (colores opacos/escalas de grises) para evitar la resolana del sol al salir a obra. Diseño extremadamente minimalista y limpio para lectura rápida ("mientras menos tenga la pantalla, lo leo más rápido").</td>
     </tr>
     <tr>
       <td>Evidencia</td>
-      <td><div align="center"></div></td>
+      <td><div align="center"><img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Juan-Macedo.png?raw=true" alt="Entrevista Juan Macedo"></div></td>
     </tr>
     <tr>
       <td>Link</td>
-      <td></td>
+      <td><p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224130_upc_edu_pe/IQCA9xgF1lEKRIj9UXoSjWp8AfG26fYAt3zZ1eL-eoDdRuQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Wnr0AV" title="Title">Microsoft Stream</a></p></td>
     </tr>
     <tr>
       <td>Duración<br></td>
-      <td></td>
+      <td>06:32 min - 16:10 min</td>
     </tr>
     <tr>
       <td>Resumen</td>
-      <td></td>
+      <td>En la entrevista con Juan Macedo Gutiérrez, nos comentó su opinión acerca de nuestra landing page y de la aplicación web Kipu. Indicó que le gusta mucho la estructura de la landing page y la claridad con la que se presenta la propuesta de valor para constructores. Sobre la aplicación web, consideró muy acertado el flujo para crear e inspeccionar No Conformidades (RNC/NCR) de forma digital en vez de en papel. Sugirió como punto de mejora implementar un botón directo en la navegación para alternar rápidamente al modo oscuro de alto contraste, facilitando el uso en campo bajo luz solar intensa. Finalmente, mencionó que sí utilizaría la herramienta para evitar retrasos burocráticos y que la recomendaría a otros residentes de obra.</td>
     </tr>
   </tbody>
 </table>
@@ -4716,55 +4716,55 @@ En esta sección presentamos los registros de las entrevistas de validación rea
   <tbody>
     <tr>
       <td>Nombre</td>
-      <td></td>
+      <td>Vilma Consuelo</td>
     </tr>
     <tr>
       <td>Apellidos</td>
-      <td></td>
+      <td>Hinostroza Palpa</td>
     </tr>
     <tr>
       <td>Edad</td>
-      <td></td>
+      <td>47 años</td>
     </tr>
     <tr>
       <td>Distrito</td>
-      <td></td>
+      <td>San Martín de Porres</td>
     </tr>
     <tr>
       <td>Aplicaciones y Canales Utilizados</td>
-      <td></td>
+      <td>WhatsApp, correo, Google Meet, AutoCAD, ETABS</td>
     </tr>
     <tr>
       <td>Motivación</td>
-      <td></td>
+      <td>Implementar una plataforma centralizada que comunique al equipo técnico y envíe alertas automáticas al cliente para que vea el progreso gradual de su inversión.</td>
     </tr>
     <tr>
       <td>Frustración</td>
-      <td></td>
+      <td>La asincronía y lentitud en la comunicación. Los clientes no verifican la información de manera oportuna y demoran en responder sobre los avances.</td>
     </tr>
     <tr>
       <td>Tecnologías</td>
-      <td></td>
+      <td>Laptop, Smartphone</td>
     </tr>
     <tr>
       <td>Preferencias Visuales</td>
-      <td></td>
+      <td>Íconos grandes y diferenciación clara por colores para uso rápido en obra. Colores corporativos: azul (desarrollo), negro (orden), blanco (limpieza) y gris. Prefiere un diseño limpio y minimalista.</td>
     </tr>
     <tr>
       <td>Evidencia</td>
-      <td><div align="center"></div></td>
+      <td><div align="center"><img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Vilma-Hinostroza.png?raw=true" alt="Entrevista Vilma Hinostroza"></div></td>
     </tr>
     <tr>
       <td>Link</td>
-      <td></td>
+      <td><p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224130_upc_edu_pe/IQCA9xgF1lEKRIj9UXoSjWp8AfG26fYAt3zZ1eL-eoDdRuQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Wnr0AV" title="Title">Microsoft Stream</a></p></td>
     </tr>
     <tr>
       <td>Duración<br></td>
-      <td></td>
+      <td>16:10 min - 23:34 min</td>
     </tr>
     <tr>
       <td>Resumen</td>
-      <td></td>
+      <td>En la entrevista con Vilma Consuelo Hinostroza Palpa, ella valoró positivamente la sencillez de la landing page de Kipu, destacando la organización y facilidad para comprender cómo centraliza el flujo de avance físico. Mencionó que la aplicación web es intuitiva y eficiente para coordinar con el equipo técnico de campo. Sugirió agregar alertas push o notificaciones directas para cuando ocurran cambios de estado en las actividades del cronograma. Vilma cree que Kipu facilitará considerablemente la transparencia frente al cliente final para justificar el avance del proyecto, por lo que la utilizaría y la recomendaría a colegas de gestión de proyectos y consultoría.</td>
     </tr>
   </tbody>
 </table>
@@ -4782,55 +4782,55 @@ En esta sección presentamos los registros de las entrevistas de validación rea
   <tbody>
     <tr>
       <td>Nombre</td>
-      <td></td>
+      <td>Eliud</td>
     </tr>
     <tr>
       <td>Apellidos</td>
-      <td></td>
+      <td>López Torres</td>
     </tr>
     <tr>
       <td>Edad</td>
-      <td></td>
+      <td>26 años</td>
     </tr>
     <tr>
       <td>Distrito</td>
-      <td></td>
+      <td>Los Olivos</td>
     </tr>
     <tr>
       <td>Aplicaciones y Canales Utilizados</td>
-      <td></td>
+      <td>Excel, Word, AutoCAD, Revit, SketchUp, WhatsApp, correos electrónicos</td>
     </tr>
     <tr>
       <td>Motivación</td>
-      <td></td>
+      <td>Lograr un trabajo de equipo centralizado, ordenado y eficiente, eliminando los desfases de información.</td>
     </tr>
     <tr>
       <td>Frustración</td>
-      <td></td>
+      <td>La falta de control de inventarios en tiempo real. Los desfases constantes entre lo presupuestado y lo ejecutado, así como los retrasos de materiales por tener la información dispersa en Excel.</td>
     </tr>
     <tr>
       <td>Tecnologías</td>
-      <td></td>
+      <td>PC de escritorio</td>
     </tr>
     <tr>
       <td>Preferencias Visuales</td>
-      <td></td>
+      <td>Colores neutros y profesionales (gris y azul). Prefiere visualización en formato Dashboard (paneles principales con gráficos e indicadores de resumen) en lugar de tablas estáticas. La app debe ser "intuitiva, rápida y centralizada".</td>
     </tr>
     <tr>
       <td>Evidencia</td>
-      <td><div align="center"></div></td>
+      <td><div align="center"><img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Eliud-Lopez.png?raw=true" alt="Entrevista Eliud Lopez"></div></td>
     </tr>
     <tr>
       <td>Link</td>
-      <td></td>
+      <td><p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224130_upc_edu_pe/IQCA9xgF1lEKRIj9UXoSjWp8AfG26fYAt3zZ1eL-eoDdRuQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Wnr0AV" title="Title">Microsoft Stream</a></p></td>
     </tr>
     <tr>
       <td>Duración<br></td>
-      <td></td>
+      <td>23:36 min - 29:41 min</td>
     </tr>
     <tr>
       <td>Resumen</td>
-      <td></td>
+      <td>En la entrevista con Eliud López Torres, evaluó positivamente la propuesta de Kipu. Indicó que el diseño de la landing page es muy limpio y profesional, llamando la atención por su enfoque logístico. Además, consideró que la aplicación web es moderna y valoró enormemente el módulo de presupuesto financiero por permitir registrar transacciones y solicitar ampliaciones de forma ágil en lugar de usar hojas de cálculo estáticas en Excel. Sugirió la inclusión de un buscador o filtro rápido por categorías de materiales dentro de la tabla de inventarios para agilizar búsquedas. Eliud considera que la plataforma facilitará el control de inventario de forma segura y eficiente, por lo que la utilizaría y recomendaría a sus colegas administrativos.</td>
     </tr>
   </tbody>
 </table>
@@ -4846,55 +4846,55 @@ En esta sección presentamos los registros de las entrevistas de validación rea
   <tbody>
     <tr>
       <td>Nombre</td>
-      <td></td>
+      <td>Nayeli Sabrina</td>
     </tr>
     <tr>
       <td>Apellidos</td>
-      <td></td>
+      <td>Guaman Romero</td>
     </tr>
     <tr>
       <td>Edad</td>
-      <td></td>
+      <td>24 años</td>
     </tr>
     <tr>
       <td>Distrito</td>
-      <td></td>
+      <td>San Martín de Porres</td>
     </tr>
     <tr>
       <td>Aplicaciones y Canales Utilizados</td>
-      <td></td>
+      <td>AutoCAD, Google Earth, plataformas municipales, WhatsApp, llamadas, correos</td>
     </tr>
     <tr>
       <td>Motivación</td>
-      <td></td>
+      <td>Mejorar la organización para entregar expedientes adecuadamente y a tiempo, evitando subsanaciones tardías.</td>
     </tr>
     <tr>
       <td>Frustración</td>
-      <td></td>
+      <td>La falta de control sobre los tiempos límite de entrega o subsanación de expedientes, lo que provoca que se venzan los plazos debido a la carga de pendientes y mala coordinación inicial.</td>
     </tr>
     <tr>
       <td>Tecnologías</td>
-      <td></td>
+      <td>Computadoras, móviles</td>
     </tr>
     <tr>
       <td>Preferencias Visuales</td>
-      <td></td>
+      <td>Colores claros y neutros (blancos, grises, celestes). A nivel funcional, prefiere tablas de datos muy detalladas para su uso personal/administrativo, pero gráficos visuales cuando se trata de exponer al cliente.</td>
     </tr>
     <tr>
       <td>Evidencia</td>
-      <td><div align="center"></div></td>
+      <td><div align="center"><img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Nayeli-Huaman.png?raw=true" alt="Entrevista Nayeli Huaman"></div></td>
     </tr>
     <tr>
       <td>Link</td>
-      <td></td>
+      <td><p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224130_upc_edu_pe/IQCA9xgF1lEKRIj9UXoSjWp8AfG26fYAt3zZ1eL-eoDdRuQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Wnr0AV" title="Title">Microsoft Stream</a></p></td>
     </tr>
     <tr>
       <td>Duración<br></td>
-      <td></td>
+      <td>29:41 min - 35:59 min</td>
     </tr>
     <tr>
       <td>Resumen</td>
-      <td></td>
+      <td>En la entrevista con Nayeli Sabrina Guaman Romero, nos comentó que le agradó nuestra landing page por su diseño interactivo y la sencillez para entender de inmediato el propósito de Kipu. Respecto a la aplicación web, destacó el nivel de detalle y la utilidad de las tablas de inventarios y requerimientos de materiales, ya que evitan errores humanos comunes al digitar datos a mano. Sugirió que se podría agregar un historial de cotizaciones anteriores con proveedores para facilitar comparativas rápidas de precios. Nayeli opina que la plataforma es ágil para optimizar la coordinación interna, por lo que sí usaría Kipu y la recomendaría a otros asistentes de almacén y administración.</td>
     </tr>
   </tbody>
 </table>
@@ -4910,55 +4910,55 @@ En esta sección presentamos los registros de las entrevistas de validación rea
   <tbody>
     <tr>
       <td>Nombre</td>
-      <td></td>
+      <td>Jacqueline Jeanela</td>
     </tr>
     <tr>
       <td>Apellidos</td>
-      <td></td>
+      <td>Herrera Huerta</td>
     </tr>
     <tr>
       <td>Edad</td>
-      <td></td>
+      <td>30 años</td>
     </tr>
     <tr>
       <td>Distrito</td>
-      <td></td>
+      <td>Pumabamba, Ancash</td>
     </tr>
     <tr>
       <td>Aplicaciones y Canales Utilizados</td>
-      <td></td>
+      <td>Excel, Correos, WhatsApp, llamadas</td>
     </tr>
     <tr>
       <td>Motivación</td>
-      <td></td>
+      <td>Garantizar que los insumos requeridos lleguen en el tiempo exacto y con las unidades correctas para no frenar la construcción.</td>
     </tr>
     <tr>
       <td>Frustración</td>
-      <td></td>
+      <td>Compras "informales" mal gestionadas. Los materiales no llegan a tiempo, llegan incompletos o con especificaciones técnicas equivocadas (ej. varillas de metal de otra medida) por coordinar presupuestos únicamente vía WhatsApp.</td>
     </tr>
     <tr>
       <td>Tecnologías</td>
-      <td></td>
+      <td>Computadora de escritorio</td>
     </tr>
     <tr>
       <td>Preferencias Visuales</td>
-      <td></td>
+      <td>Escala de grises, azules y colores pasteles suaves (sin mucho contraste para no alterar la vista). Prefiere un panel principal (dashboard) gráfico que permita seleccionar la información requerida en el momento.</td>
     </tr>
     <tr>
       <td>Evidencia</td>
-      <td><div align="center"></div></td>
+      <td><div align="center"><img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Interviews/entrevista-Jacqueline-Herrera.png?raw=true" alt="Entrevista Jeanela Herrera"></div></td>
     </tr>
     <tr>
       <td>Link</td>
-      <td></td>
+      <td><p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224130_upc_edu_pe/IQCA9xgF1lEKRIj9UXoSjWp8AfG26fYAt3zZ1eL-eoDdRuQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Wnr0AV" title="Title">Microsoft Stream</a></p></td>
     </tr>
     <tr>
       <td>Duración<br></td>
-      <td></td>
+      <td>35:59 min - 42:26 min</td>
     </tr>
     <tr>
       <td>Resumen</td>
-      <td></td>
+      <td>En la entrevista con Jacqueline Jeanela Herrera Huerta, valoró muy positivamente la organización y el contenido explicativo de la landing page. Al interactuar con la aplicación web Kipu, consideró que es intuitiva, eficiente y que ayuda a mitigar las malas solicitudes de compra previniendo duplicados de insumos. Como sugerencia, recomendó que el Dashboard principal muestre un gráfico comparativo del presupuesto ejecutado contra el planificado mensualmente en lugar de solo números planos. Jacqueline considera que la plataforma aporta orden y seguridad en las adquisiciones, por lo que la utilizaría cotidianamente y la recomendaría a colegas del sector logística.</td>
     </tr>
   </tbody>
 </table>
