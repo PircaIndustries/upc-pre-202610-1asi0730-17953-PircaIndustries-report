@@ -1,36 +1,61 @@
-<div align="center">
-  <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/UPC_logo_transparente.png?raw=true" alt="Logo-UPC" width="150">
+<div style="text-align: center; width: 100%;">
+  <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/UPC_logo_transparente.png?raw=true" alt="Logo-UPC" width="150" style="display: block; margin: 0 auto 20px auto;">
 
+  <h2 style="text-align: center; margin: 10px 0;">Universidad Peruana de Ciencias Aplicadas</h2>
 
-## Universidad Peruana de Ciencias Aplicadas
+  <p style="text-align: center; margin: 5px 0;"><strong>Ingeniería de Software</strong></p>
 
-**Ingeniería de Software**
+  <p style="text-align: center; margin: 5px 0;"><strong>Ciclo:</strong> 2026-10</p>
 
-**Ciclo:** 2026-10
+  <p style="text-align: center; margin: 5px 0;"><strong>Curso:</strong> Aplicaciones Web</p>
 
-**Curso:** Aplicaciones Web
+  <p style="text-align: center; margin: 5px 0;"><strong>Sección:</strong> 17953</p>
 
-**Sección:** 17953
+  <p style="text-align: center; margin: 5px 0;"><strong>Profesor:</strong> Alex Humberto Sánchez Ponce</p>
 
-**Profesor:** Alex Humberto Sánchez Ponce
+  <hr style="width: 100%; border: 1px solid #ddd; margin: 20px 0;">
+  
+  <h2 style="text-align: center; margin: 10px 0;">Informe de Trabajo Final</h2>
+  <h3 style="text-align: center; margin: 5px 0;">PircaIndustries</h3>
 
-----
-## Informe de Trabajo Final
-### PircaIndustries
-
-### Kipu
-#### Relación de integrantes 
-| Integrante                      | Código     |
-| ---------------------------------| ------------|
-| Francia Torres Jhony Manuel     | U202417329 |
-| Montoya Nina Paula Fernanda     | U20241d934 |
-| Palacios Tinoco Adrian Fernando | U202410817 |
-| Ramos Hinostroza Diego Antonio  | U202224130 |
-| Ramos Mera Neo Daniel           | U20241e418 |
-
-</div>
-
-<br><div align="center"><h3>Abril 2026</h3></div><br>
+  <h3 style="text-align: center; margin: 5px 0;">Kipu</h3>
+  <br>
+  <h4 style="text-align: center; margin: 10px 0;">Relación de integrantes</h4>
+  
+  <table style="margin: 0 auto; border-collapse: collapse; text-align: left;">
+    <thead>
+      <tr style="border-bottom: 2px solid #ddd;">
+        <th style="padding: 8px 20px; font-weight: bold;">Integrante</th>
+        <th style="padding: 8px 20px; font-weight: bold;">Código</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 8px 20px;">Francia Torres Jhony Manuel</td>
+        <td style="padding: 8px 20px;">U202417329</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 8px 20px;">Montoya Nina Paula Fernanda</td>
+        <td style="padding: 8px 20px;">U20241d934</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 8px 20px;">Palacios Tinoco Adrian Fernando</td>
+        <td style="padding: 8px 20px;">U202410817</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 8px 20px;">Ramos Hinostroza Diego Antonio</td>
+        <td style="padding: 8px 20px;">U202224130</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 8px 20px;">Ramos Mera Neo Daniel</td>
+        <td style="padding: 8px 20px;">U20241e418</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  <br><br>
+  <h3 style="text-align: center; margin: 20px 0;">Abril 2026</h3>
+</div><br>
 <div style="text-align: justify;">
 
 <br><br>
@@ -342,7 +367,7 @@ https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries
     - [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
   - [5.2. Landing Page, Services \& Applications Implementation.](#52-landing-page-services--applications-implementation)
     - [5.2.1. Sprint 1](#521-sprint-1)
-      - [5.2.1.1. Sprint  1.](#5211-sprint--1)
+      - [5.2.1.1. Sprint Planning 1.](#5211-sprint-planning-1)
       - [5.2.1.2. Aspect Leaders and Collaborators.](#5212-aspect-leaders-and-collaborators)
       - [5.2.1.3. Sprint Backlog 1.](#5213-sprint-backlog-1)
       - [5.2.1.4. Development Evidence for Sprint Review.](#5214-development-evidence-for-sprint-review)
@@ -350,18 +375,26 @@ https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries
       - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
-    - [5.2.2 Sprint 2](#522-sprint-2)
-      - [5.2.2.1 Sprint  2](#5221-sprint--2)
-      - [5.2.2.2 Sprint Backlog 2](#5222-sprint-backlog-2)
-      - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
-      - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
-      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+      - [5.2.2.2. Aspect Leaders and Collaborators.](#5222-aspect-leaders-and-collaborators)
+      - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+      - [5.2.2.4. Development Evidence for Sprint Review.](#5224-development-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
       - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
-      - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
-      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+      - [5.2.2.8. Team Collaboration Insights for Sprint Review](#5228-team-collaboration-insights-for-sprint-review)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Spring Planning 3.](#5231-spring-planning-3)
+      - [5.2.3.2. Aspect Leaders and Collaborators.](#5232-aspect-leaders-and-collaborators)
+      - [5.2.3.3. Sprint Backlog 3.](#5233-sprint-backlog-3)
+      - [5.2.3.4. Development Evidence for Sprint Review.](#5234-development-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review.](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews.](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
-    - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
+    - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
     - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product.](#54-video-about-the-product)
 - [Conclusiones](#conclusiones)
@@ -3931,7 +3964,7 @@ Enlace: [Sprint Backlog 2 en Jira](https://pircaindustries.atlassian.net/jira/so
 </tbody>
 </table>
 
-#### 5.2.2.4.Development Evidence for Sprint Review.
+#### 5.2.2.4. Development Evidence for Sprint Review.
 Esta sección presenta los avances en la implementación técnica de la solución Kipu bajo el ecosistema de PircaIndustries. Durante el presente Sprint, el equipo se enfocó en consolidar la arquitectura de microservicios y el frontend basado en la consistencia visual y jerarquía de información. Los esfuerzos principales se centraron en la gestión de proyectos (creación, estados y estadísticas), la implementación de contextos delimitados críticos como Inventory, Suppliers, Execution (control de progreso diario y registro fotográfico) y Budget. Asimismo, se unificó la interfaz de autenticación y se integró soporte multi-idioma (i18n) para mejorar la experiencia de usuario en los módulos de directorio de trabajadores y administración de equipos.
 
 <table>
@@ -4421,7 +4454,7 @@ Esta sección presenta los avances en la implementación técnica de la solució
   </tbody>
 </table>
 
-#### 5.2.2.5.Execution Evidence for Sprint Review.
+#### 5.2.2.5. Execution Evidence for Sprint Review.
 
 Esta sección presenta las evidencias de ejecución técnica alcanzadas durante el presente Sprint para la solución **Kipu** bajo el ecosistema de **PircaIndustries**. A continuación, se detalla el resumen de los logros, las interfaces principales implementadas y el material audiovisual de respaldo.
 
@@ -4475,7 +4508,7 @@ Para una comprensión detallada de la navegación y el flujo de trabajo implemen
 >
 > **Descripción:** El video ilustra la navegación fluida entre módulos, la gestión de los contextos delimitados y la respuesta del sistema ante la interacción del usuario en tiempo real, validando la arquitectura de información definida.
 
-#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
 A continuación, se presenta la documentación de los servicios implementados durante el Sprint, detallando los endpoints disponibles, los verbos HTTP utilizados, la sintaxis de las solicitudes, la explicación de las respuestas y los enlaces a la documentación local para cada servicio.
 
@@ -4499,7 +4532,7 @@ A continuación, se presenta la documentación de los servicios implementados du
 | `/team-workers` | **GET** | `/team-workers` | Registro de operarios y personal de campo en obra. | `http://localhost:3000/team-workers` |
 | `/documents` | **GET** | `/documents` | Repositorio de planos, certificados y actas de obra. | `http://localhost:3000/documents` |
 
-#### 5.2.2.8.Team Collaboration Insights for Sprint Review
+#### 5.2.2.8. Team Collaboration Insights for Sprint Review
 
 <img src="Resources/Sprint-2/insight-sprint2.PNG" alt="Team Collaboration Insights" width="800"/>
 
@@ -4526,12 +4559,12 @@ A continuación, se presenta la documentación de los servicios implementados du
 | **Sum of Story Points** |  Story Points |
 
 #### 5.2.3.2. Aspect Leaders and Collaborators.
-#### 5.2.3.3.Sprint Backlog 3.
-#### 5.2.3.4.Development Evidence for Sprint Review.
-#### 5.2.3.5.Execution Evidence for Sprint Review.
-#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
-#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
-#### 5.2.3.8.Team Collaboration Insights during Sprint.
+#### 5.2.3.3. Sprint Backlog 3.
+#### 5.2.3.4. Development Evidence for Sprint Review.
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
 
 ## 5.3. Validation Interviews.
 
