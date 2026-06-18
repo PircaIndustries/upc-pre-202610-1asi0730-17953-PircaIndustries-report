@@ -4569,12 +4569,86 @@ A continuación, se presenta la documentación de los servicios implementados du
 
 <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Swagger Documentation/Endpoint Auth.jpeg?raw=true" alt="Imagen del Endpoint Auth">
 <br>
-<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Swagger Documentation/Endpoint Users.jpeg?raw=true" alt="Imagen del Endpoint Users">
-<br>
 <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Swagger Documentation/Endpoint Auth Login.jpeg?raw=true" alt="Imagen del Endpoint Auth Login">
+<br>
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Swagger Documentation/Endpoint Users.jpeg?raw=true" alt="Imagen del Endpoint Users">
 <br>
 
 Esta sección documenta los servicios expuestos para la seguridad y el control de accesos del ecosistema de la aplicación. El servicio procesa operaciones de registro (POST /auth/sign-up) y autenticación de usuarios (POST /auth/sign-in), las cuales validan las credenciales entrantes, aplican el algoritmo de hash criptográfico del lado del servidor y retornan un token digital firmado JWT de manera asíncrona. Asimismo, se exponen métodos de consulta (GET) para recuperar perfiles y roles específicos en tiempo de ejecución.
+<br>
+
+##### Bounded Context: Project Management
+
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Swagger Documentation/Endpoint Projects.jpeg?raw=true" alt="Imagen del Endpoint Projects">
+<br>
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Swagger Documentation/Endpoint Projects Items.jpeg?raw=true" alt="Imagen del Endpoint Projects Items">
+<br>
+
+Define los contratos de servicios destinados a controlar el ciclo de vida operativo de los proyectos de construcción. El endpoint principal de creación (POST) inicializa la entidad del proyecto estableciendo sus metadatos base y estado financiero, mientras que las operaciones de consulta (GET) proveen colecciones estructuradas para el mapeo dinámico del portafolio en la aplicación cliente. Adicionalmente, expone métodos para inyectar hitos y fases específicas dentro de la línea de tiempo del proyecto.
+
+##### Bounded Context: Logistics and Supplies
+
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Swagger Documentation/Endpoint Supplier.jpeg?raw=true" alt="Imagen del Endpoint Supplier">
+<br>
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Swagger Documentation/Endpoint Material.jpeg?raw=true" alt="Imagen del Endpoint Material">
+<br>
+
+Expone la arquitectura de servicios necesaria para el control de inventarios, catálogos de materiales, gestión de proveedores y procesamiento de solicitudes de reabastecimiento en obra. Soporta operaciones CRUD completas, incluyendo el procesamiento de peticiones de materiales mediante conversiones seguras de tipos de datos de dominio y la actualización parcial de los perfiles de proveedores activos, asegurando la trazabilidad de la cadena de suministro.
+
+##### Bounded Context: Budget Management (Partidas Presupuestales)
+
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Swagger Documentation/Endpoint Budget Items.jpeg?raw=true" alt="Imagen del Endpoint Budget Items">
+<br>
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Swagger Documentation/Endpoint Budget Items Post.jpeg?raw=true" alt="Imagen del Endpoint Budget Items Post">
+<br>
+
+Arquitectura orientada a servicios desarrollada para el control financiero minucioso de los recursos económicos asignados a las partidas operativas del proyecto.
+
+* POST /api/v1/budget-items: Registra y da de alta una partida presupuestal asociando su nombre de actividad, detalles conceptuales y fondo financiero inicial.
+
+* GET /api/v1/budget-items/{id} y /project/{projectId}: Operaciones de lectura optimizadas para alimentar las interfaces visuales de reportes del lado del cliente.
+
+* POST /api/v1/budget-items/{id}/transactions: Captura los flujos transaccionales entrantes para registrar los gastos reales ejecutados en campo, modificando de forma asíncrona la integridad del acumulado.
+
+* POST /api/v1/budget-items/{id}/extensions: Permite registrar ampliaciones y adendas financieras sobre el presupuesto asignado originalmente.
+
+* DELETE /api/v1/budget-items/{id}: Endpoint contractual expuesto para garantizar el cumplimiento de los estándares REST de eliminación definidos en las especificaciones del diseño.
+
+##### Bounded Context: Construction Progress Tracking (Avances de Obra)
+
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Swagger Documentation/Endpoint Progress Items.jpeg?raw=true" alt="Imagen del Endpoint Progress Items">
+<br>
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Swagger Documentation/Endpoint Progress Items Mini Advances.jpeg?raw=true" alt="Imagen del Endpoint Progress Items Mini Advances">
+<br>
+
+Servicios REST dedicados a la evaluación, medición e histórico del cumplimiento físico de las tareas de construcción planificadas en los frentes de trabajo.
+
+* POST /api/v1/progress-items: Inicializa un nodo de seguimiento técnico vinculando el peso y porcentaje planificado original de la actividad.
+
+* PUT /api/v1/progress-items/{id}: Sobrescribe los valores de progreso generales del nodo cuando se completan hitos macro.
+
+* POST /api/v1/progress-items/{id}/mini-advances: Endpoint especializado para capturar la lógica analítica de los avances diarios. Permite al cliente enviar una descripción técnica del hito y el cálculo acumulado del porcentaje diario, disparando de manera asíncrona los comandos internos que validan y mantienen la integridad del progreso real de la tarea principal.
+
+##### Bounded Context: Team and Resource Allocation
+
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Swagger Documentation/Endpoint Team.jpeg?raw=true" alt="Imagen del Endpoint Team">
+<br>
+
+Define los contratos de servicios para la administración del capital humano y la asignación de recursos logísticos en los frentes operativos. Expone endpoints para la asignación y desasignación de maquinaria pesada a trabajadores específicos, así como las consultas necesarias para validar el estado de actividad, roles y disponibilidad del personal asignado a cada proyecto de construcción en tiempo de ejecución.
+
+##### Bounded Context: Document and Digital Signature Control
+
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Swagger Documentation/Endpoint Documents.jpeg?raw=true" alt="Imagen del Endpoint Documents">
+<br>
+
+Servicios encargados del almacenamiento, control de plazos y flujos de firma digital para los contratos y actas del proyecto. Expone métodos para inicializar la auditoría de un documento (POST), recuperar documentos pendientes por usuario (GET), y procesar la inyección del token de firma digital por parte de los participantes autorizados (POST /api/v1/documents/sign), garantizando el no repudio y la integridad documental en el repositorio persistente.
+
+##### Bounded Context: Especificación de Contratos de Intercambio de Datos (Schemas / DTOs)
+
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Swagger Documentation/Schemas.jpeg?raw=true" alt="Imagen de Schemas">
+<br>
+
+En concordancia con los patrones arquitecturales establecidos, el sistema implementa Objetos de Transferencia de Datos (DTOs) para aislar las entidades del modelo de dominio de la capa de presentación externa. Estos contratos JSON garantizan la validación estricta de tipos de datos primitivos (escalas decimales de precisión financiera para los presupuestos y cotizaciones, y restricciones de longitud de cadena para campos de texto requeridos) en el canal de entrada de las peticiones HTTP, impidiendo la propagación de datos corruptos hacia las capas de infraestructura.
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
