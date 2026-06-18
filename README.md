@@ -310,25 +310,27 @@ https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries
 
         + **Adrian Palacios**
             <div style="display: flex; align-items: center;">
-            <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Collaboration-Insights/Insight-Adrian-Commits.png?raw=true" >
+            <img src="https://raw.githubusercontent.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/refs/heads/main/Resources/Insights/AV2/commits%20Adrian.PNG">
             </div><br>
 
         + **Neo Ramos**
             <div style="display: flex; align-items: center;">
-            <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Collaboration-Insights/Insight-Neo-Commits.png?raw=true">
+            <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Insights/AV2/Commits%20Neo.PNG?raw=true">
             </div><br>
 
         + **Paula Montoya**
             <div style="display: flex; align-items: center;">
-            <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Collaboration-Insights/Insight-Paula-Commits.png?raw=true">
+            <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Insights/AV2/Commits%20paula.PNG?raw=true">
+            <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Insights/AV2/Commits%20paula2.PNG?raw=true">
+            <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Insights/AV2/Commits%20paula3.PNG?raw=true">
             </div><br>
         + **Jhony Francia**
             <div style="display: flex; align-items: center;">
-            <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Collaboration-Insights/Insight-Jhony-Commits.png?raw=true">
+            <img src="">
             </div><br>
         + **Diego Ramos**
             <div style="display: flex; align-items: center;">
-            <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Collaboration-Insights/Insight-Diego-Commits.png?raw=true">
+            <img src="">
             </div><br><br>
 
 
