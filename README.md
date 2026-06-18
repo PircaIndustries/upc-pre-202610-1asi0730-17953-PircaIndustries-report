@@ -288,7 +288,48 @@ https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries
             <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Collaboration-Insights/Insight-Diego-Commits.png?raw=true">
             </div><br><br>
 
+<strong>*Entrega AV2:*</strong>
 
++ Desarrollo de Actividades
+  Para el entregable AV2, el equipo mantuvo una comunicación constante mediante Discord y reuniones presenciales, lo que permitió coordinar eficazmente las actividades del Sprint y realizar un seguimiento continuo de los avances de cada integrante. La distribución de tareas se realizó de forma equilibrada, asignando responsabilidades específicas en el desarrollo de frontend, backend, integración de funcionalidades y despliegue de la aplicación.
+
++ **Evidencias de colaboración y commits - Github:**
+  * **Análiticos de colaboración** <br><br>
+    + **Pulse Image of Github Insights**
+      <div align="center"><img src="Resources/Insights/AV2/SummaryBack.PNG"></div><br><br>
+
+
+        + **Contributors Image of Github Insights**
+        <div align="center"><img src="Resources/Insights/AV2/Contribuitors.PNG"></div><br><br>
+        <div align="center"><img src="Resources/Insights/AV2/Contribuitors commits.PNG"></div>
+
+
+    * **Commits**
+
+         A continuacion se muestran algunos commits realizados en este entrega de AV1.
+
+        + **Adrian Palacios**
+            <div style="display: flex; align-items: center;">
+            <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Collaboration-Insights/Insight-Adrian-Commits.png?raw=true" >
+            </div><br>
+
+        + **Neo Ramos**
+            <div style="display: flex; align-items: center;">
+            <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Collaboration-Insights/Insight-Neo-Commits.png?raw=true">
+            </div><br>
+
+        + **Paula Montoya**
+            <div style="display: flex; align-items: center;">
+            <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Collaboration-Insights/Insight-Paula-Commits.png?raw=true">
+            </div><br>
+        + **Jhony Francia**
+            <div style="display: flex; align-items: center;">
+            <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Collaboration-Insights/Insight-Jhony-Commits.png?raw=true">
+            </div><br>
+        + **Diego Ramos**
+            <div style="display: flex; align-items: center;">
+            <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Collaboration-Insights/Insight-Diego-Commits.png?raw=true">
+            </div><br><br>
 
 
 ---
