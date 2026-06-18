@@ -4626,31 +4626,31 @@ Durante este ciclo de desarrollo, el equipo concentró sus esfuerzos en el dise�
 *A continuación, se presentan las capturas de la documentación interactiva de Swagger UI que validan la estructura de enrutamiento y la exposición de los servicios del backend:*
 
 #### 2.1 Gestión de Usuarios y Control de Personal (TeamUsers & TeamWorkers)
-<img src="Resources/Sprint-2/Dashboard.PNG" alt="Dashboard de Proyectos" width="600"/>
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/EndpointsBackend/TeamUsers%20-%20TeamWorker.PNG?raw=true" alt="TeamUsers & TeamWorkers" width="600"/>
 
 #### 2.2 Gestión de Cuentas de Usuario del Sistema (Users)
-<img src="Resources/Sprint-2/Registro-de-avances.PNG" alt="Registro de Avances" width="600"/>
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/EndpointsBackend/Users.PNG?raw=true" alt="Users" width="600"/>
 
 #### 2.3 Autenticación y Control Presupuestario (Auth & BudgetItems)
-<img src="Resources/Sprint-2/RNC.PNG" alt="Registro de NCR" width="600"/>
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/EndpointsBackend/Auth-BudgetItems.PNG?raw=true" alt="Auth & BudgetItems" width="600"/>
 
 #### 2.4 Catálogo de Categorías y Gestión Documental (CategoriesCatalog & Documents)
-<img src="Resources/Sprint-2/materiales.PNG" alt="Gestión de Materiales" width="600"/>
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/EndpointsBackend/CategoriesCatalog%20-%20Documents.PNG?raw=true" alt="CategoriesCatalog & Documents" width="600"/>
 
 #### 2.5 Catálogo de Materiales e Inventarios en Obra (MaterialCatalog & MaterialInventories)
-<img src="Resources/Sprint-2/firmas.PNG" alt="Módulo de Firmas" width="600"/>
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/EndpointsBackend/MaterialCatalog%20-%20MaterialInventories.PNG?raw=true" alt="MaterialCatalog & MaterialInventories" width="600"/>
 
 #### 2.6 Solicitudes de Materiales y Reportes de No Conformidad (MaterialRequest & Ncrs)
-<img src="Resources/Sprint-2/Presupuestos.PNG" alt="Módulo de Presupuesto" width="600"/>
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/EndpointsBackend/MaterialRequest%20-%20Ncrs.PNG?raw=true" alt="MaterialRequest & Ncrs" width="600"/>
 
 #### 2.7 Avances de Obra y Estructura de Proyectos (ProgressItems & Projects)
-<img src="Resources/Sprint-2/equipo.PNG" alt="Módulo de Equipo" width="600"/>
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/EndpointsBackend/ProgressItems%20-%20Projects.PNG?raw=true" alt="ProgressItems & Projects" width="600"/>
 
 #### 2.8 Registro de Proveedores (Supplier)
-<img src="Resources/Sprint-2/equipo.PNG" alt="Módulo de Equipo" width="600"/>
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/EndpointsBackend/Supplier.PNG?raw=true" alt="Supplier" width="600"/>
 
 #### 2.9 Gestión de Ofertas de Proveedores (SupplierOffers)
-<img src="Resources/Sprint-2/equipo.PNG" alt="Módulo de Equipo" width="600"/>
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/EndpointsBackend/SupplierOffers.PNG?raw=true" alt="SupplierOffers" width="600"/>
 
 ---
 
