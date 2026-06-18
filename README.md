@@ -4605,6 +4605,63 @@ A continuación, se presenta la documentación de los servicios implementados du
 #### 5.2.3.3. Sprint Backlog 3.
 #### 5.2.3.4. Development Evidence for Sprint Review.
 #### 5.2.3.5. Execution Evidence for Sprint Review.
+
+Esta sección presenta las evidencias de ejecución técnica alcanzadas durante el presente Sprint para la solución Kipu bajo el ecosistema de PircaIndustries. A continuación, se detalla el resumen de los logros del backend, la documentación de la API expuesta y el material audiovisual de respaldo.
+
+---
+
+#### 1. Resumen de Logros del Sprint
+
+Durante este ciclo de desarrollo, el equipo concentró sus esfuerzos en el diseño, arquitectura e implementación de la capa de servicios backend. Se consolidó una API REST robusta estructurada bajo principios de Domain-Driven Design (DDD), logrando los siguientes hitos principales:
+
+*   **Modelamiento de Contextos de Negocio:** Se migraron las reglas de negocio a servicios distribuidos, definiendo con precisión los endpoints para los contextos delimitados de Proyectos (Projects), Recursos Humanos (Team Users / Team Workers), Logística y Suministros (Suppliers, Material Catalog, Material Request, Material Inventories), Finanzas (Budget Items) y Control de Calidad (Ncrs, Documents).
+*   **Gestión de Accesos y Autenticación:** Se implementó el módulo de autenticación segura (Auth) para centralizar el flujo de inicio de sesión y la asignación dinámica de roles a los usuarios del sistema.
+*   **Trazabilidad Operacional y Financiera:** Se desarrollaron controladores específicos para el control presupuestario (transacciones y extensiones) y el seguimiento de maquinaria pesada asignada a los trabajadores en obra.
+*   **Documentación Automatizada:** Se integró y configuró la interfaz de Swagger UI bajo la especificación OpenAPI, permitiendo la interactividad, testeo directo de endpoints y validación de contratos de datos en tiempo real.
+
+---
+
+#### 2. Endpoints e Interfaces de la API (Screenshots de Swagger UI)
+
+*A continuación, se presentan las capturas de la documentación interactiva de Swagger UI que validan la estructura de enrutamiento y la exposición de los servicios del backend:*
+
+#### 2.1 Gestión de Usuarios y Control de Personal (TeamUsers & TeamWorkers)
+<img src="Resources/Sprint-2/Dashboard.PNG" alt="Dashboard de Proyectos" width="600"/>
+
+#### 2.2 Gestión de Cuentas de Usuario del Sistema (Users)
+<img src="Resources/Sprint-2/Registro-de-avances.PNG" alt="Registro de Avances" width="600"/>
+
+#### 2.3 Autenticación y Control Presupuestario (Auth & BudgetItems)
+<img src="Resources/Sprint-2/RNC.PNG" alt="Registro de NCR" width="600"/>
+
+#### 2.4 Catálogo de Categorías y Gestión Documental (CategoriesCatalog & Documents)
+<img src="Resources/Sprint-2/materiales.PNG" alt="Gestión de Materiales" width="600"/>
+
+#### 2.5 Catálogo de Materiales e Inventarios en Obra (MaterialCatalog & MaterialInventories)
+<img src="Resources/Sprint-2/firmas.PNG" alt="Módulo de Firmas" width="600"/>
+
+#### 2.6 Solicitudes de Materiales y Reportes de No Conformidad (MaterialRequest & Ncrs)
+<img src="Resources/Sprint-2/Presupuestos.PNG" alt="Módulo de Presupuesto" width="600"/>
+
+#### 2.7 Avances de Obra y Estructura de Proyectos (ProgressItems & Projects)
+<img src="Resources/Sprint-2/equipo.PNG" alt="Módulo de Equipo" width="600"/>
+
+#### 2.8 Registro de Proveedores (Supplier)
+<img src="Resources/Sprint-2/equipo.PNG" alt="Módulo de Equipo" width="600"/>
+
+#### 2.9 Gestión de Ofertas de Proveedores (SupplierOffers)
+<img src="Resources/Sprint-2/equipo.PNG" alt="Módulo de Equipo" width="600"/>
+
+---
+
+### 3. Demostración Audiovisual
+
+Para una comprensión detallada de la arquitectura del backend, el flujo de peticiones HTTP y la respuesta del servidor, se ha preparado un video demostrativo que recorre las pruebas de los endpoints clave:
+
+>**Enlace al Video:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e418_upc_edu_pe/IQDusJs-eJcxTbuMRmstPEimAQqKIYTGWkf4GIN8ub9d5M0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=aoqaMa">Demostración audiovisual</a>
+>
+> **Descripción:** El video ilustra el correcto funcionamiento de la API a través de Swagger UI, realizando peticiones (POST, GET, PUT, PATCH, DELETE) hacia la base de datos, validando los códigos de respuesta HTTP y demostrando la consistencia de la arquitectura de información definida para este Sprint.
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 <br>
 
