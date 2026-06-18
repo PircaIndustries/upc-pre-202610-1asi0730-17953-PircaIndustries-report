@@ -306,7 +306,7 @@ https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries
 
     * **Commits**
 
-         A continuacion se muestran algunos commits realizados en este entrega de AV1.
+         A continuacion se muestran algunos commits realizados en este entrega de AV2.
 
         + **Adrian Palacios**
             <div style="display: flex; align-items: center;">
@@ -326,11 +326,11 @@ https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries
             </div><br>
         + **Jhony Francia**
             <div style="display: flex; align-items: center;">
-            <img src="">
+            <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Insights/AV2/commits%20Manuel.PNG?raw=true">
             </div><br>
         + **Diego Ramos**
             <div style="display: flex; align-items: center;">
-            <img src="">
+            <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Insights/AV2/Commits%20Diego.PNG?raw=true">
             </div><br><br>
 
 
