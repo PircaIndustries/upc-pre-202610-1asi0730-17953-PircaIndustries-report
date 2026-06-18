@@ -4563,6 +4563,16 @@ A continuación, se presenta la documentación de los servicios implementados du
 #### 5.2.3.4. Development Evidence for Sprint Review.
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+<br>
+*   **Bounded Context: Identity and Access Management (IAM)**
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Swagger Documentation/Endpoint Auth.jpeg?raw=true" alt="Imagen del Endpoint Auth">
+<br>
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Swagger Documentation/Endpoint Users.jpeg?raw=true" alt="Imagen del Endpoint Users">
+<br>
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Swagger Documentation/Endpoint Auth Login.jpeg?raw=true" alt="Imagen del Endpoint Auth Login">
+<br>
+Esta sección documenta los servicios expuestos para la seguridad y el control de accesos del ecosistema de la aplicación. El servicio procesa operaciones de registro (|POST /auth/sign-up|) y autenticación de usuarios (|POST /auth/sign-in|), las cuales validan las credenciales entrantes, aplican el algoritmo de hash criptográfico del lado del servidor y retornan un token digital firmado JWT de manera asíncrona. Asimismo, se exponen métodos de consulta (|GET|) para recuperar perfiles y roles específicos en tiempo de ejecución.
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
