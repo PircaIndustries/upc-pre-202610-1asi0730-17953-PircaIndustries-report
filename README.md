@@ -4753,6 +4753,14 @@ En concordancia con los patrones arquitecturales establecidos, el sistema implem
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Sprint-3/Team collaboration insights - 1.png" alt="Team Collaboration Insights" width="800"/>
+
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Sprint-3/Team collaboration insights - 2.png" alt="Team Collaboration Insights 2" width="800"/>
+
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Sprint-3/Team collaboration insights - 3.png" alt="Team Collaboration Insights 3" width="800"/>
+
+---
+
 ## 5.3. Validation Interviews.
 
 En esta sección, se registran y explican las actividades que abarcan las entrevistas de validación durante el desarrollo de nuestro proyecto. El objetivo principal de realizar estas entrevistas de validación es obtener retroalimentación, comprender las necesidades y expectativas de los usuarios, así como validar o refutar las hipótesis sobre el producto. Para lograr esto, haremos que nuestros entrevistados de ambos segmentos interactúen con la landing page y la aplicación web de Kipu.
