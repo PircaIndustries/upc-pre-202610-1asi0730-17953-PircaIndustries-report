@@ -5251,10 +5251,18 @@ Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u2022241
 
 ## Video-About-The-Product
   <div align="center">
+    <h1>AV1</h1>
     <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/25ba33cc85c64ef7d852b55f5558f0c28e4a4eae/Resources/Video-About-The-Product/Video-About-The-Product-image.PNG?raw=true" alt="Video about the product">
  </div>
 
  Enlace: [Video-About-The-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410817_upc_edu_pe/IQAaVrLGm803Qb5tEaD5zDwtASW_V6QHpUGs_V0TKhayERg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=2utT6s)
+
+  <div>
+    <h1>AV2</h1>
+    <img src="Resources/Video-About-The-Product/Video-About-The-Product-image-AV2.PNG" alt="Video-About-The-Product">
+  </div>
+
+  Enlace: [Video-About-The-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410817_upc_edu_pe/IQDGCp6TCRyLSoOq0QX0t9wsAeNlRxLWEqTmdicbAfGM5UY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=iqmslm)
 
  ## Exposure Video AV1
   <div align="center">
