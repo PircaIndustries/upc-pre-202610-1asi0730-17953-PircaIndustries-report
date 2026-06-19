@@ -1556,7 +1556,6 @@ Eventos que reflejan la estructura organizativa de una obra y su cronograma:
 
 #### C. Gestión Técnica y Legal (El valor diferencial de Kipu)
 Aquí capturamos la esencia de la modernización que propone **PircaIndustries** para centralizar la información dispersa:
-* **Planos:** `Blueprint uploaded`, `Blueprint rejected`, `Blueprint approved`.
 * **Legalidad:** `Document uploaded`, `Document sent for signature`, `Document signed`, `Document approved`.
 * **Finanzas:** `Budget created`, `Budget approved`, `Cost modified`.
 
@@ -1588,8 +1587,7 @@ El **User** interactúa con el sistema para gestionar su cuenta mediante comando
 #### Gestión de Proyectos (Project)
 El **Project Manager** centraliza la actividad operativa del proyecto. Es el responsable de ejecutar comandos para `Create`, `Update` y `Delete project`. Además, gestiona al equipo de trabajo mediante acciones para agregar o remover miembros y asignar roles específicos dentro de la obra, asegurando que cada integrante tenga el contexto adecuado.
 
-#### Planos y Diseño (Blueprint)
-El **Admin** (o responsable técnico) lidera el flujo de ingeniería. Utiliza comandos para `Upload`, `Update` y `Create version` de planos. La lógica de negocio se consolida con la capacidad de ejecutar `Approve` o `Reject blueprint`, garantizando que solo el diseño técnico validado sea el que se ejecute en la obra.
+
 
 <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Big-Picture-Event-Storming/step-2-Big picture event storming 1.1.PNG?raw=true" alt="Foto de Big Picture Event Storming - Step 2"/>
 
@@ -1962,7 +1960,7 @@ Para que Kipu sea realmente útil en el campo y en la oficina, hemos decidido co
 
 #### Esquemas de categorización de contenido
 
-* **Por tópicos (Estructura de Proyecto):** Es la forma natural en la que piensan los ingenieros. Organizamos todo por "Proyectos" y luego por sub-temas (Planos, Contratos, Actas). Esto permite que el modelo mental del usuario coincida perfectamente con el software.
+* **Por tópicos (Estructura de Proyecto):** Es la forma natural en la que piensan los ingenieros. Organizamos todo por "Proyectos" y luego por sub-temas (Documentos, Contratos, Actas). Esto permite que el modelo mental del usuario coincida perfectamente con el software.
 * **Según audiencia (Roles de Usuario):** Un residente de obra no necesita ver la facturación de la empresa, y un gerente no necesita ver cada pequeño reporte diario. Categorizar por audiencia nos permite "limpiar" la interfaz de cada usuario, mostrándole solo lo que es relevante para su rol.
 * **Cronológico:** En construcción, el "cuándo" es vital. Usamos este esquema para el historial de cambios (log de auditoría). Si hay una disputa legal, Kipu permite reconstruir la historia de un documento de forma lineal, lo cual es nuestra mayor propuesta de valor en cuanto a trazabilidad.
 * **Alfabético:** Lo reservamos para funciones de soporte, como el directorio de proveedores o la lista de colaboradores, donde la búsqueda por nombre es la forma más rápida de encontrar un dato.
@@ -2011,7 +2009,7 @@ La navegación en Kipu está pensada para ser "invisible" y eficiente:
 
 * **Menú Lateral Retráctil:** Prioriza el espacio de trabajo central donde se visualizan los documentos, manteniendo el acceso a los módulos principales a un solo clic.
 
-* **Migas de Pan (Breadcrumbs):** Vital para la navegación profunda en carpetas de proyectos (ej. Proyectos > Edificio Sol > Planos > Instalaciones), permitiendo al usuario ubicarse en todo momento.
+* **Migas de Pan (Breadcrumbs):** Vital para la navegación profunda en la estructura de proyectos (ej. Proyectos > Edificio Sol > Documentos > Contratos), permitiendo al usuario ubicarse en todo momento.
 
 * **Acciones Contextuales:** El sistema ofrece botones inteligentes basados en el estado del documento (ej. si un contrato no está firmado, el botón principal será "Solicitar Firma").
 
@@ -2103,12 +2101,6 @@ A continuación, presentaremos los wireframes de nuestra aplicación web de mane
     <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireframes/Wireframe-7.png?raw=true"  alt="wireframes-7">
 </div><br>
 
-- **Planos:** reúne los wireframes vinculados a la gestión documental técnica, permitiendo versionar, consultar y organizar planos para asegurar que el equipo trabaje siempre con la información vigente.<br><br>
-
-<div align="center">
-    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireframes/Wireframe-8.png?raw=true"  alt="wireframes-8">
-</div><br>
-
 - **Firmas:** contempla el flujo de validación y aprobación de documentos o entregables, incorporando mecanismos de conformidad digital para mantener respaldo y trazabilidad en los cierres de etapa.<br><br>
 
 <div align="center">
@@ -2157,11 +2149,6 @@ A continuación, presentaremos los wireframes de nuestra aplicación web de mane
 <b>Wireframes de la sección RNC</b><br>
 <div align="center">
     <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireframes/Wireframe-mobile-8.png?raw=true" alt="wireframes-mobile-8">
-</div><br>
-
-<b>Wireframes de la sección Planos</b><br>
-<div align="center">
-    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireframes/Wireframe-mobile-9.png?raw=true" alt="wireframes-mobile-9">
 </div><br>
 
 <b>Wireframes de la sección Presupuesto</b><br>
@@ -2218,14 +2205,6 @@ A continuación, presentaremos los wireframes de nuestra aplicación web de mane
 **User Goal 5:** Como profesional en campo o solicitante, quiero crear pedidos formales de materiales e insumos, detallando los productos necesarios, las cantidades y la fecha requerida de entrega, para enviar las solicitudes al área logística de forma estructurada y evitar coordinaciones informales.
 
 <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireflow/Materiales.png?raw=true">
-
----
-
-## Planos
-
-**User Goal 6:** Como profesional técnico, quiero cargar, visualizar, versionar y organizar los planos del proyecto, aplicando filtros por categoría o especialidad y descargándolos para consulta sin conexión, para garantizar que todo el equipo trabaje con la versión más reciente y prevenir errores por documentos desactualizados.
-
-<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Wireflow/Planos.png?raw=true">
 
 ---
 
@@ -2310,13 +2289,6 @@ Enlace de <a href="https://www.figma.com/design/FyoLkuLim7pgB23ZdnuZOl/Kipu---Ap
 
 ---
 
-## Planos
-
-<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Planos/Mockup Desktop Planos - 1.png?raw=true">
-<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Planos/Mockup Desktop Planos - 2.png?raw=true">
-
----
-
 ## Equipo
 
 <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Equipo/Mockup Desktop Equipo.png?raw=true">
@@ -2389,12 +2361,6 @@ Enlace de <a href="https://www.figma.com/design/FyoLkuLim7pgB23ZdnuZOl/Kipu---Ap
 
 ---
 
-## Planos
-
-<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Planos/Mockup Mobile Planos.png?raw=true">
-
----
-
 ## Presupuesto
 
 <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Mockups/Presupuesto/Mockup Mobile Presupuesto.png?raw=true">
@@ -2450,14 +2416,6 @@ Enlace de <a href="https://www.figma.com/design/FyoLkuLim7pgB23ZdnuZOl/Kipu---Ap
 **User Goal 5:** Como profesional en campo o solicitante, quiero crear pedidos formales de materiales e insumos, detallando los productos necesarios, las cantidades y la fecha requerida de entrega, para enviar las solicitudes al área logística de forma estructurada y evitar coordinaciones informales.
 
 <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/UserFlow/Materiales.png?raw=true">
-
----
-
-## Planos
-
-**User Goal 6:** Como profesional técnico, quiero cargar, visualizar, versionar y organizar los planos del proyecto, aplicando filtros por categoría o especialidad y descargándolos para consulta sin conexión, para garantizar que todo el equipo trabaje con la versión más reciente y prevenir errores por documentos desactualizados.
-
-<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/UserFlow/Planos.png?raw=true">
 
 ---
 
@@ -2550,16 +2508,6 @@ Enlace para ver demostración del Prototype en vídeo: <a href="https://upcedupe
 <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Prototype/Materiales.jpeg?raw=true">
 
 **Timestamp:** 2:20
-
----
-
-## Planos
-
-**User Goal 6:** Como profesional técnico, quiero cargar, visualizar, versionar y organizar los planos del proyecto, aplicando filtros por categoría o especialidad y descargándolos para consulta sin conexión, para garantizar que todo el equipo trabaje con la versión más reciente y prevenir errores por documentos desactualizados.
-
-<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Prototype/Planos.jpeg?raw=true">
-
-**Timestamp:** 3:20
 
 ---
 
@@ -2707,13 +2655,6 @@ Protege la propiedad intelectual y asegura que el personal en campo construya so
     <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Design-Level-Event-Storming/designEventStorming-blueprint.png?raw=true" alt="Technical Documentation & Design Event Storming">
 </div>
 <br><br>
-
-* **Agregado: Blueprint Family**
-  <br> **Flujo:** El *Supervisor de Obra* consulta todos los planos y ejecuta **Subir Nueva Versión / Descargar**.
-  <br> **Eventos:** *Historial de Plano Actualizado*. <br>
-* **Agregado: Blueprint Data**
-  <br> **Flujo:** A través del visor 3D, el supervisor ejecuta **Añadir Comentario / Exportar 3D**.
-  <br> **Eventos:** *Anotación Guardada / Modelo Exportado*.
 
 ### Legal & Compliance Management
 Maneja las responsabilidades legales y el cierre formal de etapas constructivas.
@@ -3744,7 +3685,7 @@ A partir de la sección Insights de GitHub, se presentan las gráficas de colabo
 
 Durante este Sprint, el equipo ha organizado el trabajo en base a las Epics definidas en el Product Backlog. La asignación de líderes y colaboradores se ha realizado considerando la responsabilidad real de cada miembro en los distintos aspectos del proyecto, según se documenta en la planificación interna del equipo.
 
-| Team Member (Last Name, First Name) | GitHub Username | EP01 (Cuentas y Acceso) | EP02 (Calidad y KPIs) | EP03 (Suministros y Presupuesto) | EP04 (Landing Page) | EP05 (Documentación Técnica) |
+| Team Member (Last Name, First Name) | GitHub Username | EP01 (Cuentas y Acceso) | EP02 (Calidad y KPIs) | EP03 (Suministros y Presupuesto) | EP04 (Landing Page) | EP05 (Documentación y Gestión de Equipo) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Francia Torres, Jhony Manuel | ManuelFT4 | C | L | C | C | L |
 | Montoya Nina, Paula Fernanda | SeviNyO | C | C | L | C | C |
@@ -4593,7 +4534,7 @@ A continuación, se presenta la documentación de los servicios implementados du
 | `/identities` | **GET** | `/identities` | Credenciales de acceso digital para el sistema SmartTecnologies. | `http://localhost:3000/identities` |
 | `/team-users` | **GET** | `/team-users` | Usuarios con roles administrativos en la plataforma. | `http://localhost:3000/team-users` |
 | `/team-workers` | **GET** | `/team-workers` | Registro de operarios y personal de campo en obra. | `http://localhost:3000/team-workers` |
-| `/documents` | **GET** | `/documents` | Repositorio de planos, certificados y actas de obra. | `http://localhost:3000/documents` |
+| `/documents` | **GET** | `/documents` | Repositorio de certificados y actas de obra. | `http://localhost:3000/documents` |
 
 #### 5.2.2.8. Team Collaboration Insights for Sprint Review
 
@@ -5142,7 +5083,7 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
 3. Si tuviera la oportunidad de cambiar o añadir algo en la landing page o en la aplicación web, ¿qué cambiaría o añadiría?
 4. ¿Cree que la solución presentada facilitará la gestión y el control de sus proyectos de construcción y brindará una mayor trazabilidad a los procesos? ¿Por qué?
 5. Sobre la landing page, ¿considera que cumple su función, la cual es persuadir a los visitantes a registrarse o conocer más sobre Kipu?
-6. Sobre la aplicación web, ¿considera que las secciones de avance de obra, planos, RNC y firmas son intuitivas y fáciles de usar? ¿Por qué?
+6. Sobre la aplicación web, ¿considera que las secciones de avance de obra, RNC y firmas son intuitivas y fáciles de usar? ¿Por qué?
 7. ¿Usted utilizaría la aplicación web Kipu para gestionar sus proyectos de construcción? ¿Por qué?
 8. ¿Recomendaría a sus colegas arquitectos e ingenieros a utilizar Kipu? ¿Por qué?
 
@@ -5550,9 +5491,357 @@ En esta sección presentamos los registros de las entrevistas de validación rea
   </tbody>
 </table>
 
-### 5.3.3. Evaluaciones según heurísticas.
+### 5.3.3. UX Heuristics & Principles Evaluation
 
+#### UX Heuristics & Principles Evaluation  
+**Usability – Inclusive Design – Information Architecture**
 
+| Campo | Descripción |
+|---|---|
+| Carrera | Ingeniería de Software |
+| Curso | Aplicaciones Web |
+| Sección | 1ASI0730 |
+| Auditor | AutoServiceOS |
+| Site o App evaluada | Kipu |
+| Tipo de evaluación | Evaluación de User Experience según heurísticas |
+| Alcance | Landing Page y Frontend Web Application |
+
+---
+
+#### Tareas evaluadas
+
+El alcance de esta evaluación incluye la revisión de usabilidad de las siguientes tareas:
+
+1. Visualización de la landing page.
+2. Navegación por las secciones principales de la landing page.
+3. Revisión de la información de planes y contacto.
+4. Envío de formulario de contacto.
+5. Inicio de sesión y acceso al frontend interno.
+6. Selección de proyecto.
+7. Registro de avance diario.
+8. Visualización de avances en calendario.
+9. Uso de bitácora fotográfica.
+10. Registro de RNC con evidencia fotográfica.
+11. Firma de documento mediante código de verificación.
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Validación completa de seguridad del backend.
+2. Pruebas de carga o rendimiento.
+3. Revisión profunda del código fuente.
+4. Validación real de pasarelas de pago.
+5. Validación legal de firma digital.
+6. Pruebas con usuarios finales reales.
+
+---
+
+#### Escala de severidad
+
+| Nivel | Descripción |
+|---|---|
+| 1 | Problema superficial o funcionalidad simulada. No bloquea el flujo principal y puede ser corregido si existe disponibilidad de tiempo. |
+| 2 | Problema menor. Puede generar confusión o afectar la percepción de calidad, pero el usuario puede continuar usando el sistema. |
+| 3 | Problema mayor. Ocurre con frecuencia o dificulta que el usuario entienda cómo recuperarse del error. Debe corregirse con prioridad alta. |
+| 4 | Problema muy grave. Impide completar una tarea principal del sistema. Debe corregirse antes del lanzamiento. |
+
+---
+
+#### Tabla resumen de problemas encontrados
+
+| # | Problema | Escala de severidad | Heurística / Principio violado |
+|---|---|---|---:|---|
+| 1 | La landing page presenta errores de ortografía y ausencia de tildes en varios textos. | 2 | Usability: Consistency and standards / Information Architecture: Is it understandable? |
+| 2 | El plan Professional muestra el precio como `49 /mes`, pero no indica la moneda. | 2 | Information Architecture: Is it findable? / Information Architecture: Is it understandable? |
+| 3 | La sección de contacto muestra un bloque de mapa vacío o no funcional. | 2 | Usability: Match between system and the real world / Information Architecture: Is it useful? |
+| 4 | El formulario de contacto redirige a una página técnica `405 Not Allowed` al enviar campos vacíos, incompletos o completos. | 4 | Usability: Help users recognize, diagnose, and recover from errors / Information Architecture: Is it usable? |
+| 5 | El formulario de contacto permite intentar el envío sin validar correctamente todos los campos obligatorios. | 3 | Usability: Error prevention |
+| 6 | El formulario de contacto no muestra mensajes de carga, éxito o error dentro de la interfaz. | 3 | Usability: Visibility of system status |
+| 7 | En el módulo Avances, el avance diario no se registra ni se refleja en la tabla o calendario. | 1 | Usability: Visibility of system status / Information Architecture: Is it usable? |
+| 8 | El calendario de avances aparece vacío incluso después de intentar registrar un avance. | 1 | Usability: Visibility of system status |
+| 9 | Los botones de subir imágenes y exportar no ejecutan una acción visible para el usuario. | 1 | Usability: Visibility of system status / Usability: Match between system and the real world |
+| 10 | Al registrar un RNC con evidencia, el sistema muestra el mensaje técnico `Error al persistir el reporte en el db.json`. | 3 | Usability: Help users recognize, diagnose, and recover from errors |
+| 11 | Al firmar un documento con un código incorrecto, el sistema muestra el mensaje técnico `Incorrect token`. | 3 | Usability: Help users recognize, diagnose, and recover from errors / Usability: Match between system and the real world |
+
+---
+
+#### Descripción de problemas
+
+---
+
+#### Problema #1: La landing page presenta errores de ortografía y ausencia de tildes
+
+**Severidad:** 2  
+**Heurística violada:** Usability: Consistency and standards / Information Architecture: Is it understandable?
+
+**Problema:**  
+Durante la revisión de la landing page se identificaron textos sin tildes o con redacción inconsistente. Algunos ejemplos son: `Minimo riesgo, maxima rentabilidad`, `Ver Demostracion`, `Caracteristicas`, `Validacion de Presupuesto`, `Sincronizacion digital`, `Informacion de contacto`, `Telefono` y `Direccion`.
+
+Este problema no bloquea el uso de la plataforma, pero afecta la percepción de calidad, formalidad y confiabilidad del producto. Además, genera una experiencia menos cuidada para el usuario final.
+
+**Evidencia:**  
+![Errores de ortografía en landing](https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Audit/ejmfaltadeortografia.png?raw=true)
+
+**Recomendación:**  
+Corregir los textos visibles en la interfaz aplicando tildes y una redacción uniforme. Por ejemplo:
+
+- `Mínimo riesgo, máxima rentabilidad`
+- `Ver demostración`
+- `Características`
+- `Validación de presupuesto`
+- `Sincronización digital`
+- `Información de contacto`
+- `Teléfono`
+- `Dirección`
+
+---
+
+#### Problema #2: El precio del plan Professional no indica moneda
+
+**Severidad:** 2  
+**Heurística violada:** Information Architecture: Is it findable? / Information Architecture: Is it understandable?
+
+**Problema:**  
+En la sección de planes, el plan Professional muestra el precio como `49 /mes`, pero no especifica si el monto está expresado en soles, dólares u otra moneda. Esto puede generar dudas en el usuario al momento de comparar planes o tomar una decisión de compra.
+
+La información económica debe ser clara, especialmente en una sección orientada a conversión comercial.
+
+**Evidencia:**  
+![Precio sin moneda en planes](https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Audit/planesError.png?raw=true)
+
+**Recomendación:**  
+Indicar explícitamente la moneda del plan. Por ejemplo:
+
+- `S/ 49 / mes`
+- `US$ 49 / mes`
+
+Además, se recomienda mantener el mismo formato de precios en todos los planes para reforzar la consistencia visual y textual.
+
+---
+
+#### Problema #3: La sección de contacto muestra un mapa vacío o no funcional
+
+**Severidad:** 2  
+**Heurística violada:** Usability: Match between system and the real world / Information Architecture: Is it useful?
+
+**Problema:**  
+En la sección de contacto se observa un bloque visual que representa un mapa o ubicación, pero únicamente muestra un ícono y no contiene un mapa real, dirección interactiva o enlace hacia una ubicación externa.
+
+Esto puede generar la percepción de que la sección está incompleta, especialmente porque el usuario espera encontrar información útil para ubicar o contactar a la empresa.
+
+**Evidencia:**  
+![Mapa vacío en sección contacto](https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Audit/mapaSeccionContacto.png?raw=true)
+
+**Recomendación:**  
+Reemplazar el bloque vacío por un mapa embebido, una imagen de ubicación o un botón que redirija a Google Maps. Si la ubicación aún no está definida, se recomienda mostrar un mensaje claro como:
+
+`Ubicación referencial disponible próximamente.`
+
+---
+
+#### Problema #4: El formulario de contacto redirige a una página técnica 405 Not Allowed
+
+**Severidad:** 4  
+**Heurística violada:** Usability: Help users recognize, diagnose, and recover from errors / Information Architecture: Is it usable?
+
+**Problema:**  
+Al presionar el botón `Enviar Mensaje` en el formulario de contacto, el sistema redirige a una página técnica con el mensaje `405 Not Allowed`. Este comportamiento ocurre cuando el formulario está vacío, cuando faltan campos y también cuando todos los campos se completan correctamente.
+
+El usuario no recibe una explicación clara sobre qué ocurrió, qué campo debe corregir o si el mensaje fue enviado correctamente. Además, al mostrar una página técnica externa al diseño de la aplicación, se rompe completamente el flujo de contacto.
+
+Este problema es crítico porque impide completar una tarea principal de la landing page: comunicarse con la empresa.
+
+**Evidencia:**  
+![Error 405 en formulario de contacto](https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Audit/error405.png?raw=true)
+
+**Recomendación:**  
+Evitar que el formulario redirija a una página técnica. En su lugar, se debe validar el formulario desde la interfaz y mostrar mensajes comprensibles. Por ejemplo:
+
+- `El nombre es obligatorio.`
+- `El apellido es obligatorio.`
+- `El correo electrónico es obligatorio.`
+- `El mensaje es obligatorio.`
+- `Mensaje enviado correctamente.`
+- `No se pudo enviar el mensaje. Inténtalo nuevamente.`
+
+---
+
+#### Problema #5: El formulario de contacto no previene errores antes del envío
+
+**Severidad:** 3  
+**Heurística violada:** Usability: Error prevention
+
+**Problema:**  
+El formulario permite intentar el envío aunque existan campos vacíos o incompletos. Aunque el campo de correo sí valida que exista un formato con `@`, el resto de campos no evita correctamente que el usuario avance hacia un error técnico.
+
+El sistema debería prevenir el error antes de realizar el envío, especialmente porque el usuario puede no saber qué información falta.
+
+**Evidencia:**  
+![Formulario sin validaciones completas](https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Audit/imagen_2026-06-15_174315198.png?raw=true)
+
+**Recomendación:**  
+Agregar validaciones frontend antes del envío. Se recomienda:
+
+- Marcar campos obligatorios con `required`.
+- Mostrar mensajes debajo de cada campo.
+- Resaltar visualmente los campos con error.
+- Evitar el envío si falta información.
+- Deshabilitar el botón de envío hasta que el formulario sea válido.
+
+---
+
+#### Problema #6: El formulario de contacto no muestra el estado del envío
+
+**Severidad:** 3  
+**Heurística violada:** Usability: Visibility of system status
+
+**Problema:**  
+Cuando el usuario envía el formulario, el sistema no muestra si el mensaje se está enviando, si fue recibido correctamente o si ocurrió un error recuperable. En lugar de ello, el usuario es enviado directamente a una pantalla técnica.
+
+Esto impide que el usuario conozca el estado real de la acción realizada.
+
+**Evidencia:**  
+![Formulario sin feedback de envío](https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Audit/imagen_2026-06-15_174315198.png?raw=true)
+
+**Recomendación:**  
+Mostrar retroalimentación clara dentro de la misma interfaz. Por ejemplo:
+
+- `Enviando mensaje...`
+- `Mensaje enviado correctamente.`
+- `No se pudo enviar el mensaje. Intenta nuevamente más tarde.`
+
+También se recomienda usar un componente visual como toast, snackbar o mensaje inline.
+
+---
+
+#### Problema #7: El avance diario no se registra ni aparece en el calendario
+
+**Severidad:** 1  
+**Heurística violada:** Usability: Visibility of system status / Information Architecture: Is it usable?
+
+**Problema:**  
+En el módulo `Avances`, al intentar crear un nuevo avance diario, el registro no se agrega a la tabla de avances y tampoco se refleja en el calendario.
+
+Se considera una severidad baja debido a que esta funcionalidad puede estar simulada o depender de una persistencia deshabilitada para la versión evaluada. Sin embargo, desde la experiencia del usuario, la interfaz debería comunicar si la acción fue guardada, falló o corresponde a una simulación.
+
+**Evidencia:**  
+![Avance no registrado](https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Audit/avanceNoRegistrado.png?raw=true)
+
+**Recomendación:**  
+Mostrar un mensaje claro al usuario. Por ejemplo:
+
+- `Funcionalidad simulada en esta versión.`
+- `El avance fue registrado temporalmente.`
+- `No se pudo guardar el avance porque la persistencia no está disponible.`
+
+Si la persistencia no está habilitada, al menos se recomienda reflejar el avance temporalmente en la interfaz.
+
+---
+
+#### Problema #8: El calendario no muestra los avances registrados
+
+**Severidad:** 1  
+**Heurística violada:** Usability: Visibility of system status
+
+**Problema:**  
+El calendario de avances aparece vacío incluso después de intentar registrar un avance. Esto puede generar confusión porque el usuario espera que los avances diarios se reflejen visualmente en el calendario.
+
+La severidad se considera baja porque puede tratarse de una funcionalidad simulada o parcialmente implementada.
+
+**Evidencia:**  
+![Calendario sin avances](https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Audit/calendarioNoModificado.png?raw=true)
+
+**Recomendación:**  
+Agregar un estado vacío más descriptivo, por ejemplo:
+
+`Aún no hay avances programados para este mes.`
+
+Si el objetivo del sprint es demostrar la experiencia visual, se recomienda mostrar eventos de prueba o avances simulados.
+
+---
+
+#### Problema #9: Los botones de subir imágenes y exportar no ejecutan una acción visible
+
+**Severidad:** 1  
+**Heurística violada:** Usability: Visibility of system status / Usability: Match between system and the real world
+
+**Problema:**  
+En la sección de bitácora fotográfica, los botones `Subir Fotos`, el bloque con símbolo `+` y la opción `Exportar` no muestran una acción visible o no completan un flujo esperado.
+
+Aunque estas funciones pueden estar simuladas en esta versión del frontend, el usuario no recibe ningún mensaje que explique el estado de la funcionalidad.
+
+**Evidencia:**  
+![Botones de bitácora sin acción visible](https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Audit/errorbotonesExportar.png?raw=true)
+
+**Recomendación:**  
+Agregar retroalimentación cuando el usuario interactúe con estos controles. Por ejemplo:
+
+- `Funcionalidad disponible próximamente.`
+- `Exportación simulada correctamente.`
+- `Carga de imágenes simulada en esta versión.`
+
+Esto ayudaría a que el usuario entienda que la funcionalidad está contemplada aunque no esté completamente activa.
+
+---
+
+#### Problema #10: El sistema muestra un error técnico al registrar un RNC con evidencia
+
+**Severidad:** 3  
+**Heurística violada:** Usability: Help users recognize, diagnose, and recover from errors
+
+**Problema:**  
+Al intentar registrar un RNC con evidencia fotográfica, el sistema muestra el mensaje:
+
+`Error al persistir el reporte en el db.json`
+
+Este mensaje no está orientado al usuario final, ya que menciona un detalle técnico del sistema. Un usuario operativo no necesariamente entiende qué significa `db.json`, por qué ocurrió el problema o qué debe hacer para solucionarlo.
+
+El problema principal no es únicamente que la persistencia falle, sino que el mensaje de error no ayuda al usuario a recuperarse.
+
+**Evidencia:**  
+![Error técnico db.json en RNC](https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Audit/errorDbjson2.png?raw=true)
+
+**Recomendación:**  
+Reemplazar el mensaje técnico por un mensaje claro y orientado al usuario. Por ejemplo:
+
+`No se pudo registrar el reporte en este momento. Intenta nuevamente más tarde.`
+
+Si la persistencia está deshabilitada para la versión de prueba, se recomienda mostrar:
+
+`El reporte no pudo guardarse porque la persistencia está deshabilitada en esta versión de prueba.`
+
+---
+
+#### Problema #11: El sistema muestra el mensaje técnico Incorrect token al firmar documento
+
+**Severidad:** 3  
+**Heurística violada:** Usability: Help users recognize, diagnose, and recover from errors / Usability: Match between system and the real world
+
+**Problema:**  
+En el módulo `Firmas`, al ingresar un código de verificación incorrecto, el sistema muestra el mensaje:
+
+`Incorrect token`
+
+El mensaje está en inglés y usa el término técnico `token`, lo cual puede no ser entendido por un usuario final. El usuario espera una explicación relacionada con el código de verificación que ingresó, no con un concepto técnico interno.
+
+**Evidencia:**  
+![Error Incorrect token en firma](https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Audit/errortoken.png?raw=true)
+
+**Recomendación:**  
+Reemplazar el mensaje por uno más claro, en español y alineado al flujo de firma. Por ejemplo:
+
+`El código ingresado es incorrecto. Verifica el código de 6 dígitos enviado a tu correo.`
+
+También se recomienda mostrar el mensaje dentro del modal de firma, evitando alertas técnicas del navegador.
+
+---
+
+#### Conclusión de la evaluación
+
+La aplicación Kipu presenta una propuesta visual sólida y una estructura general comprensible tanto en la landing page como en el frontend interno. Sin embargo, se identificaron oportunidades de mejora relacionadas principalmente con la claridad de la información, la prevención de errores y la forma en que el sistema comunica fallos al usuario.
+
+Los problemas más relevantes se encuentran en el formulario de contacto y en los mensajes técnicos mostrados durante operaciones como el registro de RNC y la firma de documentos. Estos errores no solo afectan la experiencia visual, sino también la capacidad del usuario para comprender qué ocurrió y cómo continuar.
+
+Por otro lado, algunas funcionalidades del frontend interno, como la persistencia de avances, el calendario, la carga de imágenes y la exportación, fueron consideradas con severidad baja debido a que pueden corresponder a funciones simuladas o parcialmente implementadas en esta versión. Aun así, se recomienda comunicar claramente este estado al usuario para mantener una experiencia transparente y consistente.
 
 ## 5.4. Video About-the-Product.
 ---
