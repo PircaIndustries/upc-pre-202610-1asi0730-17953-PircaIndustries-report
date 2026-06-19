@@ -5549,7 +5549,7 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 #### Tabla resumen de problemas encontrados
 
 | # | Problema | Escala de severidad | Heurística / Principio violado |
-|---|---|---|---:|---|
+|---|---|---|---|
 | 1 | La landing page presenta errores de ortografía y ausencia de tildes en varios textos. | 2 | Usability: Consistency and standards / Information Architecture: Is it understandable? |
 | 2 | El plan Professional muestra el precio como `49 /mes`, pero no indica la moneda. | 2 | Information Architecture: Is it findable? / Information Architecture: Is it understandable? |
 | 3 | La sección de contacto muestra un bloque de mapa vacío o no funcional. | 2 | Usability: Match between system and the real world / Information Architecture: Is it useful? |
