@@ -4941,6 +4941,28 @@ Enlace: [Sprint Backlog 3 en Jira](https://pircaindustries.atlassian.net/jira/so
 </table>
 
 #### 5.2.3.4. Development Evidence for Sprint Review.
+
+Durante el Sprint 3, el equipo implementó la totalidad de la API REST del backend de Kipu utilizando .NET 10 con Entity Framework Core y MySQL, bajo una arquitectura Domain-Driven Design. Se desarrollaron 15 controladores que exponen más de 60 endpoints cubriendo los Bounded Contexts de IAM, Projects, Logistics (Suppliers, Materials, Categories, Inventories, Requests, Offers), Documents, Team Users, Team Workers, Budget, Progress y NCR. Asimismo, se integró autenticación JWT, documentación Swagger/OpenAPI, internacionalización (i18n) con soporte EN/ES, y configuración de CORS para el despliegue en producción.
+
+A continuación, se presentan los commits más relevantes realizados durante el Sprint, organizados por repositorio y rama.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| PircaIndustries/kipu-backend | develop | 094dc93 | feat: Initializing the Kipu API | N/A | 2026-06-01 |
+| PircaIndustries/kipu-backend | develop | 59cee3f | feat: Apply DDD to Kipu API and Add Shared | N/A | 2026-06-01 |
+| PircaIndustries/kipu-backend | feature/access-account-management | 59a1238 | Feat: Add IAM user module and API endpoints | Introduce a complete IAM bounded context for user management: adds User aggregate, role value object, commands/queries, command/query services, repository interface and EF Core implementation, hashing and token services, REST controllers and DTO/assembler transforms for auth and users. | 2026-06-07 |
+| PircaIndustries/kipu-backend | feature/projects-management | c318f17 | Feat: Add Projects bounded context: models, APIs, repos | Introduce a new Projects bounded context: domain aggregates (Project, ProjectItem), value object, commands/queries, repository interfaces and EF Core repository implementations. Add application services, REST controller, resources and assemblers to expose CRUD and item endpoints. | 2026-06-09 |
+| PircaIndustries/kipu-backend | feature/materials | 766afa8 | feature: add domain, application, infrastructure, and rest layers for material inventory | N/A | 2026-06-09 |
+| PircaIndustries/kipu-backend | feature/materials | db1ef23 | feat: add MaterialCategory CRUD with validations | N/A | 2026-06-10 |
+| PircaIndustries/kipu-backend | develop | b3708e0 | feat: added team workers, documents and team users bounded context | N/A | 2026-06-13 |
+| PircaIndustries/kipu-backend | feature/NCR | ae571c5 | Feat: Adding endpoint NCR GET and POST | N/A | 2026-06-17 |
+| PircaIndustries/kipu-backend | landing-manuel | 76426f9 | feat(budget-progress): unifiy presentation controllers and complete data persistence layer inside appdbcontext | N/A | 2026-06-17 |
+| PircaIndustries/kipu-backend | feature/UpdateLogistics | f98f999 | feat: Update Logistics Context | N/A | 2026-06-17 |
+| PircaIndustries/kipu-backend | feature/projects-management | 9d002cf | Feat: Use localization keys and localizer for errors | Replace hard-coded error messages with standardized error keys in command services; controllers now inject IStringLocalizer and map error keys to localized messages. Added corresponding entries to SharedResource.resx files. | 2026-06-18 |
+| PircaIndustries/kipu-backend | feature/projects-management | ddb651e | Feat: Add validation translation and Accept-Language | Add Spanish-aware localization and ProblemDetails translation, plus Swagger support for Accept-Language. Added ValidationErrorsTranslator utility, AcceptLanguageHeaderParameterOperationFilter, and updated Program.cs. | 2026-06-19 |
+| PircaIndustries/kipu-backend | develop | b4b16e5 | feat: added documents, team users and team workers review, i18n and application.properties for production | N/A | 2026-06-19 |
+| PircaIndustries/kipu-backend | develop | 44ddd51 | feat: deployment properties fixed | N/A | 2026-06-19 |
+
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 
 Esta sección presenta las evidencias de ejecución técnica alcanzadas durante el presente Sprint para la solución Kipu bajo el ecosistema de PircaIndustries. A continuación, se detalla el resumen de los logros del backend, la documentación de la API expuesta y el material audiovisual de respaldo.
