@@ -2772,7 +2772,7 @@ En esta sección se desglosa la arquitectura interna de los microservicios princ
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 
-<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Diagrams/Class Diagram 2 - Kipu Apps Web.png?raw=true" alt="Foto de Diagrama de Clases"/>
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Diagrams/Class Diagram 2 - Kipu Apps web.png?raw=true" alt="Foto de Diagrama de Clases"/>
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagrams.
