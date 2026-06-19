@@ -1654,7 +1654,7 @@ En esta sección se define el glosario de términos y conceptos fundamentales de
 | **EP02** | **Gestión de calidad, trazabilidad y reportes ejecutivos** | Como gestor operativo y gerente, quiero registrar y verificar la calidad de cada proceso de obra, medir la productividad con KPIs y visualizar dashboards ejecutivos para la toma de decisiones. | **Escenario 1: Registro de RNC** <br>Dado que el supervisor detecta una falla técnica, <br>Cuando completa el formulario de incidencia con fotos, <br>Entonces el sistema genera un ticket de trazabilidad y notifica al equipo de diseño. <br><br> **Escenario 2: Cálculo de PPC** <br>Dado que el equipo cierra las tareas del día, <br>Cuando el gerente accede al módulo de indicadores, <br>Entonces el sistema calcula automáticamente el Porcentaje de Plan Completado semanal. <br><br> **Escenario 3: Firma digital con token** <br>Dado que el residente verifica una partida conforme, <br>Cuando ingresa el código de verificación enviado a su celular, <br>Entonces el sistema sella digitalmente el acta como aprobada. <br><br> **Escenario 4: Dashboard financiero y reportes** <br>Dado que el gerente accede al módulo ejecutivo, <br>Cuando visualiza el dashboard, <br>Entonces el sistema muestra gráficos de desviación presupuestal, gasto real y avance físico. |
 | **EP03** | **Control de suministros y presupuesto** | Como equipo de logística y administración, quiero centralizar las solicitudes de materiales y controlar el presupuesto para evitar sobrecostos y quiebres de stock. | **Escenario 1: Solicitud formal de materiales** <br>Dado que el residente requiere insumos para una partida, <br>Cuando completa el formulario de requerimiento, <br>Entonces el sistema genera un ticket con código de seguimiento para logística. <br><br> **Escenario 2: Alerta de stock crítico** <br>Dado que el encargado registra una salida que llega al mínimo, <br>Cuando el sistema procesa el despacho, <br>Entonces se emite una alerta push y visual al equipo de compras. <br><br> **Escenario 3: Validación de compra vs presupuesto** <br>Dado que el jefe de compras intenta procesar un pedido que excede el monto asignado, <br>Cuando confirma la transacción, <br>Entonces el sistema bloquea la operación y muestra un mensaje de error. |
 | **EP04** | **Landing y captación de leads** | Como visitante de la página de Kipu, quiero comprender rápidamente la propuesta de valor y contar con rutas claras de contacto, registro o solicitud de demo para evaluar y adoptar la plataforma. | **Escenario 1: Propuesta de valor visible** <br>Dado que un visitante accede a la landing, <br>Cuando se carga el Hero Section, <br>Entonces visualiza propuesta de valor, funcionalidades clave y un CTA primario. <br><br> **Escenario 2: Contenido por segmento** <br>Dado que el visitante pertenece a gestión operativa o logística, <br>Cuando navega por la landing, <br>Entonces encuentra contenido específico para su perfil con CTA contextualizados. <br><br> **Escenario 3: Conversión y contacto** <br>Dado que el visitante desea continuar, <br>Cuando usa formularios o botones de registro/demo, <br>Entonces el sistema registra la interacción y lo redirige al flujo correspondiente sin errores. |
-| **EP05** | **Gestión y Control de Documentación Técnica (Blueprints)** | Como Gestor Operativo de Obra y Equipo de Diseño, quiero centralizar, versionar y visualizar planos para asegurar que la ejecución se base en información aprobada y vigente, eliminando errores por obsolescencia. | **Escenario 1: Control de Vigencia** <br>Dado que existen múltiples versiones de un mismo plano, <br>Cuando el profesional accede a la lista, <br>Entonces el sistema resalta únicamente la versión más reciente como "Vigente". <br><br> **Escenario 2: Organización por Especialidad** <br>Dado que el proyecto cuenta con múltiples ramas técnicas, <br>Cuando el profesional navega por el módulo, <br>Entonces el sistema permite agrupar los archivos por especialidad (Estructuras, Sanitarias, Eléctricas, etc.). |
+| **EP05** | **Documentación y Gestión de Equipo** | Como Gestor Operativo, quiero gestionar los documentos del proyecto (actas, informes) y administrar el equipo de trabajo asignado a la obra para asegurar la trazabilidad documental y la asignación eficiente del personal. | **Escenario 1: Gestión documental** <br>Dado que el Gestor Operativo necesita registrar un documento, <br>Cuando completa la información del documento y asigna los participantes, <br>Entonces el sistema crea el documento y permite su firma digital posterior. <br><br> **Escenario 2: Administración de equipo** <br>Dado que el Gestor Operativo gestiona el personal de obra, <br>Cuando registra un nuevo integrante o asigna maquinaria, <br>Entonces el sistema actualiza el equipo de trabajo y sus recursos asociados. |
 <br><br>
 
 **USER STORIES**
@@ -1680,18 +1680,12 @@ En esta sección se define el glosario de términos y conceptos fundamentales de
 | **US-18** | Crear nuevo proyecto de obra | Como Gestor Operativo, quiero registrar una nueva obra en el sistema para iniciar su gestión operativa y trazabilidad. | **Escenario 1** <br>Dado que el Gestor Operativo gestiona su cartera, <br>Cuando aporta los datos esenciales del nuevo proyecto, <br>Entonces el sistema consolida la obra en fase inicial y la asocia a su perfil. <br><br>**Escenario 2:** <br>Dado que el Gestor Operativo intenta dar de alta una construcción, <br>Cuando el nombre designado ya se encuentra activo, <br>Entonces el sistema objeta el registro para impedir redundancias. | **EP02** |
 | **US-19** | Cargar presupuesto base del proyecto | Como Equipo de Logística, quiero cargar el presupuesto inicial para tener un tope financiero al validar compras y requerimientos. | **Escenario 1:** <br>Dado que la obra se encuentra en estatus de planificación, <br>Cuando el Equipo de Logística introduce las asignaciones monetarias preliminares, <br>Entonces el sistema instaura el tope económico y habilita el seguimiento. <br><br>**Escenario 2:** <br>Dado que el Equipo de Logística intenta asentar los montos base, <br>Cuando los valores declarados carecen de magnitud económica, <br>Entonces el sistema deniega el registro exigiendo un fondo válido. | **EP03** |
 | **US-20** | Registrar partidas de obra | Como Gestor Operativo, quiero registrar el catálogo de partidas de la obra para definir con claridad el volumen de trabajo y el alcance constructivo a ejecutar. | **Escenario 1:** <br>Dado que el Gestor Operativo planifica los tiempos operativos, <br>Cuando configura las dependencias y plazos de las labores, <br>Entonces el sistema las asimila y consolida el calendario oficial. <br><br>**Escenario 2:** <br>Dado que el Gestor Operativo organiza los plazos de ejecución, <br>Cuando se dictamina que una labor concluye antes de iniciar, <br>Entonces el sistema reconoce la falla lógica e imposibilita su grabación. | **EP02** |
-| **US-21** | Visualizar historial de versiones de plano | Como Gestor Operativo, quiero visualizar el registro de versiones de un plano para entender la evolución del diseño. | **Escenario 1:** <br>Dado que el Gestor Operativo revisa los anexos estructurales, <br>Cuando solicita examinar la trazabilidad de un diseño, <br>Entonces el sistema desglosa todas sus iteraciones y responsabilidades históricas. | **EP05** |
-| **US-22** | Subir nueva versión de plano | Como Gestor Operativo, quiero cargar actualizaciones de los planos para que el equipo en campo trabaje con la información final. | **Escenario 1:** <br>Dado que el Gestor Operativo efectúa correcciones sobre un diseño, <br>Cuando provee la iteración mejorada del archivo, <br>Entonces el sistema eleva el nivel de vigencia y relega al anterior a estatus obsoleto. | **EP05** |
-| **US-23** | Descargar plano para uso sin conectividad | Como Gestor Operativo, quiero guardar planos en mi dispositivo para consultarlos en zonas sin conectividad (sótanos). | **Escenario 1:** <br>Dado que el Gestor Operativo prevé adentrarse en zonas incomunicadas, <br>Cuando demanda la extracción preventiva de la documentación, <br>Entonces el sistema empaqueta los archivos garantizando su lectura sin dependencia de red. | **EP05** |
 | **US-24** | Landing page - Visualización de propuesta de valor | Como profesional del sector construcción que visita el sitio web, quiero conocer la propuesta de valor y funcionalidades principales de Kipu para entender cómo puede ayudarme en mis proyectos de construcción. | **Escenario 1** <br>Dado que un visitante ingresa al sitio público, <br>Cuando se le presenta la vista inicial, <br>Entonces el sistema expone el propósito de la herramienta y la opción de integración. <br><br>**Escenario 2:** <br>Dado que el visitante explora los detalles de la oferta, <br>Cuando avanza hacia el contenido descriptivo, <br>Entonces el sistema presenta el desglose de las características operativas clave. | **EP04** |
 | **US-25** | Landing page - Contenido para gestores operativos | Como arquitecto o ingeniero que visita el sitio, quiero encontrar información específica sobre cómo Kipu mejora la supervisión técnica y trazabilidad de obra para evaluar si se adapta a mis necesidades profesionales. | **Escenario 1** <br>Dado que un visitante explora la información dirigida a su área, <br>Cuando consulta los beneficios específicos, <br>Entonces el sistema muestra los detalles técnicos y la opción de registro. <br><br>**Escenario 2:** <br>Dado que el visitante decide crear una cuenta desde su sección, <br>Cuando solicita el alta en el sistema, <br>Entonces se le redirige al proceso de inscripción pre-asignando su especialidad. | **EP04** |
 | **US-26** | Landing page - Contenido para equipos de logística | Como responsable de logística o administración que visita el sitio, quiero encontrar información específica sobre cómo Kipu centraliza pedidos y controla presupuestos para convencerme de su utilidad en mi área. | **Escenario 1** <br>Dado que un visitante interactúa con el contenido financiero, <br>Cuando solicita una demostración del producto, <br>Entonces el sistema le exige la información corporativa necesaria. <br><br>**Escenario 2:** <br>Dado que el visitante intenta cursar su petición, <br>Cuando no provee datos de contacto válidos, <br>Entonces el sistema suspende la solicitud y requiere la corrección. | **EP04** |
 | **US-27** | Landing page - Misión y visión de PircaIndustries | Como visitante potencial, quiero conocer la misión y visión de PircaIndustries para evaluar la confianza y dirección de largo plazo del proyecto Kipu. | **Escenario 1** <br>Dado que el visitante consulta los antecedentes corporativos, <br>Cuando accede a la información institucional, <br>Entonces el sistema expone los principios y proyecciones de la empresa. <br><br>**Escenario 2:** <br>Dado que el visitante finaliza su lectura corporativa, <br>Cuando elige retornar a la propuesta principal, <br>Entonces el sistema transiciona fluidamente hacia la presentación del producto. | **EP04** |
 | **US-28** | Landing page - Canales de contacto y formulario | Como visitante interesado, quiero disponer de canales de contacto y un formulario para comunicarme con el equipo de Kipu sin salir del sitio. | **Escenario 1** <br>Dado que un visitante utiliza el medio de comunicación, <br>Cuando provee un mensaje con datos completos, <br>Entonces el sistema procesa la solicitud y confirma su recepción. <br><br>**Escenario 2:** <br>Dado que se intenta emitir una comunicación, <br>Cuando faltan parámetros esenciales como el remitente, <br>Entonces el sistema detiene el envío y señala las omisiones. | **EP04** |
 | **US-29** | Landing page - Llamados a la acción de registro y demo | Como visitante que ya entendió la propuesta, quiero ver llamados a la acción visibles para registrarme o solicitar demo y avanzar al siguiente paso. | **Escenario 1** <br>Dado que el visitante evalúa sus alternativas, <br>Cuando selecciona iniciar el uso del software o agendar una cita, <br>Entonces el sistema procesa la intención dirigiéndolo al flujo preciso. <br><br>**Escenario 2:** <br>Dado que el visitante concluye su revisión de todo el sitio, <br>Cuando se sitúa en la parte inferior, <br>Entonces el sistema mantiene latentes las opciones de conversión. | **EP04** |
-| **US-30** | Registrar anotaciones gráficas en plano | Como Gestor Operativo, quiero realizar anotaciones gráficas sobre el plano para reportar errores de diseño detectados en campo. | **Escenario 1:** <br>Dado que el Gestor Operativo evalúa la factibilidad de un trazo, <br>Cuando adjunta precisiones de discrepancia técnica, <br>Entonces el sistema indexa el apunte preservando el documento original. | **EP05** |
-| **US-31** | Filtrar planos por especialidad técnica | Como Gestor Operativo, quiero segmentar la lista de archivos por rama técnica para localizar información crítica rápidamente. | **Escenario 1:** <br>Dado que coexisten distintas disciplinas en el proyecto, <br>Cuando el Gestor Operativo delimita su interés a una rama específica, <br>Entonces el sistema discrimina e ignora la documentación ajena a dicha solicitud. | **EP05** |
-| **US-32** | Ordenar planos cronológicamente | Como Equipo de Logística, quiero organizar los documentos por fecha de carga para identificar los últimos requerimientos técnicos. | **Escenario 1** <br>Dado que el Equipo de Logística evalúa las exigencias documentales, <br>Cuando aplica un criterio de orden temporal, <br>Entonces el sistema altera la presentación priorizando lo más reciente. | **EP05** |
 | **US-33** | Exportar dossier de calidad en PDF | Como Gestor Operativo, quiero exportar un archivo PDF que contenga todo el historial de firmas electrónicas y aprobaciones de una etapa constructiva, para facilitar la entrega del proyecto a la municipalidad o al cliente final. | **Escenario 1** <br>Dado que una fase técnica concluye formalmente, <br>Cuando el Gestor Operativo requiere el compendio de certificaciones, <br>Entonces el sistema genera un paquete único e inalterable con las validaciones documentadas. <br><br>**Escenario 2:** <br>Dado que la supervisión externa demanda certificaciones puntuales, <br>Cuando el Gestor Operativo restringe la orden a un periodo específico, <br>Entonces el sistema provee un compendio limitado únicamente a lo delimitado. | **EP02** |
 | **US-34** | Registrar perfil de proveedor | Como Equipo de Logística, quiero registrar una nueva entidad proveedora en el sistema para formalizar la fuente de suministros y permitir la trazabilidad de las órdenes de compra. | **Escenario 1:** <br>Dado que el Equipo de Logística cuenta con los datos del proveedor (RUC, Estado, Razón social, contacto principal, teléfono, correo, categoría y condición de pago), <br>Cuando rellena el formulario con los campos solicitados, <br>Entonces el sistema registra el proveedor y actualiza la vista general de proveedores actuales. <br><br>**Escenario 2:** <br>Dado que el Equipo de Logística intenta registrar un proveedor, <br>Cuando ingresa un RUC que ya existe, <br>Entonces el sistema bloquea la acción. | **EP03** |
 | **US-35** | Modificar perfil de proveedor | Como Equipo de Logística, quiero modificar los datos de contacto o el estado de un proveedor para asegurar que la comunicación y las compras se realicen con información vigente. | **Escenario 1:** <br>Dado que el Equipo de Logística visualiza el perfil de un proveedor existente, <br>Cuando actualiza el teléfono o correo de atención, <br>Entonces el sistema guarda los cambios y emite una confirmación de actualización exitosa. | **EP03** |
@@ -1732,13 +1726,6 @@ En esta sección se define el glosario de términos y conceptos fundamentales de
 | TS28 | Setup Budget API Domain | Como usuario developer, quiero inicializar el dominio financiero con su controlador, servicio y repositorio para controlar que los gastos no excedan el presupuesto meta. | **Escenario 1: Dominio inicializado correctamente**<br>Dado que se requiere integración de costos con el módulo de materiales,<br>Cuando se inicializa el dominio de presupuesto,<br>Entonces los repositorios financieros están disponibles y las reglas de negocio de validación de saldo son accesibles desde el servicio.<br><br>**Escenario 2: Integración con dominio de materiales fallida**<br>Dado que se inicializa el dominio de presupuesto,<br>Cuando el dominio de materiales no está disponible en el contexto,<br>Entonces el sistema registra el error de dependencia e impide el inicio del módulo financiero. | **EP03** |
 | TS29 | Endpoint POST Budget | Como usuario developer, quiero implementar el endpoint de carga de presupuesto inicial mediante POST a /api/v1/budgets para establecer los topes financieros de la obra. | **Escenario 1: Presupuesto cargado exitosamente**<br>Dado que el endpoint POST /api/v1/budgets está disponible,<br>Cuando se envía un payload JSON con la estructura de montos por partida asociada a un proyecto válido,<br>Entonces el sistema asocia el presupuesto al proyecto y retorna 201 Created.<br><br>**Escenario 2: Presupuesto ya existente para el proyecto**<br>Dado que el endpoint POST /api/v1/budgets está disponible,<br>Cuando se intenta cargar un presupuesto inicial para un proyecto que ya tiene fondos asignados,<br>Entonces el sistema retorna 400 Bad Request indicando que el presupuesto ya fue configurado para ese proyecto. | **EP03** |
 | TS30 | Endpoint GET Budget | Como usuario developer, quiero implementar el endpoint de consulta de estado financiero mediante GET a /api/v1/budgets/{projectId} para visualizar desviaciones en los paneles de control. | **Escenario 1: Estado financiero obtenido exitosamente**<br>Dado que el endpoint GET /api/v1/budgets/{projectId} está disponible y el proyecto tiene presupuesto asignado,<br>Cuando se envía una solicitud con un ID de proyecto válido,<br>Entonces el sistema retorna 200 OK con el saldo total, el monto consumido y el saldo disponible por partida.<br><br>**Escenario 2: Proyecto sin presupuesto definido**<br>Dado que el endpoint GET /api/v1/budgets/{projectId} está disponible,<br>Cuando se consulta el estado financiero de un proyecto que no tiene presupuesto configurado,<br>Entonces el sistema retorna 404 Not Found indicando que no existe presupuesto para ese proyecto. | **EP03** |
-| TS31 | Setup Blueprints API Domain | Como usuario developer, quiero inicializar el dominio documental de planos con su controlador, servicio y repositorio para gestionar versiones de documentos técnicos. | **Escenario 1: Dominio inicializado correctamente**<br>Dado que se cuenta con un servicio de almacenamiento de archivos configurado,<br>Cuando se inicializa el dominio de planos,<br>Entonces los conectores de almacenamiento de archivos están operativos y el controlador acepta peticiones de carga y consulta.<br><br>**Escenario 2: Servicio de storage no disponible**<br>Dado que se inicializa el dominio de planos,<br>Cuando el servicio de almacenamiento externo no responde,<br>Entonces el sistema registra el error de conexión con el storage y lanza una excepción de configuración. | **EP05** |
-| TS32 | Endpoint POST Blueprint | Como usuario developer, quiero implementar el endpoint de subida de planos mediante POST a /api/v1/blueprints para que el equipo trabaje siempre con la versión vigente. | **Escenario 1: Plano subido exitosamente**<br>Dado que el endpoint POST /api/v1/blueprints está disponible,<br>Cuando se envía un archivo PDF o DWG válido junto con la especialidad y el ID del proyecto,<br>Entonces el sistema sube el archivo al storage, registra la versión y retorna 201 Created con la URL segura de acceso.<br><br>**Escenario 2: Versión duplicada**<br>Dado que el endpoint POST /api/v1/blueprints está disponible,<br>Cuando se intenta subir un archivo con el mismo nombre y número de versión que uno ya existente en la base de datos,<br>Entonces el sistema retorna 400 Bad Request indicando el conflicto de versión. | **EP05** |
-| TS33 | Endpoint GET Blueprint Download | Como usuario developer, quiero implementar el endpoint de descarga de planos mediante GET a /api/v1/blueprints/{id}/download para que el Gestor Operativo pueda consultar planos en zonas sin conectividad. | **Escenario 1: Descarga exitosa**<br>Dado que el endpoint GET /api/v1/blueprints/{id}/download está disponible y el plano existe,<br>Cuando se envía una solicitud con el ID del plano y un token válido,<br>Entonces el sistema retorna el archivo en su versión vigente como stream descargable con el Content-Type correspondiente (application/pdf o application/octet-stream).<br><br>**Escenario 2: Plano no encontrado**<br>Dado que el endpoint GET /api/v1/blueprints/{id}/download está disponible,<br>Cuando se envía una solicitud con un ID de plano que no existe,<br>Entonces el sistema retorna 404 Not Found indicando que el plano de referencia no fue encontrado. | **EP05** |
-| TS34 | Endpoint GET Blueprint | Como usuario developer, quiero implementar el endpoint de listado de planos mediante GET a /api/v1/blueprints para permitir filtrado por especialidad técnica. | **Escenario 1: Planos encontrados por especialidad**<br>Dado que el endpoint GET /api/v1/blueprints está disponible,<br>Cuando se envía una solicitud con el filtro de especialidad (estructural, sanitario, eléctrico, etc.),<br>Entonces el sistema retorna 200 OK con la lista de planos que coinciden con el criterio de filtrado.<br><br>**Escenario 2: Sin planos para la especialidad solicitada**<br>Dado que el endpoint GET /api/v1/blueprints está disponible,<br>Cuando se busca por una especialidad que no tiene archivos cargados en el proyecto,<br>Entonces el sistema retorna 404 Not Found indicando que no existen planos para esa especialidad. | **EP05** |
-| TS35 | Endpoint GET Blueprint Versions | Como usuario developer, quiero implementar el endpoint de historial de versiones mediante GET a /api/v1/blueprints/{id}/versions para que el equipo pueda rastrear la evolución del diseño. | **Escenario 1: Historial de versiones obtenido exitosamente**<br>Dado que el endpoint GET /api/v1/blueprints/{id}/versions está disponible,<br>Cuando se envía una solicitud con el ID de un plano que tiene múltiples versiones,<br>Entonces el sistema retorna 200 OK con el historial ordenado cronológicamente, incluyendo fecha, autor y URL de cada versión.<br><br>**Escenario 2: Plano sin versiones previas**<br>Dado que el endpoint GET /api/v1/blueprints/{id}/versions está disponible,<br>Cuando se solicita el historial de un plano recién subido sin iteraciones anteriores,<br>Entonces el sistema retorna 200 OK con un arreglo que contiene únicamente la versión inicial. | **EP05** |
-| TS36 | Endpoint POST Blueprint Annotations | Como usuario developer, quiero implementar el endpoint de anotaciones en planos mediante POST a /api/v1/blueprints/{id}/annotations para registrar observaciones de campo sobre los documentos. | **Escenario 1: Anotación registrada exitosamente**<br>Dado que el endpoint POST /api/v1/blueprints/{id}/annotations está disponible,<br>Cuando se envía un payload con coordenadas X/Y, texto de la observación e ID del plano válido,<br>Entonces el sistema asocia la anotación al plano preservando el documento original y retorna 201 Created.<br><br>**Escenario 2: Plano no encontrado**<br>Dado que el endpoint POST /api/v1/blueprints/{id}/annotations está disponible,<br>Cuando se envía una solicitud con un ID de plano que no existe,<br>Entonces el sistema retorna 404 Not Found indicando que el plano de referencia no fue encontrado. | **EP05** |
-| TS37 | Endpoint GET Blueprint Annotations | Como usuario developer, quiero implementar el endpoint de consulta de anotaciones mediante GET a /api/v1/blueprints/{id}/annotations para visualizar las observaciones de campo sin alterar el plano original. | **Escenario 1: Anotaciones encontradas**<br>Dado que el endpoint GET /api/v1/blueprints/{id}/annotations está disponible y el plano tiene anotaciones registradas,<br>Cuando se envía una solicitud con el ID del plano,<br>Entonces el sistema retorna 200 OK con la lista de anotaciones incluyendo coordenadas, texto, autor y fecha.<br><br>**Escenario 2: Plano sin anotaciones**<br>Dado que el endpoint GET /api/v1/blueprints/{id}/annotations está disponible,<br>Cuando se consulta un plano que no tiene anotaciones registradas,<br>Entonces el sistema retorna 200 OK con una lista vacía. | **EP05** |
 | TS38 | Setup RNC API Domain | Como usuario developer, quiero inicializar el dominio de incidencias de calidad con su controlador, servicio y repositorio para gestionar los Resultados No Conformes de obra. | **Escenario 1: Dominio inicializado correctamente**<br>Dado que existe necesidad de reporte de calidad en el proyecto,<br>Cuando se inicializa el dominio RNC,<br>Entonces los controladores, servicio y repositorio están habilitados y el esquema de base de datos refleja la tabla de incidencias.<br><br>**Escenario 2: Dependencia de dominio de proyectos faltante**<br>Dado que se inicializa el dominio RNC,<br>Cuando el dominio de proyectos no está disponible en el contexto de Spring,<br>Entonces el sistema registra el error de dependencia e impide la inicialización del módulo. | **EP02** |
 | TS39 | Endpoint POST RNC | Como usuario developer, quiero implementar el endpoint de registro de fallas técnicas mediante POST a /api/v1/rnc para alertar al equipo de diseño con evidencia fotográfica. | **Escenario 1: RNC registrado exitosamente**<br>Dado que el endpoint POST /api/v1/rnc está disponible,<br>Cuando se envía un payload con título, partida afectada, descripción y la ruta de la evidencia fotográfica,<br>Entonces el sistema guarda el reporte, genera un ticket de seguimiento y retorna 201 Created con el ID asignado.<br><br>**Escenario 2: Evidencia fotográfica ausente**<br>Dado que el endpoint POST /api/v1/rnc está disponible,<br>Cuando se envía el reporte sin adjuntar la evidencia fotográfica obligatoria,<br>Entonces el sistema retorna 400 Bad Request indicando que la evidencia visual es un campo requerido. | **EP02** |
 | TS40 | Endpoint GET RNC | Como usuario developer, quiero implementar el endpoint de consulta de incidencias mediante GET a /api/v1/rnc para permitir la revisión y subsanación de errores de calidad. | **Escenario 1: RNCs encontrados**<br>Dado que el endpoint GET /api/v1/rnc está disponible y existen incidencias registradas,<br>Cuando se envía una solicitud GET con el ID de la obra,<br>Entonces el sistema retorna 200 OK con la lista de RNCs pendientes incluyendo estado, descripción y evidencia.<br><br>**Escenario 2: Obra sin incidencias registradas**<br>Dado que el endpoint GET /api/v1/rnc está disponible,<br>Cuando se consulta una obra que no tiene RNCs registrados,<br>Entonces el sistema retorna 200 OK con una lista vacía. | **EP02** |
@@ -1746,6 +1733,29 @@ En esta sección se define el glosario de términos y conceptos fundamentales de
 | TS42 | Endpoint POST Signature | Como usuario developer, quiero implementar el endpoint de sellado digital de documentos mediante POST a /api/v1/signatures para formalizar el cierre de actas con respaldo legal. | **Escenario 1: Firma registrada exitosamente**<br>Dado que el endpoint POST /api/v1/signatures está disponible,<br>Cuando se envía un payload con el token de seguridad válido y el ID del documento a firmar,<br>Entonces el sistema sella el acta digitalmente, registra el hash de validación y retorna 200 OK con la confirmación del sellado.<br><br>**Escenario 2: Token de seguridad inválido**<br>Dado que el endpoint POST /api/v1/signatures está disponible,<br>Cuando se envía un token de seguridad incorrecto o con formato inválido,<br>Entonces el sistema retorna 401 Unauthorized indicando que el código de verificación no es válido. | **EP02** |
 | TS43 | Endpoint GET Signature | Como usuario developer, quiero implementar el endpoint de consulta de estado de firmas mediante GET a /api/v1/signatures/records/{recordId} para verificar quién ha aprobado el cierre de una etapa técnica. | **Escenario 1: Firmas obtenidas exitosamente**<br>Dado que el endpoint GET /api/v1/signatures/records/{recordId} está disponible y el acta tiene firmas registradas,<br>Cuando se envía una solicitud con el ID del acta,<br>Entonces el sistema retorna 200 OK con el estado de firmas, los datos de cada firmante y la fecha de cada validación.<br><br>**Escenario 2: Acta sin firmas iniciadas**<br>Dado que el endpoint GET /api/v1/signatures/records/{recordId} está disponible,<br>Cuando se consulta el estado de un acta que no ha iniciado su proceso de aprobación,<br>Entonces el sistema retorna 404 Not Found indicando que no existen firmas para ese documento. | **EP02** |
 | TS44 | Endpoint GET Signature Export | Como usuario developer, quiero implementar el endpoint de exportación del dossier de firmas mediante GET a /api/v1/signatures/export/{projectId} para facilitar la entrega formal del proyecto. | **Escenario 1: Dossier exportado exitosamente**<br>Dado que el endpoint GET /api/v1/signatures/export/{projectId} está disponible y el proyecto tiene firmas registradas,<br>Cuando se envía una solicitud con el ID del proyecto completado,<br>Entonces el sistema genera y retorna un stream de PDF con el historial completo de firmas y aprobaciones del proyecto.<br><br>**Escenario 2: Proyecto sin firmas registradas**<br>Dado que el endpoint GET /api/v1/signatures/export/{projectId} está disponible,<br>Cuando se solicita la exportación de un proyecto que no tiene firmas registradas,<br>Entonces el sistema retorna 404 Not Found indicando que no existen registros de firma para exportar. | **EP02** |
+| TS45 | Setup Document API Domain (.NET) | Como usuario developer, quiero inicializar el dominio de documentos con su controlador, servicio y repositorio para gestionar la documentación del proyecto. | **Escenario 1: Dominio inicializado correctamente**<br>Dado que la arquitectura base del proyecto .NET está configurada,<br>Cuando se inicializa el dominio de documentos,<br>Entonces las capas de controlador, servicio y repositorio compilan sin errores y el contexto de EF Core se levanta correctamente.<br><br>**Escenario 2: Conflicto de dependencias**<br>Dado que se inicializa el dominio de documentos,<br>Cuando existe un conflicto en las migraciones de base de datos,<br>Entonces el sistema reporta el error de compilación con detalle suficiente para su resolución. | **EP05** |
+| TS46 | Endpoint POST Document | Como usuario developer, quiero implementar el endpoint de creación de documentos mediante POST a /api/v1/documents para registrar actas y documentos de obra. | **Escenario 1: Documento creado exitosamente**<br>Dado que el endpoint POST /api/v1/documents está disponible,<br>Cuando se envía un payload con tipo, fecha límite, proyecto y lista de participantes,<br>Entonces el sistema retorna 201 Created con los datos del documento registrado.<br><br>**Escenario 2: Campos obligatorios ausentes**<br>Dado que el endpoint POST /api/v1/documents está disponible,<br>Cuando se omite un campo requerido del payload,<br>Entonces el sistema retorna 400 Bad Request con los errores de validación. | **EP05** |
+| TS47 | Endpoint POST Document Sign | Como usuario developer, quiero implementar el endpoint de firma digital de documentos mediante POST a /api/v1/documents/{documentId}/sign para sellar digitalmente las actas. | **Escenario 1: Firma registrada exitosamente**<br>Dado que el endpoint POST /api/v1/documents/{documentId}/sign está disponible,<br>Cuando se envía un payload con el ID del usuario del equipo y todos los participantes firman,<br>Entonces el sistema genera un token digital y marca el documento como firmado.<br><br>**Escenario 2: Usuario no es participante**<br>Dado que el endpoint POST /api/v1/documents/{documentId}/sign está disponible,<br>Cuando se envía un ID de usuario que no pertenece al documento,<br>Entonces el sistema retorna 400 Bad Request indicando que el usuario no es participante. | **EP05** |
+| TS48 | Endpoint GET Documents | Como usuario developer, quiero implementar los endpoints de consulta de documentos mediante GET a /api/v1/documents/{id}, /api/v1/documents/pending y /api/v1/documents/signed para visualizar el estado documental. | **Escenario 1: Documentos encontrados**<br>Dado que los endpoints GET de documentos están disponibles,<br>Cuando se consulta por ID, pendientes o firmados con proyecto y usuario válidos,<br>Entonces el sistema retorna 200 OK con los documentos solicitados.<br><br>**Escenario 2: Documento no encontrado**<br>Dado que el endpoint GET /api/v1/documents/{id} está disponible,<br>Cuando se consulta un ID que no existe,<br>Entonces el sistema retorna 404 Not Found con un mensaje descriptivo. | **EP05** |
+| TS49 | Setup TeamUser API Domain (.NET) | Como usuario developer, quiero inicializar el dominio de usuarios del equipo con su controlador, servicio y repositorio para gestionar el personal de obra. | **Escenario 1: Dominio inicializado correctamente**<br>Dado que la arquitectura base del proyecto .NET está configurada,<br>Cuando se inicializa el dominio de usuarios del equipo,<br>Entonces las capas de controlador, servicio y repositorio compilan sin errores.<br><br>**Escenario 2: Conflicto de dependencias**<br>Dado que se inicializa el dominio de usuarios del equipo,<br>Cuando existe un conflicto en las migraciones,<br>Entonces el sistema reporta el error de compilación. | **EP05** |
+| TS50 | Endpoint POST TeamUser | Como usuario developer, quiero implementar el endpoint de registro de usuarios del equipo mediante POST a /api/v1/team-users para añadir personal a la obra. | **Escenario 1: Usuario creado exitosamente**<br>Dado que el endpoint POST /api/v1/team-users está disponible,<br>Cuando se envía un payload con nombre, correo, rol y proyecto,<br>Entonces el sistema retorna 201 Created con los datos del usuario registrado.<br><br>**Escenario 2: Correo duplicado**<br>Dado que el endpoint POST /api/v1/team-users está disponible,<br>Cuando se envía un correo que ya existe en el mismo proyecto,<br>Entonces el sistema retorna 400 Bad Request indicando la duplicidad. | **EP05** |
+| TS51 | Endpoint GET TeamUser | Como usuario developer, quiero implementar los endpoints de consulta de usuarios del equipo mediante GET a /api/v1/team-users y /api/v1/team-users/{id} para listar y filtrar el personal. | **Escenario 1: Usuarios encontrados**<br>Dado que los endpoints GET de team-users están disponibles,<br>Cuando se consulta por ID o con filtros (proyecto, rol, estado),<br>Entonces el sistema retorna 200 OK con los datos solicitados.<br><br>**Escenario 2: Usuario no encontrado**<br>Dado que el endpoint GET /api/v1/team-users/{id} está disponible,<br>Cuando se consulta un ID que no existe,<br>Entonces el sistema retorna 404 Not Found. | **EP05** |
+| TS52 | Endpoint POST TeamUser Activate/Deactivate | Como usuario developer, quiero implementar los endpoints de activación y desactivación de usuarios del equipo mediante POST a /api/v1/team-users/{id}/activate y /api/v1/team-users/{id}/deactivate. | **Escenario 1: Estado actualizado exitosamente**<br>Dado que los endpoints de activación/desactivación están disponibles,<br>Cuando se envía una solicitud con un ID de usuario válido,<br>Entonces el sistema actualiza el estado y retorna 200 OK.<br><br>**Escenario 2: Usuario no encontrado**<br>Dado que los endpoints de activación/desactivación están disponibles,<br>Cuando se envía un ID inexistente,<br>Entonces el sistema retorna 404 Not Found. | **EP05** |
+| TS53 | Setup TeamWorker API Domain (.NET) | Como usuario developer, quiero inicializar el dominio de trabajadores del equipo con su controlador, servicio y repositorio para gestionar los operarios de obra. | **Escenario 1: Dominio inicializado correctamente**<br>Dado que la arquitectura base del proyecto .NET está configurada,<br>Cuando se inicializa el dominio de trabajadores,<br>Entonces las capas de controlador, servicio y repositorio compilan sin errores.<br><br>**Escenario 2: Conflicto de dependencias**<br>Dado que se inicializa el dominio de trabajadores,<br>Cuando existe un conflicto en las migraciones,<br>Entonces el sistema reporta el error de compilación. | **EP05** |
+| TS54 | Endpoint POST TeamWorker | Como usuario developer, quiero implementar el endpoint de registro de trabajadores mediante POST a /api/v1/team-workers para añadir operarios a la obra con su maquinaria asignada. | **Escenario 1: Trabajador creado exitosamente**<br>Dado que el endpoint POST /api/v1/team-workers está disponible,<br>Cuando se envía un payload con DNI, nombre, rol, proyecto y maquinaria,<br>Entonces el sistema retorna 201 Created con los datos del trabajador registrado.<br><br>**Escenario 2: DNI duplicado**<br>Dado que el endpoint POST /api/v1/team-workers está disponible,<br>Cuando se envía un DNI que ya existe,<br>Entonces el sistema retorna 400 Bad Request indicando la duplicidad. | **EP05** |
+| TS55 | Endpoint DELETE TeamWorker | Como usuario developer, quiero implementar el endpoint de eliminación de trabajadores mediante DELETE a /api/v1/team-workers/{teamWorkerId} para dar de baja operarios. | **Escenario 1: Trabajador eliminado exitosamente**<br>Dado que el endpoint DELETE /api/v1/team-workers/{teamWorkerId} está disponible,<br>Cuando se envía una solicitud con un ID de trabajador válido,<br>Entonces el sistema retorna 204 No Content.<br><br>**Escenario 2: Trabajador no encontrado**<br>Dado que el endpoint DELETE /api/v1/team-workers/{teamWorkerId} está disponible,<br>Cuando se envía un ID inexistente,<br>Entonces el sistema retorna 404 Not Found. | **EP05** |
+| TS56 | Endpoints TeamWorker GET | Como usuario developer, quiero implementar los endpoints de consulta de trabajadores mediante GET a /api/v1/team-workers y /api/v1/team-workers/{teamWorkerId} para listar el personal. | **Escenario 1: Trabajadores encontrados**<br>Dado que los endpoints GET de team-workers están disponibles,<br>Cuando se consulta por ID o por proyecto,<br>Entonces el sistema retorna 200 OK con los datos solicitados incluyendo maquinaria asignada.<br><br>**Escenario 2: Trabajador no encontrado**<br>Dado que el endpoint GET /api/v1/team-workers/{teamWorkerId} está disponible,<br>Cuando se consulta un ID que no existe,<br>Entonces el sistema retorna 404 Not Found. | **EP05** |
+| TS57 | Endpoints TeamWorker Machinery | Como usuario developer, quiero implementar los endpoints de asignación y remoción de maquinaria mediante POST y DELETE a /api/v1/team-workers/{teamWorkerId}/machineries. | **Escenario 1: Maquinaria asignada exitosamente**<br>Dado que el endpoint POST /api/v1/team-workers/{teamWorkerId}/machineries está disponible,<br>Cuando se envía un payload con ID de maquinaria y nombre,<br>Entonces el sistema asigna la maquinaria al trabajador y retorna 200 OK.<br><br>**Escenario 2: Maquinaria removida exitosamente**<br>Dado que el endpoint DELETE /api/v1/team-workers/{teamWorkerId}/machineries/{machineryId} está disponible,<br>Cuando se envía una solicitud con IDs válidos,<br>Entonces el sistema remueve la maquinaria y retorna 200 OK. | **EP05** |
+| TS58 | Setup Supplier Offers API Domain (.NET) | Como usuario developer, quiero implementar el endpoint de registro de ofertas de proveedores mediante POST a /api/v1/supplier-offers. | **Escenario 1: Oferta creada exitosamente**<br>Dado que el endpoint POST /api/v1/supplier-offers está disponible,<br>Cuando se envía un payload con proveedor, material y precio,<br>Entonces el sistema retorna 201 Created.<br><br>**Escenario 2: Oferta duplicada**<br>Dado que el endpoint POST /api/v1/supplier-offers está disponible,<br>Cuando se envía una oferta duplicada para el mismo proveedor y material,<br>Entonces el sistema retorna 400 Bad Request. | **EP03** |
+| TS59 | Endpoints Supplier Offers CRUD | Como usuario developer, quiero implementar los endpoints CRUD de ofertas de proveedores (GET, PUT, DELETE) en /api/v1/supplier-offers. | **Escenario 1: Consulta exitosa**<br>Dado que los endpoints GET /api/v1/supplier-offers están disponibles,<br>Cuando se consulta por ID, por proveedor o por material,<br>Entonces el sistema retorna 200 OK con los datos solicitados.<br><br>**Escenario 2: Oferta no encontrada**<br>Dado que el endpoint GET/PUT/DELETE /api/v1/supplier-offers/{id} está disponible,<br>Cuando el ID no existe,<br>Entonces el sistema retorna 404 Not Found. | **EP03** |
+| TS60 | Endpoint PATCH Supplier | Como usuario developer, quiero implementar el endpoint de actualización parcial de proveedores mediante PATCH a /api/v1/supplier/{id}. | **Escenario 1: Proveedor actualizado exitosamente**<br>Dado que el endpoint PATCH /api/v1/supplier/{id} está disponible,<br>Cuando se envía un payload con campos parciales y un ID válido,<br>Entonces el sistema retorna 200 OK con los datos actualizados.<br><br>**Escenario 2: Proveedor no encontrado**<br>Dado que el endpoint PATCH /api/v1/supplier/{id} está disponible,<br>Cuando se envía un ID inexistente,<br>Entonces el sistema retorna 404 Not Found. | **EP03** |
+| TS61 | Endpoint DELETE Supplier | Como usuario developer, quiero implementar el endpoint de eliminación de proveedores mediante DELETE a /api/v1/supplier/{id}. | **Escenario 1: Proveedor eliminado exitosamente**<br>Dado que el endpoint DELETE /api/v1/supplier/{id} está disponible,<br>Cuando se envía una solicitud con un ID de proveedor válido,<br>Entonces el sistema retorna 200 OK.<br><br>**Escenario 2: Proveedor no encontrado**<br>Dado que el endpoint DELETE /api/v1/supplier/{id} está disponible,<br>Cuando se envía un ID inexistente,<br>Entonces el sistema retorna 404 Not Found. | **EP03** |
+| TS62 | Endpoint POST BudgetItem Transaction | Como usuario developer, quiero implementar el endpoint de registro de transacciones de gasto en partidas presupuestales mediante POST a /api/v1/budget-items/{id}/transactions. | **Escenario 1: Transacción registrada exitosamente**<br>Dado que el endpoint POST /api/v1/budget-items/{id}/transactions está disponible,<br>Cuando se envía un payload con monto y descripción,<br>Entonces el sistema descuenta del presupuesto disponible y retorna 200 OK.<br><br>**Escenario 2: Presupuesto insuficiente**<br>Dado que el endpoint POST /api/v1/budget-items/{id}/transactions está disponible,<br>Cuando el monto excede el saldo disponible,<br>Entonces el sistema retorna 400 Bad Request. | **EP03** |
+| TS63 | Endpoint POST BudgetItem Extension | Como usuario developer, quiero implementar el endpoint de solicitud de extensión presupuestal mediante POST a /api/v1/budget-items/{id}/extensions. | **Escenario 1: Extensión registrada exitosamente**<br>Dado que el endpoint POST /api/v1/budget-items/{id}/extensions está disponible,<br>Cuando se envía un payload con el monto adicional,<br>Entonces el sistema incrementa el presupuesto de la partida y retorna 200 OK.<br><br>**Escenario 2: Partida no encontrada**<br>Dado que el endpoint POST /api/v1/budget-items/{id}/extensions está disponible,<br>Cuando se envía un ID de partida inexistente,<br>Entonces el sistema retorna 404 Not Found. | **EP03** |
+| TS64 | Endpoint DELETE BudgetItem | Como usuario developer, quiero implementar el endpoint de eliminación de partidas presupuestales mediante DELETE a /api/v1/budget-items/{id}. | **Escenario 1: Partida eliminada exitosamente**<br>Dado que el endpoint DELETE /api/v1/budget-items/{id} está disponible,<br>Cuando se envía una solicitud con un ID válido,<br>Entonces el sistema retorna 200 OK.<br><br>**Escenario 2: Partida no encontrada**<br>Dado que el endpoint DELETE /api/v1/budget-items/{id} está disponible,<br>Cuando se envía un ID inexistente,<br>Entonces el sistema retorna 404 Not Found. | **EP03** |
+| TS65 | Endpoint PUT ProgressItem | Como usuario developer, quiero implementar el endpoint de actualización de avances mediante PUT a /api/v1/progress-items/{id}. | **Escenario 1: Avance actualizado exitosamente**<br>Dado que el endpoint PUT /api/v1/progress-items/{id} está disponible,<br>Cuando se envía un payload con los datos actualizados y un ID válido,<br>Entonces el sistema retorna 200 OK con los datos del avance.<br><br>**Escenario 2: Avance no encontrado**<br>Dado que el endpoint PUT /api/v1/progress-items/{id} está disponible,<br>Cuando se envía un ID inexistente,<br>Entonces el sistema retorna 404 Not Found. | **EP02** |
+| TS66 | Endpoint DELETE ProgressItem | Como usuario developer, quiero implementar el endpoint de eliminación de avances mediante DELETE a /api/v1/progress-items/{id}. | **Escenario 1: Avance eliminado exitosamente**<br>Dado que el endpoint DELETE /api/v1/progress-items/{id} está disponible,<br>Cuando se envía una solicitud con un ID válido,<br>Entonces el sistema retorna 200 OK.<br><br>**Escenario 2: Avance no encontrado**<br>Dado que el endpoint DELETE /api/v1/progress-items/{id} está disponible,<br>Cuando se envía un ID inexistente,<br>Entonces el sistema retorna 404 Not Found. | **EP02** |
+| TS67 | Endpoint POST ProgressItem MiniAdvance | Como usuario developer, quiero implementar el endpoint de registro de mini-avances diarios mediante POST a /api/v1/progress-items/{id}/mini-advances. | **Escenario 1: Mini-avance registrado exitosamente**<br>Dado que el endpoint POST /api/v1/progress-items/{id}/mini-advances está disponible,<br>Cuando se envía un payload con el detalle del avance diario,<br>Entonces el sistema registra el mini-avance y retorna 201 Created.<br><br>**Escenario 2: Partida no encontrada**<br>Dado que el endpoint POST /api/v1/progress-items/{id}/mini-advances está disponible,<br>Cuando el ID de la partida no existe,<br>Entonces el sistema retorna 404 Not Found. | **EP02** |
 
 ## 3.2. Impact Mapping
 
@@ -1819,31 +1829,41 @@ Dentro del Product Backlog, hemos consolidado una lista jerarquizada de nuestras
 | 53 | TS30 | Endpoint GET Budget | Como usuario developer, quiero implementar el endpoint de consulta de estado financiero mediante GET a /api/v1/budgets/{projectId} para visualizar desviaciones en los paneles de control. | 2 |
 | 54 | US-19 | Cargar presupuesto base del proyecto | Como Equipo de Logística, quiero cargar el presupuesto inicial para tener un tope financiero al validar compras y requerimientos. | 3 |
 | 55 | US-15 | Alertar desviación presupuestal | Como Equipo de Logística, quiero recibir notificaciones si el gasto real supera el presupuesto meta para tomar medidas correctivas. | 5 |
-| 56 | TS31 | Setup Blueprints API Domain | Como usuario developer, quiero inicializar el dominio documental de planos con su controlador, servicio y repositorio para gestionar versiones de documentos técnicos. | 3 |
-| 57 | TS32 | Endpoint POST Blueprint | Como usuario developer, quiero implementar el endpoint de subida de planos mediante POST a /api/v1/blueprints para que el equipo trabaje siempre con la versión vigente. | 2 |
-| 58 | TS34 | Endpoint GET Blueprint | Como usuario developer, quiero implementar el endpoint de listado de planos mediante GET a /api/v1/blueprints para permitir filtrado por especialidad técnica. | 2 |
-| 59 | TS33 | Endpoint GET Blueprint Download | Como usuario developer, quiero implementar el endpoint de descarga de planos mediante GET a /api/v1/blueprints/{id}/download para que el Gestor Operativo pueda consultar planos en zonas sin conectividad. | 2 |
-| 60 | US-22 | Subir nueva versión de plano | Como Gestor Operativo, quiero cargar actualizaciones de los planos para que el equipo en campo trabaje con la información final. | 3 |
-| 61 | TS35 | Endpoint GET Blueprint Versions | Como usuario developer, quiero implementar el endpoint de historial de versiones mediante GET a /api/v1/blueprints/{id}/versions para que el equipo pueda rastrear la evolución del diseño. | 2 |
-| 62 | US-21 | Visualizar historial de versiones de plano | Como Gestor Operativo, quiero visualizar el registro de versiones de un plano para entender la evolución del diseño. | 2 |
-| 63 | US-23 | Descargar plano para uso sin conectividad | Como Gestor Operativo, quiero guardar planos en mi dispositivo para consultarlos en zonas sin conectividad (sótanos). | 3 |
-| 64 | TS36 | Endpoint POST Blueprint Annotations | Como usuario developer, quiero implementar el endpoint de anotaciones en planos mediante POST a /api/v1/blueprints/{id}/annotations para registrar observaciones de campo sobre los documentos. | 2 |
-| 65 | US-30 | Registrar anotaciones gráficas en plano | Como Gestor Operativo, quiero realizar anotaciones gráficas sobre el plano para reportar errores de diseño detectados en campo. | 5 |
-| 66 | TS37 | Endpoint GET Blueprint Annotations | Como usuario developer, quiero implementar el endpoint de consulta de anotaciones mediante GET a /api/v1/blueprints/{id}/annotations para visualizar las observaciones de campo sin alterar el plano original. | 2 |
-| 67 | US-31 | Filtrar planos por especialidad técnica | Como Gestor Operativo, quiero segmentar la lista de archivos por rama técnica para localizar información crítica rápidamente. | 2 |
-| 68 | US-32 | Ordenar planos cronológicamente | Como Equipo de Logística, quiero organizar los documentos por fecha de carga para identificar los últimos requerimientos técnicos. | 1 |
-| 69 | TS38 | Setup RNC API Domain | Como usuario developer, quiero inicializar el dominio de incidencias de calidad con su controlador, servicio y repositorio para gestionar los Resultados No Conformes de obra. | 3 |
-| 70 | TS39 | Endpoint POST RNC | Como usuario developer, quiero implementar el endpoint de registro de fallas técnicas mediante POST a /api/v1/rnc para alertar al equipo de diseño con evidencia fotográfica. | 2 |
-| 71 | TS40 | Endpoint GET RNC | Como usuario developer, quiero implementar el endpoint de consulta de incidencias mediante GET a /api/v1/rnc para permitir la revisión y subsanación de errores de calidad. | 2 |
-| 72 | US-02 | Registrar Resultado No Conforme | Como Gestor Operativo, quiero registrar un RNC con evidencia fotográfica para que el equipo de diseño sea alertado y subsane el error de inmediato. | 5 |
-| 73 | US-10 | Visualizar dashboard de control del proyecto | Como Gestor Operativo, deseo acceder a un resumen consolidado de la obra para identificar desviaciones en el plan sin procesar datos de forma manual. | 8 |
-| 74 | TS41 | Setup Signatures API Domain | Como usuario developer, quiero inicializar el dominio de firmas digitales con su controlador, servicio y repositorio para validar legalmente el cierre de actas de conformidad. | 5 |
-| 75 | TS42 | Endpoint POST Signature | Como usuario developer, quiero implementar el endpoint de sellado digital de documentos mediante POST a /api/v1/signatures para formalizar el cierre de actas con respaldo legal. | 3 |
-| 76 | TS43 | Endpoint GET Signature | Como usuario developer, quiero implementar el endpoint de consulta de estado de firmas mediante GET a /api/v1/signatures/records/{recordId} para verificar quién ha aprobado el cierre de una etapa técnica. | 2 |
-| 77 | US-06 | Firmar actas digitalmente con token | Como Gestor Operativo, quiero firmar actas de conformidad con un código de verificación para asegurar la validez legal del cierre de etapa. | 5 |
-| 78 | TS44 | Endpoint GET Signature Export | Como usuario developer, quiero implementar el endpoint de exportación del dossier de firmas mediante GET a /api/v1/signatures/export/{projectId} para facilitar la entrega formal del proyecto. | 3 |
-| 79 | US-33 | Exportar dossier de calidad en PDF | Como Gestor Operativo, quiero exportar un archivo PDF que contenga todo el historial de firmas electrónicas y aprobaciones de una etapa constructiva, para facilitar la entrega del proyecto a la municipalidad o al cliente final. | 5 |
-| 80 | US-12 | Exportar base de datos del proyecto | Como Gestor Operativo, quiero exportar la información del proyecto en formatos abiertos (.csv, .json) para garantizar la soberanía de los datos. | 3 |
+| 56 | TS38 | Setup RNC API Domain | Como usuario developer, quiero inicializar el dominio de incidencias de calidad con su controlador, servicio y repositorio para gestionar los Resultados No Conformes de obra. | 3 |
+| 57 | TS39 | Endpoint POST RNC | Como usuario developer, quiero implementar el endpoint de registro de fallas técnicas mediante POST a /api/v1/rnc para alertar al equipo de diseño con evidencia fotográfica. | 2 |
+| 58 | TS40 | Endpoint GET RNC | Como usuario developer, quiero implementar el endpoint de consulta de incidencias mediante GET a /api/v1/rnc para permitir la revisión y subsanación de errores de calidad. | 2 |
+| 59 | US-02 | Registrar Resultado No Conforme | Como Gestor Operativo, quiero registrar un RNC con evidencia fotográfica para que el equipo de diseño sea alertado y subsane el error de inmediato. | 5 |
+| 60 | US-10 | Visualizar dashboard de control del proyecto | Como Gestor Operativo, deseo acceder a un resumen consolidado de la obra para identificar desviaciones en el plan sin procesar datos de forma manual. | 8 |
+| 61 | TS41 | Setup Signatures API Domain | Como usuario developer, quiero inicializar el dominio de firmas digitales con su controlador, servicio y repositorio para validar legalmente el cierre de actas de conformidad. | 5 |
+| 62 | TS42 | Endpoint POST Signature | Como usuario developer, quiero implementar el endpoint de sellado digital de documentos mediante POST a /api/v1/signatures para formalizar el cierre de actas con respaldo legal. | 3 |
+| 63 | TS43 | Endpoint GET Signature | Como usuario developer, quiero implementar el endpoint de consulta de estado de firmas mediante GET a /api/v1/signatures/records/{recordId} para verificar quién ha aprobado el cierre de una etapa técnica. | 2 |
+| 64 | US-06 | Firmar actas digitalmente con token | Como Gestor Operativo, quiero firmar actas de conformidad con un código de verificación para asegurar la validez legal del cierre de etapa. | 5 |
+| 65 | TS44 | Endpoint GET Signature Export | Como usuario developer, quiero implementar el endpoint de exportación del dossier de firmas mediante GET a /api/v1/signatures/export/{projectId} para facilitar la entrega formal del proyecto. | 3 |
+| 66 | US-33 | Exportar dossier de calidad en PDF | Como Gestor Operativo, quiero exportar un archivo PDF que contenga todo el historial de firmas electrónicas y aprobaciones de una etapa constructiva, para facilitar la entrega del proyecto a la municipalidad o al cliente final. | 5 |
+| 67 | US-12 | Exportar base de datos del proyecto | Como Gestor Operativo, quiero exportar la información del proyecto en formatos abiertos (.csv, .json) para garantizar la soberanía de los datos. | 3 |
+| 68 | TS45 | Setup Document API Domain (.NET) | Como usuario developer, quiero inicializar el dominio de documentos con su controlador, servicio y repositorio para gestionar la documentación del proyecto. | 3 |
+| 69 | TS46 | Endpoint POST Document | Como usuario developer, quiero implementar el endpoint de creación de documentos mediante POST a /api/v1/documents. | 2 |
+| 70 | TS47 | Endpoint POST Document Sign | Como usuario developer, quiero implementar el endpoint de firma digital de documentos mediante POST a /api/v1/documents/{documentId}/sign. | 3 |
+| 71 | TS48 | Endpoint GET Documents | Como usuario developer, quiero implementar los endpoints de consulta de documentos (GET por ID, pendientes, firmados). | 2 |
+| 72 | TS49 | Setup TeamUser API Domain (.NET) | Como usuario developer, quiero inicializar el dominio de usuarios del equipo con su controlador, servicio y repositorio. | 3 |
+| 73 | TS50 | Endpoint POST TeamUser | Como usuario developer, quiero implementar el endpoint de registro de usuarios del equipo mediante POST a /api/v1/team-users. | 2 |
+| 74 | TS51 | Endpoint GET TeamUser | Como usuario developer, quiero implementar los endpoints de consulta de usuarios del equipo (GET por ID y listado). | 2 |
+| 75 | TS52 | Endpoint POST TeamUser Activate/Deactivate | Como usuario developer, quiero implementar los endpoints de activación/desactivación de usuarios del equipo. | 2 |
+| 76 | TS53 | Setup TeamWorker API Domain (.NET) | Como usuario developer, quiero inicializar el dominio de trabajadores del equipo con su controlador, servicio y repositorio. | 3 |
+| 77 | TS54 | Endpoint POST TeamWorker | Como usuario developer, quiero implementar el endpoint de registro de trabajadores mediante POST a /api/v1/team-workers. | 2 |
+| 78 | TS55 | Endpoint DELETE TeamWorker | Como usuario developer, quiero implementar el endpoint de eliminación de trabajadores mediante DELETE a /api/v1/team-workers/{teamWorkerId}. | 2 |
+| 79 | TS56 | Endpoints TeamWorker GET | Como usuario developer, quiero implementar los endpoints de consulta de trabajadores (GET por ID y por proyecto). | 2 |
+| 80 | TS57 | Endpoints TeamWorker Machinery | Como usuario developer, quiero implementar los endpoints de asignación y remoción de maquinaria a trabajadores. | 3 |
+| 81 | TS58 | Setup Supplier Offers API Domain (.NET) | Como usuario developer, quiero implementar el endpoint de registro de ofertas de proveedores. | 2 |
+| 82 | TS59 | Endpoints Supplier Offers CRUD | Como usuario developer, quiero implementar los endpoints CRUD de ofertas de proveedores. | 3 |
+| 83 | TS60 | Endpoint PATCH Supplier | Como usuario developer, quiero implementar el endpoint de actualización parcial de proveedores. | 2 |
+| 84 | TS61 | Endpoint DELETE Supplier | Como usuario developer, quiero implementar el endpoint de eliminación de proveedores. | 2 |
+| 85 | TS62 | Endpoint POST BudgetItem Transaction | Como usuario developer, quiero implementar el endpoint de registro de transacciones de gasto en partidas presupuestales. | 2 |
+| 86 | TS63 | Endpoint POST BudgetItem Extension | Como usuario developer, quiero implementar el endpoint de solicitud de extensión presupuestal. | 2 |
+| 87 | TS64 | Endpoint DELETE BudgetItem | Como usuario developer, quiero implementar el endpoint de eliminación de partidas presupuestales. | 2 |
+| 88 | TS65 | Endpoint PUT ProgressItem | Como usuario developer, quiero implementar el endpoint de actualización de avances. | 2 |
+| 89 | TS66 | Endpoint DELETE ProgressItem | Como usuario developer, quiero implementar el endpoint de eliminación de avances. | 2 |
+| 90 | TS67 | Endpoint POST ProgressItem MiniAdvance | Como usuario developer, quiero implementar el endpoint de registro de mini-avances diarios. | 2 |
 
 A continuación se muestra una representación gráfica tanto de las user stories como de las technical stories en la plataforma Jira Software:
 
@@ -4599,10 +4619,327 @@ A continuación, se presenta la documentación de los servicios implementados du
 | **Sprint 2 Retrospective Summary** | El equipo identificó que la separación por capas facilitó el trabajo en el frontend, lo cual servirá de base para alinear los Bounded Contexts del backend durante el siguiente ciclo.|
 | **Sprint 3 Goal** | Our focus is on integrating the initial C# .NET backend with our frontend using Domain-Driven Design, while launching the new versions of the Kipu ecosystem. We believe it delivers a reliable, real-data experience and seamless operational connectivity to our users and stakeholders. This will be confirmed when users can execute core operations on the live Web Application successfully consuming the first deployed Web Services, and visitors can access the updated Landing Page in production.|
 | **Sprint 2 Velocity** | 69 Story Points |
-| **Sum of Story Points** |  Story Points |
+| **Sum of Story Points** | 75 Story Points |
 
 #### 5.2.3.2. Aspect Leaders and Collaborators.
+
+Durante este Sprint, el equipo ha organizado el trabajo en base a las Epics definidas en el Product Backlog. La asignación de líderes y colaboradores se ha realizado considerando la responsabilidad real de cada miembro en la implementación de los Bounded Contexts del backend, según se documenta en la planificación interna del equipo.
+
+| Team Member (Last Name, First Name) | GitHub Username | EP01 (Cuentas y Acceso) | EP02 (Calidad y KPIs) | EP03 (Suministros y Presupuesto) | EP04 (Landing Page) | EP05 (Documentación y Gestión de Equipo) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Francia Torres, Jhony Manuel | ManuelFT4 | C | C | L | C | C |
+| Montoya Nina, Paula Fernanda | SeviNyO | C | C | L | C | C |
+| Palacios Tinoco, Adrian Fernando | AdrianP3107 | C | L | C | C | C |
+| Ramos Hinostroza, Diego Antonio | Kosevy | L | L | C | C | C |
+| Ramos Mera, Neo Daniel | norahccccc | C | C | C | C | L |
+
+**Leyenda:** L = Líder, C = Colaborador
+
 #### 5.2.3.3. Sprint Backlog 3.
+
+La prioridad estratégica de este tercer sprint consiste en la implementación y despliegue de la API REST del backend de Kipu utilizando .NET con Entity Framework Core y MySQL, bajo una arquitectura Domain-Driven Design. Se desarrollaron la totalidad de los endpoints correspondientes a los Bounded Contexts definidos, integrando la autenticación JWT, la documentación Swagger, la internacionalización (i18n) y la configuración de CORS para habilitar la conexión con el frontend desplegado en Vercel.
+
+Enlace: [Sprint Backlog 3 en Jira](https://pircaindustries.atlassian.net/jira/software/projects/AW/boards/34)<br><br>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item / Task</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Description</td>
+    <td>Estim<br>ation (Story Points)</td>
+    <td>Assigned to</td>
+    <td>Status (To-do / InProcess / ToReview / Done)</td>
+  </tr>
+  <tr>
+    <td rowspan="4">US-01</td>
+    <td rowspan="4">Registrar cuenta de usuario</td>
+    <td>TS01</td>
+    <td>Setup User API Domain (.NET)</td>
+    <td>Inicializar el dominio de usuarios con controlador, servicio y repositorio en .NET.</td>
+    <td>3</td>
+    <td>Diego Antonio Ramos Hinostroza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Endpoint POST Auth Login</td>
+    <td>Implementar autenticación JWT mediante POST /api/v1/auth/login.</td>
+    <td>2</td>
+    <td>Diego Antonio Ramos Hinostroza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Endpoint POST User</td>
+    <td>Implementar registro de usuarios mediante POST /api/v1/users.</td>
+    <td>2</td>
+    <td>Diego Antonio Ramos Hinostroza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS04</td>
+    <td>Endpoint GET User</td>
+    <td>Implementar consulta de perfil mediante GET /api/v1/users/{id}.</td>
+    <td>2</td>
+    <td>Diego Antonio Ramos Hinostroza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US-11</td>
+    <td rowspan="1">Asignar roles a usuarios</td>
+    <td>TS05</td>
+    <td>Endpoint PUT User Roles</td>
+    <td>Implementar asignación de roles mediante PUT /api/v1/users/{id}/roles.</td>
+    <td>2</td>
+    <td>Diego Antonio Ramos Hinostroza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="4">US-18</td>
+    <td rowspan="4">Crear nuevo proyecto de obra</td>
+    <td>TS06</td>
+    <td>Setup Projects API Domain (.NET)</td>
+    <td>Inicializar el dominio de proyectos con controlador, servicio y repositorio.</td>
+    <td>3</td>
+    <td>Diego Antonio Ramos Hinostroza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS07</td>
+    <td>Endpoint POST Project</td>
+    <td>Implementar registro de obras mediante POST /api/v1/projects.</td>
+    <td>2</td>
+    <td>Diego Antonio Ramos Hinostroza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS08</td>
+    <td>Endpoint GET Project</td>
+    <td>Implementar consulta de obras mediante GET /api/v1/projects.</td>
+    <td>2</td>
+    <td>Diego Antonio Ramos Hinostroza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS10</td>
+    <td>Endpoint POST Project Items</td>
+    <td>Implementar registro de partidas mediante POST /api/v1/projects/{id}/items.</td>
+    <td>3</td>
+    <td>Diego Antonio Ramos Hinostroza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US-09</td>
+    <td rowspan="1">Cambiar estado del proyecto</td>
+    <td>TS09</td>
+    <td>Endpoint PATCH Project Status</td>
+    <td>Implementar cambio de estado de obra mediante PATCH /api/v1/projects/{id}/status.</td>
+    <td>2</td>
+    <td>Diego Antonio Ramos Hinostroza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US-20</td>
+    <td rowspan="1">Registrar partidas de obra</td>
+    <td>TS11</td>
+    <td>Endpoint GET Project Items</td>
+    <td>Implementar consulta de partidas mediante GET /api/v1/projects/{id}/items.</td>
+    <td>2</td>
+    <td>Diego Antonio Ramos Hinostroza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="3">US-02</td>
+    <td rowspan="3">Registrar Resultado No Conforme</td>
+    <td>TS38</td>
+    <td>Setup RNC API Domain (.NET)</td>
+    <td>Inicializar el dominio de incidencias de calidad con controlador, servicio y repositorio.</td>
+    <td>3</td>
+    <td>Adrian Fernando Palacios Tinoco</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS39</td>
+    <td>Endpoint POST RNC</td>
+    <td>Implementar registro de RNC mediante POST /api/v1/ncrs.</td>
+    <td>2</td>
+    <td>Adrian Fernando Palacios Tinoco</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS40</td>
+    <td>Endpoint GET RNC</td>
+    <td>Implementar consulta de RNC mediante GET /api/v1/ncrs.</td>
+    <td>2</td>
+    <td>Adrian Fernando Palacios Tinoco</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="3">US-08</td>
+    <td rowspan="3">Registrar avance diario de obra</td>
+    <td>TS12</td>
+    <td>Setup Advances API Domain (.NET)</td>
+    <td>Inicializar el dominio de avances con controlador, servicio y repositorio.</td>
+    <td>3</td>
+    <td>Jhony Manuel Francia Torres</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS65</td>
+    <td>Endpoint PUT ProgressItem</td>
+    <td>Implementar actualización de avances mediante PUT /api/v1/progress-items/{id}.</td>
+    <td>2</td>
+    <td>Jhony Manuel Francia Torres</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS67</td>
+    <td>Endpoint POST MiniAdvance</td>
+    <td>Implementar mini-avances diarios mediante POST /api/v1/progress-items/{id}/mini-advances.</td>
+    <td>2</td>
+    <td>Jhony Manuel Francia Torres</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US-19</td>
+    <td rowspan="2">Cargar presupuesto base del proyecto</td>
+    <td>TS62</td>
+    <td>Endpoint POST Transaction</td>
+    <td>Implementar registro de transacciones de gasto en partidas presupuestales.</td>
+    <td>2</td>
+    <td>Jhony Manuel Francia Torres</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS63</td>
+    <td>Endpoint POST Extension</td>
+    <td>Implementar solicitud de extensión presupuestal mediante POST.</td>
+    <td>2</td>
+    <td>Jhony Manuel Francia Torres</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="7">US-34</td>
+    <td rowspan="7">Registrar perfil de proveedor</td>
+    <td>TS24</td>
+    <td>Setup Suppliers API Domain (.NET)</td>
+    <td>Inicializar el dominio de proveedores con controlador, servicio y repositorio.</td>
+    <td>3</td>
+    <td>Paula Fernanda Montoya Nina</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS25</td>
+    <td>Endpoint GET Suppliers</td>
+    <td>Implementar consulta de proveedores mediante GET /api/v1/supplier.</td>
+    <td>2</td>
+    <td>Paula Fernanda Montoya Nina</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS26</td>
+    <td>Endpoint POST Supplier</td>
+    <td>Implementar registro de proveedores mediante POST /api/v1/supplier.</td>
+    <td>2</td>
+    <td>Paula Fernanda Montoya Nina</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS27</td>
+    <td>Endpoint PUT Supplier</td>
+    <td>Implementar modificación de proveedores mediante PUT /api/v1/supplier/{id}.</td>
+    <td>2</td>
+    <td>Paula Fernanda Montoya Nina</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS60</td>
+    <td>Endpoint PATCH Supplier</td>
+    <td>Implementar actualización parcial de proveedores.</td>
+    <td>2</td>
+    <td>Paula Fernanda Montoya Nina</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS61</td>
+    <td>Endpoint DELETE Supplier</td>
+    <td>Implementar eliminación de proveedores.</td>
+    <td>2</td>
+    <td>Paula Fernanda Montoya Nina</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS58</td>
+    <td>Setup Supplier Offers Domain (.NET)</td>
+    <td>Implementar endpoints de ofertas de proveedores.</td>
+    <td>3</td>
+    <td>Paula Fernanda Montoya Nina</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="3">US-06</td>
+    <td rowspan="3">Firmar actas digitalmente con token</td>
+    <td>TS45</td>
+    <td>Setup Document API Domain (.NET)</td>
+    <td>Inicializar el dominio de documentos con controlador, servicio y repositorio.</td>
+    <td>3</td>
+    <td>Neo Daniel Ramos Mera</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS46</td>
+    <td>Endpoint POST Document</td>
+    <td>Implementar creación de documentos mediante POST /api/v1/documents.</td>
+    <td>2</td>
+    <td>Neo Daniel Ramos Mera</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS47</td>
+    <td>Endpoint POST Document Sign</td>
+    <td>Implementar firma digital de documentos mediante POST /api/v1/documents/{documentId}/sign.</td>
+    <td>3</td>
+    <td>Neo Daniel Ramos Mera</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="3">US-16</td>
+    <td rowspan="3">Controlar herramientas asignadas por operario</td>
+    <td>TS53</td>
+    <td>Setup TeamWorker Domain (.NET)</td>
+    <td>Inicializar el dominio de trabajadores con controlador, servicio y repositorio.</td>
+    <td>3</td>
+    <td>Neo Daniel Ramos Mera</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS54</td>
+    <td>Endpoint POST TeamWorker</td>
+    <td>Implementar registro de trabajadores con maquinaria asignada.</td>
+    <td>2</td>
+    <td>Neo Daniel Ramos Mera</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS57</td>
+    <td>Endpoint TeamWorker Machinery</td>
+    <td>Implementar asignación/remoción de maquinaria a trabajadores.</td>
+    <td>3</td>
+    <td>Neo Daniel Ramos Mera</td>
+    <td>Done</td>
+  </tr>
+</tbody>
+</table>
+
 #### 5.2.3.4. Development Evidence for Sprint Review.
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 
