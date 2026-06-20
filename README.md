@@ -5853,6 +5853,9 @@ Por otro lado, algunas funcionalidades del frontend interno, como la persistenci
 
 + Durante el desarrollo del entregable AV2, el equipo demostró una sólida capacidad de organización, comunicación y trabajo colaborativo, coordinando eficazmente las actividades del Sprint mediante reuniones periódicas y una distribución equilibrada de responsabilidades. Gracias al esfuerzo conjunto, se logró implementar nuevas funcionalidades en frontend y backend, integrar distintos bounded contexts y realizar el despliegue de la solución, cumpliendo con los objetivos establecidos para la entrega. Asimismo, la retroalimentación obtenida en las sesiones presenciales permitió realizar mejoras oportunas y asegurar la calidad del producto final, fortaleciendo el desempeño del equipo y consolidando una dinámica de trabajo orientada al cumplimiento de metas y la mejora continua.
 
++ Video About-The-Team [Ver About The Team]( )
+  
+
 # Recomendaciones
 
 + Fortalecer la validación continua con los usuarios finales durante las siguientes iteraciones del proyecto, realizando pruebas periódicas de usabilidad y recopilando retroalimentación temprana que permita identificar oportunidades de mejora y asegurar que las funcionalidades implementadas respondan adecuadamente a las necesidades del mercado objetivo.
