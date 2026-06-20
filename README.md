@@ -5959,3 +5959,11 @@ Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u2022241
  </div>
 
  Enlace: [Exposure Video AV2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241d934_upc_edu_pe/IQCDbcMSVmvlTJe8OEvGOuRCAdqcDelsuKLmM79MQBqQx6E?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=atXWIY)
+
+ ## Video-About-The-Team
+  <div align="center">
+    <h1>AV2</h1>
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/25ba33cc85c64ef7d852b55f5558f0c28e4a4eae/Resources/Video-About-The-Product/Video-About-The-Product-image.PNG?raw=true" alt="Video about the team">
+ </div>
+
+ Enlace: [Video-About-The-Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241d934_upc_edu_pe/IQAFqcqCL0sxQ7WP1fup20oPAecEeXq87bfEk6vjxfkHu6U?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RgZBNa)
