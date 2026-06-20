@@ -4906,6 +4906,8 @@ A continuación, se presentan los commits más relevantes realizados durante el 
 
 ##### Evidencia de Deployment del Backend
 
+[Página del Deployment](https://app-260619194148.azurewebsites.net/swagger/index.html)
+
 ###### 1. Creación de MySQL en Azure
 <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Deployment-Backend/creacionmysqlforazure.jpg?raw=true">
 
@@ -5918,6 +5920,7 @@ Wiegers, K. E., y Beatty, J. (2013). *Software requirements* (3rd ed.). Microsof
 + Wireframes: [Ver Wireframes](https://www.figma.com/design/wYSJ9ua6Bc2UCmH6TnQWie/Kipu---Aplicaciones-Web-Wireframes?node-id=0-1&t=zWud7TLSj3oIzBkc-1)<br><br>
 + Mock-ups: [Ver Mock-ups](https://www.figma.com/design/YozJtIsGkKkhXZA5kArMvL/Kipu---Open-Source-Mockups?node-id=2-10598&t=ylKZiCxcAheVlOJA-1)<br><br>
 + Prototype Figma: [Ver Prototype](https://www.figma.com/design/oCVgJrJ3SUNXq8jIGHlhX0/App-Web---Prototype?t=RCnCwcgdiy5cIIsu-1)<br><br>
++ Backend Deployment [Ver Backend](https://app-260619194148.azurewebsites.net/swagger/index.html)<br><br>
 
 ## Prototype Evidence
 
