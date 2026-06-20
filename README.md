@@ -5866,6 +5866,14 @@ Los problemas más relevantes se encuentran en el formulario de contacto y en lo
 Por otro lado, algunas funcionalidades del frontend interno, como la persistencia de avances, el calendario, la carga de imágenes y la exportación, fueron consideradas con severidad baja debido a que pueden corresponder a funciones simuladas o parcialmente implementadas en esta versión. Aun así, se recomienda comunicar claramente este estado al usuario para mantener una experiencia transparente y consistente.
 
 ## 5.4. Video About-the-Product.
+
+  <div align="center">
+    <h2>AV2</h2>
+    <img src="Resources/Video-About-The-Product/Video-About-The-Product-image-AV2.PNG" alt="Video-About-The-Product">
+  </div>
+
+Enlace: [Video-About-The-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410817_upc_edu_pe/IQDGCp6TCRyLSoOq0QX0t9wsAeNlRxLWEqTmdicbAfGM5UY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=iqmslm)
+
 ---
 # Conclusiones
 
@@ -5937,13 +5945,6 @@ Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u2022241
  </div>
 
  Enlace: [Video-About-The-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410817_upc_edu_pe/IQAaVrLGm803Qb5tEaD5zDwtASW_V6QHpUGs_V0TKhayERg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=2utT6s)
-
-  <div align="center">
-    <h1>AV2</h1>
-    <img src="Resources/Video-About-The-Product/Video-About-The-Product-image-AV2.PNG" alt="Video-About-The-Product">
-  </div>
-
-  Enlace: [Video-About-The-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410817_upc_edu_pe/IQDGCp6TCRyLSoOq0QX0t9wsAeNlRxLWEqTmdicbAfGM5UY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=iqmslm)
 
  ## Exposure Video AV1
   <div align="center">
