@@ -419,13 +419,13 @@ https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries
       - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
     - [5.2.2. Sprint 2](#522-sprint-2)
-      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+      - [5.2.2.1. Sprint Planning 2.](#5221-sprint-planning-2)
       - [5.2.2.2. Aspect Leaders and Collaborators.](#5222-aspect-leaders-and-collaborators)
-      - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+      - [5.2.2.3. Sprint Backlog 2.](#5223-sprint-backlog-2)
       - [5.2.2.4. Development Evidence for Sprint Review.](#5224-development-evidence-for-sprint-review)
       - [5.2.2.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
       - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
-      - [5.2.2.8. Team Collaboration Insights for Sprint Review](#5228-team-collaboration-insights-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
     - [5.2.3. Sprint 3](#523-sprint-3)
       - [5.2.3.1. Spring Planning 3.](#5231-spring-planning-3)
       - [5.2.3.2. Aspect Leaders and Collaborators.](#5232-aspect-leaders-and-collaborators)
@@ -4574,7 +4574,7 @@ Finalmente utilizamos la plataforma Vercel para poder desplegar la Web Applicati
 
 + **Frontend Deployment:** [Ver Frontend](https://frontend-kipu-five.vercel.app)
 
-#### 5.2.2.8. Team Collaboration Insights for Sprint Review
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
 
 Mediante la sección *Insights* de GitHub, se presenta a continuación las gráficas de colaboración correspondientes al repositorio "frontend-kipu". Esta visualización permite evidenciar el nivel de participación y las contribuciones realizadas por cada integrante del equipo durante el desarrollo de las actividades contempladas en el Sprint 2.
 
@@ -5118,6 +5118,8 @@ A continuación, se presentan las evidencias del despliegue del backend de Kipu 
 <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Deployment-Backend/pruebawebappfuncionandocorrectamente.jpg?raw=true">
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+Mediante la sección *Insights* de GitHub, se presenta a continuación las gráficas de colaboración correspondientes al repositorio "kipu-backend". Esta visualización permite evidenciar el nivel de participación y las contribuciones realizadas por cada integrante del equipo durante el desarrollo de las actividades contempladas en el Sprint 3.
 
 <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Sprint-3/Team collaboration insights - 1.png" alt="Team Collaboration Insights" width="800"/>
 
@@ -5993,12 +5995,14 @@ Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u2022241
     <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/25ba33cc85c64ef7d852b55f5558f0c28e4a4eae/Resources/Video-About-The-Product/Video-About-The-Product-image.PNG?raw=true" alt="Video about the product">
  </div>
 
+ Enlace: [Video-About-The-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410817_upc_edu_pe/IQAaVrLGm803Qb5tEaD5zDwtASW_V6QHpUGs_V0TKhayERg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=2utT6s)
+
   <div align="center">
     <h2>AV2</h2>
     <img src="Resources/Video-About-The-Product/Video-About-The-Product-image-AV2.PNG" alt="Video-About-The-Product">
   </div>
 
- Enlace: [Video-About-The-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410817_upc_edu_pe/IQAaVrLGm803Qb5tEaD5zDwtASW_V6QHpUGs_V0TKhayERg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=2utT6s)
+  Enlace: [Video-About-The-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410817_upc_edu_pe/IQBda8fDJPgUQI3F04Jr-I-KAa_3uJOtrTLDH8QlrO5P6qo?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6OJiqJ)
 
  ## Exposure Video AV1
   <div align="center">
