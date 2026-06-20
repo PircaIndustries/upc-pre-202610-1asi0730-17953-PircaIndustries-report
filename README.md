@@ -4904,6 +4904,28 @@ A continuación, se presentan los commits más relevantes realizados durante el 
 | PircaIndustries/kipu-backend | develop | b4b16e5 | feat: added documents, team users and team workers review, i18n and application.properties for production | N/A | 2026-06-19 |
 | PircaIndustries/kipu-backend | develop | 44ddd51 | feat: deployment properties fixed | N/A | 2026-06-19 |
 
+##### Evidencia de Deployment del Backend
+
+###### 1. Creación de MySQL en Azure
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Deployment-Backend/creacionmysqlforazure.jpg?raw=true">
+
+###### 2. Credenciales de MySQL DB
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Deployment-Backend/credencialesmysqldb.jpg?raw=true">
+
+###### 3. Application Properties con Credenciales de DB
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Deployment-Backend/applicationpropertiesconcredencialesdedb.jpg?raw=true">
+
+---
+
+###### 4. Creación de Web App y guardado en recurso
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Deployment-Backend/creacionwebappyguardadoenrecurso.jpg?raw=true">
+
+###### 5. Muestra de deploy correcto con URL
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Deployment-Backend/muestradeploycorrectoconurl.jpg?raw=true">
+
+###### 6. Prueba de Web App funcionando correctamente
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Deployment-Backend/pruebawebappfuncionandocorrectamente.jpg?raw=true">
+
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 
 Esta sección presenta las evidencias de ejecución técnica alcanzadas durante el presente Sprint para la solución Kipu bajo el ecosistema de PircaIndustries. A continuación, se detalla el resumen de los logros del backend, la documentación de la API expuesta y el material audiovisual de respaldo.
