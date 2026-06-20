@@ -3702,7 +3702,7 @@ Enlace: [Sprint Backlog 2 en Jira](https://pircaindustries.atlassian.net/jira/so
 
 
 <div align="center">
-  <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Sprint-Backlog/jira-sprint-backlog-2.png" alt="sprint">
+  <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Sprint-Backlog/jira-sprint-backlog-2.png?raw=true" alt="sprint">
 </div><br><br>
 
 <table>
@@ -4462,6 +4462,7 @@ Esta sección presenta los avances en la implementación técnica de la solució
 
 Esta sección presenta las evidencias de ejecución técnica alcanzadas durante el presente Sprint para la solución **Kipu** bajo el ecosistema de **PircaIndustries**. A continuación, se detalla el resumen de los logros, las interfaces principales implementadas y el material audiovisual de respaldo.
 
+
 ---
 
 #### 1. Resumen de Logros del Sprint
@@ -4536,7 +4537,46 @@ A continuación, se presenta la documentación de los servicios implementados du
 | `/team-workers` | **GET** | `/team-workers` | Registro de operarios y personal de campo en obra. | `http://localhost:3000/team-workers` |
 | `/documents` | **GET** | `/documents` | Repositorio de certificados y actas de obra. | `http://localhost:3000/documents` |
 
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+A continuación, describiremos las actividades desarrolladas durante el Sprint 2.
+
+En primer lugar, se creó un nuevo repositorio en GitHub destinado a nuestra Aplicación Web. Asimismo, se actualizó el repositorio donde se almacenan los Acceptance Tests, incorporando las nuevas User Stories y Technical Stories que fueron abordadas durante este segundo sprint.
+
+  <div align="center">
+  <img src="Resources/Sprint-2/repo-frontend.png">
+  </div><br><br>
+
+  <div align="center">
+  <img src="Resources/Sprint-2/acceptance-test-repo.png">
+  </div><br><br>
+
+En ambos repositorios adoptamos la metodología GitFlow para gestionar ramas, permitiendo el desarrollo simultáneo, y facilitando la integración de nuevas características.<br>
+
+  <div align="center">
+  <img src="Resources/Sprint-2/web-branches.png" alt="branches">
+  </div><br><br>
+
+  <div align="center">
+  <img src="Resources/Sprint-2/acceptance-test-branches.jpeg" alt="branches">
+  </div><br><br>
+
+Finalmente utilizamos la plataforma Vercel para poder desplegar la Web Application, facilitando la revisión continua de los cambios realizados.
+
+  <div align="center">
+  <img src="Resources/Sprint-2/vercel-evidence-1.png" alt="vercel-deployment">
+  </div><br><br>
+
+  <div align="center">
+  <img src="Resources/Sprint-2/vercel-evidence-2.png" alt="app-web">
+  </div><br><br>
+
++ **Frontend Deployment:** [Ver Frontend](https://frontend-kipu-five.vercel.app)
+
 #### 5.2.2.8. Team Collaboration Insights for Sprint Review
+
+Mediante la sección *Insights* de GitHub, se presenta a continuación las gráficas de colaboración correspondientes al repositorio "frontend-kipu". Esta visualización permite evidenciar el nivel de participación y las contribuciones realizadas por cada integrante del equipo durante el desarrollo de las actividades contempladas en el Sprint 2.
 
 <img src="Resources/Sprint-2/insight-sprint2.PNG" alt="Team Collaboration Insights" width="800"/>
 
@@ -5054,7 +5094,8 @@ A continuación, se presentan las evidencias del despliegue del backend de Kipu 
 
 ##### Evidencia de Deployment del Backend
 
-[Página del Deployment](https://app-260619194148.azurewebsites.net/swagger/index.html)
++ **Backend Deployment:** [Ver Backend](https://app-260619194148.azurewebsites.net/swagger/index.html)
+
 
 ###### 1. Creación de MySQL en Azure
 <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Deployment-Backend/creacionmysqlforazure.jpg?raw=true">
@@ -5917,11 +5958,15 @@ Wiegers, K. E., y Beatty, J. (2013). *Software requirements* (3rd ed.). Microsof
 + Repositorio GitHub de la Organización: [Ver Organización](https://github.com/PircaIndustries)<br><br>
 + Repositorio GitHub del Landing Page: [Ver Repositorio](https://github.com/PircaIndustries/Landing-Page-Kipu)<br><br>
 + Repositorio GitHub del Informe: [Ver Repositorio](https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report)<br><br>
-+ Repositorio GitHub de los Acceptance-Test: [Ver Repositorio]( https://github.com/PircaIndustries/Acceptance-Test)<br><br>
++ Repositorio GitHub de los Acceptance-Test: [Ver Repositorio](https://github.com/PircaIndustries/Acceptance-Test)<br><br>
++ Repositorio GitHub de Frontend: [Ver Repositorio](https://github.com/PircaIndustries/frontend-kipu)<br><br>
++ Repositorio GitHub del Backend: [Ver Repositorio](https://github.com/PircaIndustries/kipu-backend)<br><br>
 + Wireframes: [Ver Wireframes](https://www.figma.com/design/wYSJ9ua6Bc2UCmH6TnQWie/Kipu---Aplicaciones-Web-Wireframes?node-id=0-1&t=zWud7TLSj3oIzBkc-1)<br><br>
 + Mock-ups: [Ver Mock-ups](https://www.figma.com/design/YozJtIsGkKkhXZA5kArMvL/Kipu---Open-Source-Mockups?node-id=2-10598&t=ylKZiCxcAheVlOJA-1)<br><br>
 + Prototype Figma: [Ver Prototype](https://www.figma.com/design/oCVgJrJ3SUNXq8jIGHlhX0/App-Web---Prototype?t=RCnCwcgdiy5cIIsu-1)<br><br>
++ Frontend Deployment [Ver Frontend](https://frontend-kipu-five.vercel.app/)<br><br>
 + Backend Deployment [Ver Backend](https://app-260619194148.azurewebsites.net/swagger/index.html)<br><br>
+
 
 ## Prototype Evidence
 
@@ -5947,6 +5992,11 @@ Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u2022241
     <h1>AV1</h1>
     <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/25ba33cc85c64ef7d852b55f5558f0c28e4a4eae/Resources/Video-About-The-Product/Video-About-The-Product-image.PNG?raw=true" alt="Video about the product">
  </div>
+
+  <div align="center">
+    <h2>AV2</h2>
+    <img src="Resources/Video-About-The-Product/Video-About-The-Product-image-AV2.PNG" alt="Video-About-The-Product">
+  </div>
 
  Enlace: [Video-About-The-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410817_upc_edu_pe/IQAaVrLGm803Qb5tEaD5zDwtASW_V6QHpUGs_V0TKhayERg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=2utT6s)
 
