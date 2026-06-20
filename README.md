@@ -5953,10 +5953,10 @@ Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u2022241
 
  Enlace: [Exposure Video AV1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224130_upc_edu_pe/IQCgxsCDO1NsT5v7JkBZJb1QAdbxazxXpjQHcc98P8a8sP0?e=YrATad&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
- ## Video-About-The-Team
+ ## Exposure Video AV2
  <div align="center">
     <h1>AV2</h1>
-    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/25ba33cc85c64ef7d852b55f5558f0c28e4a4eae/Resources/AboutTheTeam/av2-anexo.jpeg?raw=true" alt="Video about the team">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/25ba33cc85c64ef7d852b55f5558f0c28e4a4eae/Resources/AboutTheTeam/av2-anexo.jpeg?raw=true" alt="Video AV 2">
  </div>
 
- Enlace: [Video-About-The-Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241d934_upc_edu_pe/IQCDbcMSVmvlTJe8OEvGOuRCAdqcDelsuKLmM79MQBqQx6E?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=atXWIY)
+ Enlace: [Exposure Video AV2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241d934_upc_edu_pe/IQCDbcMSVmvlTJe8OEvGOuRCAdqcDelsuKLmM79MQBqQx6E?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=atXWIY)
