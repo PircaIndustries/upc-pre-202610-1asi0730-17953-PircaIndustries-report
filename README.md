@@ -4883,9 +4883,7 @@ Enlace: [Sprint Backlog 3 en Jira](https://pircaindustries.atlassian.net/jira/so
 
 #### 5.2.3.4. Development Evidence for Sprint Review.
 
-Durante el Sprint 3, el equipo implementó la totalidad de la API REST del backend de Kipu utilizando .NET 10 con Entity Framework Core y MySQL, bajo una arquitectura Domain-Driven Design. Se desarrollaron 15 controladores que exponen más de 60 endpoints cubriendo los Bounded Contexts de IAM, Projects, Logistics (Suppliers, Materials, Categories, Inventories, Requests, Offers), Documents, Team Users, Team Workers, Budget, Progress y NCR. Asimismo, se integró autenticación JWT, documentación Swagger/OpenAPI, internacionalización (i18n) con soporte EN/ES, y configuración de CORS para el despliegue en producción.
-
-A continuación, se presentan los commits más relevantes realizados durante el Sprint, organizados por repositorio y rama.
+Durante el Sprint 3, el equipo implementó la totalidad de la API REST del backend de Kipu. A continuación, se presentan los commits más relevantes realizados durante el Sprint, organizados por repositorio y rama.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -4903,30 +4901,6 @@ A continuación, se presentan los commits más relevantes realizados durante el 
 | PircaIndustries/kipu-backend | feature/projects-management | ddb651e | Feat: Add validation translation and Accept-Language | Add Spanish-aware localization and ProblemDetails translation, plus Swagger support for Accept-Language. Added ValidationErrorsTranslator utility, AcceptLanguageHeaderParameterOperationFilter, and updated Program.cs. | 2026-06-19 |
 | PircaIndustries/kipu-backend | develop | b4b16e5 | feat: added documents, team users and team workers review, i18n and application.properties for production | N/A | 2026-06-19 |
 | PircaIndustries/kipu-backend | develop | 44ddd51 | feat: deployment properties fixed | N/A | 2026-06-19 |
-
-##### Evidencia de Deployment del Backend
-
-[Página del Deployment](https://app-260619194148.azurewebsites.net/swagger/index.html)
-
-###### 1. Creación de MySQL en Azure
-<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Deployment-Backend/creacionmysqlforazure.jpg?raw=true">
-
-###### 2. Credenciales de MySQL DB
-<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Deployment-Backend/credencialesmysqldb.jpg?raw=true">
-
-###### 3. Application Properties con Credenciales de DB
-<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Deployment-Backend/applicationpropertiesconcredencialesdedb.jpg?raw=true">
-
----
-
-###### 4. Creación de Web App y guardado en recurso
-<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Deployment-Backend/creacionwebappyguardadoenrecurso.jpg?raw=true">
-
-###### 5. Muestra de deploy correcto con URL
-<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Deployment-Backend/muestradeploycorrectoconurl.jpg?raw=true">
-
-###### 6. Prueba de Web App funcionando correctamente
-<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Deployment-Backend/pruebawebappfuncionandocorrectamente.jpg?raw=true">
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 
@@ -5075,6 +5049,33 @@ Servicios encargados del almacenamiento, control de plazos y flujos de firma dig
 En concordancia con los patrones arquitecturales establecidos, el sistema implementa Objetos de Transferencia de Datos (DTOs) para aislar las entidades del modelo de dominio de la capa de presentación externa. Estos contratos JSON garantizan la validación estricta de tipos de datos primitivos (escalas decimales de precisión financiera para los presupuestos y cotizaciones, y restricciones de longitud de cadena para campos de texto requeridos) en el canal de entrada de las peticiones HTTP, impidiendo la propagación de datos corruptos hacia las capas de infraestructura.
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+A continuación, se presentan las evidencias del despliegue del backend de Kipu en Microsoft Azure. Se creó una instancia de MySQL Database en Azure y se configuró una Web App para alojar la API REST. Las siguientes imágenes documentan el proceso de creación, configuración y verificación del correcto funcionamiento del despliegue.
+
+##### Evidencia de Deployment del Backend
+
+[Página del Deployment](https://app-260619194148.azurewebsites.net/swagger/index.html)
+
+###### 1. Creación de MySQL en Azure
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Deployment-Backend/creacionmysqlforazure.jpg?raw=true">
+
+###### 2. Credenciales de MySQL DB
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Deployment-Backend/credencialesmysqldb.jpg?raw=true">
+
+###### 3. Application Properties con Credenciales de DB
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Deployment-Backend/applicationpropertiesconcredencialesdedb.jpg?raw=true">
+
+---
+
+###### 4. Creación de Web App y guardado en recurso
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Deployment-Backend/creacionwebappyguardadoenrecurso.jpg?raw=true">
+
+###### 5. Muestra de deploy correcto con URL
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Deployment-Backend/muestradeploycorrectoconurl.jpg?raw=true">
+
+###### 6. Prueba de Web App funcionando correctamente
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Deployment-Backend/pruebawebappfuncionandocorrectamente.jpg?raw=true">
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
 <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Sprint-3/Team collaboration insights - 1.png" alt="Team Collaboration Insights" width="800"/>
