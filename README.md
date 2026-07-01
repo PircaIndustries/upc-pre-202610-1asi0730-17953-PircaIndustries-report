@@ -5131,9 +5131,139 @@ Mediante la sección *Insights* de GitHub, se presenta a continuación las gráf
 
 #### 5.2.4.1. Sprint Planning 4.
 
+| Sprint # | Sprint 4 |
+|----------|----------|
+| **Date** | 2026-06-04 |
+| **Time** | 8:00 PM |
+| **Location** | Reunión virtual mediante Discord |
+| **Prepared By** | Montoya Nina, Paula Fernanda / Ramos Mera, Neo Daniel |
+| **Attendees** | Francia Torres, Jhony Manuel / Montoya Nina, Paula Fernanda / Palacios Tinoco, Adrian Fernando / Ramos Hinostroza, Diego Antonio / Ramos Mera, Neo Daniel |
+| **Sprint 3 Review Summary** | Se desplegó la versión inicial del backend en .NET, documentada con Swagger, y conectada al frontend desplegado en Vercel, permitiendo ejecutar operaciones core de manera satisfactoria. Se validó la integración completa de los principales Bounded Contexts. |
+| **Sprint 3 Retrospective Summary** | Se completó la implementación de los principales Bounded Contexts del backend (.NET) y su integración con el frontend, logrando un flujo funcional. Se resaltó la efectividad de la arquitectura Domain‑Driven Design y la clara separación de capas. Como oportunidad de mejora se identificó la necesidad de automatizar más pruebas y optimizar el pipeline de despliegue continuo para el backend. |
+| **Sprint 4 Goal** | Our focus is on completing the waste and machinery management aggregates and refining the Identity and Access Management module. We believe it delivers a fully operational logistics module and reliable tool tracking to Logistics Teams and Operations Managers. This will be confirmed when users can register material waste, update stock automatically, assign tools to workers, and the IAM module demonstrates improved security and performance. |
+| **Sprint 4 Velocity** | 22 Story Points |
+| **Sum of Story Points** | 22 Story Points |
+
 #### 5.2.4.2. Aspect Leaders and Collaborators.
 
 #### 5.2.4.3. Sprint Backlog 4
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item / Task</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Description</td>
+    <td>Estim<br>ation (Story Points)</td>
+    <td>Assigned to</td>
+    <td>Status (To-do / InProcess / ToReview / Done)</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US-11</td>
+    <td rowspan="2">Asignar roles a usuarios (IAM)</td>
+    <td>TS01</td>
+    <td>Refinamiento de lógica IAM</td>
+    <td>Mejorar la lógica de autenticación y manejo de roles en el backend (.NET).</td>
+    <td>3</td>
+    <td>Diego Antonio Ramos Hinostroza</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Optimización de Seguridad y Rendimiento IAM</td>
+    <td>Ajustar validaciones y consultas del módulo IAM para mejorar seguridad y performance.</td>
+    <td>1</td>
+    <td>Diego Antonio Ramos Hinostroza</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US-13</td>
+    <td rowspan="2">Registrar merma de materiales</td>
+    <td>TS03</td>
+    <td>Setup Materials Waste API Domain (.NET)</td>
+    <td>Inicializar el dominio de merma con controlador, servicio y repositorio.</td>
+    <td>3</td>
+    <td>Adrian Fernando Palacios Tinoco</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>TS04</td>
+    <td>Endpoint POST/GET Material Waste</td>
+    <td>Implementar registro y consulta de mermas mediante /api/v1/materials/waste.</td>
+    <td>2</td>
+    <td>Adrian Fernando Palacios Tinoco</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US-16</td>
+    <td rowspan="2">Controlar herramientas asignadas por operario</td>
+    <td>TS05</td>
+    <td>Endpoint POST/GET Tools Assignment (Maquinaria)</td>
+    <td>Implementar asignación y consulta de maquinaria/herramientas a trabajadores.</td>
+    <td>2</td>
+    <td>Adrian Fernando Palacios Tinoco</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>TS06</td>
+    <td>Actualización Automática de Stock</td>
+    <td>Implementar deducción automática del inventario tras registrar merma o asignación.</td>
+    <td>2</td>
+    <td>Adrian Fernando Palacios Tinoco</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td rowspan="5">US-36</td>
+    <td rowspan="5">Aseguramiento de Calidad y Despliegue General</td>
+    <td>TS07</td>
+    <td>Revisión de Código: Avances y Presupuesto</td>
+    <td>Code review y mejoras menores sobre el Bounded Context de Avances y Presupuesto.</td>
+    <td>1</td>
+    <td>Jhony Manuel Francia Torres</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>TS08</td>
+    <td>Revisión de Código: Logística y Proveedores</td>
+    <td>Code review y mejoras menores sobre el Bounded Context de Logística y Proveedores.</td>
+    <td>1</td>
+    <td>Paula Fernanda Montoya Nina</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>TS09</td>
+    <td>Revisión de Código: Documentos y Equipo de Trabajo</td>
+    <td>Code review y mejoras menores sobre el Bounded Context de Documentos y Team Workers.</td>
+    <td>1</td>
+    <td>Neo Daniel Ramos Mera</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>TS10</td>
+    <td>Actualización de Despliegue Backend</td>
+    <td>Subir a producción las últimas actualizaciones del backend, incluyendo Merma y Maquinaria.</td>
+    <td>1</td>
+    <td>Neo Daniel Ramos Mera</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>TS11</td>
+    <td>Actualización de Despliegue Frontend</td>
+    <td>Subir a producción la versión final de la aplicación web en Vercel.</td>
+    <td>1</td>
+    <td>Diego Antonio Ramos Hinostroza</td>
+    <td>To-do</td>
+  </tr>
+</tbody>
+</table>
 
 #### 5.2.4.4. Development Evidence for Sprint Review.
 
