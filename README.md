@@ -306,11 +306,23 @@
 
 # Project Report Collaboration Insights
 
-URL de Organización de GITHUB del equipo PircaIndustries:
-https://github.com/PircaIndustries
+URL de la Organización de Github del equipo PircaIndustries: [PircaIndustries](https://github.com/PircaIndustries)
 
-URL de Repositorio del Project Report:
-https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report
+URL del Repositorio del Project Report: [kipu-report](https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report)
+
+URL del Repositorio de la Landing Page: [kipu-landing-page](https://github.com/PircaIndustries/Landing-Page-Kipu)
+
+URL del Repositorio del Frontend: [kipu-frontend](https://github.com/PircaIndustries/frontend-kipu)
+
+URL del Repositorio del Backend: [kipu-backend](https://github.com/PircaIndustries/kipu-backend)
+
+URL del Repositorio del trabajo de Responsabilidad Social: [webdev-course-PircaIndustries](https://github.com/PircaIndustries/webdev-course-PircaIndustries.git)
+
+URL de la Landing Page desplegada: [kipu-landing-page](https://pircaindustries.github.io/Landing-Page-Kipu/)
+
+URL de la Aplicación Web desplegada: [kipu-web-app](https://frontend-kipu-five.vercel.app/)
+
+URL del Backend desplegado: [kipu-web-service](https://app-260619194148.azurewebsites.net/swagger/index.html)
 
 <strong>*Entrega AV1:*</strong>
 
