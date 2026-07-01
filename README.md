@@ -501,6 +501,15 @@ https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries
       - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 4](#524-sprint-4)
+      - [5.2.4.1. Sprint Planning 4.](#5241-sprint-planning-4)
+      - [5.2.4.2. Aspect Leaders and Collaborators.](#5242-aspect-leaders-and-collaborators)
+      - [5.2.4.3. Sprint Backlog 4.](#5243-sprint-backlog-4)
+      - [5.2.4.4. Development Evidence for Sprint Review.](#5244-development-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review.](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review.](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review.](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint.](#5248-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews.](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
@@ -5211,6 +5220,18 @@ Mediante la sección *Insights* de GitHub, se presenta a continuación las gráf
 | **Sum of Story Points** | 22 Story Points |
 
 #### 5.2.4.2. Aspect Leaders and Collaborators.
+
+Durante este Sprint, el equipo ha organizado el trabajo en base a las Epics definidas en el Product Backlog. La asignación de líderes y colaboradores se ha realizado considerando la responsabilidad real de cada miembro en la implementación de los Bounded Contexts del backend, según se documenta en la planificación interna del equipo.
+
+| Team Member (Last Name, First Name) | GitHub Username | EP01 (IAM & Security) | EP02 (Materials Waste & Machinery) | EP03 (Code Quality & Deployment) |
+| :--- | :--- | :--- | :--- | :--- |
+| Francia Torres, Jhony Manuel | ManuelFT4 | C | C | C |
+| Montoya Nina, Paula Fernanda | SeviNyO | C | C | C |
+| Palacios Tinoco, Adrian Fernando | AdrianP3107 | C | L | C |
+| Ramos Hinostroza, Diego Antonio | Kosevy | L | C | C |
+| Ramos Mera, Neo Daniel | norahccccc | C | C | L |
+
+**Leyenda:** L = Líder, C = Colaborador
 
 #### 5.2.4.3. Sprint Backlog 4
 
