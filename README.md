@@ -5223,13 +5223,13 @@ Mediante la sección *Insights* de GitHub, se presenta a continuación las gráf
 
 Durante este Sprint, el equipo ha organizado el trabajo en base a las Epics definidas en el Product Backlog. La asignación de líderes y colaboradores se ha realizado considerando la responsabilidad real de cada miembro en la implementación de los Bounded Contexts del backend, según se documenta en la planificación interna del equipo.
 
-| Team Member (Last Name, First Name) | GitHub Username | EP01 (IAM & Security) | EP02 (Materials Waste & Machinery) | EP03 (Code Quality & Deployment) |
-| :--- | :--- | :--- | :--- | :--- |
-| Francia Torres, Jhony Manuel | ManuelFT4 | C | C | C |
-| Montoya Nina, Paula Fernanda | SeviNyO | C | C | C |
-| Palacios Tinoco, Adrian Fernando | AdrianP3107 | C | L | C |
-| Ramos Hinostroza, Diego Antonio | Kosevy | L | C | C |
-| Ramos Mera, Neo Daniel | norahccccc | C | C | L |
+| Team Member (Last Name, First Name) | GitHub Username | EP01 (Cuentas y Acceso) | EP02 (Calidad y KPIs) | EP03 (Suministros y Presupuesto) | EP04 (Landing Page) | EP05 (Documentación y Gestión de Equipo) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Francia Torres, Jhony Manuel | ManuelFT4 | C | C | C | C | C |
+| Montoya Nina, Paula Fernanda | SeviNyO | C | C | C | C | C |
+| Palacios Tinoco, Adrian Fernando | AdrianP3107 | C | C | L | C | C |
+| Ramos Hinostroza, Diego Antonio | Kosevy | L | C | C | C | C |
+| Ramos Mera, Neo Daniel | norahccccc | C | C | C | C | L |
 
 **Leyenda:** L = Líder, C = Colaborador
 
