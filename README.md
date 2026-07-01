@@ -229,6 +229,72 @@
         <td>Diego Ramos</td>
         <td>Se inició la sección de Validation Interviews y se redactó el diseño de entrevistas.</td>
       </tr>
+      <tr>
+        <td>5.1.0</td>
+        <td>25/06/2026</td>
+        <td>Paula Montoya</td>
+        <td>Se agregó la sección 5.2.4.1. Sprint Planning 4.</td>
+      </tr>
+      <tr>
+        <td>5.1.1</td>
+        <td>25/06/2026</td>
+        <td>Paula Montoya</td>
+        <td>Se agregó la sección 5.2.4.3. Sprint Backlog 4.</td>
+      </tr>
+      <tr>
+        <td>5.1.2</td>
+        <td>26/06/2026</td>
+        <td>Neo Ramos</td>
+        <td>Se agregó la sección 5.2.4.2. Aspect Leaders and Collaborators.</td>
+      </tr>
+      <tr>
+        <td>5.1.3</td>
+        <td>26/06/2026</td>
+        <td>Neo Ramos</td>
+        <td>Se agregó la sección 5.2.4.7. Software Deployment Evidence for Sprint Review.</td>
+      </tr>
+      <tr>
+        <td>5.1.4</td>
+        <td>27/06/2026</td>
+        <td>Diego Ramos</td>
+        <td>Se actualizó el Project Report Collaboration Insights.</td>
+      </tr>
+      <tr>
+        <td>5.1.5</td>
+        <td>27/06/2026</td>
+        <td>Diego Ramos</td>
+        <td>Se agregó la sección 5.2.4.8. Team Collaboration Insights during Sprint.</td>
+      </tr>
+      <tr>
+        <td>5.1.6</td>
+        <td>28/06/2026</td>
+        <td>Adrian Palacios</td>
+        <td>Se actualizó la Sección Student Outcome.</td>
+      </tr>
+      <tr>
+        <td>5.1.7</td>
+        <td>28/06/2026</td>
+        <td>Adrian Palacios</td>
+        <td>Se agregaron las secciones 5.2.4.4. Development Evidence y 5.2.4.5. Execution Evidence.</td>
+      </tr>
+      <tr>
+        <td>5.1.8</td>
+        <td>29/06/2026</td>
+        <td>Manuel Francia</td>
+        <td>Se agregó la sección 5.2.4.6. Services Documentation Evidence for Sprint Review.</td>
+      </tr>
+      <tr>
+        <td>5.1.9</td>
+        <td>29/06/2026</td>
+        <td>Manuel Francia</td>
+        <td>Se actualizaron las Conclusiones, Bibliografía y Anexos.</td>
+      </tr>
+      <tr>
+        <td>5.2.0</td>
+        <td>30/06/2026</td>
+        <td>Paula Montoya</td>
+        <td>Se actualizó el Registro de Versiones del Informe y el Final Project Individual Member Performance Report.</td>
+      </tr>
     </tbody>
   </table>
 </div>
