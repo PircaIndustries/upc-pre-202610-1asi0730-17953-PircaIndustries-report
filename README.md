@@ -5261,7 +5261,7 @@ Durante este Sprint, el equipo ha organizado el trabajo en base a las Epics defi
     <td>Mejorar la lógica de autenticación y manejo de roles en el backend (.NET).</td>
     <td>3</td>
     <td>Diego Antonio Ramos Hinostroza</td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>TS02</td>
@@ -5269,7 +5269,7 @@ Durante este Sprint, el equipo ha organizado el trabajo en base a las Epics defi
     <td>Ajustar validaciones y consultas del módulo IAM para mejorar seguridad y performance.</td>
     <td>1</td>
     <td>Diego Antonio Ramos Hinostroza</td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td rowspan="2">US-13</td>
@@ -5279,7 +5279,7 @@ Durante este Sprint, el equipo ha organizado el trabajo en base a las Epics defi
     <td>Inicializar el dominio de merma con controlador, servicio y repositorio.</td>
     <td>3</td>
     <td>Adrian Fernando Palacios Tinoco</td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>TS04</td>
@@ -5287,7 +5287,7 @@ Durante este Sprint, el equipo ha organizado el trabajo en base a las Epics defi
     <td>Implementar registro y consulta de mermas mediante /api/v1/materials/waste.</td>
     <td>2</td>
     <td>Adrian Fernando Palacios Tinoco</td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td rowspan="2">US-16</td>
@@ -5297,7 +5297,7 @@ Durante este Sprint, el equipo ha organizado el trabajo en base a las Epics defi
     <td>Implementar asignación y consulta de maquinaria/herramientas a trabajadores.</td>
     <td>2</td>
     <td>Adrian Fernando Palacios Tinoco</td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>TS06</td>
@@ -5305,7 +5305,7 @@ Durante este Sprint, el equipo ha organizado el trabajo en base a las Epics defi
     <td>Implementar deducción automática del inventario tras registrar merma o asignación.</td>
     <td>2</td>
     <td>Adrian Fernando Palacios Tinoco</td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td rowspan="5">US-36</td>
@@ -5315,7 +5315,7 @@ Durante este Sprint, el equipo ha organizado el trabajo en base a las Epics defi
     <td>Code review y mejoras menores sobre el Bounded Context de Avances y Presupuesto.</td>
     <td>1</td>
     <td>Jhony Manuel Francia Torres</td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>TS08</td>
@@ -5323,7 +5323,7 @@ Durante este Sprint, el equipo ha organizado el trabajo en base a las Epics defi
     <td>Code review y mejoras menores sobre el Bounded Context de Logística y Proveedores.</td>
     <td>1</td>
     <td>Paula Fernanda Montoya Nina</td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>TS09</td>
@@ -5331,7 +5331,7 @@ Durante este Sprint, el equipo ha organizado el trabajo en base a las Epics defi
     <td>Code review y mejoras menores sobre el Bounded Context de Documentos y Team Workers.</td>
     <td>1</td>
     <td>Neo Daniel Ramos Mera</td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>TS10</td>
@@ -5339,7 +5339,7 @@ Durante este Sprint, el equipo ha organizado el trabajo en base a las Epics defi
     <td>Subir a producción las últimas actualizaciones del backend, incluyendo Merma y Maquinaria.</td>
     <td>1</td>
     <td>Neo Daniel Ramos Mera</td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>TS11</td>
@@ -5347,7 +5347,7 @@ Durante este Sprint, el equipo ha organizado el trabajo en base a las Epics defi
     <td>Subir a producción la versión final de la aplicación web en Vercel.</td>
     <td>1</td>
     <td>Diego Antonio Ramos Hinostroza</td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr>
 </tbody>
 </table>
