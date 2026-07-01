@@ -5372,6 +5372,8 @@ Durante este Sprint, el equipo ha organizado el trabajo en base a las Epics defi
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 
+Dado que en el Sprint anterior ya se concluyó exitosamente el Software Deployment tanto del backend como el frontend, no se realizó ninguno para este Sprint.
+
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
 
 ## 5.3. Validation Interviews.
