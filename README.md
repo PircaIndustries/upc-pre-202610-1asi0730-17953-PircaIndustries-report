@@ -5127,7 +5127,23 @@ Mediante la sección *Insights* de GitHub, se presenta a continuación las gráf
 
 <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Sprint-3/Team collaboration insights - 3.png" alt="Team Collaboration Insights 3" width="800"/>
 
----
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4.
+
+#### 5.2.4.2. Aspect Leaders and Collaborators.
+
+#### 5.2.4.3. Sprint Backlog 4
+
+#### 5.2.4.4. Development Evidence for Sprint Review.
+
+#### 5.2.4.5. Execution Evidence for Sprint Review.
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
 
 ## 5.3. Validation Interviews.
 
