@@ -295,6 +295,18 @@
         <td>Paula Montoya</td>
         <td>Se actualizó el Registro de Versiones del Informe y el Final Project Individual Member Performance Report.</td>
       </tr>
+      <tr>
+        <td>5.2.1</td>
+        <td>03/07/2026</td>
+        <td>Diego Ramos</td>
+        <td>Se agregó Análisis Integrador de la Validación y Decisiones de Diseño</td>
+      </tr>
+      <tr>
+        <td>5.2.2</td>
+        <td>03/07/2026</td>
+        <td>Todos</td>
+        <td>Se agregó el Sprint 4.</td>
+      </tr>
     </tbody>
   </table>
 </div>
@@ -411,6 +423,79 @@ URL del Backend desplegado: [kipu-web-service](https://app-260619194148.azureweb
             <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Insights/AV2/Commits%20Diego.PNG?raw=true">
             </div><br><br>
 
+<strong>*Entrega TB2:*</strong>
+
++ Desarrollo de Actividades
+    Para el entregable TB2, el equipo se reunió mediante Discord para organizar el trabajo y asignar las tareas pendientes de cada miembro. Se avanzó con actividades pendientes tanto de este entregable como las mejoras sugeridas por el docente en el entregable anterior enfocadas en el desarrollo final del backend y ajustes al frontend.
+
++ **Evidencias de colaboración y commits - Github:**
+    * **Análiticos de colaboración** <br><br>
+        + **Pulse Image of Github Insights - Backend**
+        ![](Resources/Insights/TB2/backend-pulse-tb2.png)
+
+        + **Pulse Image of Github Insights - Frontend**
+        ![](Resources/Insights/TB2/frontend-pulse-tb2.png)
+
+        + **Pulse Image of Github Insights - Report**
+        ![](Resources/Insights/TB2/report-pulse-tb2.png)
+
+        + **Contributors Image of Github Insights - Backend**
+        ![](Resources/Insights/TB2/backend-commits-tb2.png)
+
+        + **Contributors Image of Github Insights - Frontend**
+        ![](Resources/Insights/TB2/frontend-commits-tb2.png)
+
+        + **Contributors Image of Github Insights - Report**
+        ![](Resources/Insights/TB2/report-commits-tb2.png)
+
+    * **Commits**
+
+         A continuacion se muestran algunos commits realizados en este entrega de TB2.
+
+        + **Adrian Palacios - Backend**
+            ![](Resources/Insights/TB2/adrian-backend-tb2.png)
+
+        + **Adrian Palacios - Frontend**
+            ![](Resources/Insights/TB2/adrian-frontend-tb2.png)
+
+        + **Adrian Palacios - Report**
+            ![](Resources/Insights/TB2/adrian-report-tb2.png)
+
+        + **Neo Ramos - Backend**
+            ![](Resources/Insights/TB2/neo-backend-tb2.png)
+
+        + **Neo Ramos - Frontend**
+            ![](Resources/Insights/TB2/neo-frontend-tb2.png)
+
+        + **Neo Ramos - Report**
+            ![](Resources/Insights/TB2/neo-report-tb2.png)
+
+        + **Paula Montoya - Backend**
+            ![](Resources/Insights/TB2/paula-backend-tb2.png)
+
+        + **Paula Montoya - Frontend**
+            ![](Resources/Insights/TB2/paula-frontend-tb2.png)
+
+        + **Paula Montoya - Report**
+            ![](Resources/Insights/TB2/paula-report-tb2.png)
+
+        + **Jhony Francia - Backend**
+            ![](Resources/Insights/TB2/jhony-backend-tb2.png)
+
+        + **Jhony Francia - Frontend**
+            ![](Resources/Insights/TB2/jhony-frontend-tb2.png)
+
+        + **Jhony Francia - Report**
+            ![](Resources/Insights/TB2/jhony-report-tb2.png)
+
+        + **Diego Ramos - Backend**
+            ![](Resources/Insights/TB2/diego-backend-tb2.png)
+
+        + **Diego Ramos - Frontend**
+            ![](Resources/Insights/TB2/diego-frontend-tb2.png)
+
+        + **Diego Ramos - Report**
+            ![](Resources/Insights/TB2/diego-report-tb2.png)  <br>
 
 ---
 
@@ -526,6 +611,7 @@ URL del Backend desplegado: [kipu-web-service](https://app-260619194148.azureweb
     - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
     - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
+      - [5.3.3.1. Análisis Integrador de la Validación y Decisiones de Diseño](#5331-análisis-integrador-de-la-validación-y-decisiones-de-diseño)
   - [5.4. Video About-the-Product.](#54-video-about-the-product)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
@@ -5374,7 +5460,27 @@ Durante este Sprint, el equipo ha organizado el trabajo en base a las Epics defi
 
 Dado que en el Sprint anterior ya se concluyó exitosamente el Software Deployment tanto del backend como el frontend, no se realizó ninguno para este Sprint.
 
-#### 5.2.4.8. Team Collaboration Insights during Sprint.
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 4, el equipo mantuvo un flujo de trabajo colaborativo constante a través de la organización en GitHub. Se utilizaron ramas `feature/*` para el desarrollo de nuevas funcionalidades, las cuales fueron integradas a la rama `develop` mediante Pull Requests revisados por al menos dos miembros del equipo. Las tareas fueron gestionadas en Jira Software, actualizando el estado de cada work-item a medida que avanzaba su implementación.
+
+A continuación, se presentan las estadísticas de colaboración obtenidas desde los insights de GitHub durante el Sprint 4:
+
+<div align="center">
+    <img src="Resources/Sprint-4/Team-Collaboration-Insights-1.png" alt="Code Frequency Sprint 4">
+    <br>
+    <p><strong>Gráfica 1:</strong> Frecuencia de código del Sprint 4, mostrando la evolución de adiciones y eliminaciones durante el periodo de desarrollo.</p>
+</div>
+
+<br>
+
+<div align="center">
+    <img src="Resources/Sprint-4/Team-Collaboration-Insights-2.png" alt="Team Collaboration Insights Sprint 4">
+    <br>
+    <p><strong>Gráfica 2:</strong> Resumen de contribuciones por miembro del equipo, reflejando commits realizados y participación activa en el repositorio.</p>
+</div>
+
+<br>
 
 ## 5.3. Validation Interviews.
 
@@ -6157,6 +6263,47 @@ La aplicación Kipu presenta una propuesta visual sólida y una estructura gener
 Los problemas más relevantes se encuentran en el formulario de contacto y en los mensajes técnicos mostrados durante operaciones como el registro de RNC y la firma de documentos. Estos errores no solo afectan la experiencia visual, sino también la capacidad del usuario para comprender qué ocurrió y cómo continuar.
 
 Por otro lado, algunas funcionalidades del frontend interno, como la persistencia de avances, el calendario, la carga de imágenes y la exportación, fueron consideradas con severidad baja debido a que pueden corresponder a funciones simuladas o parcialmente implementadas en esta versión. Aun así, se recomienda comunicar claramente este estado al usuario para mantener una experiencia transparente y consistente.
+
+### 5.3.3.1 Análisis Integrador de la Validación y Decisiones de Diseño
+
+Tras llevar a cabo las entrevistas de validación con nuestros segmentos objetivo (arquitectos, ingenieros, personal de logística y consultores) y contrastarlas con los resultados de las evaluaciones heurísticas, hemos realizado un análisis integral de la retroalimentación obtenida. El objetivo de este análisis es consolidar los descubrimientos más importantes, detectar necesidades transversales y garantizar que las decisiones de diseño del producto estén respaldadas por datos cualitativos.
+
+#### Patrones comunes entre los usuarios entrevistados
+
+Al analizar las grabaciones y respuestas de las entrevistas, identificamos una serie de patrones y percepciones recurrentes entre los distintos perfiles de usuario:
+
+*   **Claridad y Profesionalismo en la Propuesta:** Todos los entrevistados, sin importar si su labor es de campo o de back-office, coincidieron en que la landing page proyecta profesionalismo y permite entender en pocos segundos el propósito y los beneficios de Kipu.
+*   **Valoración de la Digitalización:** Ambos segmentos objetivos resaltaron la importancia de dejar de depender del papel, llamadas informales o largas hojas de cálculo de Excel. Coinciden en que Kipu aportará orden y transparencia, reduciendo los errores humanos causados por la doble digitación.
+*   **Necesidades de Visualización en Entornos Extremos:** Los residentes de obra (trabajo de campo) compartieron un dolor común: la dificultad de interactuar con pantallas en exteriores bajo la luz intensa del sol. Por lo tanto, valoran enormemente el contraste visual y sugieren características orientadas a la legibilidad.
+*   **Agilidad en el Manejo de Datos:** Los perfiles de logística y administración (back-office) mostraron un fuerte interés en la capacidad de procesar y visualizar grandes volúmenes de datos. Sus peticiones giraron en torno a la eficiencia en búsquedas (filtros) y comparativas rápidas (gráficos en Dashboard e historial de precios).
+
+#### Priorización de los hallazgos según su impacto
+
+Con el fin de integrar el feedback de manera estructurada al backlog del producto, hemos clasificado los hallazgos identificados (tanto de entrevistas como de heurísticas) según su impacto en la viabilidad, usabilidad y valor del sistema:
+
+1.  **Prioridad Alta (Crítica para la usabilidad y prevención de errores):**
+    *   **Mensajes de Error Técnicos:** Encontrados durante la evaluación de heurísticas (ej. "Incorrect token" y errores genéricos en el RNC). Es vital corregirlos para evitar la confusión del usuario y mantener la confianza en el sistema.
+    *   **Indicadores de Estado:** La visibilidad del estado del sistema (como un spinner de carga o feedback tras acciones como enviar formularios) es fundamental para evitar acciones duplicadas o sensación de abandono.
+    *   **Dashboard Financiero:** Solicitud reiterada de los usuarios administrativos para visualizar un comparativo entre presupuesto ejecutado vs planificado.
+
+2.  **Prioridad Media (Mejoras significativas para la experiencia del usuario):**
+    *   **Accesibilidad Visual (Modo Alto Contraste):** Requerido por usuarios de campo para que la app sea útil al aire libre.
+    *   **Búsquedas en Inventario:** La integración de filtros y barras de búsqueda rápida en tablas extensas de inventario y requerimientos para agilizar el trabajo logístico.
+    *   **Navegabilidad y Zoom en Bitácora:** Poder ampliar imágenes adjuntas dentro de los reportes, lo que ayuda en la inspección de avances.
+
+3.  **Prioridad Baja (Deseables y expansiones futuras):**
+    *   **Historial de Cotizaciones Antiguas:** Un módulo adicional para comparar precios históricos con proveedores.
+    *   **Alertas Push en Tiempo Real:** Notificaciones directas en la web para cambios de estado en cronogramas de obra.
+
+#### Decisiones de diseño adoptadas y justificación
+
+Basados en los resultados priorizados, el equipo ha tomado las siguientes decisiones técnicas y de diseño para la evolución del producto:
+
+*   **Refactorización del Manejo de Errores (Error Handling):** En respuesta a la violación de la heurística "Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores", se implementará un interceptor global que traduzca mensajes técnicos (como códigos HTTP o tokens inválidos) a textos amigables, descriptivos y en español para el usuario final. **Justificación:** Un software de gestión debe proyectar seguridad; si un operario de campo recibe un error "Incorrect token", no sabrá qué hacer y paralizará su flujo de trabajo.
+*   **Mejora de Visualización de Datos en el Dashboard:** Se integrarán bibliotecas de gráficos interactivos para el módulo de presupuestos. **Justificación:** Las entrevistas de validación revelaron que los usuarios del back-office necesitan resúmenes visuales para la toma de decisiones rápidas, ya que las tablas planas no aportan suficiente perspectiva analítica sobre las variaciones presupuestales.
+*   **Implementación de Filtros Globales y Modo Oscuro/Alto Contraste:** Se priorizará el soporte nativo de un tema oscuro o modo de alto contraste a través del gestor de estilos, así como barras de búsqueda en todas las vistas de tablas. **Justificación:** Estas decisiones atacan directamente los "dolores" encontrados en las entrevistas: el agotamiento visual y reflejo del sol para residentes en obra, y la pérdida de tiempo buscando materiales específicos para los logísticos.
+
+Esta validación cruzada entre opiniones cualitativas (entrevistas) y metodologías estructuradas (heurísticas) garantiza que el esfuerzo de desarrollo esté firmemente alineado a generar valor real y solucionar los problemas cotidianos de nuestros usuarios.
 
 ## 5.4. Video About-the-Product.
 
