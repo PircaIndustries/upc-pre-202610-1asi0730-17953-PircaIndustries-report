@@ -5529,22 +5529,6 @@ Durante este ciclo de desarrollo final, el equipo concentró sus esfuerzos en la
 ##### Bounded Context: Identity and Access Management (IAM)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Bounded Context: Quality Management (RNC)
 
 
