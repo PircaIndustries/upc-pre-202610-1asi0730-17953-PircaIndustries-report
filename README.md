@@ -6658,8 +6658,8 @@ Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u2022241
   Enlace: [Video-About-The-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410817_upc_edu_pe/IQBda8fDJPgUQI3F04Jr-I-KAa_3uJOtrTLDH8QlrO5P6qo?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6OJiqJ)
 
   <div align="center">
-    <h2>AV2</h2>
-    <img src="Resources/Video-About-The-Product/Video-About-The-Product-image-TB2.PNG" alt="Video-About-The-Product">
+    <h2>TB2</h2>
+    <img src="Resources/Video-About-The-Product/Video-About-The-Product-image-AV2.PNG" alt="Video-About-The-Product">
   </div>
 
   Enlace: [Video-About-The-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410817_upc_edu_pe/IQD931Ex8MmpTqxEoDIBuNbSAYal-3btzhyerrNUsARPN4k?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ePnrXB)
@@ -6694,7 +6694,7 @@ Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u2022241
  Enlace: [Video-About-The-Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241d934_upc_edu_pe/IQAFqcqCL0sxQ7WP1fup20oPAecEeXq87bfEk6vjxfkHu6U?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RgZBNa)
 
  <div align="center">
-    <h1>AV2</h1>
+    <h1>TB2</h1>
     <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/AboutTheTeam/about-the-team.jpeg?raw=true" alt="Video about the team">
  </div>
 
