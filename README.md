@@ -6480,6 +6480,13 @@ Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u2022241
 
  Enlace: [Exposure Video AV2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241d934_upc_edu_pe/IQCDbcMSVmvlTJe8OEvGOuRCAdqcDelsuKLmM79MQBqQx6E?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=atXWIY)
 
+ ## Exposure Video TB2
+ <div align="center">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Exposure/Exposure-TB2.png?raw=true">
+ </div>
+
+ Enlace: [Exposure Video TB2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224130_upc_edu_pe/IQCZHU43pL_LTaCqCi9MmzZ0AZrdHXDebF0_REDvVay2CvU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=FxlDbB)
+
  ## Video-About-The-Team
   <div align="center">
     <h1>AV2</h1>
