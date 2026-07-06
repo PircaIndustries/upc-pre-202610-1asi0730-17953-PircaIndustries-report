@@ -5452,6 +5452,22 @@ Durante este Sprint, el equipo ha organizado el trabajo en base a las Epics defi
 
 #### 5.2.4.4. Development Evidence for Sprint Review.
 
+Durante el Sprint 4, el equipo implementó la totalidad de la API REST del backend de Kipu, asi como el frontend a su totalidad y la conexión entre ambos. A continuación, se presentan los commits más relevantes realizados durante el Sprint, organizados por repositorio y rama.
+
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| PircaIndustries/kipu-frontend | feature/auth-integration | ebcf547 | feat: add OTP auth and password reset flows | N/A | 2026-06-23 |
+| PircaIndustries/kipu-frontend | feature/auth-integration | 6243f52 | feat: Add JWT auth and Swagger security | N/A | 2026-06-24 |
+| PircaIndustries/kipu-frontend | develop | e632245 | feat: Use VITE_API_KIPU_BASEURL and add auth APIs | N/A | 2026-06-25 |
+| PircaIndustries/kipu-frontend | develop | 1f10d0b | Feat: Switch to real API base URL and update login flow | N/A | 2026-06-25 |
+| PircaIndustries/kipu-frontend | feature/notifications | 723e310 | feat: Add auth and notification flows | N/A | 2026-06-26 |
+| PircaIndustries/kipu-backend | feature/notifications | 2d0b45f | feat: Add notifications and project membership flow | N/A | 2026-06-26 |
+| PircaIndustries/kipu-backend | feature/documents | 672e011 | documents/signatures ready | N/A | 2026-06-26 |
+| PircaIndustries/kipu-backend | feature/material-waste | b74bb0a | feat: add GET, POST, PUT & DELETE in MaterialWaste | N/A | 2026-06-28 |
+| PircaIndustries/kipu-backend | feature/material-waste | 901bc41 | feat: Adding material-waste Conection with Kipu API | N/A | 2026-06-28 |
+| PircaIndustries/kipu-backend | main | 282eaf5 | feat: Add local mocks, file storage & UI tweaks | N/A | 2026-06-29 |
+
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
