@@ -6571,7 +6571,7 @@ Tras finalizar el ciclo de vida del proyecto Kipu, podemos concluir los siguient
 
 * **Calidad de Software:** La implementación de estándares de documentación mediante OpenAPI y la cobertura de pruebas garantizó que el producto final no solo sea funcional, sino mantenible y conforme a los estándares industriales requeridos por el curso.
 
-+ Video About-The-Team [Ver About The Team]( )
++ Video-About-The-Product [Video-About-The-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410817_upc_edu_pe/IQD931Ex8MmpTqxEoDIBuNbSAYal-3btzhyerrNUsARPN4k?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ePnrXB)
   
 
 # Recomendaciones
