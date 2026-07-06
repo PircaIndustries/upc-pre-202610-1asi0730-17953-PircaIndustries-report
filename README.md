@@ -5469,6 +5469,58 @@ Durante el Sprint 4, el equipo implementó la totalidad de la API REST del backe
 | PircaIndustries/kipu-backend | main | 282eaf5 | feat: Add local mocks, file storage & UI tweaks | N/A | 2026-06-29 |
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
+Esta sección presenta las evidencias de ejecución técnica alcanzadas durante el presente Sprint para la solución Kipu bajo el ecosistema de PircaIndustries. A continuación, se detalla el resumen de los logros de la integración del sistema y el despliegue en entornos de producción.
+
+---
+
+#### 1. Resumen de Logros del Sprint
+
+Durante este ciclo de desarrollo final, el equipo concentró sus esfuerzos en la unificación de los entornos de desarrollo, la conexión de las capas de software y la puesta en producción de la plataforma. Se consolidó un sistema web de extremo a extremo (E2E) totalmente funcional, logrando los siguientes hitos principales:
+
+* **Integración Frontend-Backend (E2E):** Se migraron las interfaces de usuario desde los servidores de prueba locales hacia la infraestructura de producción real. Se configuró el consumo dinámico de la API REST del backend mediante variables de entorno optimizadas (`VITE_API_KIPU_BASEURL`), permitiendo que todos los módulos procesen transacciones de datos persistentes y en tiempo real.
+* **Despliegue en la Nube (Cloud Deployment):** Se ejecutó con éxito el despliegue continuo de toda la arquitectura del sistema en entornos cloud. Se configuraron los servidores web para servir la interfaz del frontend de manera estable y se publicaron los servicios API del backend bajo protocolos de producción seguros.
+* **Seguridad de Extremo a Extremo y Gestión de Flujos:** Se integraron por completo los flujos de seguridad en el frontend mediante autenticación por tokens JWT (JSON Web Tokens) y mecanismos de autorización OTP para el restablecimiento de contraseñas. Asimismo, se unificaron las interfaces del panel de control con los servicios de notificaciones internas y membresías de proyectos.
+* **Persistencia Integral y Control de Operaciones:** Se completó el ciclo de vida CRUD de los datos críticos de obra en la base de datos definitiva, conectando las interfaces del usuario con las API de firma de documentos digitales, gestión de equipos de trabajo y el control logístico de desperdicios de obra (Material Waste).
+
+---
+
+#### 2. Endpoints Integrados y Despliegue del Sistema (Screenshots de Producción y API)
+
+*A continuación, se presentan las capturas de pantalla de la plataforma en producción y la validación de las herramientas de despliegue que confirman la unificación definitiva del sistema web:*
+
+#### 2.1 Projects Bounded Context
+<img src="Resources/Executions-Evidences/Projects-BC-PNG" width="600">
+
+#### 2.2 Advances Bounded Context
+<img src="Resources/Executions-Evidences/Avances-BC.PNG" width="600">
+
+#### 2.3 NCR Bounded Context
+<img src="Resources/Executions-Evidences/Ncr-BC.PNG" width="600">
+
+#### 2.4 Logistic(Inventory) Bounded Context
+<img src="Resources/Executions-Evidences/Logistic1-BC.PNG" width="600">
+
+#### 2.5 Logistic(Suppliers) Bounded Context
+<img src="Resources/Executions-Evidences/Logistic2-BC.PNG" width="600">
+
+#### 2.6 Logistic(Waste) Bounded Context
+<img src="Resources/Executions-Evidences/Logistic3-BC.PNG" width="600">
+
+#### 2.7 Logistic(Machine) Bounded Context
+<img src="Resources/Executions-Evidences/Logistic4-BC.PNG" width="600">
+
+#### 2.8 Logistic(Catalog) Bounded Context
+<img src="Resources/Executions-Evidences/Logistic5-BC.PNG" width="600">
+
+#### 2.9 Blueprint Bounded Context
+<img src="Resources/Executions-Evidences/Firmas-BC.PNG" width="600">
+
+#### 2.10 Budget Bounded Context
+<img src="Resources/Executions-Evidences/Presupuesto-BC.PNG" width="600">
+
+#### 2.11 TemWork Bounded Context
+<img src="Resources/Executions-Evidences/Equipo-BC.PNG" width="600">
+
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
