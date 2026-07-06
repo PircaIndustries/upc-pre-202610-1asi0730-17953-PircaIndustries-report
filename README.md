@@ -5489,37 +5489,37 @@ Durante este ciclo de desarrollo final, el equipo concentró sus esfuerzos en la
 *A continuación, se presentan las capturas de pantalla de la plataforma en producción y la validación de las herramientas de despliegue que confirman la unificación definitiva del sistema web:*
 
 #### 2.1 Projects Bounded Context
-<img src="Resources/Executions-Evidences/Projects-BC-PNG" width="600">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Executions-Evidences-Sprint4/Projects-BC.PNG?raw=true" width="600">
 
 #### 2.2 Advances Bounded Context
-<img src="Resources/Executions-Evidences/Avances-BC.PNG" width="600">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Executions-Evidences-Sprint4/Avances-BC.PNG?raw=true" width="600">
 
 #### 2.3 NCR Bounded Context
-<img src="Resources/Executions-Evidences/Ncr-BC.PNG" width="600">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Executions-Evidences-Sprint4/Ncr-BC.PNG?raw=true" width="600">
 
 #### 2.4 Logistic(Inventory) Bounded Context
-<img src="Resources/Executions-Evidences/Logistic1-BC.PNG" width="600">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Executions-Evidences-Sprint4/Logistic1-BC.PNG?raw=true" width="600">
 
 #### 2.5 Logistic(Suppliers) Bounded Context
-<img src="Resources/Executions-Evidences/Logistic2-BC.PNG" width="600">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Executions-Evidences-Sprint4/Logistic2-BC.PNG?raw=true" width="600">
 
 #### 2.6 Logistic(Waste) Bounded Context
-<img src="Resources/Executions-Evidences/Logistic3-BC.PNG" width="600">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Executions-Evidences-Sprint4/Logistic3-BC.PNG?raw=true" width="600">
 
 #### 2.7 Logistic(Machine) Bounded Context
-<img src="Resources/Executions-Evidences/Logistic4-BC.PNG" width="600">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Executions-Evidences-Sprint4/Logistic4-BC.PNG?raw=true" width="600">
 
 #### 2.8 Logistic(Catalog) Bounded Context
-<img src="Resources/Executions-Evidences/Logistic5-BC.PNG" width="600">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Executions-Evidences-Sprint4/Logistic5-BC.PNG?raw=true" width="600">
 
 #### 2.9 Blueprint Bounded Context
-<img src="Resources/Executions-Evidences/Firmas-BC.PNG" width="600">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Executions-Evidences-Sprint4/Firmas-BC.PNG?raw=true" width="600">
 
 #### 2.10 Budget Bounded Context
-<img src="Resources/Executions-Evidences/Presupuesto-BC.PNG" width="600">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Executions-Evidences-Sprint4/Presupuesto-BC.PNG?raw=true" width="600">
 
 #### 2.11 TemWork Bounded Context
-<img src="Resources/Executions-Evidences/Equipo-BC.PNG" width="600">
+<img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/Executions-Evidences-Sprint4/Equipo-BC.PNG?raw=true" width="600">
 
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
