@@ -6695,7 +6695,7 @@ Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u2022241
 
  <div align="center">
     <h1>TB2</h1>
-    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/AboutTheTeam/about-the-team.jpeg?raw=true" alt="Video about the team">
+    <img src="https://github.com/PircaIndustries/upc-pre-202610-1asi0730-17953-PircaIndustries-report/blob/main/Resources/AboutTheTeam/about the team tb2.png?raw=true" alt="Video about the team">
  </div>
 
  Enlace: [Video-About-The-Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e418_upc_edu_pe/IQBgC26hlgdUS4htnMSrM-dJAUl1cxXPjtXe91ryNjtmFfc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=kswXFt)
